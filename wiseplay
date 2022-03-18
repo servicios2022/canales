@@ -207,27 +207,32 @@
                  }, {
 			"name": "DAZN Formula 1 (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/U7lLcbT.jpg",
-			"url": "https://c787898.com/embed.php?id=30",
+			"url": "https://starlive.xyz/embed.php?id=live26m",
              "isHost": "true"
              }, {
 			"name": "DAZN Formula 1 (opc.2) | ES 🇪🇸",
 			"image": "https://i.imgur.com/U7lLcbT.jpg",
+			"url": "https://c787898.com/embed.php?id=30",
+             "isHost": "true"
+             }, {
+			"name": "DAZN Formula 1 (opc.3) | ES 🇪🇸",
+			"image": "https://i.imgur.com/U7lLcbT.jpg",
 			"url": "https://starlive.xyz/embed.php?id=live30",
              "isHost": "true"
              },  {   
-                 "name": "DAZN Formula 1 (opc.3) | ES 🇪🇸",
+                 "name": "DAZN Formula 1 (opc.4) | ES 🇪🇸",
                     "image": "https://i.imgur.com/U7lLcbT.jpg",
                      "url": "http://emb.x177234.apl118.me/player/live.php?id=177234&w=728&h=450",
                "isHost" : "true"
                  }, {
-		"name": "DAZN Formula 1 (opc.4) | ES 🇪🇸",
+		"name": "DAZN Formula 1 (opc.5) | ES 🇪🇸",
 		"image": "https://i.imgur.com/U7lLcbT.jpg",
 		"url": "http://www.ciberespaciotv.com/p/dazn-f1-online.html",
 		 "referer":"", 
                 "desktop": "true", 
 		"isHost": "true"
 		}, {   
-			"name": "DAZN Formula 1 (opc.5) | ES 🇪🇸",
+			"name": "DAZN Formula 1 (opc.6) | ES 🇪🇸",
 			"image": "https://i.imgur.com/U7lLcbT.jpg",
               "url" : "https://www.tutele.sx/online.php?a=3881",
 			 "referer" : "https://telefullenvivo.com/",
@@ -733,35 +738,40 @@
 		 }, {
 			"name": "SKY Sports Formula 1 (opc.1) | IT 🇮🇹",
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
-            "url" : "https://c787898.com/embed.php?id=live1",
+            "url" : "https://c787898.com/embed.php?id=26m",
 			"isHost": "true"
 		}, {
 			"name": "SKY Sports Formula 1 (opc.2) | IT 🇮🇹",
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
-            "url" : "https://c787898.com/embed.php?id=live29",
+            "url" : "https://c787898.com/embed.php?id=live1",
 			"isHost": "true"
 		}, {
 			"name": "SKY Sports Formula 1 (opc.3) | IT 🇮🇹",
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
-            "url" : "https://starlive.xyz/embed.php?id=live29",
+            "url" : "https://c787898.com/embed.php?id=live29",
 			"isHost": "true"
 		}, {
 			"name": "SKY Sports Formula 1 (opc.4) | IT 🇮🇹",
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
-            "url" : "https://starlive.xyz/embed.php?id=live1",
+            "url" : "https://starlive.xyz/embed.php?id=live29",
 			"isHost": "true"
 		}, {
 			"name": "SKY Sports Formula 1 (opc.5) | IT 🇮🇹",
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
-            "url" : "http://ufckhabib.com/f1/formula1-stream.php",
+            "url" : "https://starlive.xyz/embed.php?id=live1",
 			"isHost": "true"
 		}, {
 			"name": "SKY Sports Formula 1 (opc.6) | IT 🇮🇹",
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
+            "url" : "http://ufckhabib.com/f1/formula1-stream.php",
+			"isHost": "true"
+		}, {
+			"name": "SKY Sports Formula 1 (opc.7) | IT 🇮🇹",
+			"image": "https://i.imgur.com/nRPJtmu.jpg",
             "url" : "http://timesports.cc/skysportsformula1.php",
 			"isHost": "true"
                      }, {
-			"name": "SKY Sports Formula 1 (opc.7) | IT 🇮🇹",
+			"name": "SKY Sports Formula 1 (opc.8) | IT 🇮🇹",
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
             "url" : "https://cdnz.one/ch49.php",
 			"isHost": "true"
