@@ -25,46 +25,51 @@
 			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
 	   	      "url" :  "https://macron.xyz/player/1/82",
 			 "isHost":"true"
-                    }, {
+                    },  {
 			"name": "Bein Sport Ñ (opc.1) | LAT 🇲🇽",
+          	   "image": "https://i.imgur.com/c4gfwhr.png",
+          	 "url" :  "https://macron.xyz/player/1/101",
+			 "isHost":"true"
+                      }, {
+			"name": "Bein Sport Ñ (opc.2) | LAT 🇲🇽",
           	   "image": "https://i.imgur.com/c4gfwhr.png",
           	 "url" :  "https://pelotero.net/ver/beinsports.php",
 			 "isHost":"true"
                       }, {
-			"name": "Bein Sport Ñ (opc.2) | LAT 🇲🇽",
+			"name": "Bein Sport Ñ (opc.3) | LAT 🇲🇽",
 			"image": "https://i.imgur.com/c4gfwhr.png",
            	 "url" : "http://timesports.cc/beinsportes.php",
 			"isHost": "true"
                      }, {
-			"name": "Bein Sport Ñ (opc.3) | LAT 🇲🇽",
+			"name": "Bein Sport Ñ (opc.4) | LAT 🇲🇽",
            	  "image": "https://i.imgur.com/c4gfwhr.png",
           	 "url" :  "https://www.tutele.sx/online.php?a=9",
 			 "isHost":"true"
                       }, {
-			"name": "Bein Sport Ñ (opc.4) | LAT 🇲🇽",
+			"name": "Bein Sport Ñ (opc.5) | LAT 🇲🇽",
 			"image": "https://i.imgur.com/c4gfwhr.png",
 			"url": "https://c787898.com/embed.php?id=live10",
           	  "referer" : "https://c787898.com.html",
           	   "isHost": "true"
           	   }, {
-			"name": "Bein Sport Ñ (opc.5) | LAT 🇲🇽",
+			"name": "Bein Sport Ñ (opc.6) | LAT 🇲🇽",
 			"image": "https://i.imgur.com/c4gfwhr.png",
 			"url": "https://starlive.xyz/embed.php?id=live10",
            	 "referer" : "https://starlive.xyz/",
            	  "isHost": "true"
            	  },  {
-			"name": "Bein Sport Ñ (opc.6) | LAT 🇲🇽",
+			"name": "Bein Sport Ñ (opc.7) | LAT 🇲🇽",
 			"image": "https://i.imgur.com/c4gfwhr.png",
 			"url": "https://c787898.com/embed.php?id=live18",
          	   "referer" : "https://c787898.com.html",
           	   "isHost": "true"
           	   }, {
-			"name": "Bein Sport Ñ (opc.7) | LAT 🇲🇽",
+			"name": "Bein Sport Ñ (opc.8) | LAT 🇲🇽",
 			"image": "https://i.imgur.com/c4gfwhr.png",
 			"url": "https://starlive.xyz/embed.php?id=live18",
           	   "isHost": "true"
            	  }, {
-			"name": "Bein Sport Ñ (opc.8) | LAT 🇲🇽",
+			"name": "Bein Sport Ñ (opc.9) | LAT 🇲🇽",
 			"image": "https://i.imgur.com/c4gfwhr.png",
 			"url": "https://cdnz.one/ch40.php",
           	   "isHost": "true"
