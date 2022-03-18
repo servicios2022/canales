@@ -970,25 +970,25 @@
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://starlive.xyz/embed.php?id=livetntsport",
           	  "isHost" : "true"
-           	   }, {
+           	   },  {
 			"name": "TUDN (opc.1) | MX 🇲🇽",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
-			"url":"https://macron.xyz/player/1/113",
+			"url":"https://cdnz.one/ch40.php",
             "isHost" : "true"
             }, {
 			"name": "TUDN (opc.2) | MX 🇲🇽",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
-			"url":"https://www.tutele.sx/online.php?a=17",
+			"url":"https://macron.xyz/player/1/113",
             "isHost" : "true"
             }, {
 			"name": "TUDN (opc.3) | MX 🇲🇽",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
-			"url":"https://futbolfullenvivo.com/ver-channel-tudn-en-vivo/",
+			"url":"https://www.tutele.sx/online.php?a=17",
             "isHost" : "true"
             }, {
 			"name": "TUDN (opc.4) | MX 🇲🇽",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
-			"url":"https://cdnz.one/ch40.php",
+			"url":"https://futbolfullenvivo.com/ver-channel-tudn-en-vivo/",
             "isHost" : "true"
             }, {
 			"name": "TUDN (opc.5) | MX 🇲🇽",
