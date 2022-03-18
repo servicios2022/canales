@@ -102,6 +102,7 @@ http://51.79.18.128:8081/24%7C7%7CLATINO%7CSIMPSONS/SIMPSONS/playlist.m3u8
 http://51.79.18.128:8081/24%7C7%7CBOBESPONJA/24%7C7%7CBOBESPONJA/playlist.m3u8
 #EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602344506477.png", NATGEO-MUNDO 
 http://51.79.18.128:8081/LATINO%7CNATGEOMUNDO/LATINO%7CNATGEOMUNDO/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",24 HORAS
 https://marine2.miplay.cl/24horas/mono.m3u8
 #EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",ARIRANG
@@ -179,17 +180,17 @@ http://spliktv-edge2.wedrly.xyz/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3
 http://spliktv-edge2.wedrly.xyz/live/vod/AXNHD/SA_Live_WebVTT_FTA/AXNHD.m3u8
 #EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/latino/tnt.png" group-title="PREMIUM",TNT
 http://cdn.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",a24
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",A24
 http://spliktv-edge2.wedrly.xyz/live/vod/America24/SA_Live_WebVTT_FTA/America24.m3u8
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",c5n
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",C5N
 http://spliktv-edge2.wedrly.xyz/live/vod/C5N/SA_Live_WebVTT_FTA/C5N.m3u8
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",cronica
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Cronica TV
 http://spliktv-edge2.wedrly.xyz/live/vod/CronicaTV/SA_Live_WebVTT_FTA/CronicaTV.m3u8
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",fox family
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Fox Family
 http://spliktv-edge2.wedrly.xyz/live/vod/FoxFamily/SA_Live_WebVTT_FTA/FoxFamily.m3u8
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",max hd
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Max HD
 http://spliktv-edge2.wedrly.xyz/live/vod/Max_HD/SA_Live_WebVTT_FTA/Max_HD.m3u8
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",telefe
+#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Telefe
 http://spliktv-edge2.wedrly.xyz/live/vod/TelefeHD/SA_Live_WebVTT_FTA/TelefeHD.m3u8
 
 #EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",11 - Repretel
