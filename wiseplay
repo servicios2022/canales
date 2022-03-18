@@ -531,7 +531,7 @@
 			 "referer":"", 
                             "desktop": "true", 
 			"isHost": "true"
-						}, {
+		}, {
 			"name": "Gol TV (opc.7) | ES 🇪🇸",
 			"image": "https://i.imgur.com/kN4OKEp.png",
 			  "url": "https://ragnaru.net/embed.php?player=desktop&live=do19",
@@ -543,6 +543,11 @@
                 "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
                 "referer":"https://elixx.xyz/", 
                 "desktop": "true",
+                "isHost":"true"
+                }, { 
+                "name": "Gol TV (opc.9) | ES 🇪🇸",
+                "image": "https://i.imgur.com/kN4OKEp.png",
+                "url": "https://cdnz.one/ch10.php",
                 "isHost":"true"
                 }, {
 			"name": "Gol Peru | PE 🇵🇪",
