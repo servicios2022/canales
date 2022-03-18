@@ -3358,8 +3358,10 @@ http://alllivesportslinks.myftp.biz:80/hls/sonyten1.m3u8?mvk
 https://16live00.akamaized.net/BTSPORTS2/index.m3u8?mvk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",champions
 https://etslive-2-vidio-com.akamaized.net/exp=1647616091~acl=/hls-b/ingest_6685_*/*~hmac=c0f56d885327a493d17d9bfe3e7bb3dc6d8b88ee64717867061c47cee35cfe78/hls-b/ingest_6685_720p/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",espn 3 4k
+https://cdn.stg.cvattv.com.ar/live/LL4K/ESPN_3-HomologacionNMX-XVM/SA_Live_dash_fta_LL/ESPN_3-HomologacionNMX-XVM.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",espn 4k
+https://cdn.stg.cvattv.com.ar/live/LL4K/ESPN-UHD-LOOP-HomologacionNMX-XOS/SA_Live_dash_fta_LL/ESPN-UHD-LOOP-HomologacionNMX-XOS.mpd
 
 
 
