@@ -3340,7 +3340,8 @@ https://stmv1.srvstm.com/bruno4723/bruno4723/chunklist_w1139996119.m3u8
 http://alllivesportslinks.myftp.biz:80/hls/sonyten1.m3u8?mvk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",BT Sports
 https://16live00.akamaized.net/BTSPORTS2/index.m3u8?mvk
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",champions tv
+https://etslive-2-vidio-com.akamaized.net/exp=1647616091~acl=/hls-b/ingest_6685_*/*~hmac=c0f56d885327a493d17d9bfe3e7bb3dc6d8b88ee64717867061c47cee35cfe78/hls-b/ingest_6685_720p/index.m3u8
 
 
 
