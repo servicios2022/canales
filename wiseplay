@@ -575,6 +575,11 @@
            "url" :  "https://futbolfullenvivo.com/ver-channel-gol-peru-en-vivo/",
 			 "isHost":"true"
                       }, {
+			"name": "Gol Peru | PE 🇵🇪",
+             "image": "https://i.imgur.com/xvHtnbT.jpg",
+           "url" :  "https://macron.xyz/player/1/101",
+			 "isHost":"true"
+                      }, {
 			"name": "Gol Tv Ecuador (opc.1) | EC 🇪🇨",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
 	        "url": "https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8",
