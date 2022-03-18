@@ -237,6 +237,11 @@
               "url" : "https://www.tutele.sx/online.php?a=3881",
 			 "referer" : "https://telefullenvivo.com/",
                     "isHost" : "true"
+        }, {   
+			"name": "DAZN Formula 1 (opc.7) | ES 🇪🇸",
+			"image": "https://i.imgur.com/U7lLcbT.jpg",
+              "url" : "https://cdnz.one/ch19.php",
+                    "isHost" : "true"
         }, {
                     "name": "Deportes por M+ (opc.1) | ES 🇪🇸",
                     "image": "https://i.imgur.com/OJqxHKo.png",
