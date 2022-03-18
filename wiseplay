@@ -1099,6 +1099,11 @@
             "url": "http://46.105.112.116:80/?watch=NL/vamoshd-esp&lb=1.m3u8&token=RED_mUZT__rECEXJvr9lU9Hpxg==,1647157751.6423232819&t=1&s=2&p=1&c=MA&r=1321&lb=1",
              "userAgent": "REDLINECLIENT TS4000 V2.4.81"
               }, {
+ 			"name": "Vamos por M+ (opc.4) | ES 🇪🇸",
+			"image": "https://i.imgur.com/ZYXUy5I.png",    
+            "url": "https://macron.xyz/player/1/71",
+			 "isHost":"true"
+              }, {
 			"name": "VTV Plus (opc.1) | URU 🇺🇾",
              "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png",
            "url" :  "https://pelotero.net/ver/vtv.php",
