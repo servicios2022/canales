@@ -922,15 +922,15 @@ http://221.120.204.4:80/geo-super-LOCKLE/tracks-v1a1/mono.m3u8?shareext.m3u8
 http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="DEPORTE INTERNACIONAL",PTV Sports  | UK
 http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="DEPORTE INTERNACIONAL",O_channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Ochannel.png" group-title="DEPORTE INTERNACIONAL",O Channel
 http://tvn.x10.bz/xchannel/master-18.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="DEPORTE INTERNACIONAL",Spotv_1*
+#EXTINF:-1 tvg-logo="https://www.vpnfan.com/wp-content/uploads/2020/01/spotv.jpg" group-title="DEPORTE INTERNACIONAL",Spotv 1
 https://lnk.ec/shareext@spotv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="DEPORTE INTERNACIONAL",Spotv_2*
+#EXTINF:-1 tvg-logo="https://www.vpnfan.com/wp-content/uploads/2020/01/spotv.jpg" group-title="DEPORTE INTERNACIONAL",Spotv 2
 https://lnk.ec/shareext@spotv2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="DEPORTE INTERNACIONAL",T_Sports(Fix)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="DEPORTE INTERNACIONAL",T Sports
 http://live.flixhub.net/hls/t-sports.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="DEPORTE INTERNACIONAL",LAX_SPORTS 
+#EXTINF:-1 tvg-logo="https://snagfilms-a.akamaihd.net/0000014c-edbe-da12-a1fc-fdbe2f120000/images/4c/ae/b8725d004554822bffb1a7f8b779/1519835956947_lsn_logo_red_16x9Images.png" group-title="DEPORTE INTERNACIONAL",LAX SPORTS 
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8?shareext.ts
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYtjMNMAWGthy0EyV2KQ1xCH87qWH-XNMLQ&usqp=CAU" group-title="DEPORTE INTERNACIONAL",Qaz_Sports
 http://92.46.127.146:8080/qazsport/index.m3u8
