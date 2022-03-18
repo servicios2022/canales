@@ -2678,6 +2678,8 @@ https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="PlanetaTV Hits" tvg-logo="https://www.m3u.cl/logo/1104_PlanetaTV_Hits.png" group-title="MUSICA ANGLO", PlanetaTV Hits * | CL
 https://mediacpstreamchile.com:1936/8172/8172/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Canal-19-El-Salvador-en-vivo-Online.png" group-title="MUSICA ANGLO", 19 Music
+https://stmv1.srvstm.com/bruno4723/bruno4723/chunklist_w1139996119.m3u8
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/1103_PlanetaTV_90s.png" group-title="MUSICA ANGLO", PlanetaTV 90s * | CL
 https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="33" tvg-name="Maxima FM" tvg-logo="https://www.m3u.cl/logo/33_Maxima_FM.png" group-title="MUSICA ANGLO", Maxima FM | CL
