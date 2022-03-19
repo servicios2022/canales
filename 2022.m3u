@@ -2024,20 +2024,12 @@ https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="924" tvg-name="Panavision" tvg-logo="https://www.m3u.cl/logo/924_Panavision.png"  group-title="VENEZUELA", Panavision * | VE
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="143" tvg-name="Canal Once Del Zulia" tvg-logo="https://www.m3u.cl/logo/143_Canal_Once_Del_Zulia.png"  group-title="VENEZUELA", Canal Once Del Zulia | VE
-http://200.6.154.43:1935/canal11/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="144" tvg-name="Catatumbo TV" tvg-logo="https://www.m3u.cl/logo/144_Catatumbo_TV.png"  group-title="VENEZUELA", Catatumbo TV | VE
 http://vcp1.myplaytv.com/catatumbotv/catatumbotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="146" tvg-name="Promar TV" tvg-logo="https://www.m3u.cl/logo/146_Promar_TV.png"  group-title="VENEZUELA", Promar TV | VE
 http://vcp1.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="148" tvg-name="Telearagua" tvg-logo="https://www.m3u.cl/logo/148_Telearagua.png"  group-title="VENEZUELA", Telearagua | VE
-http://190.205.43.236:8080/hls/nginx.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="149" tvg-name="Televen" tvg-logo="https://www.m3u.cl/logo/149_Televen.jpg" group-title="VENEZUELA", Televen | VE
-https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="152" tvg-name="TVO" tvg-logo="https://www.m3u.cl/logo/152_TVO.png"  group-title="VENEZUELA", TVO | VE
 http://vcp1.myplaytv.com:1935/tvo/tvo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="153" tvg-name="Vepaco TV" tvg-logo="https://www.m3u.cl/logo/153_Vepaco_TV.png"  group-title="VENEZUELA", Vepaco TV | VE
-http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="499" tvg-name="Telesur" tvg-logo="https://www.m3u.cl/logo/499_Telesur.png"  group-title="VENEZUELA", Telesur | VE
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="500" tvg-name="Telesur English" tvg-logo="https://www.m3u.cl/logo/500_Telesur_English.png"  group-title="VENEZUELA", Telesur English | VE
@@ -2061,22 +2053,16 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 http://45.55.127.106/live/unicanal.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="807" tvg-name="LIM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Abc_color.PNG" group-title="PARAGUAY", ABC TV* | PY
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8.m3u8
-#EXTINF:-1 tvg-id="807" tvg-name="LIM TV" tvg-logo="https://1.bp.blogspot.com/-DfLb6q9H12k/Xx6LmlMVe1I/AAAAAAAAKjw/uwMZG5F2BO0VJp76hUEOUvJw0qhMeeT2gCLcBGAsYHQ/s1600/cristal-tv.png" group-title="PARAGUAY", CRISTAL TV * | PY
-https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/chunklist_w1404718741.m3u8
 #EXTINF:-1 tvg-id="807" tvg-name="LIM TV" tvg-logo="https://www.m3u.cl/logo/807_LIM_TV.jpg" group-title="PARAGUAY", LIM TV * | PY
 http://limplay.ml/live/limtv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="836" tvg-name="ABC TV" tvg-logo="https://www.m3u.cl/logo/836_ABC_TV.png"  group-title="PARAGUAY", ABC TV | PY
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="830" tvg-name="Dismar TV" tvg-logo="https://www.m3u.cl/logo/830_Dismar_TV.jpg" group-title="PARAGUAY", Dismar TV | PY
 http://tigocloud.desdeparaguay.net:1935/dismartv/dismartv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="829" tvg-name="Frutillar TV" tvg-logo="https://www.m3u.cl/logo/829_Frutillar_TV.png"  group-title="PARAGUAY", Frutillar TV | PY
-https://59ce1298bfb98.streamlock.net/frutillarfm/frutillarfm/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="831" tvg-name="RCC TV" tvg-logo="https://www.m3u.cl/logo/831_RCC_TV.png"  group-title="PARAGUAY", RCC TV | PY
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="828" tvg-name="Somos Del Este TV" tvg-logo="https://www.m3u.cl/logo/828_Somos_Del_Este_TV.jpg" group-title="PARAGUAY", Somos Del Este TV | PY
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="812" tvg-name="Suceso TV" tvg-logo="https://www.m3u.cl/logo/812_Suceso_TV.png"  group-title="PARAGUAY", Suceso TV | PY
-https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="827" tvg-name="Uniradio TV" tvg-logo="https://www.m3u.cl/logo/827_Uniradio_TV.png"  group-title="PARAGUAY", Uniradio TV | PY
 https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-78FUT6sQBjQ/WKCzRoR3QMI/AAAAAAAABfA/XVDZbBUEIb0DuOGympZjNZTImf65Tr7uACK4B/s1600/ORIGINAL%2BLOGO%2BRPC%2Bcanal%2B13.png" group-title="PARAGUAY", Trece
@@ -2145,8 +2131,6 @@ https://5ca9af4645e15.streamlock.net:443/impactovision/videoimpactovision/playli
 https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="652" tvg-name="Mexiquense TV" tvg-logo="https://www.m3u.cl/logo/652_Mexiquense_TV.png"  group-title="MEXICO", Mexiquense TV | MX
 https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="671" tvg-name="MVM Noticias Oaxaca" tvg-logo="https://www.m3u.cl/logo/671_MVM_Noticias_Oaxaca.png"  group-title="MEXICO", MVM Noticias Oaxaca | MX
-https://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="672" tvg-name="Presumiendo Mexico" tvg-logo="https://www.m3u.cl/logo/672_Presumiendo_Mexico.png"  group-title="MEXICO", Presumiendo Mexico | MX
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="673" tvg-name="RCG 1 Saltillo" tvg-logo="https://www.m3u.cl/logo/673_RCG_1_Saltillo.png"  group-title="MEXICO", RCG 1 Saltillo | MX
@@ -2165,10 +2149,6 @@ https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/playlist.m3u8?Playlist
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="680" tvg-name="Teleritmo" tvg-logo="https://www.m3u.cl/logo/680_Teleritmo.png"  group-title="MEXICO", Teleritmo | MX
 https://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="647" tvg-name="Tlaxcala TV" tvg-logo="https://www.m3u.cl/logo/647_Tlaxcala_TV.png"  group-title="MEXICO", Tlaxcala TV | MX
-https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="681" tvg-name="Transmedia TV Morelia" tvg-logo="https://www.m3u.cl/logo/681_Transmedia_TV_Morelia.png"  group-title="MEXICO", Transmedia TV Morelia | MX
-https://5ca3e84a76d30.streamlock.net:443/tmtv/videotmtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="683" tvg-name="TRC TV Campeche" tvg-logo="https://www.m3u.cl/logo/683_TRC_TV_Campeche.png"  group-title="MEXICO", TRC TV Campeche | MX
 https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="638" tvg-name="TV Lobo" tvg-logo="https://www.m3u.cl/logo/638_TV_Lobo.png"  group-title="MEXICO", TV Lobo | MX
@@ -2198,16 +2178,12 @@ https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?Playl
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q2BbjWV.png" group-title="REPUBLICA DOMINICANA",•●★-- 📺 REPUBLICA DOMINICANA 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/083ee8a7ef1943f965f756c9ba5f5217fe59156f7f97b8c9e23ea326db71c74d.png" group-title="REPUBLICA DOMINICANA",Imagen Universal Tv
-https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8?qthaher
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Jniyhc.png" group-title="REPUBLICA DOMINICANA",Telemicro Canal 5
 https://telemicro.com.do/wp-content/uploads/2021/08/0505.m3u8
 #EXTINF:-1 tvg-id="887" tvg-name="Hits 360" tvg-logo="https://www.m3u.cl/logo/887_Hits_360.png"  group-title="REPUBLICA DOMINICANA", Hits 360 | DO
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://www.m3u.cl/logo/19_TV_Exitos.png"  group-title="REPUBLICA DOMINICANA", TV Exitos | DO
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://www.m3u.cl/logo/1055_Mega_Cine_TV.png"  group-title="REPUBLICA DOMINICANA", Mega Cine TV | DO
-https://cdn1.streamgato.us/megacinetv/megacinetv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png"  group-title="REPUBLICA DOMINICANA", Orbit TV | DO
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="853" tvg-name="La Fe Mueve Montanas" tvg-logo="https://www.m3u.cl/logo/853_La_Fe_Mueve_Montanas.png"  group-title="REPUBLICA DOMINICANA", La Fe Mueve Montanas | DO
@@ -2220,24 +2196,14 @@ https://5790d294af2dc.streamlock.net:443/8160/8160/playlist.m3u8?PlaylistM3UCL
 https://5790d294af2dc.streamlock.net:443/8090/8090/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="709" tvg-name="Acento TV" tvg-logo="https://www.m3u.cl/logo/709_Acento_TV.png"  group-title="REPUBLICA DOMINICANA", Acento TV | DO
 http://acentotv01.streamprolive.com/hls/live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="710" tvg-name="Amé" tvg-logo="https://www.m3u.cl/logo/710_Ame.jpg"  group-title="REPUBLICA DOMINICANA", Amé | DO
-http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="711" tvg-name="Bajo Techo TV" tvg-logo="https://www.m3u.cl/logo/711_Bajo_Techo_TV.jpg"  group-title="REPUBLICA DOMINICANA", Bajo Techo TV | DO
 https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="712" tvg-name="Bonao TV" tvg-logo="https://www.m3u.cl/logo/712_Bonao_TV.jpg"  group-title="REPUBLICA DOMINICANA", Bonao TV | DO
-https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1027" tvg-name="Canal4RD" tvg-logo="https://www.m3u.cl/logo/1027_Canal4RD.png"  group-title="REPUBLICA DOMINICANA", Canal4RD | DO
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="720" tvg-name="Farovision" tvg-logo="https://www.m3u.cl/logo/720_Farovision.png"  group-title="REPUBLICA DOMINICANA", Farovision | DO
 https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="723" tvg-name="GH Television" tvg-logo="https://www.m3u.cl/logo/723_GH_Television.jpg"  group-title="REPUBLICA DOMINICANA", GH Television | DO
-https://cloudflare.streamgato.us:3352/live/ghtelevisionhdlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="724" tvg-name="Global TV" tvg-logo="https://www.m3u.cl/logo/724_Global_TV.png"  group-title="REPUBLICA DOMINICANA", Global TV | DO
-https://ss6.domint.net:3016/gtv_str/globalhd/manifest.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1011" tvg-name="Guaymate TV" tvg-logo="https://www.m3u.cl/logo/1011_Guaymate_TV.png"  group-title="REPUBLICA DOMINICANA", Guaymate TV | DO
 https://5790d294af2dc.streamlock.net:443/8100/8100/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="726" tvg-name="Luna TV" tvg-logo="https://www.m3u.cl/logo/726_Luna_TV.png"  group-title="REPUBLICA DOMINICANA", Luna TV | DO
-https://cdn4.hostlagarto.com:8081/static/lunatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="727" tvg-name="Megavision" tvg-logo="https://www.m3u.cl/logo/727_Megavision.png"  group-title="REPUBLICA DOMINICANA", Megavision | DO
 http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="728" tvg-name="Microvision" tvg-logo="https://www.m3u.cl/logo/728_Microvision.jpg"  group-title="REPUBLICA DOMINICANA", Microvision | DO
@@ -2246,8 +2212,6 @@ http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8?PlaylistM3UCL
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="734" tvg-name="RNN" tvg-logo="https://www.m3u.cl/logo/734_RNN.png"  group-title="REPUBLICA DOMINICANA", RNN | DO
 https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="844" tvg-name="Tele Caribe" tvg-logo="https://www.m3u.cl/logo/844_Tele_Caribe.png"  group-title="REPUBLICA DOMINICANA", Tele Caribe | DO
-https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="848" tvg-name="Tele Oriental Digital" tvg-logo="https://www.m3u.cl/logo/848_Tele_Oriental_Digital.png"  group-title="REPUBLICA DOMINICANA", Tele Oriental Digital | DO
 https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="739" tvg-name="Telecanal 12" tvg-logo="https://www.m3u.cl/logo/739_Telecanal_12.jpg"  group-title="REPUBLICA DOMINICANA", Telecanal 12 | DO
@@ -2268,8 +2232,6 @@ http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8?Playlis
 https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="751" tvg-name="Teleunion" tvg-logo="https://www.m3u.cl/logo/751_Teleunion.jpg"  group-title="REPUBLICA DOMINICANA", Teleunion | DO
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="752" tvg-name="Teleuniverso Canal 29" tvg-logo="https://www.m3u.cl/logo/752_Teleuniverso_Canal_29.png"  group-title="REPUBLICA DOMINICANA", Teleuniverso Canal 29 | DO
-https://cloudflare.streamgato.us:3437/live/teleuniversotvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="755" tvg-name="Televisión del Este" tvg-logo="https://www.m3u.cl/logo/755_Television_del_Este.png"  group-title="REPUBLICA DOMINICANA", Televisión del Este | DO
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="759" tvg-name="TVS TV" tvg-logo="https://www.m3u.cl/logo/759_TVS_TV.png"  group-title="REPUBLICA DOMINICANA", TVS TV | DO
@@ -2307,32 +2269,20 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w327295551.m3u8
 https://5bf8041cb3fed.streamlock.net:443/TVSURCANAL14/TVSURCANAL14/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1052" tvg-name="TV Sur Canal 9" tvg-logo="https://www.m3u.cl/logo/1052_TV_Sur_Canal_9.png"  group-title="COSTA RICA", TV Sur Canal 9 | CR
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1050" tvg-name="TVN 14" tvg-logo="https://www.m3u.cl/logo/1050_TVN_14.png"  group-title="COSTA RICA", TVN 14 | CR
-https://5fd8fec96951d.streamlock.net:8443/TVN/CH14.stream_720p/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="37" tvg-name="Canal 38" tvg-logo="https://www.m3u.cl/logo/37_Canal_38.png" group-title="COSTA RICA", Canal 38 | CR
 https://v2.tustreaming.cl:19360/38tv/38tv.m3u8
 #EXTINF:-1 tvg-id="1062" tvg-name="Canal VM Latino" tvg-logo="https://www.m3u.cl/logo/1062_Canal_VM_Latino.png"  group-title="COSTA RICA", Canal VM Latino | CR
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1064" tvg-name="Soy Plancha TV" tvg-logo="https://www.m3u.cl/logo/1064_Soy_Plancha_TV.png"  group-title="COSTA RICA", Soy Plancha TV | CR
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="911" tvg-name="Tele Clasicos" tvg-logo="https://www.m3u.cl/logo/911_Tele_Clasicos.png"  group-title="COSTA RICA", Tele Clasicos | CR
-https://tvdatta.com:3484/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="22" tvg-name="Video Tour Channel" tvg-logo="https://www.m3u.cl/logo/22_Video_Tour_Channel.png"  group-title="COSTA RICA", Video Tour Channel | CR
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1063" tvg-name="Vintage Music" tvg-logo="https://www.m3u.cl/logo/1063_Vintage_Music.png"  group-title="COSTA RICA", Vintage Music | CR
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="479" tvg-name="Retro TV Palmares" tvg-logo="https://www.m3u.cl/logo/479_Retro_TV_Palmares.png"  group-title="COSTA RICA", Retro TV Palmares | CR
-http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="477" tvg-name="Telered" tvg-logo="https://www.m3u.cl/logo/477_Telered.png"  group-title="COSTA RICA", Telered | CR
-https://59ef525c24caa.streamlock.net/ARBtv/teleplus/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="478" tvg-name="Telesistema" tvg-logo="https://www.m3u.cl/logo/478_Telesistema.png"  group-title="COSTA RICA", Telesistema | CR
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1046" tvg-name="Radio 88 Stereo" tvg-logo="https://www.m3u.cl/logo/1046_Radio_88_Stereo.png"  group-title="COSTA RICA", Radio 88 Stereo | CR
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="162" tvg-name="Extrema TV" tvg-logo="https://www.m3u.cl/logo/162_Extrema_TV.png"  group-title="COSTA RICA", Extrema TV | CR
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="192" tvg-name="Luz Naciente TV" tvg-logo="https://www.m3u.cl/logo/192_Luz_Naciente_TV.png"  group-title="COSTA RICA", Luz Naciente TV | CR
-https://cloudflare.streamgato.us:3399/live/luznacientetvlive.m3u8?PlaylistM3UCL
 
 #EXTINF:0,-HONDURAS-
 
@@ -2401,18 +2351,6 @@ https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8
 https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/01.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1438490162279981060/yL69CGN9_200x200.jpg" group-title="NOTICIAS",7NN Noticias
 https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://www.atresseries.com/public/img/atreseriesint/apple-touch-icon.png",AtreSeries MDP
-https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/a3s/dash/a3s.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=089340b5ce26dc28126b08a229fa47efe3a0fee3e
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",Clan MDP
-https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/clan/dash/clan.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=077b500a05379a2e5ac15897d8a96f8640f4c30a2
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1184px-Energy.svg.png",Energy MDP
-https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/energy/dash/energy.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=0778f31a36b9167da2ac914efdcd9ceeed5c22767
-#EXTINF:-1 tvg-id="" group-title="ESPANA" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200",Neox MDP
-https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/neox/dash/neox.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=03fab75a9287d0b2dd1aaca726d9d06ad2f64e769
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://baul.mediaset.es/dist/assets/favicon/bemad/favicon-32x32.png",Bmad MDP
-https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/bmad/dash/bmad.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=00b33e3f25c50bcd09f64efb9d49f78a431779e78
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200",Mega MDP
-https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/mega/dash/mega.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=0b2c7333d5b73ad0d55785822992f7772763885bc
 #EXTINF:-1 tvg-logo="https://pc-sumandocomunicacion-ondemand.flumotion.com/upload/image/2020/6/navarratv-5ede16a9.png"  group-title="ESPANA",Navarra TV * | ES
 https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="Urban TV" tvg-logo="https://www.m3u.cl/logo/14_Urban_TV.png"  group-title="ESPANA", Urban TV * | ES
@@ -2560,16 +2498,12 @@ https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="13" tvg-name="Ruidos TV" tvg-logo="https://www.m3u.cl/logo/13_Ruidos_TV.png" group-title="MUSICA LATINA", Ruidos TV * | CL
 https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/769_Radioteca_WebStereo.webp" group-title="MUSICA LATINA", Radioteca WebStereo * | CL
-https://vdohd.cl:1936/8030/8030/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://www.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png" group-title="MUSICA LATINA", Mundo de la Musica TV * | CL
 https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="996" tvg-name="Latinos Radio" tvg-logo="https://www.m3u.cl/logo/996_Latinos_Radio.png" group-title="MUSICA LATINA", Latinos Radio * | CL
 https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://www.m3u.cl/logo/19_TV_Exitos.png" group-title="MUSICA LATINA", TV Exitos | DO
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="36" tvg-name="Telemusica" tvg-logo="https://www.m3u.cl/logo/36_Telemusica.png" group-title="MUSICA LATINA", Telemusica | CO
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="35" tvg-name="TOP Latino TV" tvg-logo="https://www.m3u.cl/logo/35_TOP_Latino_TV.png" group-title="MUSICA LATINA", TOP Latino TV | PE
 https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="904" tvg-name="Latin Zone TV" tvg-logo="https://www.m3u.cl/logo/904_Latin_Zone_TV.png" group-title="MUSICA LATINA", Latin Zone TV | US
@@ -2590,8 +2524,6 @@ https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
 https://broadcast.mytvtogo.net/musicalatinaparati/musicalatinaparati/chunklist_w49508185.m3u8
 #EXTINF:-1 tvg-id="786" tvg-name="Tributo Valentina" tvg-logo="https://www.m3u.cl/logo/786_Tributo_Valentina.png"  group-title="MUSICA LATINA", Tributo Valentina | CL
 https://vdohd.cl:1936/8044/8044/playlist.m3u8
-#EXTINF:-1 tvg-id="785" tvg-name="Re7" tvg-logo="https://www.m3u.cl/logo/785_Re7.png"  group-title="MUSICA LATINA", Re7 | CL
-https://vdohd.cl:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-id="1022" tvg-name="EGM Channel" tvg-logo="https://www.m3u.cl/logo/1022_EGM_Channel.png" group-title="MUSICA LATINA", EGM Channel * | CL
 https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-name="PlanetaTV Karaokes" tvg-logo="https://www.m3u.cl/logo/1105_PlanetaTV_Karaokes.png" group-title="MUSICA LATINA", PlanetaTV Karaokes * | CL
@@ -2606,20 +2538,12 @@ https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
 https://stmv.negotv.com/bandamx/bandamx/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="680" tvg-name="Teleritmo" tvg-logo="https://www.m3u.cl/logo/680_Teleritmo.png"  group-title="MUSICA LATINA", Teleritmo | MX
 https://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="38" tvg-name="Best Cable Music" tvg-logo="https://www.m3u.cl/logo/38_Best_Cable_Music.jpg" group-title="MUSICA LATINA", Best Cable Music | PE
-https://ca.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="876" tvg-name="Vision Musica TV" tvg-logo="https://www.m3u.cl/logo/876_Vision_Musica_TV.png" group-title="MUSICA LATINA", Vision Musica TV | PE
-https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="887" tvg-name="Hits 360" tvg-logo="https://www.m3u.cl/logo/887_Hits_360.png" group-title="MUSICA LATINA", Hits 360 | DO
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i0.wp.com/radiokaribena.pe/portal2020/wp-content/uploads/2020/03/00000001-1.png" group-title="MUSICA LATINA", Karibeña TV | PE
 https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png" group-title="MUSICA LATINA", Turbo Mix TV | PE
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="112" tvg-name="Amordiscos TV" tvg-logo="https://www.m3u.cl/logo/112_Amordiscos_TV.png" group-title="MUSICA LATINA", Amordiscos TV | CO
-https://5b464b69d264e.streamlock.net:/Channels_live/ngrp:amordiscos_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="898" tvg-name="Buenisima Radio TV" tvg-logo="https://www.m3u.cl/logo/898_Buenisima_Radio_TV.png" group-title="MUSICA LATINA", Buenisima Radio TV | CO
-http://streamyes.alsolnet.com/buturama/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/valleinalradio/picture?width=320&height=320" group-title="MUSICA LATINA",Vallenato Internacional
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 
@@ -2801,8 +2725,6 @@ https://bit.ly/vevo90s?wmsAuthSign=InspirationLinks
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/NMw1xRRp/Kadak-Hits.png" group-title="MUSICA ANGLO",Kadak Hits
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/101183-ilove.jpg" group-title="MUSICA ANGLO",WoW Music
-https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/PTC_Punjabi.jpg" group-title="MUSICA ANGLO",PTC Punjabi
 https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w1389871650_b1396000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ijBDV01.png" group-title="MUSICA ANGLO",Still Bird Music
@@ -2859,8 +2781,6 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/ind
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g9OTeXV.png" group-title="MUSICA ANGLO", Sangeet Bangla.
 https://yuppcatchup.akamaized.net/preview/sangeetbangla/1100.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/chHDUsi.png" group-title="MUSICA ANGLO", Zing Z5
-https://snehapi-march.in1.bitmana.io/z5api/snehz5api/zing.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="MUSICA ANGLO", Zoom
 https://yupppreview.akamaized.net/preview/zoom/2000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="MUSICA ANGLO", Zoom
@@ -3271,8 +3191,6 @@ https://v2.tustreaming.cl:19360/canalsurpatagoniatv/canalsurpatagoniatv.m3u8
 https://paneltv.online:1936/8042/8042/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="373" tvg-name="PinguinoTV" tvg-logo="https://www.m3u.cl/logo/373_PinguinoTV.png"  group-title="REGIONALES", PinguinoTV | CL
 http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8
-#EXTINF:-1 tvg-id="1087" tvg-name="Opinionsur TV" tvg-logo="https://www.m3u.cl/logo/1087_Opinionsur_TV.png" group-title="REGIONALES", Opinionsur TV * | CL
-https://paneltv.online:1936/8042/8042/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0,-RELIGIOSOS-
 
@@ -3280,10 +3198,6 @@ https://paneltv.online:1936/8042/8042/playlist.m3u8?PlaylistM3UCL
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://files.purestreams.io/logo/tv/3ABN-Latino_5f72da6911836e85ac3d913d.png" group-title="RELIGIOSOS",3ABN Latino
 http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
-#EXTINF:-1 tvg-id="161" tvg-name="Vida TV" tvg-logo="https://www.m3u.cl/logo/161_Vida_TV.png" group-title="RELIGIOSOS", Vida TV * | CL
-http://45.161.188.242:88/vidatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="899" tvg-name="Volvamos a Dios TV" tvg-logo="https://play-lh.googleusercontent.com/1z4qEqeGO4W9MK9R274F-4V0UsuYHZzX7y08Q4sSn_DoMV9daI9axICKNAh9TSdWsIBZ" group-title="RELIGIOSOS"", Volvamos a Dios TV * | CL
-https://stmv.panel.mivideo.pro/remanenteescogido/remanenteescogido/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="950" tvg-name="MCRT Cristiana" tvg-logo="https://www.m3u.cl/logo/950_MCRT_Cristiana.png" group-title="RELIGIOSOS", MCRT Cristiana | CA
 https://stmv.negotv.com/religion2021/religion2021/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="865" tvg-name="Alcance TV" tvg-logo="https://www.m3u.cl/logo/865_Alcance_TV.png" group-title="RELIGIOSOS", Alcance TV | MX
@@ -3292,10 +3206,6 @@ https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?Playl
 https://5b3050bb1b2d8.streamlock.net:443/alertatv/alertatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="176" tvg-name="Asomavision" tvg-logo="https://www.m3u.cl/logo/176_Asomavision.png" group-title="RELIGIOSOS", Asomavision | EC
 https://asomastream.duckdns.org/livestream/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="157" tvg-name="Canal 33" tvg-logo="https://www.m3u.cl/logo/157_Canal_33.png" group-title="RELIGIOSOS", Canal 33 | CL
-https://5eae379fb77bb.streamlock.net:443/eduardo555/eduardo555/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1078" tvg-name="Canal 6 - Viento Recio Internacional" tvg-logo="https://www.m3u.cl/logo/1078_Canal_6___Viento_Recio_Internacional.png" group-title="RELIGIOSOS", Canal 6 - Viento Recio Internacional | AR
-https://stmvideo1.livecastv.com/vientorecio/vientorecio/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="158" tvg-name="Canal Dios Te Ve" tvg-logo="https://www.m3u.cl/logo/158_Canal_Dios_Te_Ve.jpg" group-title="RELIGIOSOS", Canal Dios Te Ve | HN
 https://emisoras.hn:8081/diostevetv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="159" tvg-name="Canal ISB" tvg-logo="https://www.m3u.cl/logo/159_Canal_ISB.png" group-title="RELIGIOSOS", Canal ISB | CL
@@ -3308,8 +3218,6 @@ https://583ed2f226ac2.streamlock.net:443/1708/stream/playlist.m3u8?PlaylistM3UCL
 https://emisoras.hn:8081/diostevekids/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="852" tvg-name="Ebenezer TV" tvg-logo="https://www.m3u.cl/logo/logo-M3U-negro-cl.png" group-title="RELIGIOSOS", Ebenezer TV | HN
 https://5b50404ec5e4c.streamlock.net/ebenezertv2/smil:ebenezertv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="179" tvg-name="El Viviente TV" tvg-logo="https://www.m3u.cl/logo/179_El_Viviente_TV.png" group-title="RELIGIOSOS", El Viviente TV | US
-https://cloudflare.streamgato.us:3006/live/elvivientetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="173" tvg-name="Escuchame Radio" tvg-logo="https://www.m3u.cl/logo/173_Escuchame_Radio.png" group-title="RELIGIOSOS", Escuchame Radio | CL
 https://stmv1.voxtvhd.com.br/escuchame/escuchame/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="872" tvg-name="ESNE" tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="RELIGIOSOS", ESNE | US
@@ -3328,16 +3236,8 @@ http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8?PlaylistM3UCL
 https://emisoras.hn:8081/jbn/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="853" tvg-name="La Fe Mueve Montanas" tvg-logo="https://www.m3u.cl/logo/853_La_Fe_Mueve_Montanas.png" group-title="RELIGIOSOS", La Fe Mueve Montanas | DO
 https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="192" tvg-name="Luz Naciente TV" tvg-logo="https://www.m3u.cl/logo/192_Luz_Naciente_TV.png" group-title="RELIGIOSOS", Luz Naciente TV | CR
-https://cloudflare.streamgato.us:3399/live/luznacientetvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="186" tvg-name="Mana del Cielo TV" tvg-logo="https://www.m3u.cl/logo/186_Mana_del_Cielo_TV.png" group-title="RELIGIOSOS", Mana del Cielo TV | US
-http://cvip.smhcdn.com/10671-live/manatvdelcielo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="928" tvg-name="MovieFE" tvg-logo="https://www.m3u.cl/logo/928_MovieFE.png" group-title="RELIGIOSOS", MovieFE | VE
 https://vcp.myplaytv.com:443/moviefe/ngrp:moviefe_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="197" tvg-name="Nacion TV Internacional" tvg-logo="https://www.m3u.cl/logo/197_Nacion_TV_Internacional.png" group-title="RELIGIOSOS", Nacion TV Internacional | US
-https://4k-server-mia.2cdn.eu/NacionTVINT/ngrp:myStream_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="855" tvg-name="Natanael TV" tvg-logo="https://www.m3u.cl/logo/855_Natanael_TV.png" group-title="RELIGIOSOS", Natanael TV | PA
-https://stmv1.voxhdnet.com/ventvpremium/ventvpremium/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="165" tvg-name="Nuevo Tiempo" tvg-logo="https://www.m3u.cl/logo/165_Nuevo_Tiempo.png" group-title="RELIGIOSOS", Nuevo Tiempo | BR
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="207" tvg-name="Orbe 21" tvg-logo="https://www.m3u.cl/logo/207_Orbe_21.jpg" group-title="RELIGIOSOS", Orbe 21 | AR
@@ -3354,8 +3254,6 @@ https://5bff1bf18a887.streamlock.net/rtvla/rtvla/playlist.m3u8?PlaylistM3UCL
 https://2-fss-2.themediacdn.com/pl_138/amlst:200836-1357134/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="351" tvg-name="Restaurando Vidas TV" tvg-logo="https://www.m3u.cl/logo/351_Restaurando_Vidas_TV.png" group-title="RELIGIOSOS", Restaurando Vidas TV | CL
 http://v2.tustreaming.cl/restaurandovidastv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="971" tvg-name="Restaurando Vidas TV Internacional" tvg-logo="https://www.m3u.cl/logo/971_Restaurando_Vidas_TV_Internacional.png" group-title="RELIGIOSOS", Restaurando Vidas TV Internacional | CL
-http://v4.tustreaming.cl:80/restaurandovidastv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="180" tvg-name="RVida TV" tvg-logo="https://www.m3u.cl/logo/180_RVida_TV.png" group-title="RELIGIOSOS", RVida TV | DO
 https://ss2.domint.net:3206/rv_str/rvida/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="178" tvg-name="Salvacion TV" tvg-logo="https://www.m3u.cl/logo/178_Salvacion_TV.png" group-title="RELIGIOSOS", Salvacion TV | PR
@@ -3386,8 +3284,6 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?Playl
 https://5790d294af2dc.streamlock.net:443/8160/8160/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="193" tvg-name="Urbancrist2 Worship" tvg-logo="https://www.m3u.cl/logo/193_Urbancrist2_Worship.png" group-title="RELIGIOSOS", Urbancrist2 Worship | DO
 https://5790d294af2dc.streamlock.net:443/8090/8090/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="867" tvg-name="Victoria TV Bakersfield" tvg-logo="https://www.m3u.cl/logo/867_Victoria_TV_Bakersfield.jpg" group-title="RELIGIOSOS", Victoria TV Bakersfield | US
-https://videohd.live:19360/8062/8062.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="843" tvg-name="Vida Television" tvg-logo="https://www.m3u.cl/logo/843_Vida_Television.png" group-title="RELIGIOSOS", Vida Television | US
 https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1449024/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="174" tvg-name="Voz de Poder Televisión" tvg-logo="https://www.m3u.cl/logo/174_Voz_de_Poder_Television.png" group-title="RELIGIOSOS", Voz de Poder Televisión | CL
