@@ -105,6 +105,8 @@ http://spliktv-edge2.wedrly.xyz/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3
 http://spliktv-edge2.wedrly.xyz/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
 #EXTINF:-1 tvg-chno="317" tvg-logo="https://i.imgur.com/DhCCuPi.png" group-title="PREMIUM",HBO
 http://spliktv-edge2.wedrly.xyz/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
+#EXTINF:-1 tvg-chno="317" tvg-logo="https://i.imgur.com/DhCCuPi.png" group-title="PREMIUM",HBO
+http://spliktv-edge2.wedrly.xyz/live/vod/Max_HD/SA_Live_WebVTT_FTA/Max_HD.m3u8
 #EXTINF:-1 tvg-chno="317" tvg-logo="https://i.imgur.com/09xINpO.png" group-title="PREMIUM",HBO 2
 http://spliktv-edge2.wedrly.xyz/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
 #EXTINF:-1 tvg-chno="317" tvg-logo="https://i.imgur.com/xxQCMAN.png" group-title="PREMIUM",FX
@@ -143,8 +145,6 @@ http://spliktv-edge2.wedrly.xyz/live/vod/America24/SA_Live_WebVTT_FTA/America24.
 http://spliktv-edge2.wedrly.xyz/live/vod/C5N/SA_Live_WebVTT_FTA/C5N.m3u8
 #EXTINF:0 tvg-logo="http://camarapandesalta.com.ar/files/Imagen-dummy.png" group-title="PREMIUM",Cronica TV
 http://spliktv-edge2.wedrly.xyz/live/vod/CronicaTV/SA_Live_WebVTT_FTA/CronicaTV.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Max_HD.png/revision/latest?cb=20191230193702&path-prefix=es" group-title="PREMIUM",Max HD
-http://spliktv-edge2.wedrly.xyz/live/vod/Max_HD/SA_Live_WebVTT_FTA/Max_HD.m3u8
 #EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-msL2pjFV1To/Vl4qSUGgIPI/AAAAAAAAAJg/i6zZo_Yk_58/s1600/descarga%2B%25281%2529.jpg" group-title="PREMIUM",Telefe
 http://spliktv-edge2.wedrly.xyz/live/vod/TelefeHD/SA_Live_WebVTT_FTA/TelefeHD.m3u8
 
