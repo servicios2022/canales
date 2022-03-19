@@ -890,6 +890,8 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?
 https://bit.ly/cnnBrasil?/chunks.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://w1.pngwing.com/pngs/206/434/png-transparent-logo-cnn-news-logo-of-nbc-media-text-red-line.png",CNN GO | USA
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/05/5ce6a0ba7da0d.png",Fox News| USA
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
 #EXTINF:0,-CULTURA-
 
