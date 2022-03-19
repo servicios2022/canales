@@ -137,15 +137,15 @@ http://edge2.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.
 http://spliktv-edge2.wedrly.xyz/live/vod/AXNHD/SA_Live_WebVTT_FTA/AXNHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/okYFH66.png" group-title="PREMIUM",TNT
 http://cdn.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",A24
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png" group-title="PREMIUM",A24
 http://spliktv-edge2.wedrly.xyz/live/vod/America24/SA_Live_WebVTT_FTA/America24.m3u8
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",C5N
+#EXTINF:0 tvg-logo="https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_512,h_512/https://parada1online.com/wp-content/uploads/2021/03/logo-C5N.png" group-title="PREMIUM",C5N
 http://spliktv-edge2.wedrly.xyz/live/vod/C5N/SA_Live_WebVTT_FTA/C5N.m3u8
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Cronica TV
+#EXTINF:0 tvg-logo="http://camarapandesalta.com.ar/files/Imagen-dummy.png" group-title="PREMIUM",Cronica TV
 http://spliktv-edge2.wedrly.xyz/live/vod/CronicaTV/SA_Live_WebVTT_FTA/CronicaTV.m3u8
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Max HD
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Max_HD.png/revision/latest?cb=20191230193702&path-prefix=es" group-title="PREMIUM",Max HD
 http://spliktv-edge2.wedrly.xyz/live/vod/Max_HD/SA_Live_WebVTT_FTA/Max_HD.m3u8
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Telefe
+#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-msL2pjFV1To/Vl4qSUGgIPI/AAAAAAAAAJg/i6zZo_Yk_58/s1600/descarga%2B%25281%2529.jpg" group-title="PREMIUM",Telefe
 http://spliktv-edge2.wedrly.xyz/live/vod/TelefeHD/SA_Live_WebVTT_FTA/TelefeHD.m3u8
 
 #EXTINF:1,-DEPORTE LATINO-
