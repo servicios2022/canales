@@ -128,7 +128,7 @@ https://marine2.miplay.cl/zoomoo/mono.m3u8
 
 #EXTINF:-1 tvg-chno="317" tvg-logo="https://i.imgur.com/wQXHgYW.png" group-title="PREMIUM",AXN HD
 http://spliktv-edge2.wedrly.xyz/live/vod/AXNHD/SA_Live_WebVTT_FTA/AXNHD.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png" group-title="PREMIUM", NATGEO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png" group-title="PREMIUM",NATGEO
 http://spliktv-edge2.wedrly.xyz/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
 #EXTINF:-1 tvg-chno="317" tvg-logo="https://i.imgur.com/wQXHgYW.png" group-title="PREMIUM",TNT HD
 http://spliktv-edge2.wedrly.xyz/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
@@ -164,8 +164,6 @@ http://spliktv-edge2.wedrly.xyz/live/vod/FoxActionHD/SA_Live_WebVTT_FTA/FoxActio
 http://spliktv-edge2.wedrly.xyz/live/vod/DiscoveryWorldHD/SA_Live_WebVTT_FTA/DiscoveryWorldHD.m3u8
 #EXTINF:-1 tvg-logo="http://www.dreadfullykind.com/wp-content/uploads/2017/05/National-Geographic-Logo-1.jpg" group-title="PREMIUM",NATGEO HD
 http://edge2.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png" tvg-group="PREMIUM", NATGEO
-http://spliktv-edge2.wedrly.xyz/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
 #EXTINF:-1 tvg-chno="317" tvg-logo="https://i.imgur.com/wQXHgYW.png" group-title="PREMIUM",AXN HD
 http://spliktv-edge2.wedrly.xyz/live/vod/AXNHD/SA_Live_WebVTT_FTA/AXNHD.m3u8
 #EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/latino/tnt.png" group-title="PREMIUM",TNT
