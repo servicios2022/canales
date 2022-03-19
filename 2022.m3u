@@ -343,6 +343,10 @@ https://lnk.ec/shareext@useesports2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Unifi-Sports.png" group-title="DEPORTE INTERNACIONAL",UNIFI SPORTS 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vazu6a4IEn4/YFshQ-G6MWI/AAAAAAAAFzU/Jh39xiBD2EI79qmM3lxsFo9dglBQekfNACNcBGAsYHQ/s0/match_ru_tv.png" group-title="DEPORTE INTERNACIONAL",MAT4!
+http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://tdh.gov.tm/themes/tdh-updated/assets/images/turkmenistan_sport.png" group-title="DEPORTE INTERNACIONAL",Turkmen Sport HD
+http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="DEPORTE INTERNACIONAL",ABU DHABI SPORTS 1 | AR
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
@@ -2125,6 +2129,10 @@ http://hitmusic.hu/hitmusic.m3u8
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/vtwobeat/picture?width=200&height=200" group-title="MUSICA ANGLO" tvg-name="V2Beat TV",V2Beat TV EN
 https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_Xite.png" group-title="MUSICA ANGLO",Xite HD
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/7PycI8K.png" group-title="MUSICA ANGLO",M6Music HD
+http://190.2.155.162:8080/m6music/mpegts
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/powerapp/picture?width=200&height=200" group-title="MUSICA ANGLO" tvg-name="Power TV Turquía",Power TV Turquía
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RADIO21germany/picture?width=200&height=200" group-title="MUSICA ANGLO" tvg-name="Radio 21 Rock'n Pop Alemania",Radio 21 Rock'n Pop Alemania DE
@@ -2236,6 +2244,7 @@ https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/nmdf6cD.png" group-title="MUSICA ANGLO",ТНТ Music HD
 http://83.222.205.65:8080/tntmusic/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DX7cKNF.png" group-title="MUSICA ANGLO",JAZZ TV
 https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
