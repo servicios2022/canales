@@ -2234,6 +2234,8 @@ http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/az/8/89/Kral_TV.png" group-title="MUSICA ANGLO",Klap Tv
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/nmdf6cD.png" group-title="MUSICA ANGLO",ТНТ Music HD
+http://83.222.205.65:8080/tntmusic/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DX7cKNF.png" group-title="MUSICA ANGLO",JAZZ TV
 https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
