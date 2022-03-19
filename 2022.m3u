@@ -2169,6 +2169,11 @@ https://stirr.ott-channels.stingray.com/qello/master_1920x1080_4500kbps.m3u8
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 #EXTINF:-1 tvg-id="" group-title="MUSICA ANGLO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VH1_2020.svg/220px-VH1_2020.svg.png",VH1 
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?wmsAuthSign=InspirationLinks
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/1200px-MTV-Logo.svg.png" group-title="MUSICA ANGLO",MTV Biggest Pop HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/1200px-MTV-Logo.svg.png" group-title="MUSICA ANGLO",MTV Block Party HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/1200px-MTV-Logo.svg.png" group-title="MUSICA ANGLO",MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/1200px-MTV-Logo.svg.png" group-title="MUSICA ANGLO",MTV Block Party
