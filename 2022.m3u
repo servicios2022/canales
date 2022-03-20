@@ -779,8 +779,6 @@ https://tastemade-es16tm-samsung.amagi.tv/playlist1080.m3u8
 https://bit.ly/tvcocinaPluto?/master1080p.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MasChic.png" group-title="LIFESTYLE", Mas Chic 
 https://amc-maschic-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MasChic.png" group-title="LIFESTYLE", Mas Chic 
-https://sv.spliktv.xyz/live/caster/OTT/MASCHIC.m3u8
 #EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/48/ESBA1400008NE_20210512T003430.png" group-title="LIFESTYLE",Hola Play
 https://rakuten-hola-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Hola_tv_logo.svg/revision/latest/scale-to-width-down/300?cb=20210308124606&path-prefix=es" group-title="LIFESTYLE",Hola Tv
@@ -1301,28 +1299,14 @@ https://m3u-editor.com/serve/televitolibre/500017328.m3u8
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1066" tvg-name="ATV+" tvg-logo="https://i.imgur.com/5zjcLeq.png"  group-title="PERU", ATV+ | PE
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1066" tvg-name="ATV+" tvg-logo="https://i.imgur.com/5zjcLeq.png"  group-title="PERU",Willax
-https://sv.spliktv.xyz/live/caster/PE/WILLAX.m3u8
-#EXTINF:-1 tvg-id="1066" tvg-name="ATV+" tvg-logo="https://i.imgur.com/5zjcLeq.png"  group-title="PERU",America
-https://sv.spliktv.xyz/live/caster/PE/AMERICA.m3u8
-#EXTINF:-1 tvg-id="1066" tvg-name="ATV+" tvg-logo="https://i.imgur.com/5zjcLeq.png"  group-title="PERU",Global tv
-https://sv.spliktv.xyz/live/caster/PE/GLOBALTV.m3u8
-#EXTINF:-1 tvg-id="1066" tvg-name="ATV+" tvg-logo="https://i.imgur.com/5zjcLeq.png"  group-title="PERU",la Tele
-https://sv.spliktv.xyz/live/caster/PE/LATELE.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/1200px-Panamericana-tv.svg.png"  group-title="PERU",PANAMERICANA
 https://sv.spliktv.xyz/live/caster/PE/PANAMERICANA.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/1200px-Panamericana-tv.svg.png"  group-title="PERU",PANAMERICANA
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="705" tvg-name="TV Peru Noticias" tvg-logo="https://www.m3u.cl/logo/705_TV_Peru_Noticias.png"  group-title="PERU", TV Peru Noticias | PE
 https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg"  group-title="PERU",LATINA
-https://sv.spliktv.xyz/live/caster/PE/LATINA.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Peru_Magico_2016_%281%29.png/revision/latest?cb=20210405190247&path-prefix=es"  group-title="PERU",PERU MAGICO
-https://sv.spliktv.xyz/live/caster/RB/PERU-MAGICO.m3u8
 #EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_TV_Per%C3%BA.png"  group-title="PERU",TV PERU
 https://sv.spliktv.xyz/live/caster/PE/TVPERU.m3u8
-#EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_TV_Per%C3%BA.png"  group-title="PERU",TV PERU
-https://list.iptvcat.com/my_list/s/f4172bbaf960accc9e6fe77e7a9f68be.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/TVPN2012-2.png/revision/latest?cb=20181219153831"  group-title="PERU",TV PERU NOTICIAS
 https://sv.spliktv.xyz/live/caster/PE/TVPERU-N.m3u8
 #EXTINF:-1 tvg-id="496" tvg-name="Canal IPE" tvg-logo="https://www.m3u.cl/logo/496_Canal_IPE.png"  group-title="PERU", Canal IPE | PE
@@ -1374,8 +1358,6 @@ http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-id="128" tvg-name="Señal Colombia" tvg-logo="https://www.m3u.cl/logo/128_Senal_Colombia.png"   group-title="COLOMBIA", Señal Colombia | CO
 https://sv.spliktv.xyz/live/caster/CO/SE-CO.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/1/1a/Telecafe_2017.png/revision/latest/scale-to-width-down/2409?cb=20180715015114&path-prefix=es" group-title="COLOMBIA", TELECAFE
-https://sv.spliktv.xyz/live/caster/CO/TELECAFE.m3u8
 #EXTINF:-1 tvg-id="123" tvg-name="Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Tele_VID.png"   group-title="COLOMBIA", TELEVID
 https://sv.spliktv.xyz/live/caster/CO/TELEVID.m3u8
 #EXTINF:-1 tvg-id="123" tvg-name="Caracol" tvg-logo="https://www.m3u.cl/logo/123_Caracol.jpg"   group-title="COLOMBIA", Caracol | CO
