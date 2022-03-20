@@ -9,6 +9,24 @@
 
     
   "stations": [ 
+   {
+			"name": "ESPN 2 Argentina (opc.1) p| AR 🇦🇷",
+             "image": "https://i.imgur.com/jq1s4to.png",
+           "url" :  "https://futbollatam.com/en-vivo/espn-2",
+	    "referer" : "https://futbollatam.com/",
+			 "isHost":"true"
+                      }, {
+			"name": "ESPN 2 Argentina (opc.1) pp| AR 🇦🇷",
+             "image": "https://i.imgur.com/jq1s4to.png",
+           "url" :  "https://futbollatam.com/en-vivo/espn-2",
+	    "referer" : "https://futbollatam.com/en-vivo/espn-2/embed_go.html",
+			 "isHost":"true"
+                      }, {
+			"name": "ESPN 2 Argentina (opc.1) ppp| AR 🇦🇷",
+             "image": "https://i.imgur.com/jq1s4to.png",
+           "url" :  "https://futbollatam.com/en-vivo/espn-2/embed_go.html",
+			 "isHost":"true"
+                      }, 
 
  {
 			"name": "Bein Sport Extra Ñ (opc.1) | LAT 🇲🇽",
