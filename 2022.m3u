@@ -397,6 +397,8 @@ https://bit.ly/golfpassusa?/5.m3u8
 
 DEPORTES
 
+#EXTINF:-1 tvg-logo="http://upstream-media.ch/wp-content/uploads/2019/06/swiss-sport-tv-weiss-transparent_bei_USM.png" group-title="DEPORTE INTERNACIONAL", Swiss Sport TV
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xVgXmS2.jpg" group-title="DEPORTE INTERNACIONAL", Rugby World TV | US
 https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu.png" group-title="DEPORTE INTERNACIONAL",Fox Sports News | US
