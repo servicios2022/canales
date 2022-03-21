@@ -10,9 +10,10 @@
     
   "stations": [ 
      {
-			"name": "1 | LAT 🇲🇽",
+			"name": "2 | LAT 🇲🇽",
 			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
 	   	      "url" :  "https://megatelevisionhd.com/en-vivo/dazn-1-espana/?ver",
+		        "referer" : "https://megatelevisionhd.com/",
 			 "isHost":"true"
                     }, {
 			"name": "RECHAZO A LA NUEVA CONSTITUCION | CL 🇨🇱",
