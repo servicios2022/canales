@@ -239,6 +239,8 @@ http://154.62.74.29:1935/live/gol/playlist.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b4128000_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="DEPORTE LATINO",DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="DEPORTE LATINO",DeporTV
+https://edge2.prepro.cvattv.com.ar/live/vod/DeporTVHD/SA_Live_WebVTT_FTA/DeporTVHD.m3u8
 #EXTINF:-1  tvg-logo="https://mundo-r.com/bundles/app/images/channels/realmadridtv_200x200.png" group-title="DEPORTE LATINO",Real Madrid TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
 #EXTINF:-1  tvg-logo="https://statics.proyectoclubes.com/images/header/logo-las-palmas.png?20211130091706" group-title="DEPORTE LATINO",UD Las Palmas
@@ -2789,8 +2791,7 @@ https://livebr-globo.myedgecast.com/d/c/x3300/s/hls-spo324ha/hls-spo324ha_1573/p
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",globo
 https://livebr-globo.myedgecast.com/d/c/x3300/s/hls-spo324ha/playlist.m3u8?hdnts=KPCsWcWTpvIUFxDVJnMdsBCVhtGsHcG76iVCM5Au0qCUQ_fF8_EYQSbQSfgdVRaN_OTkLQ2mcMihL3f38yVBNsIcCuEPWZcDSA7kBnS8Dm2UjGdtbxYicg==
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",deport
-https://edge2.prepro.cvattv.com.ar/live/vod/DeporTVHD/SA_Live_WebVTT_FTA/DeporTVHD.m3u8
+
 
 
 
