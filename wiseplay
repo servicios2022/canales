@@ -26,6 +26,28 @@
         "url" : "https://maxsport.one/stream149.php",
 			  "isHost" : "true"
                  }, {
+		"name": "espn 2  | ES 🇪🇸",
+		"image": "https://i.imgur.com/PoAUHmh.png",
+        "url" : "https://uload.ru.com/cdn/premium149/chunks.m3u8",
+	 "referer" : "https://maxsport.one/",
+			  "isHost" : "true"
+                 }, {
+		"name": "espn 3  | ES 🇪🇸",
+		"image": "https://i.imgur.com/PoAUHmh.png",
+        "url" : "https://uload.ru.com/cdn/premium149/chunks.m3u8",
+	 "referer" : "https://maxsport.one/stream149.php",
+			  "isHost" : "true"
+                 }, {
+		"name": "espn 4  | ES 🇪🇸",
+		"image": "https://i.imgur.com/PoAUHmh.png",
+        "url" : "https://uload.ru.com/cdn/premium149/chunks.m3u8",
+			  "isHost" : "true"
+                 },
+		 
+		 
+		 
+		 
+		 {
 			"name": "Bein Sport Extra Ñ (opc.1) | LAT 🇲🇽",
 			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
 	   	     "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8",
