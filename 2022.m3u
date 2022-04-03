@@ -48,11 +48,11 @@ http://51.79.18.128:8081/LATINO%7CWARNER/LATINO%7CWARNER/playlist.m3u8
 http://51.79.18.128:8081/LATINO%7CAMC/LATINO%7CAMC/playlist.m3u8 
 #EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602321026229.jpg", DEPELICULA 
 http://51.79.18.128:8081/LATINO%7CDEPELICULA/LATINO%7CDEPELICULA/playlist.m3u8
-#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://pbs.twimg.com/media/EpnqHLRW4AEiZuq.png", COMEDY-CENTRAL 
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602473013180.png", COMEDY-CENTRAL 
 http://51.79.18.128:8081/LATINO%7CCOMEDYCENTRAL/LATINO%7CCOMEDYCENTRAL/playlist.m3u8 
-#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://prensa.televisa.com/wp-content/uploads/2022/03/44132107-2060079280717424-760605263211266048-n.png", DISTRITO-COMEDIA 
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602425904373.png", DISTRITO-COMEDIA 
 http://51.79.18.128:8081/LATINO%7CDISTRITOCOMEDIA/LATINO%7CDISTRITOCOMEDIA/playlist.m3u8 
-#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/E%21_1990.svg/revision/latest?cb=20210701135109&path-prefix=es", ENTERTAIMENT 
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://i.imgur.com/guTGHjx.jpg",E ENTERTAIMENT 
 http://51.79.18.128:8081/LATINO%7CENTERTAIMENT/LATINO%7CENTERTAIMENT/playlist.m3u8
 #EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602344506477.png", NATGEO-MUNDO 
 http://51.79.18.128:8081/LATINO%7CNATGEOMUNDO/LATINO%7CNATGEOMUNDO/playlist.m3u8
