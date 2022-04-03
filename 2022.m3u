@@ -52,7 +52,7 @@ http://51.79.18.128:8081/LATINO%7CDEPELICULA/LATINO%7CDEPELICULA/playlist.m3u8
 http://51.79.18.128:8081/LATINO%7CCOMEDYCENTRAL/LATINO%7CCOMEDYCENTRAL/playlist.m3u8 
 #EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602425904373.png", DISTRITO-COMEDIA 
 http://51.79.18.128:8081/LATINO%7CDISTRITOCOMEDIA/LATINO%7CDISTRITOCOMEDIA/playlist.m3u8 
-#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://i.imgur.com/guTGHjx.jpg",E ENTERTAIMENT 
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://i.imgur.com/guTGHjx.jpg", E ENTERTAIMENT 
 http://51.79.18.128:8081/LATINO%7CENTERTAIMENT/LATINO%7CENTERTAIMENT/playlist.m3u8
 #EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602344506477.png", NATGEO-MUNDO 
 http://51.79.18.128:8081/LATINO%7CNATGEOMUNDO/LATINO%7CNATGEOMUNDO/playlist.m3u8
