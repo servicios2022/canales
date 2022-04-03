@@ -15,7 +15,18 @@
 			"image": "https://i.imgur.com/xdqGNPq.png",
 	   	     "url": "",
 			"userAgent" : ""
-                    }, {
+                    }, 
+		    
+		    
+		    
+		    
+		   {
+		"name": "espn  | ES 🇪🇸",
+		"image": "https://i.imgur.com/PoAUHmh.png",
+        "url" : "https://maxsport.one/stream149.php",
+               "referer" : "http://cdn.livetv507.me/",
+			  "isHost" : "true"
+                 }, {
 			"name": "Bein Sport Extra Ñ (opc.1) | LAT 🇲🇽",
 			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
 	   	     "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8",
