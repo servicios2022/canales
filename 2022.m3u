@@ -561,6 +561,8 @@ http://177.128.115.10:8000/play/a01b
 #EXTINF:0 tvg-logo="https://i.imgur.com/ap027lf.png" group-title="DEPORTE LATINO",TNT SPORTS 3 CHILE
 http://177.128.115.10:8000/play/a00t
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title=DEPORTES",TUDN
+http://54.39.19.162:8081/live/dream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="DEPORTE LATINO",Gol Tv | EC
 https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="DEPORTE LATINO",FOX SPORTS | AR 
@@ -1345,6 +1347,8 @@ https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w4b6IlZ.png" group-title="LATINOS",•●★-- 📺 LATINOS 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="LATINOS",Unimas
+http://54.39.19.162:8081/live/dream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/WtvNuevaGuinea/picture?width=200&height=200" group-title="LATINOS",WTV Nicaragua
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://www.m3u.cl/logo/476_WOW_TV.png"  group-title="LATINOS",Wow Tv | SV
@@ -3169,8 +3173,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",tudn
 http://54.39.19.162:8081/live/dream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",unimas
-http://54.39.19.162:8081/live/dream2/playlist.m3u8
+
 
 
 
