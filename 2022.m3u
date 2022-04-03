@@ -54,6 +54,32 @@ http://51.79.18.128:8081/24%7C7%7CLATINO%7CSIMPSONS/SIMPSONS/playlist.m3u8
 http://51.79.18.128:8081/24%7C7%7CBOBESPONJA/24%7C7%7CBOBESPONJA/playlist.m3u8
 #EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602344506477.png", NATGEO-MUNDO 
 http://51.79.18.128:8081/LATINO%7CNATGEOMUNDO/LATINO%7CNATGEOMUNDO/playlist.m3u8
+#EXTINF: -1 group-title = "PREMIUM" tvg-logo = "https://innovatv.live/posters/1602291571152.png", A + 
+http://51.79.18.128:8081/LATINO%7CAPLUS/LATINO%7CAPLUS/playlist.m3u8 
+#EXTINF: -1 group-title = "PREMIUM" tvg-logo = "https://innovatv.live/posters/1602471964224.png", ONCETV 
+http://51.79.18.128:8081/LATINO%7CONCETV/LATINO%7CONCETV/playlist.m3u8
+#EXTINF: -1 group-title = "PREMIUM" tvg-logo = "https://innovatv.live/posters/1602323352239.png", EXCELSIOR- 
+http://51.79.18.128:8081/LATINO%7CEXCELSIOR/LATINO%7CEXCELSIOR/playlist.m3u8 
+#EXTINF: -1 group-title = "PREMIUM" tvg-logo = "https://innovatv.live/posters/1602323431162.png", FOROTV 
+http://51.79.18.128:8081/LATINO%7CFOROTV/LATINO%7CFOROTV/playlist.m3u8 
+#EXTINF: -1 group-title = "PREMIUM" tvg-logo = "https://innovatv.live/posters/1602343838438.jpg", IMAGENTV 
+http://51.79.18.128:8081/LATINO%7CIMAGENTV/LATINO%7CIMAGENTV/playlist.m3u8  
+#EXTINF: -1 group-title = "PREMIUM" tvg-logo = "https://innovatv.live/posters/1602473447284.png", MILENIO-NOTICIAS
+http://51.79.18.128:8081/LATINO%7CMILENIOPREMIUM/LATINO%7CMILENIOPREMIUM/playlist.m3u8 
+#EXTINF: -1 group-title = "PREMIUM" tvg-logo = "https://innovatv.live/posters/1602473013180.png", COMEDY-CENTRAL 
+http://51.79.18.128:8081/LATINO%7CCOMEDYCENTRAL/LATINO%7CCOMEDYCENTRAL/playlist.m3u8 
+#EXTINF: -1 group-title = "PREMIUM" tvg-logo = "https://innovatv.live/posters/1602425904373.png", DISTRITO-COMEDIA 
+http://51.79.18.128:8081/LATINO%7CDISTRITOCOMEDIA/LATINO%7CDISTRITOCOMEDIA/playlist.m3u8 
+#EXTINF: -1 group-title = "PREMIUM" tvg-logo = "https://innovatv.live/posters/1602323247544.gif", ENTERTAIMENT 
+http://51.79.18.128:8081/LATINO%7CENTERTAIMENT/LATINO%7CENTERTAIMENT/playlist.m3u8
+#EXTINF: -1 group-title = "PREMIUM" tvg-logo = "https://innovatv.live/posters/1633574487461.png", CANAL-4-GDL 
+http://51.79.18.128:8081/LATINO%7CCANAL4GDL/LATINO%7CCANAL4GDL/playlist.m3u8
+#EXTINF: -1 group-title = "PREMIUM" tvg-logo = "https://innovatv.live/posters/1602292937158.png", CANAL-66-MEXICALI 
+http://51.79.18.128:8081/LATINO%7CCANAL66MEXICALI/LATINO%7CCANAL66MEXICALI/playlist.m3u8
+#EXTINF: -1 group-title = "PREMIUM" tvg-logo = "https://innovatv.live/posters/1607834854438.jpg", NUEVE-9 
+http://51.79.18.128:8081/LATINO%7CNUEVE/LATINO%7CNUEVE/playlist.m3u8
+#EXTINF: -1 group-title = "PREMIUM" tvg-logo = "https://innovatv.live/posters/1602426103378.png", TELEVISA-MONTERREY 
+http://51.79.18.128:8081/LATINO%7CTELEVISAMTY/LATINO%7CTELEVISAMTY/playlist.m3u8
 
 #EXTINF:1,-PLUTO TV-
 
