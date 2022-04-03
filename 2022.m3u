@@ -24,6 +24,37 @@ http://loga.ultratotal.ml/xls/ligota/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X3LlIhz.png" group-title="LA LIGA",PPV la Liga (solo partidos) | EN
 http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 
+#EXTINF:1,-PREMIUM-
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LwetdeU.png" group-title="PREMIUM",•●★-- 📺 PREMIUM 📺 --★●•
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://innovatv.live/posters/1602432742130.png" group-title="PREMIUM",ESTUDIO-UNIVERSAL
+http://51.79.18.128:8081/LATINO%7CSTUDIOUNIVERSAL/LATINO%7CSTUDIOUNIVERSAL/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://innovatv.live/posters/1602293222276.png" group-title="PREMIUM", CINECANAL
+http://51.79.18.128:8081/LATINO%7CCINECANAL/LATINO%7CCINECANAL/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://innovatv.live/posters/1602324109426.jpg" group-title="PREMIUM", GOLDENPLUS
+http://51.79.18.128:8081/LATINO%7CGOLDENPLUS/LATINO%7CGOLDENPLUS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://innovatv.live/posters/1602432840128.png" group-title="PREMIUM", SONY-CHANNEL
+http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="PREMIUM",A&E
+http://51.79.18.128:8081/LATINO%7CAYE/LATINO%7CAYE/playlist.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602320787525.jpg", CINEMAX 
+http://51.79.18.128:8081/LATINO%7CCINEMAX/LATINO%7CCINEMAX/playlist.m3u8 
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602323935427.jpg", FX 
+http://51.79.18.128:8081/LATINO%7CFX/LATINO%7CFX/playlist.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602428486133.png", WARNER 
+http://51.79.18.128:8081/LATINO%7CWARNER/LATINO%7CWARNER/playlist.m3u8 
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602291358305.png", AMC 
+http://51.79.18.128:8081/LATINO%7CAMC/LATINO%7CAMC/playlist.m3u8 
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602321026229.jpg", DEPELICULA 
+http://51.79.18.128:8081/LATINO%7CDEPELICULA/LATINO%7CDEPELICULA/playlist.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602704088279.jpg", LOS-SIMPSON 
+http://51.79.18.128:8081/24%7C7%7CLATINO%7CSIMPSONS/SIMPSONS/playlist.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602703986157.png", BOB-ESPONJA 
+http://51.79.18.128:8081/24%7C7%7CBOBESPONJA/24%7C7%7CBOBESPONJA/playlist.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602344506477.png", NATGEO-MUNDO 
+http://51.79.18.128:8081/LATINO%7CNATGEOMUNDO/LATINO%7CNATGEOMUNDO/playlist.m3u8
+
 #EXTINF:1,-PLUTO TV-
 
 #EXTINF:-1 tvg-logo="https://d2m7i0qajk8937.cloudfront.net/brand/ntRn7GgKpE50W4j7-pluto-tv.png" group-title="PLUTO TV",•●★-- 📺 PLUTO TV 📺 --★●•
@@ -509,56 +540,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad4ad6537680007b
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c896951-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42bcfa63-aec5-4760-b993-bf2501603b69&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UX6IHNl.png" group-title="PLUTO TV",LIVE MUSIC REPLAY
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c759330-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=98079c5b-45f4-4521-b056-6fd814776109&userId=&serverSideAds=true
-
-#EXTINF:1,-PREMIUM-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LwetdeU.png" group-title="PREMIUM",•●★-- 📺 PREMIUM 📺 --★●•
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://innovatv.live/posters/1602432742130.png" group-title="PREMIUM",ESTUDIO-UNIVERSAL
-http://51.79.18.128:8081/LATINO%7CSTUDIOUNIVERSAL/LATINO%7CSTUDIOUNIVERSAL/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://innovatv.live/posters/1602293222276.png" group-title="PREMIUM", CINECANAL
-http://51.79.18.128:8081/LATINO%7CCINECANAL/LATINO%7CCINECANAL/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://innovatv.live/posters/1602324109426.jpg" group-title="PREMIUM", GOLDENPLUS
-http://51.79.18.128:8081/LATINO%7CGOLDENPLUS/LATINO%7CGOLDENPLUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://innovatv.live/posters/1602432840128.png" group-title="PREMIUM", SONY-CHANNEL
-http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="PREMIUM",A&E
-http://51.79.18.128:8081/LATINO%7CAYE/LATINO%7CAYE/playlist.m3u8
-#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602320787525.jpg", CINEMAX 
-http://51.79.18.128:8081/LATINO%7CCINEMAX/LATINO%7CCINEMAX/playlist.m3u8 
-#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602323935427.jpg", FX 
-http://51.79.18.128:8081/LATINO%7CFX/LATINO%7CFX/playlist.m3u8
-#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602428486133.png", WARNER 
-http://51.79.18.128:8081/LATINO%7CWARNER/LATINO%7CWARNER/playlist.m3u8 
-#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602291358305.png", AMC 
-http://51.79.18.128:8081/LATINO%7CAMC/LATINO%7CAMC/playlist.m3u8 
-#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602321026229.jpg", DEPELICULA 
-http://51.79.18.128:8081/LATINO%7CDEPELICULA/LATINO%7CDEPELICULA/playlist.m3u8
-#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602704088279.jpg", LOS-SIMPSON 
-http://51.79.18.128:8081/24%7C7%7CLATINO%7CSIMPSONS/SIMPSONS/playlist.m3u8
-#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602703986157.png", BOB-ESPONJA 
-http://51.79.18.128:8081/24%7C7%7CBOBESPONJA/24%7C7%7CBOBESPONJA/playlist.m3u8
-#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602344506477.png", NATGEO-MUNDO 
-http://51.79.18.128:8081/LATINO%7CNATGEOMUNDO/LATINO%7CNATGEOMUNDO/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s2MzX9U.png" group-title="PREMIUM",NATGEO HD
-http://spliktv-edge2.wedrly.xyz/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
-#EXTINF:-1 tvg-chno="317" tvg-logo="https://i.imgur.com/okYFH66.png" group-title="PREMIUM",TNT HD
-http://spliktv-edge2.wedrly.xyz/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/t2L86QoHY7o/maxresdefault.jpg" group-title="PREMIUM",Discovery Channel
-http://spliktv-edge2.wedrly.xyz/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/DiscoveryHD.m3u8
-#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2017/05/TBS-TV-Shows-Canceled-or-Renewed-534x400.png" group-title="PREMIUM",TBS HD
-http://spliktv-edge2.wedrly.xyz/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
-#EXTINF:-1 tvg-logo="http://www.dreadfullykind.com/wp-content/uploads/2017/05/National-Geographic-Logo-1.jpg" group-title="PREMIUM",NATGEO HD
-http://edge2.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/okYFH66.png" group-title="PREMIUM",TNT
-http://cdn.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
-#EXTINF:0 tvg-logo="https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_512,h_512/https://parada1online.com/wp-content/uploads/2021/03/logo-C5N.png" group-title="PREMIUM",C5N
-http://spliktv-edge2.wedrly.xyz/live/vod/C5N/SA_Live_WebVTT_FTA/C5N.m3u8
-#EXTINF:0 tvg-logo="http://camarapandesalta.com.ar/files/Imagen-dummy.png" group-title="PREMIUM",Cronica TV
-http://spliktv-edge2.wedrly.xyz/live/vod/CronicaTV/SA_Live_WebVTT_FTA/CronicaTV.m3u8
-#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-msL2pjFV1To/Vl4qSUGgIPI/AAAAAAAAAJg/i6zZo_Yk_58/s1600/descarga%2B%25281%2529.jpg" group-title="PREMIUM",Telefe
-http://spliktv-edge2.wedrly.xyz/live/vod/TelefeHD/SA_Live_WebVTT_FTA/TelefeHD.m3u8
 
 #EXTINF:1,-DEPORTE LATINO-
 
