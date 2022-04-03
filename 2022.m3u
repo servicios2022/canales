@@ -48,11 +48,11 @@ http://51.79.18.128:8081/LATINO%7CWARNER/LATINO%7CWARNER/playlist.m3u8
 http://51.79.18.128:8081/LATINO%7CAMC/LATINO%7CAMC/playlist.m3u8 
 #EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602321026229.jpg", DEPELICULA 
 http://51.79.18.128:8081/LATINO%7CDEPELICULA/LATINO%7CDEPELICULA/playlist.m3u8
-#EXTINF: -1 group-title = "PREMIUM" tvg-logo ="https://pbs.twimg.com/media/EpnqHLRW4AEiZuq.png", COMEDY-CENTRAL 
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://pbs.twimg.com/media/EpnqHLRW4AEiZuq.png", COMEDY-CENTRAL 
 http://51.79.18.128:8081/LATINO%7CCOMEDYCENTRAL/LATINO%7CCOMEDYCENTRAL/playlist.m3u8 
-#EXTINF: -1 group-title = "PREMIUM" tvg-logo ="https://prensa.televisa.com/wp-content/uploads/2022/03/44132107-2060079280717424-760605263211266048-n.png", DISTRITO-COMEDIA 
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://prensa.televisa.com/wp-content/uploads/2022/03/44132107-2060079280717424-760605263211266048-n.png", DISTRITO-COMEDIA 
 http://51.79.18.128:8081/LATINO%7CDISTRITOCOMEDIA/LATINO%7CDISTRITOCOMEDIA/playlist.m3u8 
-#EXTINF: -1 group-title = "PREMIUM" tvg-logo ="https://static.wikia.nocookie.net/logopedia/images/9/96/E%21_1990.svg/revision/latest?cb=20210701135109&path-prefix=es", ENTERTAIMENT 
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/E%21_1990.svg/revision/latest?cb=20210701135109&path-prefix=es", ENTERTAIMENT 
 http://51.79.18.128:8081/LATINO%7CENTERTAIMENT/LATINO%7CENTERTAIMENT/playlist.m3u8
 #EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602344506477.png", NATGEO-MUNDO 
 http://51.79.18.128:8081/LATINO%7CNATGEOMUNDO/LATINO%7CNATGEOMUNDO/playlist.m3u8
@@ -1901,25 +1901,25 @@ https://stmv1.srvif.com/canal9/canal9/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a7xHX0R.png" group-title="MEXICO",•●★-- 📺 MEXICO 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF: -1 group-title = "MEXICO" tvg-logo ="https://innovatv.live/posters/1602291571152.png", A + 
+#EXTINF: -1 group-title="MEXICO" tvg-logo="https://innovatv.live/posters/1602291571152.png", A + 
 http://51.79.18.128:8081/LATINO%7CAPLUS/LATINO%7CAPLUS/playlist.m3u8 
-#EXTINF: -1 group-title = "MEXICO" tvg-logo ="https://innovatv.live/posters/1602471964224.png", ONCETV 
+#EXTINF: -1 group-title="MEXICO" tvg-logo="https://innovatv.live/posters/1602471964224.png", ONCETV 
 http://51.79.18.128:8081/LATINO%7CONCETV/LATINO%7CONCETV/playlist.m3u8
-#EXTINF: -1 group-title = "MEXICO" tvg-logo ="https://innovatv.live/posters/1602323352239.png", EXCELSIOR- 
+#EXTINF: -1 group-title="MEXICO" tvg-logo="https://innovatv.live/posters/1602323352239.png", EXCELSIOR- 
 http://51.79.18.128:8081/LATINO%7CEXCELSIOR/LATINO%7CEXCELSIOR/playlist.m3u8 
-#EXTINF: -1 group-title = "MEXICO" tvg-logo ="https://innovatv.live/posters/1602323431162.png", FOROTV 
+#EXTINF: -1 group-title="MEXICO" tvg-logo="https://innovatv.live/posters/1602323431162.png", FOROTV 
 http://51.79.18.128:8081/LATINO%7CFOROTV/LATINO%7CFOROTV/playlist.m3u8 
-#EXTINF: -1 group-title = "MEXICO" tvg-logo ="https://innovatv.live/posters/1602343838438.jpg", IMAGENTV 
+#EXTINF: -1 group-title="MEXICO" tvg-logo="https://innovatv.live/posters/1602343838438.jpg", IMAGENTV 
 http://51.79.18.128:8081/LATINO%7CIMAGENTV/LATINO%7CIMAGENTV/playlist.m3u8  
-#EXTINF: -1 group-title = "MEXICO" tvg-logo ="https://innovatv.live/posters/1602473447284.png", MILENIO-NOTICIAS
+#EXTINF: -1 group-title="MEXICO" tvg-logo="https://innovatv.live/posters/1602473447284.png", MILENIO-NOTICIAS
 http://51.79.18.128:8081/LATINO%7CMILENIOMEXICO/LATINO%7CMILENIOMEXICO/playlist.m3u8 
-#EXTINF: -1 group-title = "MEXICO" tvg-logo ="https://innovatv.live/posters/1633574487461.png", CANAL-4-GDL 
+#EXTINF: -1 group-title="MEXICO" tvg-logo="https://innovatv.live/posters/1633574487461.png", CANAL-4-GDL 
 http://51.79.18.128:8081/LATINO%7CCANAL4GDL/LATINO%7CCANAL4GDL/playlist.m3u8
-#EXTINF: -1 group-title = "MEXICO" tvg-logo ="https://innovatv.live/posters/1602292937158.png", CANAL-66-MEXICALI 
+#EXTINF: -1 group-title="MEXICO" tvg-logo="https://innovatv.live/posters/1602292937158.png", CANAL-66-MEXICALI 
 http://51.79.18.128:8081/LATINO%7CCANAL66MEXICALI/LATINO%7CCANAL66MEXICALI/playlist.m3u8
-#EXTINF: -1 group-title = "MEXICO" tvg-logo ="https://innovatv.live/posters/1607834854438.jpg", NUEVE-9 
+#EXTINF: -1 group-title="MEXICO" tvg-logo="https://innovatv.live/posters/1607834854438.jpg", NUEVE-9 
 http://51.79.18.128:8081/LATINO%7CNUEVE/LATINO%7CNUEVE/playlist.m3u8
-#EXTINF: -1 group-title = "MEXICO" tvg-logo ="https://innovatv.live/posters/1602426103378.png", TELEVISA-MONTERREY 
+#EXTINF: -1 group-title="MEXICO" tvg-logo="https://innovatv.live/posters/1602426103378.png", TELEVISA-MONTERREY 
 http://51.79.18.128:8081/LATINO%7CTELEVISAMTY/LATINO%7CTELEVISAMTY/playlist.m3u8
 
 #EXTINF:-1 tvg-id="658" tvg-name="ADN 40" tvg-logo="https://www.m3u.cl/logo/658_ADN_40.png"  group-title="MEXICO", ADN 40 | MX
