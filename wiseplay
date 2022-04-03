@@ -21,10 +21,9 @@
 		    
 		    
 		   {
-		"name": "espn  | ES 🇪🇸",
+		"name": "espn 1  | ES 🇪🇸",
 		"image": "https://i.imgur.com/PoAUHmh.png",
         "url" : "https://maxsport.one/stream149.php",
-               "referer" : "http://cdn.livetv507.me/",
 			  "isHost" : "true"
                  }, {
 			"name": "Bein Sport Extra Ñ (opc.1) | LAT 🇲🇽",
