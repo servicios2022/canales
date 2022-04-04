@@ -2665,6 +2665,11 @@ http://events3-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uan9R5X.png" group-title="MUSICA LATINA",•●★-- 📺 MUSICA LATINA 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UX6IHNl.png" group-title="MUSICA LATINA",VEVO REGGAETÓN & TRAP
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UX6IHNl.png" group-title="MUSICA LATINA",VEVO LATINO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a1017b00-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3566ca8c-2173-405a-b3fd-417fe1777274&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/742490028559982592/ddFmTivZ_400x400.jpg" group-title="MUSICA LATINA",La Mega Mundial HD
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/742490028559982592/ddFmTivZ_400x400.jpg" group-title="MUSICA LATINA",La Mega Mundial HD
@@ -2964,7 +2969,6 @@ https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/nmdf6cD.png" group-title="MUSICA ANGLO",ТНТ Music HD
 http://83.222.205.65:8080/tntmusic/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DX7cKNF.png" group-title="MUSICA ANGLO",JAZZ TV
 https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DX7cKNF.png" group-title="MUSICA ANGLO",COOL TV
@@ -3030,10 +3034,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c80b6c0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6bc0815e-fe9a-464b-9d20-af824e8dcdc5&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UX6IHNl.png" group-title="MUSICA ANGLO",VEVO COUNTRY
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c808fb2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a7f46d76-39c5-4794-883c-4d22a9c41fde&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UX6IHNl.png" group-title="MUSICA ANGLO",VEVO REGGAETÓN & TRAP
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UX6IHNl.png" group-title="MUSICA ANGLO",VEVO LATINO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a1017b00-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3566ca8c-2173-405a-b3fd-417fe1777274&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UX6IHNl.png" group-title="MUSICA ANGLO",STINGRAY CONCIERTOS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=25bb1260-ada8-11eb-a3cb-eb027f348c5f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e0734995-d0cf-4ff8-998e-187b9668e54d&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UX6IHNl.png" group-title="MUSICA ANGLO",STINGRAY KARAOKE
