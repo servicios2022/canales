@@ -1027,6 +1027,59 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ujLKcqq.png" group-title="CINE",•●★-- 📺 CINE 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png"  group-title="CINE",Orbit TV | DO
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/891_Viwix_TV.png"  group-title="CINE",Viwix TV | CL
+https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/481_FMTV_1.png"  group-title="CINE",FMTV 1 | US
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
+#EXTINF:-1 tvg-id="956" tvg-name="Conecta2 TV" tvg-logo="https://www.m3u.cl/logo/956_Conecta2_TV.png"  group-title="CINE", Conecta2 TV | CL
+https://srv.panelcast.net/rc2/rc2/playlist.m3u8
+#EXTINF:-1 tvg-id="467" tvg-name="TV Pop" tvg-logo="https://www.m3u.cl/logo/467_TV_Pop.jpg"  group-title="CINE", TV Pop | CL
+https://v4.tustreaming.cl/poptv/index.m3u8
+#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://www.m3u.cl/logo/405_Cosmos_TV.png"  group-title="CINE", Cosmos TV | CL 
+http://v2.tustreaming.cl:80/cosmostv/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png"  group-title="CINE",Retro Plus TV Señal 3 | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png"  group-title="CINE",Mi TV Televisión Clásica | US
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1024_Vision_Plus_TV.png"  group-title="CINE",Vision Plus TV 
+http://v2.tustreaming.cl:80/visionplustv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/1200px-Atrescine_logo.svg.png" group-title="CINE",A3 CINE
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE",MY TIME MOVIES 1 
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE",MY TIME MOVIES 2 
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE",RUN:TIME 
+https://ammo-espanol-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE",RUN:TIME 
+https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/208_CINE_AR.png"  group-title="CINE",CINE.AR | AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Cinehouse.png" group-title="CINE",Cine House
+https://digitalmediarights-cinehouse-1-us.plex.wurl.tv/4300.m3u8
+#EXTINF:-1 channelId="-1"  tvg-logo="https://mark.trademarkia.com/services/logo.ashx?sid=88914623" group-title="CINE",Cine Real
+https://cinereal-plex.amagi.tv/CineReal/master.m3u8
+#EXTINF:-1 channelId="-1"  tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png" group-title="CINE",Tu Cine
+https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
+#EXTINF:-1 channelId="-1"  tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/CineSurreno_295x98.png" group-title="CINE",cine sureño 
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+#EXTINF:-1 channelId="-1"  tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TopCine_295x98.png" group-title="CINE",top cine
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1016_Planetatv_Movie.png"  group-title="CINE",Planetatv Movie 
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/fe3c7159-2d42-47c3-a112-2c0cd847e4ef/horrorfy_logo.png" group-title="CINE",Horrify 
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_4.m3u8
+#EXTINF:-1 channelId="-1"  tvg-logo="https://i.imgur.com/MAfcMe6.png" group-title="CINE",Juntos Tv
+https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" group-title="CINE",SONY Ccomedias
+https://spt-comedias-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" group-title="CINE",SONY Novelas
+https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://pngset.com/images/pongalo-novela-club-text-vehicle-transportation-number-transparent-png-1387798.png" group-title="CINE",Novela Club
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunovelaclub/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UX6IHNl.png" group-title="CINE",PARAMUNT+ PRESENTA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UX6IHNl.png" group-title="CINE",BBC DRAMA
@@ -1131,64 +1184,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d00077
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=24628e11-de0a-11eb-994d-d7a54cf59ce6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51e646c1-6832-4d93-a378-911135b0c8f9&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UX6IHNl.png" group-title="CINE",CINE HUMOR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc45-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6125129c-5aac-4b90-ba29-7333c93545b2&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png"  group-title="CINE",Orbit TV | DO
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/891_Viwix_TV.png"  group-title="CINE",Viwix TV | CL
-https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/481_FMTV_1.png"  group-title="CINE",FMTV 1 | US
-https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
-#EXTINF:-1 tvg-id="956" tvg-name="Conecta2 TV" tvg-logo="https://www.m3u.cl/logo/956_Conecta2_TV.png"  group-title="CINE", Conecta2 TV | CL
-https://srv.panelcast.net/rc2/rc2/playlist.m3u8
-#EXTINF:-1 tvg-id="467" tvg-name="TV Pop" tvg-logo="https://www.m3u.cl/logo/467_TV_Pop.jpg"  group-title="CINE", TV Pop | CL
-https://v4.tustreaming.cl/poptv/index.m3u8
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://www.m3u.cl/logo/405_Cosmos_TV.png"  group-title="CINE", Cosmos TV | CL 
-http://v2.tustreaming.cl:80/cosmostv/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png"  group-title="CINE",Retro Plus TV Señal 3 | CL
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png"  group-title="CINE",Mi TV Televisión Clásica | US
-https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1024_Vision_Plus_TV.png"  group-title="CINE",Vision Plus TV 
-http://v2.tustreaming.cl:80/visionplustv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/1200px-Atrescine_logo.svg.png" group-title="CINE",A3 CINE
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
-#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE",MY TIME MOVIES 1 
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE",MY TIME MOVIES 2 
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE",RUN:TIME 
-https://ammo-espanol-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE",RUN:TIME 
-https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="CINE",PLUTO TV Series Retro
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="CINE",PLUTO TV Film Stream
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea359e533cb0007215c71/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ba83c802-56b5-11eb-8bd3-bb18f43a3d77&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9fce1a11-6571-494b-befd-e33c841f6807&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/208_CINE_AR.png"  group-title="CINE",CINE.AR | AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Cinehouse.png" group-title="CINE",Cine House
-https://digitalmediarights-cinehouse-1-us.plex.wurl.tv/4300.m3u8
-#EXTINF:-1 channelId="-1"  tvg-logo="https://mark.trademarkia.com/services/logo.ashx?sid=88914623" group-title="CINE",Cine Real
-https://cinereal-plex.amagi.tv/CineReal/master.m3u8
-#EXTINF:-1 channelId="-1"  tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png" group-title="CINE",Tu Cine
-https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
-#EXTINF:-1 channelId="-1"  tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/CineSurreno_295x98.png" group-title="CINE",cine sureño 
-https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
-#EXTINF:-1 channelId="-1"  tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TopCine_295x98.png" group-title="CINE",top cine
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1016_Planetatv_Movie.png"  group-title="CINE",Planetatv Movie 
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/fe3c7159-2d42-47c3-a112-2c0cd847e4ef/horrorfy_logo.png" group-title="CINE",Horrify 
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_4.m3u8
-#EXTINF:-1 channelId="-1"  tvg-logo="https://i.imgur.com/MAfcMe6.png" group-title="CINE",Juntos Tv
-https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" group-title="CINE",SONY Ccomedias
-https://spt-comedias-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" group-title="CINE",SONY Novelas
-https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://pngset.com/images/pongalo-novela-club-text-vehicle-transportation-number-transparent-png-1387798.png" group-title="CINE",Novela Club
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunovelaclub/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="CINE",PLUTO TELESERIES
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d533-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=04baab3a-5f85-4e2b-9112-e0c2b16014ce&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/349_Estacion_TV.png"  group-title="CINE",Estacion TV | CL
 https://pantera1-100gb-cl-movistar.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
 
