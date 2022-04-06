@@ -69,6 +69,24 @@ http://51.79.18.128:8081/LATINO%7CNATGEOMUNDO/LATINO%7CNATGEOMUNDO/playlist.m3u8
 http://51.79.18.128:8081/24%7C7%7CLATINO%7CSIMPSONS/SIMPSONS/playlist.m3u8
 #EXTINF: -1 group-title="PREMIUM" tvg-logo="https://innovatv.live/posters/1602703986157.png", BOB-ESPONJA 
 http://51.79.18.128:8081/24%7C7%7CBOBESPONJA/24%7C7%7CBOBESPONJA/playlist.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",AXN
+http://138.117.84.82/co_axn/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",CINEMAX
+http://138.117.84.82/co_cinemax/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",ESPN
+http://138.117.84.82/co_espn/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",ESPN 2
+http://138.117.84.82/co_espn_2/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",ESPN 3
+http://138.117.84.82/co_espn_3/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",SONY
+http://138.117.84.82/co_sony/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",WARNER
+http://138.117.84.82/co_warner/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",CANAL UNO
+http://138.117.84.82/co_canal_uno_sd/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",NTN 24
+http://138.117.84.82/co_ntn24_dx/index.m3u8
 
 #EXTINF:1,-PLUTO TV-
 
