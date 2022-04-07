@@ -109,10 +109,20 @@ http://138.117.84.82/co_disney_jr_sd/index.m3u8
 http://138.117.84.82/co_discovery_turbo_sd/index.m3u8
 #EXTINF: -1 group-title="PREMIUM" tvg-logo="",DISCOVERY KIDS
 http://138.117.84.82/co_discovery_kids_sd/index.m3u8
-#EXTINF: -1 group-title="PREMIUM" tvg-logo="",DISCOVERY KIDS
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",AMERICA PERU
 http://138.117.84.82/pe_america/index.m3u8
-#EXTINF: -1 group-title="PREMIUM" tvg-logo="",DISCOVERY KIDS
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",WIN SPORTS 
 http://138.117.84.82/co_win/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",1
+http://138.117.84.82/cl_tvn/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",2
+http://138.117.84.82/cl_mega/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",3
+http://138.117.84.82/cl_canal13/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",4
+http://138.117.84.82/cl_chilevision/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",5
+http://138.117.84.82/cl_lared/index.m3u8
 
 #EXTINF:1,-PLUTO TV-
 
