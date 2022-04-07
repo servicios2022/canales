@@ -81,6 +81,38 @@ http://138.117.84.82/co_warner/index.m3u8
 http://138.117.84.82/co_canal_uno_sd/index.m3u8
 #EXTINF: -1 group-title="PREMIUM" tvg-logo="",NTN 24
 http://138.117.84.82/co_ntn24_dx/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",AE SD (COLOMBIA)
+http://138.117.84.82/co_ae_sd/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",CINECANAL SD (COLOMBIA)
+http://138.117.84.82/co_cinecanal_sd/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",FX SD (COLOMBIA)
+http://138.117.84.82/co_fx_sd/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",TLC SD (COLOMBIA)
+http://138.117.84.82/co_tlc_sd/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",H&H SD (COLOMBIA)
+http://138.117.84.82/co_hh_sd/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",SUN SD (COLOMBIA)
+http://138.117.84.82/co_sun/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",NAT GEO SD(COLOMBIA)
+http://138.117.84.82/co_nat_geo_sd/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",ANIMAL PLANET SD(COLOMBIA)
+http://138.117.84.82/co_animal_planet_sd/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",HISTORY CHANNEL
+http://138.117.84.82/co_history_channel/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",WARNER
+http://138.117.84.82/co_warner/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",DISNEY CHANNEL
+http://138.117.84.82/co_disney_channel_sd/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",DISNEY JR
+http://138.117.84.82/co_disney_jr_sd/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",DISCOVERY TURBO
+http://138.117.84.82/co_discovery_turbo_sd/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",DISCOVERY KIDS
+http://138.117.84.82/co_discovery_kids_sd/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",DISCOVERY KIDS
+http://138.117.84.82/pe_america/index.m3u8
+#EXTINF: -1 group-title="PREMIUM" tvg-logo="",DISCOVERY KIDS
+http://138.117.84.82/co_win/index.m3u8
 
 #EXTINF:1,-PLUTO TV-
 
