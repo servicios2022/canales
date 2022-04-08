@@ -843,6 +843,8 @@ https://bit.ly/golfpassusa?/5.m3u8
 
 DEPORTES
 
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6402.1514269404.png" group-title="DEPORTE INTERNACIONAL", SKY Racing 1
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 #EXTINF:-1 tvg-logo="https://www.adadarters.com/wp-content/uploads/2020/10/FTF_White.png" group-title="DEPORTE INTERNACIONAL", FTF Sports
 https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://upstream-media.ch/wp-content/uploads/2019/06/swiss-sport-tv-weiss-transparent_bei_USM.png" group-title="DEPORTE INTERNACIONAL", Swiss Sport TV
