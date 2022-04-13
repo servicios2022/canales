@@ -626,11 +626,13 @@ http://177.128.115.10:8000/play/a00t
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="DEPORTE LATINO",TUDN
 http://54.39.19.162:8081/live/dream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="DEPORTE LATINO",Gol Tv | EC
-https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="DEPORTE LATINO",FOX SPORTS | AR
+https://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="DEPORTE LATINO",FOX SPORTS | MX 
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t2Wn2rO.png" group-title="DEPORTE LATINO",FOX SPORTS 2 | AR
+https://edge2.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t2Wn2rO.png" group-title="DEPORTE LATINO",FOX SPORTS 2 | MX 
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t2Wn2rO.png" group-title="DEPORTE LATINO",FOX SPORTS 2 | MX 
@@ -648,6 +650,8 @@ http://190.92.95.37:8000/play/a0io/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbi
 http://138.117.84.82/co_espn_2/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="DEPORTE LATINO",ESPN 2 | AR 
 http://190.92.95.37:8000/play/a0ip/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1  tvg-logo="https://i.imgur.com/iFqCpKj.png" group-title="DEPORTE LATINO",ESPN 3 | AR 
+https://edge3.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/iFqCpKj.png" group-title="DEPORTE LATINO",ESPN 3 | AR 
 http://138.117.84.82/co_espn_3/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/iFqCpKj.png" group-title="DEPORTE LATINO",ESPN 3 | AR 
