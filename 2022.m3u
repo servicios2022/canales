@@ -28,6 +28,8 @@ http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbxfHh6.png" group-title="CHAMPIONS LEAGUE",•●★-- 📺 CHAMPIONS LEAGUE 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://i.imgur.com/8EAbIHJ.png"  group-title="CHAMPIONS LEAGUE", ATV | PE
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="CHAMPIONS LEAGUE",FOX SPORTS | AR
 https://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t2Wn2rO.png" group-title="CHAMPIONS LEAGUE",FOX SPORTS 2 | AR
