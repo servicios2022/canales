@@ -749,44 +749,6 @@ https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QMC9j4L.png"  group-title="DEPORTE INTERNACIONAL",Sporting Tv | PT
 https://bit.ly/3K2UOX7?/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yPAPfGY.png" group-title="DEPORTE INTERNACIONAL",Champion Tv 1
-http://tvn.x10.bz/xchannel/master-6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yPAPfGY.png" group-title="DEPORTE INTERNACIONAL",Champion Tv 2
-http://tvn.x10.bz/xchannel/master-7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yPAPfGY.png" group-title="DEPORTE INTERNACIONAL",Champion Tv 3
-http://tvn.x10.bz/xchannel/master-8.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yPAPfGY.png" group-title="DEPORTE INTERNACIONAL",Champion Tv 4
-http://tvn.x10.bz/xchannel/master-17.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yPAPfGY.png" group-title="DEPORTE INTERNACIONAL",JuaraTv 1
-https://lnk.ec/shareext@juara1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yPAPfGY.png" group-title="DEPORTE INTERNACIONAL",JuaraTv 2
-https://lnk.ec/shareext@juara2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yPAPfGY.png" group-title="DEPORTE INTERNACIONAL",JuaraTv 3
-https://lnk.ec/shareext@juara3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yPAPfGY.png" group-title="DEPORTE INTERNACIONAL",JuaraTv 4
-https://lnk.ec/shareext@juara4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bxuByNg.png" group-title="DEPORTE INTERNACIONAL",VIVARO SPORTS HD
-http://135.181.178.91/vmedia_live/1/mono.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bxuByNg.png" group-title="DEPORTE INTERNACIONAL",VIVARO SPORTS+ HD
-http://135.181.178.91/vmedia_live/2/mono.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bxuByNg.png" group-title="DEPORTE INTERNACIONAL",VIVARO ARENA HD 
-http://135.181.178.91/vmedia_live/3/mono.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RinoQnq.png" group-title="DEPORTE INTERNACIONAL",True Premiere| UK
-http://4digital.ddns.net:11222/ts/0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m8AH4NJ.png" group-title="DEPORTE INTERNACIONAL",Astro Arena
-https://lnk.ec/shareext@arena1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m8AH4NJ.png" group-title="DEPORTE INTERNACIONAL",Astro Arena 2
-https://lnk.ec/shareext@arena2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sport.png" group-title="DEPORTE INTERNACIONAL",U Sports
-https://lnk.ec/shareext@useesport
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sport.png" group-title="DEPORTE INTERNACIONAL",U Sports 2
-https://lnk.ec/shareext@useesports2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Unifi-Sports.png" group-title="DEPORTE INTERNACIONAL",UNIFI SPORTS 1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Unifi-Sports.png" group-title="DEPORTE INTERNACIONAL",UNIFI SPORTS 2
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vazu6a4IEn4/YFshQ-G6MWI/AAAAAAAAFzU/Jh39xiBD2EI79qmM3lxsFo9dglBQekfNACNcBGAsYHQ/s0/match_ru_tv.png" group-title="DEPORTE INTERNACIONAL",MAT4!
-http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://tdh.gov.tm/themes/tdh-updated/assets/images/turkmenistan_sport.png" group-title="DEPORTE INTERNACIONAL",Turkmen Sport HD
 http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
