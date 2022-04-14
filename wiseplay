@@ -695,19 +695,19 @@
 			"url":"http://timesports.cc/laligauk.php",
             "isHost" : "true"
             }, {
-			"name": "La Liga PPV 1 (solo partidos) | ES 🇪🇸",
-			"image": "https://i.imgur.com/X3LlIhz.png",
-	        "url": "http://5.161.63.200/xls/campin/index.m3u8",
-		"userAgent" : ""
-                    }, {
-			"name": "La Liga PPV 2 (solo partidos) | ES 🇪🇸",
+			"name": "La Liga PPV (solo partidos) | ES 🇪🇸",
 			"image": "https://i.imgur.com/X3LlIhz.png",
 	        "url": "http://loga.ultratotal.ml/xls/ligota/index.m3u8",
 		"userAgent" : ""
                     }, {
-			"name": "La Liga PPV 3 (solo partidos) | EN 🇺🇸",
+			"name": "La Liga PPV (solo partidos) | EN 🇺🇸",
 			"image": "https://i.imgur.com/X3LlIhz.png",
 	        "url": "http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8",
+		"userAgent" : ""
+                    }, {
+			"name": "Liga de Campeones PPV (solo partidos) | ES 🇪🇸",
+			"image": "https://i.imgur.com/F7rt7u0.png",
+	        "url": "http://loga.ultratotal.ml/xls/champions/index.m3u8",
 		"userAgent" : ""
                     }, {
 			"name": "Liga de Campeones por M+ (opc.1) | ES 🇪🇸",
