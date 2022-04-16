@@ -17,34 +17,6 @@
 	   	     "url": "",
 			"userAgent" : ""
                     },  {
-			"name": "tudn 0) | LAT 🇲🇽",
-			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
-	   	      "url" :  "https://futbollibre.net/embed/?r=Ly92dy1zb3VyY2UuY29tL3N0cmVhbS9kL3ZpeC5odG1sP3NscGw=&p=j9uCow8T",
-		      "referer" : "https://futbollibre.net/",
-			 "isHost":"true"
-                    }, {
-			"name": "tudn 2) | LAT 🇲🇽",
-			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
-	   	      "url" :  "https://futbollibre.net/en-vivo/cdf-premium/",
-		         "referer" : "https://futbollibre.net/",
-			 "isHost":"true"
-                    }, {
-			"name": "tudn 3) | LAT 🇲🇽",
-			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
-	   	      "url" :  "http://streamcloudgo.com/espn.html",
-		         "referer" : "https://futbollibre.net/",
-			 "isHost":"true"
-                    }, {
-			"name": "tudn 4) | LAT 🇲🇽",
-			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
-	   	      "url" :  "https://futbollibre.net/en-vivo/espn-1/?gratis",
-		         "referer" : "https://futbollibre.net/",
-			 "isHost":"true"
-                    }, 
-		    
-		    
-		    
-		    {
 			"name": "Bein Sport Extra Ñ (opc.1) | LAT 🇲🇽",
 			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
 	   	     "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8",
