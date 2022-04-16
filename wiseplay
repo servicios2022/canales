@@ -26,6 +26,16 @@
 			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
 	   	      "url" :  "https://futbollibre.net/en-vivo/cdf-premium/",
 			 "isHost":"true"
+                    }, {
+			"name": "tudn 3) | LAT 🇲🇽",
+			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
+	   	      "url" :  "http://streamcloudgo.com/espn.html",
+			 "isHost":"true"
+                    }, {
+			"name": "tudn 4) | LAT 🇲🇽",
+			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
+	   	      "url" :  "https://futbollibre.net/en-vivo/espn-1/?gratis",
+			 "isHost":"true"
                     }, 
 		    
 		    
