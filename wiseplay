@@ -21,6 +21,11 @@
 			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
 	   	      "url" :  "https://futbollibre.net/embed/?r=Ly92dy1zb3VyY2UuY29tL3N0cmVhbS9kL3ZpeC5odG1sP3NscGw=&p=j9uCow8T",
 			 "isHost":"true"
+                    }, {
+			"name": "tudn 2) | LAT 🇲🇽",
+			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
+	   	      "url" :  "https://futbollibre.net/en-vivo/cdf-premium/",
+			 "isHost":"true"
                     }, 
 		    
 		    
