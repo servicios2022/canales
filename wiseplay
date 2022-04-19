@@ -945,6 +945,11 @@
            "url" :  "https://macron.xyz/player/1/103",
 			 "isHost":"true"
                       }, {
+			"name": "USA Network | EN 🇺🇸",
+             "image": "https://i.imgur.com/J08nma6.png",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd1.php",
+			 "isHost":"true"
+                      },{
 			"name": "Vamos por M+ (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/ZYXUy5I.png",
          "url": "https://ragnarp.net/embed/6jv5qrdinf",
