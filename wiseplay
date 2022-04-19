@@ -377,7 +377,7 @@
                      }, {
 			"name": "Gol TV (opc.2) | ES 🇪🇸",
 			"image": "https://i.imgur.com/kN4OKEp.png",
-			 "url": "https://sportsonline.to/channels/hd/hd6.php",
+			 "url": "https://v3.sportsonline.to/channels/hd/hd6.php",
 			"referer": "http://cnlsport.xyz/",
 			"isHost" : "true"
            }, {
@@ -426,6 +426,11 @@
                 "image": "https://i.imgur.com/kN4OKEp.png",
                 "url": "https://macron.xyz/player/1/70",
                 "isHost":"true"
+                }, { 
+                "name": "Gol TV (opc.11) | ES 🇪🇸",
+                "image": "https://i.imgur.com/kN4OKEp.png",
+                "url": "https://v3.sportsonline.to/channels/hd/hd8.php",
+                "isHost":"true"
                 }, {
 		"name": "La Liga por M+ (opc.1) | ES 🇪🇸",
 		"image": "https://i.imgur.com/PoAUHmh.png",
@@ -459,7 +464,7 @@
                }, {
 			"name": "La Liga por M+ (opc.6) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
-			 "url": "https://sportsonline.to/channels/hd/hd6.php",
+			 "url": "https://v3.sportsonline.to/channels/hd/hd6.php",
 			"referer": "http://cnlsport.xyz/",
 			"isHost" : "true"
            }, {
