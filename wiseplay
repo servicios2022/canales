@@ -16,7 +16,12 @@
 			"image": "https://i.imgur.com/xdqGNPq.png",
 	   	     "url": "",
 			"userAgent" : ""
-                    },  {
+                    }, {
+			"name": "esp1 | LAT 🇲🇽",
+          	   "image": "https://i.imgur.com/c4gfwhr.png",
+          	 "url" :  "http://ultraiptv2.ucoz.com.br/channels2/premiereclubeshd.html",
+			 "isHost":"true"
+                      }, {
 			"name": "Bein Sport Extra Ñ (opc.1) | LAT 🇲🇽",
 			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
 	   	     "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8",
