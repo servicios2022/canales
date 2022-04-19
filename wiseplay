@@ -356,17 +356,22 @@
                       }, {
 			"name": "Futbol Brasileño PPV 1 | BR 🇧🇷",
 			"image": "https://i.imgur.com/AFN3H0m.png",
-			"url": "https://v2.sportsonline.to/channels/bra/br1.php",
+			"url": "https://v3.sportsonline.to/channels/bra/br1.php",
              "isHost": "true"
          }, {
 			"name": "Futbol Brasileño PPV 2 | BR 🇧🇷",
 			"image": "https://i.imgur.com/AFN3H0m.png",
-			"url": "https://v2.sportsonline.to/channels/bra/br2.php",
+			"url": "https://v3.sportsonline.to/channels/bra/br2.php",
              "isHost": "true"
          }, {
 			"name": "Futbol Brasileño PPV 3 | BR 🇧🇷",
 			"image": "https://i.imgur.com/AFN3H0m.png",
-			"url": "https://v2.sportsonline.to/channels/bra/br3.php",
+			"url": "https://v3.sportsonline.to/channels/bra/br3.php",
+             "isHost": "true"
+         },  {
+			"name": "Futbol Brasileño PPV 4 | BR 🇧🇷",
+			"image": "https://i.imgur.com/AFN3H0m.png",
+			"url": "https://v3.sportsonline.to/channels/bra/br4.php",
              "isHost": "true"
          }, {
 			"name": "Gol TV (opc.1) | ES 🇪🇸",
