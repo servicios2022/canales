@@ -848,28 +848,28 @@
          	  "url" :  "https://futbollatam.com/en-vivo/tnt-sports-argentina/?ver",
 			 "isHost":"true"
                       }, {
-			"name": "TNT Sports Argentina (opc.2) | AR 🇦🇷",
+			"name": "TNT Sports Argentina (opc.2) CA | AR 🇦🇷",
             	 "image": "https://i.imgur.com/TTaCeXw.png",
          	  "url" :  "https://pelotero.net/ver/tntsports.php",
 	  	 "referer": "https://cablegratis.online/tnt-sports-en-vivo-argentina-vip-tu-casa.html",
 			 "isHost":"true"
                       }, {
-			"name": "TNT Sports Argentina (opc.3) | AR 🇦🇷",
+			"name": "TNT Sports Argentina (opc.3) TU | AR 🇦🇷",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://www.tutele.sx/online.php?a=149",
           	  "isHost" : "true"
            	   },  {
-			"name": "TNT Sports Argentina (opc.4) | AR 🇦🇷",
+			"name": "TNT Sports Argentina (opc.4) C7 | AR 🇦🇷",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://c787898.com/embed.php?id=tntsports",
           	  "isHost" : "true"
            	   }, {
-			"name": "TNT Sports Argentina (opc.5) | AR 🇦🇷",
+			"name": "TNT Sports Argentina (opc.5) ST | AR 🇦🇷",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://starlive.xyz/embed.php?id=livetntsport",
           	  "isHost" : "true"
            	   }, {
-			"name": "TUDN (opc.1) | MX 🇲🇽",
+			"name": "TUDN (opc.1) 54 | MX 🇲🇽",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
 	        "url": "http://54.39.19.162:8081/live/dream1/playlist.m3u8",
 		"userAgent" : ""
@@ -879,138 +879,123 @@
 			"url":"https://cdnz.one/ch40.php",
             "isHost" : "true"
             }, {
-			"name": "TUDN (opc.3) | MX 🇲🇽",
+			"name": "TUDN (opc.3) MA | MX 🇲🇽",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
 			"url":"https://macron.xyz/player/1/113",
             "isHost" : "true"
             }, {
-			"name": "TUDN (opc.4) | MX 🇲🇽",
+			"name": "TUDN (opc.4) TU | MX 🇲🇽",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
 			"url":"https://www.tutele.sx/online.php?a=17",
             "isHost" : "true"
             }, {
-			"name": "TUDN (opc.5) | MX 🇲🇽",
+			"name": "TUDN (opc.5) FU | MX 🇲🇽",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
 			"url":"https://futbolfullenvivo.com/ver-channel-tudn-en-vivo/",
             "isHost" : "true"
             }, {
-			"name": "TUDN (opc.6) | MX 🇲🇽",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
-	        "url": "https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8",
-		"userAgent" : ""
-                    }, {
-			"name": "TUDN (opc.7) | MX 🇲🇽",
+			"name": "TUDN (opc.6) SP | MX 🇲🇽",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd6.php",
 			 "isHost":"true" 
                       }, {
-			"name": "TUDN (opc.8) | MX 🇲🇽",
+			"name": "TUDN (opc.7) MA | MX 🇲🇽",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://macron.xyz/player/1/47",
 			 "isHost":"true" 
                       }, {
-			"name": "TUDN (opc.9) | MX 🇲🇽",
+			"name": "TUDN (opc.8) MA | MX 🇲🇽",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://macron.xyz/player/1/100",
 			 "isHost":"true" 
                       }, {
-			"name": "TUDN (opc.10) | MX 🇲🇽",
+			"name": "TUDN (opc.9) MA | MX 🇲🇽",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://macron.xyz/player/1/111",
 			 "isHost":"true" 
                       }, {
-			"name": "TUDN (opc.11) | MX 🇲🇽",
+			"name": "TUDN (opc.10) MA | MX 🇲🇽",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://macron.xyz/player/1/113",
 			 "isHost":"true" 
                       }, {
-			"name": "TUDN (opc.12) | MX 🇲🇽",
+			"name": "TUDN (opc.11) MA | MX 🇲🇽",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://macron.xyz/player/1/114",
 			 "isHost":"true" 
                       },  {
-			"name": "TUDN (opc.13) | MX 🇲🇽",
+			"name": "TUDN (opc.12) SP | MX 🇲🇽",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://v3.sportsonline.to/channels/hd/hd8.php",
 			 "isHost":"true" 
                       }, {
-			"name": "TYC Sports (opc.1) | AR 🇦🇷",
-			"image": "https://i.imgur.com/I7Lhgej.png",
-	        "url": "https://sv.spliktv.xyz/live/caster/RB/TYC-SPORTS.m3u8",
-		"userAgent" : ""
-                    }, {
-			"name": "TYC Sports (opc.2) | AR 🇦🇷",
-			"image": "https://i.imgur.com/I7Lhgej.png",
-	        "url": "https://bs.spliktv.xyz/?id=TYC-SPORTS",
-		"userAgent" : ""
-                    }, {
-			"name": "TYC Sports (opc.3) | AR 🇦🇷",
+			"name": "TYC Sports (opc.1) CA | AR 🇦🇷",
              "image": "https://i.imgur.com/I7Lhgej.png",
            "url" :  "https://pelotero.net/ver/tycsports.php",
 	   "referer": "https://cablegratis.online/tyc-sports-en-vivo-gratis.html",
 			 "isHost":"true"
                       }, {
-			"name": "TYC Sports (opc.4) | AR 🇦🇷",
+			"name": "TYC Sports (opc.2) TU | AR 🇦🇷",
              "image": "https://i.imgur.com/I7Lhgej.png",
            "url" :  "https://www.tutele.sx/online.php?a=1204",
 			 "isHost":"true"
                       }, {
-			"name": "TYC Sports (opc.5) | AR 🇦🇷",
+			"name": "TYC Sports (opc.3) MA | AR 🇦🇷",
              "image": "https://i.imgur.com/I7Lhgej.png",
            "url" :  "https://macron.xyz/player/1/103",
 			 "isHost":"true"
                       }, {
-			"name": "USA Network | EN 🇺🇸",
+			"name": "USA Network SP | EN 🇺🇸",
              "image": "https://i.imgur.com/J08nma6.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd1.php",
 			 "isHost":"true"
                       },{
-			"name": "Vamos por M+ (opc.1) | ES 🇪🇸",
+			"name": "Vamos por M+ (opc.1) MA | ES 🇪🇸",
 			"image": "https://i.imgur.com/ZYXUy5I.png",
          "url": "https://ragnarp.net/embed/6jv5qrdinf",
 			"referer": "https://macron.xyz/",
              "isHost": "true"
                    }, {
-			"name": "Vamos por M+ (opc.2) | ES 🇪🇸",
+			"name": "Vamos por M+ (opc.2) VE | ES 🇪🇸",
 			"image": "https://i.imgur.com/ZYXUy5I.png",
 			  "url": "https://ragnaru.net/embed.php?player=desktop&live=do20",
 			"referer": "https://1.vecdn.pw/",
              "isHost": "true"
             }, {
- 			"name": "Vamos por M+ (opc.3) | ES 🇪🇸",
+ 			"name": "Vamos por M+ (opc.3) RE | ES 🇪🇸",
 			"image": "https://i.imgur.com/ZYXUy5I.png",    
             "url": "http://46.105.112.116:80/?watch=NL/vamoshd-esp&lb=1.m3u8&token=RED_mUZT__rECEXJvr9lU9Hpxg==,1647157751.6423232819&t=1&s=2&p=1&c=MA&r=1321&lb=1",
              "userAgent": "REDLINECLIENT TS4000 V2.4.81"
               }, {
- 			"name": "Vamos por M+ (opc.4) | ES 🇪🇸",
+ 			"name": "Vamos por M+ (opc.4) MA | ES 🇪🇸",
 			"image": "https://i.imgur.com/ZYXUy5I.png",    
             "url": "https://macron.xyz/player/1/71",
 			 "isHost":"true"
               }, {
-			"name": "Win Sports Plus (opc.1) | CO 🇨🇴",
+			"name": "Win Sports Plus (opc.1) CA | CO 🇨🇴",
              "image": "https://i.imgur.com/NwKPC6B.png",
            "url" :  "https://pelotero.net/ver/winsportsmas.php",
 	   "referer": "https://cablegratis.online/win-sports-mas-premium-cccccc-hd-online-vip-vip.html",
 			 "isHost":"true"
                       }, {
-			"name": "Win Sports Plus (opc.2) | CO 🇨🇴",
+			"name": "Win Sports Plus (opc.2) TU | CO 🇨🇴",
              "image": "https://i.imgur.com/NwKPC6B.png",
            "url" :  "https://www.tutele.sx/online.php?a=3305",
 			 "isHost":"true"
                       }, {
-			"name": "Win Sports Plus (opc.4) | CO 🇨🇴",
+			"name": "Win Sports Plus (opc.4) SP | CO 🇨🇴",
 			"image": "https://i.imgur.com/NwKPC6B.png",
 			"url": "https://v2.sportsonline.to/channels/hd/hd6.php",
             "referer" : "https://v2.sportsonline.to.html",
              "isHost": "true"
              },  {
-			"name": "Win Sports Plus (opc.5) | CO 🇨🇴",
+			"name": "Win Sports Plus (opc.5) EL | CO 🇨🇴",
 			"image": "https://i.imgur.com/NwKPC6B.png",
           "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
 			"referer": "https://elixx.xyz/",
              "isHost": "true"
                      }, {
-			"name": "Win Sports Plus (opc.6) | CO 🇨🇴",
+			"name": "Win Sports Plus (opc.6) MA | CO 🇨🇴",
              "image": "https://i.imgur.com/NwKPC6B.png",
            "url" :  "https://macron.xyz/player/1/120",
 			 "isHost":"true"
