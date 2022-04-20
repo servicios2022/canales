@@ -679,37 +679,37 @@
 			"url":"http://timesports.cc/skysportspremierleague.php",
             "isHost" : "true"
 		 }, {
-              "name": "Sky Sports Premier League (opc.3) | UK 🇬🇧",
+              "name": "Sky Sports Premier League (opc.3) TU | UK 🇬🇧",
 			"image": "https://i.imgur.com/PeCJr2n.png",
 			"url":"https://www.tutele.sx/online.php?a=144",
             "isHost" : "true"
 		 }, {
-              "name": "Sky Sports Premier League (opc.4) | UK 🇬🇧",
+              "name": "Sky Sports Premier League (opc.4) FU | UK 🇬🇧",
 			"image": "https://i.imgur.com/PeCJr2n.png",
 			"url":"https://futbolfullenvivo.com/ver-channel-sky-premier-league-en-vivo/",
             "isHost" : "true"
 		 }, {
-			"name": "Sky Sport Uno Tennis (opc.1) | EN 🇺🇸",
+			"name": "Sky Sport Uno Tennis (opc.1) C7 | EN 🇺🇸",
 			"image": "https://i.imgur.com/8eGsFAe.png",
 	        "url": "https://c787898.com/embed.php?id=live1",
 		"userAgent" : ""
                     }, {
-			"name": "Sky Sport Uno Tennis (opc.2) | EN 🇺🇸",
+			"name": "Sky Sport Uno Tennis (opc.2) ST | EN 🇺🇸",
 			"image": "https://i.imgur.com/8eGsFAe.png",
 	        "url": "https://starlive.xyz/embed.php?id=live1",
 		"userAgent" : ""
                     }, {
-			"name": "Sport Tv 1 | PT 🇵🇹",
+			"name": "Sport Tv 1 SP | PT 🇵🇹",
              "image": "https://i.imgur.com/uHkR0lP.png",
            "url" :  "https://v2.sportsonline.to/channels/pt/sporttv1.php",
 			 "isHost":"true"
                       }, {
-			"name": "Sport Tv 2 (opc.1) | PT 🇵🇹",
+			"name": "Sport Tv 2 (opc.1) SP | PT 🇵🇹",
              "image": "https://i.imgur.com/GGVYfbU.png",
            "url" :  "https://v2.sportsonline.to/channels/pt/sporttv2.php",
 			 "isHost":"true"
                       }, {
-			"name": "Sport Tv 2 (opc.2) | PT 🇵🇹",
+			"name": "Sport Tv 2 (opc.2) EL | PT 🇵🇹",
 			"image": "https://i.imgur.com/GGVYfbU.png",
 			"url": "https://wigistream.to/embed/nhishd",
 			 "referer" : "https://elixx.xyz/",
@@ -741,62 +741,62 @@
 			"url":"https://v2.sportsonline.to/channels/hd/hd5.php",
             "isHost" : "true"
 		 }, {
-              "name": "Super Sport La Liga (opc.2) | UK 🇬🇧",
+              "name": "Super Sport La Liga (opc.2) TI | UK 🇬🇧",
 			"image": "https://i.imgur.com/MnZnAPI.png",
 			"url":"http://timesports.cc/laligauk.php",
             "isHost" : "true"
 		 }, {
-              "name": "Super Sport La Liga (opc.3) | UK 🇬🇧",
+              "name": "Super Sport La Liga (opc.3) TU | UK 🇬🇧",
 			"image": "https://i.imgur.com/MnZnAPI.png",
 			"url":"https://www.tutele.sx/online.php?a=153",
             "isHost" : "true"
 		 }, {
-              "name": "Super Sport La Liga (opc.4) | UK 🇬🇧",
+              "name": "Super Sport La Liga (opc.4) FU | UK 🇬🇧",
 			"image": "https://i.imgur.com/MnZnAPI.png",
 			"url":"https://futbolfullenvivo.com/ver-channel-laligatv-uk-en-vivo/",
             "isHost" : "true"
 		 }, {
-              "name": "Super Sport Football (opc.1) | UK 🇬🇧",
+              "name": "Super Sport Football (opc.1) C7 | UK 🇬🇧",
 			"image": "https://i.imgur.com/8pKu1bh.png",
 			"url":"https://c787898.com/embed.php?id=live10",
             "isHost" : "true"
 		 }, {
-              "name": "Super Sport Football (opc.2) | UK 🇬🇧",
+              "name": "Super Sport Football (opc.2) ST | UK 🇬🇧",
 			"image": "https://i.imgur.com/8pKu1bh.png",
 			"url":"https://starlive.xyz/embed.php?id=live10m",
             "isHost" : "true"
 		 },  {
-              "name": "Super Sport Football (opc.3) | UK 🇬🇧",
+              "name": "Super Sport Football (opc.3) TI | UK 🇬🇧",
 			"image": "https://i.imgur.com/8pKu1bh.png",
 			"url":"http://timesports.cc/supersportsfootball.php",
             "isHost" : "true"
 		 }, {
-              "name": "Super Sport Football (opc.4) | UK 🇬🇧",
+              "name": "Super Sport Football (opc.4) TU | UK 🇬🇧",
 			"image": "https://i.imgur.com/8pKu1bh.png",
 			"url":"https://www.tutele.sx/online.php?a=186",
             "isHost" : "true"
 		 }, {
-              "name": "Super Sport Premier League (opc.1) | UK 🇬🇧",
+              "name": "Super Sport Premier League (opc.1) SP | UK 🇬🇧",
 			"image": "https://i.imgur.com/giycoB2.png",
 			"url":"https://v2.sportsonline.to/channels/hd/hd1.php",
             "isHost" : "true"
 		 }, {
-              "name": "Super Sport Premier League (opc.2) | UK 🇬🇧",
+              "name": "Super Sport Premier League (opc.2) TI | UK 🇬🇧",
 			"image": "https://i.imgur.com/giycoB2.png",
 			"url":"http://timesports.cc/supersportspremier.php",
             "isHost" : "true"
 		 }, {
-              "name": "Super Sport Premier League (opc.3) | UK 🇬🇧",
+              "name": "Super Sport Premier League (opc.3) TU | UK 🇬🇧",
 			"image": "https://i.imgur.com/giycoB2.png",
 			"url":"https://www.tutele.sx/online.php?a=187",
             "isHost" : "true"
 		 }, {
-			"name": "Tennis Channel (opc.1) | EN 🇺🇸",
+			"name": "Tennis Channel (opc.1) C7 | EN 🇺🇸",
 			"image": "https://w7.pngwing.com/pngs/237/1008/png-transparent-logo-tennis-channel-hd-television-channel-tv-logos-angle-text-rectangle.png",
 	        "url": "https://c787898.com/embed.php?id=live28",
 		"userAgent" : ""
                     }, {
-			"name": "Tennis Channel (opc.2) | EN 🇺🇸",
+			"name": "Tennis Channel (opc.2) ST | EN 🇺🇸",
 			"image": "https://w7.pngwing.com/pngs/237/1008/png-transparent-logo-tennis-channel-hd-television-channel-tv-logos-angle-text-rectangle.png",
 	        "url": "https://starlive.xyz/embed.php?id=live28",
 		"userAgent" : ""
@@ -806,44 +806,44 @@
 	        "url": "https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8",
 		"userAgent" : ""
                     }, {
-			"name": " TNT Estadio Chile (opc.1) | CL 🇨🇱",
+			"name": " TNT Estadio Chile (opc.1) FU | CL 🇨🇱",
 			"image": "https://i.imgur.com/ma78IEH.png",
 			"url":"https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
          	   "isHost" : "true"
            	 },  {
-			"name": " TNT Estadio Chile (opc.2) | CL 🇨🇱",
+			"name": " TNT Estadio Chile (opc.2) TU | CL 🇨🇱",
 			"image": "https://i.imgur.com/ma78IEH.png",
 			"url":"https://www.tutele.sx/online.php?a=4",
           		  "isHost" : "true"
            	 }, {
-                "name": "TNT Sports Chile (opc.1) | CL 🇨🇱",
+                "name": "TNT Sports Chile (opc.1) FU | CL 🇨🇱",
                 "image": "https://i.imgur.com/TTaCeXw.png",
                 "url": "https://pelotero.net/cdf.php",
                  "referer": "https://www.futbolgratis.online/p/cdf-premium-en-vivo.html",
                 "isHost": "true"      
          	 }, {
-                "name": "TNT Sports Chile (opc.2) | CL 🇨🇱",
+                "name": "TNT Sports Chile (opc.2) FU | CL 🇨🇱",
                 "image": "https://i.imgur.com/TTaCeXw.png",
                 "url": "https://pelotero.net/ver/cdfpremium.php",
                  "referer": "https://www.futbolgratis.online/p/cdf-premium-en-vivo.html",
                 "isHost": "true"      
          	 },  {
-			"name": "TNT Sports Chile (opc.3) | CL 🇨🇱",
+			"name": "TNT Sports Chile (opc.3) MA | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://macron.xyz/player/1/118",
            		 "isHost" : "true"
            	 }, {
-			"name": "TNT Sports Chile (opc.4) | CL 🇨🇱",
+			"name": "TNT Sports Chile (opc.4) FU  CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url" :  "https://futbolfullenvivo.com/ver-channel-tnt-sports-chile-en-vivo/",
 			"isHost":"true"
 			}, {
-			"name": "TNT Sports Chile (opc.5) | CL 🇨🇱",
+			"name": "TNT Sports Chile (opc.5) FR | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url": "https://freelive365.nl/player2.php?id=11&code=126&evento=chile",
 		"isHost": "true" 
            	  },  {
-			"name": "TNT Sports Argentina (opc.1) | AR 🇦🇷",
+			"name": "TNT Sports Argentina (opc.1) FU | AR 🇦🇷",
             	 "image": "https://i.imgur.com/TTaCeXw.png",
          	  "url" :  "https://futbollatam.com/en-vivo/tnt-sports-argentina/?ver",
 			 "isHost":"true"
