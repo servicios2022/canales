@@ -4,7 +4,7 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EGkfx66.png" group-title="LISTA GRATUITA",•●★-- 📺 100% GRATIS 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFPrMmL.png" group-title="LISTA GRATUITA",📆 ULTIMA ACTUALIZACION 20/04/2022 📆
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFPrMmL.png" group-title="LISTA GRATUITA",📆 ULTIMA ACTUALIZACION 30/04/2022 📆
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yUzSFI8.png" group-title="LISTA GRATUITA",📺 WISEPLAY REPRODUCTOR RECOMENDADO 📺
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
@@ -1742,6 +1742,8 @@ https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_1b89127040e11
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="LATINOS",Estrella Tv | US
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eda4e0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3894e758-2b2d-4cfc-8014-66546eaf7d74&userId=&serverSideAds=true
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINOS",Univision | US
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/live-audio_track_0_0_und=64000-video_track=145000.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINOS",Univision | US
 http://www.tecniconsult.hn/UnivisionHD/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINOS",Univision | US
