@@ -816,29 +816,34 @@
 			"url":"https://www.tutele.sx/online.php?a=4",
           		  "isHost" : "true"
            	 }, {
-                "name": "TNT Sports Chile (opc.1) FU | CL 🇨🇱",
+		 "name": "TNT Sports Chile (opc.1) 17 | CL 🇨🇱",
+			  "image": "https://i.imgur.com/TTaCeXw.png",
+	   	     "url": "http://177.128.115.10:8000/play/a03a",
+			"userAgent" : ""
+                    }, {
+                "name": "TNT Sports Chile (opc.2) FU | CL 🇨🇱",
                 "image": "https://i.imgur.com/TTaCeXw.png",
                 "url": "https://pelotero.net/cdf.php",
                  "referer": "https://www.futbolgratis.online/p/cdf-premium-en-vivo.html",
                 "isHost": "true"      
          	 }, {
-                "name": "TNT Sports Chile (opc.2) FU | CL 🇨🇱",
+                "name": "TNT Sports Chile (opc.3) FU | CL 🇨🇱",
                 "image": "https://i.imgur.com/TTaCeXw.png",
                 "url": "https://pelotero.net/ver/cdfpremium.php",
                  "referer": "https://www.futbolgratis.online/p/cdf-premium-en-vivo.html",
                 "isHost": "true"      
          	 },  {
-			"name": "TNT Sports Chile (opc.3) MA | CL 🇨🇱",
+			"name": "TNT Sports Chile (opc.4) MA | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://macron.xyz/player/1/118",
            		 "isHost" : "true"
            	 }, {
-			"name": "TNT Sports Chile (opc.4) FU  CL 🇨🇱",
+			"name": "TNT Sports Chile (opc.5) FU  CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url" :  "https://futbolfullenvivo.com/ver-channel-tnt-sports-chile-en-vivo/",
 			"isHost":"true"
 			}, {
-			"name": "TNT Sports Chile (opc.5) FR | CL 🇨🇱",
+			"name": "TNT Sports Chile (opc.6) FR | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url": "https://freelive365.nl/player2.php?id=11&code=126&evento=chile",
 		"isHost": "true" 
