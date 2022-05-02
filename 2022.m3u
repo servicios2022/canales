@@ -1739,6 +1739,8 @@ http://streamingcws40.com:1935/canaluno/videocanaluno/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple117/v4/bd/c2/fe/bdc2fe3b-d775-abc4-76de-430901dc343b/mzl.zmhoeztf.jpg/1024x1024bb.png" group-title="LATINOS",TVO Canal 23 | SV
 https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Large.RPCPanama-2017-1.png/revision/latest/scale-to-width-down/220?cb=20210906023841&path-prefix=es" group-title="LATINOS",RPC | PA
+https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-7---oye-tv-1562.jpg" group-title="LATINOS",Oye Tv | PA
 https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/RPCPanama2021.png/revision/latest/scale-to-width-down/220?cb=20210906023839&path-prefix=es" group-title="LATINOS",RPC Radio | PA
