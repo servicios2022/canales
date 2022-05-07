@@ -630,6 +630,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6086d3f420fc8500075
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",TNT SPORTS HD CHILE
+https://cdnapisec.kaltura.com/p/4620303/sp/462030300/playManifest/entryId/1_gygaphm1/format/applehttp/protocol/https/uiConfId/50085713/a.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",TNT SPORTS HD CHILE
+http://198.144.159.40/awHcChrzqLk7eEUfkCJ0Gw/1651988158/37392e3131362e38382e313530/ff108/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",TNT SPORTS HD CHILE
 http://177.128.115.10:8000/play/a03a
 #EXTINF:0 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",TNT SPORTS HD CHILE
 http://204.199.73.100:9000/play/a05m
