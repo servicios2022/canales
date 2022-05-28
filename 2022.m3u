@@ -567,8 +567,6 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 https://srv.panelcast.net/crtv/crtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/09Azg0q.png" group-title="DEPORTE LATINO", TV Turf Movil
 https://janus.tvturf.cl/playlist/stream.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-logo="https://www.teletrak.cl/imagenes/logo2.png" group-title="DEPORTE LATINO",Teletrak 
-https://unlimited10-cl.dps.live/teletrak/teletrak.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Valparaiso-Sporting-en-vivo-Online.png" group-title="DEPORTE LATINO",Valparaiso Sporting 
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?xtreamiptv.m3u8
 
