@@ -30,10 +30,6 @@ https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0650_av-p.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="613" tvg-name="La 1" tvg-logo="https://www.m3u.cl/logo/613_La_1.png"  group-title="CHAMPIONS LEAGUE", La 1 | ES
 http://eja.tv/?f637f17a2fdc60ed45df337e150c36fa.m3u8
-#EXTINF:-1 tvg-id="613" tvg-name="La 1" tvg-logo="https://www.m3u.cl/logo/613_La_1.png"  group-title="CHAMPIONS LEAGUE", La 1 | ES
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 tvg-id="613" tvg-name="La 1" tvg-logo="https://www.m3u.cl/logo/613_La_1.png"  group-title="CHAMPIONS LEAGUE", La 1 | ES
-https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 
 #EXTINF:1,-LA LIGA-
 
