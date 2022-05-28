@@ -3603,12 +3603,16 @@ https://stmv.negotv.com/religion2021/religion2021/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/COq8Rh1.png" group-title="TEST CANALES",•●★-- 📺 TEST CANALES 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",BT Sport 2
-http://akm-lbs-us.suprememastertv.com:80/live/moto/chunklist_w1971801519.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",eleven 1
-https://tinyurl.com/y8al4p46
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",espn extra
+https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/espn.extra.br.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",espn 
+https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/espn.br.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",espn 2
+https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/espn2.br.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",espn 3
+https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/espn3.br.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",espn 4
+https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/espn4.br.m3u8
 
 
 
