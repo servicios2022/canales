@@ -1475,8 +1475,6 @@ https://srv.panelcast.net/traveltv/traveltv/playlist.m3u8?PlaylistM3UCL
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-140 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="CULTURA", LOVE NATURE EN ESPAÑOL 
 https://bamus-spa-roku.amagi.tv/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png" group-title="CULTURA", 4K Nature
-http://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CULTURA", Saber Mas
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
 #EXTINF:-1 tvg-id="696" tvg-name="Cultura 24 TV" tvg-logo="https://www.m3u.cl/logo/696_Cultura_24_TV.png"  group-title="CULTURA", Cultura 24 TV | PE
@@ -1546,16 +1544,6 @@ https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
 https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://happywellnesslifestyle.files.wordpress.com/2017/02/yoga-1883439_640.png" group-title="RELAJACION",Loupe 4K 
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="RELAJACION",Local Now Fireside
-https://linear-127.frequency.stream/dist/localnow/127/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="RELAJACION",Local Now Horizon
-https://linear-211.frequency.stream/dist/localnow/211/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="RELAJACION",Local Now Seaside
-https://linear-209.frequency.stream/dist/localnow/209/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="RELAJACION",Local Now Stargaze
-https://linear-214.frequency.stream/dist/localnow/214/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="RELAJACION",Local Now Zen
-https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8
 
 #EXTINF:1,-LATINOS-
 
@@ -1569,16 +1557,6 @@ https://cloudvideo.servers10.com:8081/8130/index.m3u8
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logotipo-tcs-sv.png/320px-Logotipo-tcs-sv.png" group-title="LATINOS",TCS | SV
 https://secure-video.tcsgo.com/tcshd/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tele1.sv/wp-content/uploads/2019/06/TELE1_FINAL_BLUE-1-149x84.png" group-title="LATINOS",Tele 1 | SV
-http://streamingcws40.com:1935/canaluno/videocanaluno/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canal33.tv/home/wp-content/uploads/2019/08/200.png" group-title="LATINOS",Canal 33 | SV
-https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple117/v4/bd/c2/fe/bdc2fe3b-d775-abc4-76de-430901dc343b/mzl.zmhoeztf.jpg/1024x1024bb.png" group-title="LATINOS",TVO Canal 23 | SV
-https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Large.RPCPanama-2017-1.png/revision/latest/scale-to-width-down/220?cb=20210906023841&path-prefix=es" group-title="LATINOS",RPC | PA
-https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
-#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-7---oye-tv-1562.jpg" group-title="LATINOS",Oye Tv | PA
-https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/RPCPanama2021.png/revision/latest/scale-to-width-down/220?cb=20210906023839&path-prefix=es" group-title="LATINOS",RPC Radio | PA
 https://mdstrm.com/live-stream-playlist/5d976689ab55a60f94ec98e8.m3u8
 #EXTINF:-1 tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="LATINOS",Canal 57 | US
@@ -1589,8 +1567,6 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eda4e0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3894e758-2b2d-4cfc-8014-66546eaf7d74&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINOS",Univision | US
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/live-audio_track_0_0_und=64000-video_track=145000.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINOS",Univision | US
-http://www.tecniconsult.hn/UnivisionHD/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINOS",Univision | US
 http://162.212.179.22:9981/stream/channelid/900291939?ticket=B4B376B7D83635950C11FB2ADC7075A00496F2A1&profile=pass
 
@@ -1622,8 +1598,6 @@ https://marine2.miplay.cl/chilevision/mono.m3u8
 https://sv.spliktv.xyz/live/caster/CL/CHV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logotipo_de_TV_Chile_%282016-2020%29.png" group-title="CHILE",Tv Chile | CL
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?xtreamiptv.m3u8
-#EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/209/795/png-transparent-edificio-corporativo-de-television-nacional-de-chile-tvn-television-nacional-de-chile-television-24horas-cl-varela-santiago-children-s-hospital.png" group-title="CHILE",TVN | CL
-http://190.92.95.37:8000/play/a0e8/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="CHILE",24 Horas | CL
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="CHILE",24 Horas | CL
