@@ -13,39 +13,26 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xdqGNPq.png" group-title="LISTA GRATUITA",💢 RECHAZO A LA NUEVA CONSTITUCION 💢
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
-#EXTINF:1,-LIBERTADORES-
+#EXTINF:1,-CHAMPIONS LEAGUE-
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/1200px-Copa_Libertadores_logo.svg.png" group-title="LIBERTADORES",•●★-- 📺 LIBERTADORES 📺 --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbxfHh6.png" group-title="CHAMPIONS LEAGUE",•●★-- 📺 CHAMPIONS LEAGUE 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/1200px-Copa_Libertadores_logo.svg.png" group-title="LLIBERTADORES",LIBERTADORES
-https://panel.streamingmedia.com.co:3104/live/libertadores.m3u8
+
+#EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://i.imgur.com/8EAbIHJ.png"  group-title="CHAMPIONS LEAGUE", ATV | PE
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="CHAMPIONS LEAGUE",TUDN | MX
+http://54.39.19.162:8081/live/dream1/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="CHAMPIONS LEAGUE",ESPN | BR
+https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/espn.br.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="CHAMPIONS LEAGUE",ESPN | AR 
+https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
 #EXTINF:1,-LA LIGA-
 
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="LA LIGA",•●★-- 📺 LA LIGA 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X3LlIhz.png" group-title="LA LIGA",PPV la Liga (solo partidos) | ES
-http://loga.ultratotal.ml/xls/ligota/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X3LlIhz.png" group-title="LA LIGA",PPV la Liga (solo partidos) | EN
 http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
-
-#EXTINF:1,-CHAMPIONS LEAGUE-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pbxfHh6.png" group-title="CHAMPIONS LEAGUE",•●★-- 📺 CHAMPIONS LEAGUE 📺 --★●•
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F7rt7u0.png" group-title="CHAMPIONS LEAGUE",PPV CHAMPIONS LEAGUE | ES
-http://loga.ultratotal.ml/xls/champions/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="CHAMPIONS LEAGUE",TUDN | MX
-http://54.39.19.162:8081/live/dream1/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="CHAMPIONS LEAGUE",ESPN | AR 
-https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
-#EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://i.imgur.com/8EAbIHJ.png"  group-title="CHAMPIONS LEAGUE", ATV | PE
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?PlaylistM3UCL
-
-
-
-
-
 
 #EXTINF:1,-PREMIUM-
 
