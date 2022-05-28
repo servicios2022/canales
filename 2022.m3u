@@ -3616,6 +3616,37 @@ https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/espn3.br.m3u8
 https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/espn4.br.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES", Bein Sports 1ᴴᴰ
+http://185.152.66.132/BEINSPORT1/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES", Bein Sports 2ᴴᴰ
+http://185.152.66.132/BEINSPORT2/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES", Bein Sports 3ᴴᴰ
+http://185.152.66.132/BEINSPORT3/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES", Bein Sports 4ᴴᴰ
+http://185.152.66.132/BEINSPORT4/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES", Bein Sports 5ᴴᴰ
+http://185.152.66.132/BEINSPORT5/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",Bein Sports 6ᴴᴰ
+http://185.152.66.132/BEINSPORT6/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES", Bein Sports 7ᴴᴰ
+http://185.152.66.132/BEINSPORT7/tracks-v1a1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",Bein Sports 1ᴴᴰ
+http://217.74.16.155:8082/local/ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES", Bein Sports 2ᴴᴰ
+http://217.74.16.155:8082/local/ar-s/bein-2-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES", Bein Sports 3ᴴᴰ
+http://217.74.16.155:8082/local/ar-s/bein-3-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES", Bein Sports 4ᴴᴰ
+http://217.74.16.155:8082/local/ar-s/bein-4-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",Bein Sports 5ᴴᴰ
+http://217.74.16.155:8082/local/ar-s/bein-5-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES", Bein Sports 6ᴴᴰ
+http://217.74.16.155:8082/local/ar-s/bein-6-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",Bein Sports 7ᴴᴰ
+http://217.74.16.155:8082/local/ar-s/bein-7-stop/tracks-v1a1/mono.m3u8
+
 
 
 
