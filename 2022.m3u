@@ -18,15 +18,17 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbxfHh6.png" group-title="CHAMPIONS LEAGUE",•●★-- 📺 CHAMPIONS LEAGUE 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://i.imgur.com/pbxfHh6.png"  group-title="CHAMPIONS LEAGUE", Champions League 3 | MX
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="CHAMPIONS LEAGUE",Univision | US
 https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
-#EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://i.imgur.com/8EAbIHJ.png"  group-title="CHAMPIONS LEAGUE", ATV | PE
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="CHAMPIONS LEAGUE",Univision | US
+http://162.212.179.22:9981/stream/channelid/900291939?ticket=B4B376B7D83635950C11FB2ADC7075A00496F2A1&profile=pass
+#EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://i.imgur.com/8EAbIHJ.png"  group-title="CHAMPIONS LEAGUE",ATV | PE
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="CHAMPIONS LEAGUE",TUDN | MX
 http://54.39.19.162:8081/live/dream1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="CHAMPIONS LEAGUE",ESPN | AR 
 https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
-#EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://i.imgur.com/pbxfHh6.png"  group-title="CHAMPIONS LEAGUE", Champions League 1 | BR
+#EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="CHAMPIONS LEAGUE",TNT Sports | BR
 https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/q3n_eoj6c38tXOBmM7FNEHSGNAjl4w7ppi2mUBoM5Bd_D5FfDYXi5J6Xnl9gH-dmmd4iog1Xw2ImNKKijPDAVA/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://i.imgur.com/pbxfHh6.png"  group-title="CHAMPIONS LEAGUE", Champions League 2 | BR
 https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/-mdpTdwWlaW6_dQnnVm6qYS0uCiljgurZRtg_fbGGu7cBOKUMavtXirUI35rAKOGj0nR_Tx4O8J8J8sh7fF7Pw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
@@ -1742,8 +1744,6 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 http://www.tecniconsult.hn/UnivisionHD/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINOS",Univision | US
 http://162.212.179.22:9981/stream/channelid/900291939?ticket=B4B376B7D83635950C11FB2ADC7075A00496F2A1&profile=pass
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINOS",Univision 
-http://clubtv.link/f26/lista1.php?c=3190
 
 #EXTINF:1,-CHILE-
 
