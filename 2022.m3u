@@ -32,6 +32,10 @@ https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m
 https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/q3n_eoj6c38tXOBmM7FNEHSGNAjl4w7ppi2mUBoM5Bd_D5FfDYXi5J6Xnl9gH-dmmd4iog1Xw2ImNKKijPDAVA/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://www.driven.cx/wp-content/uploads/2019/12/sbt-1.png"  group-title="CHAMPIONS LEAGUE",STV | BR
 https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/-mdpTdwWlaW6_dQnnVm6qYS0uCiljgurZRtg_fbGGu7cBOKUMavtXirUI35rAKOGj0nR_Tx4O8J8J8sh7fF7Pw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="CHAMPIONS LEAGUE",BT Sports | PT
+https://d61e06d07b6b.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.507550827233.channel.Dmho48hJ1iy1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="CHAMPIONS LEAGUE",BT Sports | PT
+http://djib9t6yr2cp7.cloudfront.net:80/stream/NDQ2NA==/1080p.m3u8
 
 #EXTINF:1,-LA LIGA-
 
