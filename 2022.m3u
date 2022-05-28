@@ -13,29 +13,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xdqGNPq.png" group-title="LISTA GRATUITA",💢 RECHAZO A LA NUEVA CONSTITUCION 💢
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
-#EXTINF:1,-CHAMPIONS LEAGUE-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pbxfHh6.png" group-title="CHAMPIONS LEAGUE",•●★-- 📺 CHAMPIONS LEAGUE 📺 --★●•
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/pbxfHh6.png" group-title="CHAMPIONS LEAGUE",PPV Champions League
-https://panel.streamingmedia.com.co:3104/live/lafinal.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="CHAMPIONS LEAGUE",Univision | US
-https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="CHAMPIONS LEAGUE",Univision | US
-http://162.212.179.22:9981/stream/channelid/900291939?ticket=B4B376B7D83635950C11FB2ADC7075A00496F2A1&profile=pass
-#EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://i.imgur.com/8EAbIHJ.png"  group-title="CHAMPIONS LEAGUE",ATV | PE
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="CHAMPIONS LEAGUE",TUDN | MX
-http://54.39.19.162:8081/live/dream1/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="CHAMPIONS LEAGUE",ESPN | AR 
-https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
-#EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="CHAMPIONS LEAGUE",TNT Sports | BR
-https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/q3n_eoj6c38tXOBmM7FNEHSGNAjl4w7ppi2mUBoM5Bd_D5FfDYXi5J6Xnl9gH-dmmd4iog1Xw2ImNKKijPDAVA/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://www.driven.cx/wp-content/uploads/2019/12/sbt-1.png"  group-title="CHAMPIONS LEAGUE",STV | BR
-https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/-mdpTdwWlaW6_dQnnVm6qYS0uCiljgurZRtg_fbGGu7cBOKUMavtXirUI35rAKOGj0nR_Tx4O8J8J8sh7fF7Pw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="CHAMPIONS LEAGUE",BT Sports | UK
-http://djib9t6yr2cp7.cloudfront.net:80/stream/NDQ2NA==/1080p.m3u8
-
 #EXTINF:1,-LA LIGA-
 
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="LA LIGA",•●★-- 📺 LA LIGA 📺 --★●•
@@ -619,6 +596,35 @@ FUTBOL
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png",Real Madrid TV | US
 https://bit.ly/RealMadridtv?/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="DEPORTE INTERNACIONAL", Bein Sports 1
+http://185.152.66.132/BEINSPORT1/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="DEPORTE INTERNACIONAL", Bein Sports 2
+http://185.152.66.132/BEINSPORT2/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="DEPORTE INTERNACIONAL", Bein Sports 3
+http://185.152.66.132/BEINSPORT3/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="DEPORTE INTERNACIONAL", Bein Sports 4
+http://185.152.66.132/BEINSPORT4/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="DEPORTE INTERNACIONAL", Bein Sports 5
+http://185.152.66.132/BEINSPORT5/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="DEPORTE INTERNACIONAL",Bein Sports 6
+http://185.152.66.132/BEINSPORT6/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="DEPORTE INTERNACIONAL", Bein Sports 7
+http://185.152.66.132/BEINSPORT7/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="DEPORTE INTERNACIONAL",Bein Sports 1
+http://217.74.16.155:8082/local/ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="DEPORTE INTERNACIONAL", Bein Sports 2
+http://217.74.16.155:8082/local/ar-s/bein-2-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="DEPORTE INTERNACIONAL", Bein Sports 3
+http://217.74.16.155:8082/local/ar-s/bein-3-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="DEPORTE INTERNACIONAL", Bein Sports 4
+http://217.74.16.155:8082/local/ar-s/bein-4-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="DEPORTE INTERNACIONAL",Bein Sports 5
+http://217.74.16.155:8082/local/ar-s/bein-5-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="DEPORTE INTERNACIONAL", Bein Sports 6
+http://217.74.16.155:8082/local/ar-s/bein-6-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="DEPORTE INTERNACIONAL",Bein Sports 7
+http://217.74.16.155:8082/local/ar-s/bein-7-stop/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VKvGgYT.png" group-title="DEPORTE INTERNACIONAL",TNT SPORTS 1 | BR
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
@@ -4504,49 +4510,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",espn extra
 https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/espn.extra.br.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",espn 
-https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/espn.br.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",espn 2
-https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/espn2.br.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",espn 3
-https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/espn3.br.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",espn 4
-https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/espn4.br.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES", Bein Sports 1ᴴᴰ
-http://185.152.66.132/BEINSPORT1/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES", Bein Sports 2ᴴᴰ
-http://185.152.66.132/BEINSPORT2/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES", Bein Sports 3ᴴᴰ
-http://185.152.66.132/BEINSPORT3/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES", Bein Sports 4ᴴᴰ
-http://185.152.66.132/BEINSPORT4/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES", Bein Sports 5ᴴᴰ
-http://185.152.66.132/BEINSPORT5/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",Bein Sports 6ᴴᴰ
-http://185.152.66.132/BEINSPORT6/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES", Bein Sports 7ᴴᴰ
-http://185.152.66.132/BEINSPORT7/tracks-v1a1/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",Bein Sports 1ᴴᴰ
-http://217.74.16.155:8082/local/ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES", Bein Sports 2ᴴᴰ
-http://217.74.16.155:8082/local/ar-s/bein-2-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES", Bein Sports 3ᴴᴰ
-http://217.74.16.155:8082/local/ar-s/bein-3-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES", Bein Sports 4ᴴᴰ
-http://217.74.16.155:8082/local/ar-s/bein-4-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",Bein Sports 5ᴴᴰ
-http://217.74.16.155:8082/local/ar-s/bein-5-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES", Bein Sports 6ᴴᴰ
-http://217.74.16.155:8082/local/ar-s/bein-6-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",Bein Sports 7ᴴᴰ
-http://217.74.16.155:8082/local/ar-s/bein-7-stop/tracks-v1a1/mono.m3u8
-
-
-
 
 
 
