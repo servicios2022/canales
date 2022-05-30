@@ -354,26 +354,6 @@
 	   "referer": "https://cablegratis.online/fox-sports-premium-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "Futbol Brasileño PPV 1 | BR 🇧🇷",
-			"image": "https://i.imgur.com/AFN3H0m.png",
-			"url": "https://v3.sportsonline.to/channels/bra/br1.php",
-             "isHost": "true"
-         }, {
-			"name": "Futbol Brasileño PPV 2 | BR 🇧🇷",
-			"image": "https://i.imgur.com/AFN3H0m.png",
-			"url": "https://v3.sportsonline.to/channels/bra/br2.php",
-             "isHost": "true"
-         }, {
-			"name": "Futbol Brasileño PPV 3 | BR 🇧🇷",
-			"image": "https://i.imgur.com/AFN3H0m.png",
-			"url": "https://v3.sportsonline.to/channels/bra/br3.php",
-             "isHost": "true"
-         },  {
-			"name": "Futbol Brasileño PPV 4 | BR 🇧🇷",
-			"image": "https://i.imgur.com/AFN3H0m.png",
-			"url": "https://v3.sportsonline.to/channels/bra/br4.php",
-             "isHost": "true"
-         }, {
 			"name": "Gol TV (opc.1) EL | ES 🇪🇸",
 			"image": "https://i.imgur.com/kN4OKEp.png",
           "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
@@ -528,19 +508,9 @@
 			"url":"http://timesports.cc/laligauk.php",
             "isHost" : "true"
             }, {
-			"name": "La Liga PPV (solo partidos) | ES 🇪🇸",
-			"image": "https://i.imgur.com/X3LlIhz.png",
-	        "url": "http://loga.ultratotal.ml/xls/ligota/index.m3u8",
-		"userAgent" : ""
-                    }, {
 			"name": "La Liga PPV (solo partidos) | EN 🇺🇸",
 			"image": "https://i.imgur.com/X3LlIhz.png",
 	        "url": "http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8",
-		"userAgent" : ""
-                    }, {
-			"name": "Liga de Campeones PPV (solo partidos) | ES 🇪🇸",
-			"image": "https://i.imgur.com/F7rt7u0.png",
-	        "url": "http://loga.ultratotal.ml/xls/champions/index.m3u8",
 		"userAgent" : ""
                     }, {
 			"name": "Liga de Campeones por M+ (opc.1) MA | ES 🇪🇸",
@@ -599,16 +569,6 @@
            	 "url" : "https://macron.xyz/player/1/64",
 			"isHost": "true"
                      }, {
-              "name": "Now Sports Premier League (opc.1) C7 | UK 🇬🇧",
-			"image": "https://i.imgur.com/d0PItKo.png",
-			"url":"https://c787898.com/embed.php?id=live11",
-            "isHost" : "true"
-		 }, {
-              "name": "Now Sports Premier League (opc.2) ST | UK 🇬🇧",
-			"image": "https://i.imgur.com/d0PItKo.png",
-			"url":"https://starlive.xyz/embed.php?id=live11",
-            "isHost" : "true"
-		 }, {
               "name": "Sky Sports Football (opc.1) C7 | UK 🇬🇧",
 			"image": "https://i.imgur.com/ALTPlpT.png",
 			"url":"https://c787898.com/embed.php?id=live2",
@@ -791,16 +751,6 @@
 			"url":"https://www.tutele.sx/online.php?a=187",
             "isHost" : "true"
 		 }, {
-			"name": "TeleCinco (opc.1) | ES 🇪🇸",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1200px-Telecinco.svg.png",
-	        "url": "https://v3.sportsonline.to/channels/hd/hd6.php",
-		"userAgent" : ""
-                    }, {
-			"name": "TeleCinco (opc.2) | ES 🇪🇸",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1200px-Telecinco.svg.png",
-	        "url": "https://starlive.xyz/embed.php?id=live5m",
-		"userAgent" : ""
-                    }, {
 			"name": "Tennis Channel (opc.1) C7 | EN 🇺🇸",
 			"image": "https://w7.pngwing.com/pngs/237/1008/png-transparent-logo-tennis-channel-hd-television-channel-tv-logos-angle-text-rectangle.png",
 	        "url": "https://c787898.com/embed.php?id=live28",
@@ -944,11 +894,6 @@
            "url" :  "https://macron.xyz/player/1/103",
 			 "isHost":"true"
                       }, {
-			"name": "USA Network SP | EN 🇺🇸",
-             "image": "https://i.imgur.com/J08nma6.png",
-           "url" :  "https://v2.sportsonline.to/channels/hd/hd1.php",
-			 "isHost":"true"
-                      },{
 			"name": "Vamos por M+ (opc.1) MA | ES 🇪🇸",
 			"image": "https://i.imgur.com/ZYXUy5I.png",
          "url": "https://ragnarp.net/embed/6jv5qrdinf",
