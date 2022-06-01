@@ -511,49 +511,49 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6086d3f420fc8500075
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V0La21h.png" group-title="DEPORTE LATINO",•●★-- 📺 DEPORTE LATINO 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",CHI-TNT Sports (e)(1080)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",CHI-TNT Sports HD
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55658
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",CHI-TNT Sports (e)(720)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",CHI-TNT Sports HD
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55659
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",CHI-TNT Sports (e)(SD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",CHI-TNT Sports HD
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55660
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",CHI-TNT Sports (e)(1080)(60FPS)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",CHI-TNT Sports HD 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55661
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",CHI-TNT Sports (M)(720)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",CHI-TNT Sports HD
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55662
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",TNT SPORTS CHILE HD OPCION 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",TNT SPORTS CHILE HD 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/57948
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",TNT SPORTS CHILE HD OPCION 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",TNT SPORTS CHILE HD 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/57949
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",I-TNT Sports HD (CL) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",I-TNT Sports HD 
 http://bgapp.live/play/bud-559.php?c=38533.m3u8&blck
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xb4D6QL.png" group-title="DEPORTE LATINO",CHI-TNT Sports 2 (TV)(720)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xb4D6QL.png" group-title="DEPORTE LATINO",CHI-TNT Sports 2 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55663
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xb4D6QL.png" group-title="DEPORTE LATINO",CHI-TNT Sports 2 (TV)(SD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xb4D6QL.png" group-title="DEPORTE LATINO",CHI-TNT Sports 2 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55664
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xb4D6QL.png" group-title="DEPORTE LATINO",TNT SPORTS 2 HD CHILE OPCION 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xb4D6QL.png" group-title="DEPORTE LATINO",TNT SPORTS 2 HD CHILE 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/57950
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xb4D6QL.png" group-title="DEPORTE LATINO",TNT SPORTS 2 SD CHILE OPCION 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xb4D6QL.png" group-title="DEPORTE LATINO",TNT SPORTS 2 SD CHILE 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/57951
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xb4D6QL.png" group-title="DEPORTE LATINO",I-TNT Sports 2 HD (CL) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xb4D6QL.png" group-title="DEPORTE LATINO",I-TNT Sports 2 HD 
 http://bgapp.live/play/bud-559.php?c=38534.m3u8&blck
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ap027lf.png" group-title="DEPORTE LATINO",CHI-TNT Sports 3 (TV)(SD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ap027lf.png" group-title="DEPORTE LATINO",CHI-TNT Sports 3
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55665
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ap027lf.png" group-title="DEPORTE LATINO",CHI-TNT Sports 3 (TV)(720)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ap027lf.png" group-title="DEPORTE LATINO",CHI-TNT Sports 3
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55666
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ap027lf.png" group-title="DEPORTE LATINO",TNT SPORTS 3 HD CHILE OPCION 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ap027lf.png" group-title="DEPORTE LATINO",TNT SPORTS 3 HD CHILE 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/57952
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ap027lf.png" group-title="DEPORTE LATINO",TNT SPORTS 3 SD CHILE OPCION 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ap027lf.png" group-title="DEPORTE LATINO",TNT SPORTS 3 SD CHILE
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/57953
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ap027lf.png" group-title="DEPORTE LATINO",I-TNT Sports 3 HD (CL) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ap027lf.png" group-title="DEPORTE LATINO",I-TNT Sports 3 HD 
 http://bgapp.live/play/bud-559.php?c=38563.m3u8&blck
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ma78IEH.png" group-title="DEPORTE LATINO",CHI-Estadio TNT Sports (M)(720)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ma78IEH.png" group-title="DEPORTE LATINO",CHI-Estadio TNT Sports
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55667
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ma78IEH.png" group-title="DEPORTE LATINO",CHI-Estadio TNT Sports (TV)(720)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ma78IEH.png" group-title="DEPORTE LATINO",CHI-Estadio TNT Sports 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55668
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ma78IEH.png" group-title="DEPORTE LATINO",ESTADIO TNT CHILE HD OPCION 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ma78IEH.png" group-title="DEPORTE LATINO",ESTADIO TNT CHILE HD
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/57954
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ma78IEH.png" group-title="DEPORTE LATINO",ESTADIO TNT CHILE HD OPCION 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ma78IEH.png" group-title="DEPORTE LATINO",ESTADIO TNT CHILE HD 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/57955
 
 
