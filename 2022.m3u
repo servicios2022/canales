@@ -2545,6 +2545,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRJichH.png" group-title="ANIME",•●★-- 📺 ANIME 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
+#EXTINF:-1 tvg-id="1081" tvg-name="Aniplus" tvg-logo="https://i2.paste.pics/7ad3396e3452a6091357ca64d5cb8951.png" group-title="ANIME", Aniplus * | AR
+https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1108" tvg-name="Inspiranime" tvg-logo="https://www.m3u.cl/logo/1108_Inspiranime.png" group-title="ANIME", Inspiranime | CL
 https://videostreaming.cloudserverlatam.com:443/8062/8062/playlist.m3u8?
 #EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png"  group-title="ANIME", Anime Zone TV | AR
