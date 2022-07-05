@@ -3000,6 +3000,24 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 http://162.212.179.22:9981/stream/channelid/900291939?ticket=B4B376B7D83635950C11FB2ADC7075A00496F2A1&profile=pass
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINOS",Univision | US
 https://linear-254.frequency.stream/254/hls/master/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="LATINOS",telexitos 
+https://v-fn.mybtv.net/live/873.m3u8? 
+#EXTINF:0 tvg-logo="" group-title="LATINOS",estrella tv 
+phttps://v-fn.mybtv.net/live/887.m3u8?
+#EXTINF:0 tvg-logo="" group-title="LATINOS",azteca america
+https://v-fn.mybtv.net/live/888.m3u8? 
+#EXTINF:0 tvg-logo="" group-title="LATINOS",unimas
+https://v-la.mybtv.net/live/168.m3u8? 
+#EXTINF:0 tvg-logo="" group-title="LATINOS",univision
+https://v-la.mybtv.net/live/178.m3u8? 
+#EXTINF:0 tvg-logo="" group-title="LATINOS",telemundo
+https://v-la.mybtv.net/live/267.m3u8?
+#EXTINF:0 tvg-logo="" group-title="LATINOS",unimas
+https://v-la.mybtv.net/live/299.m3u8? 
+#EXTINF:0 tvg-logo="" group-title="LATINOS",canal 5
+https://v-sd.mybtv.net/live/486.m3u8? 
+#EXTINF:0 tvg-logo="" group-title="LATINOS",azteca 7
+https://v-sd.mybtv.net/live/502.m3u8? 
 
 #EXTINF:1,-CHILE-
 
