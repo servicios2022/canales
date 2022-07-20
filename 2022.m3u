@@ -2509,6 +2509,8 @@ https://pantera1-100gb-cl-movistar.dps.live/estaciontv/estaciontv.smil/playlist.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eisOZYM.png" group-title="SERIES Y TELESERIES",•●★-- 📺 SERIES Y TELESERIES 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="SERIES Y TELESERIES",Tele Novelas
+https://linear-421.frequency.stream/421/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UX6IHNl.png" group-title="SERIES Y TELESERIES",SIN SENOS NO HAY PARAÍSO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae52e34a3700007000534/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a8e552-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f7a1d9b1-1365-4889-bb27-c286960039b6&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UX6IHNl.png" group-title="SERIES Y TELESERIES",SIN SENOS NO HAY PARAÍSO 2
