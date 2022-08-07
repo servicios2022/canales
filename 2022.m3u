@@ -2887,6 +2887,14 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="181" tvg-name="TV Gracia" tvg-logo="https://lh3.googleusercontent.com/-DZadlN6RVe8/YE1PBh6hqPI/AAAAAAABAnc/ehjxHbBo-eMdLgTa3nzFJPjHq6kpWZgLgCK8BGAsYHg/s512/2021-03-13.png" group-title="COLOMBIA", TV Gracia | CO
 https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://lh3.googleusercontent.com/-u9hoJJgi3Qg/YCCON9BSD1I/AAAAAAAA_xk/IaTcH9DfgAgCjdrjd_MM10F7TGPoUnpEACK8BGAsYHg/s0/2021-02-07.png" group-title="COLOMBIA", Recuerdos Retro Radio TV | CL
+https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="COLOMBIA", Retro Plus TV | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="COLOMBIA", Retro Plus TV Señal 2 | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="COLOMBIA", Retro Plus TV Señal 3 | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="804" tvg-name="Tele Pasto" tvg-logo="https://lh3.googleusercontent.com/-E-BHG1IK-dQ/YH2RgsWyUgI/AAAAAAABBrg/wHIyCGaUrAkd_vBsxnqj0V6A3OJzaUP3ACK8BGAsYHg/s512/2021-04-19.jpg" group-title="COLOMBIA", Tele Pasto | CO
 https://byecableiptv.com/telepasto/Telepasto.stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="860" tvg-name="TV Peñol" tvg-logo="https://lh3.googleusercontent.com/-IjTc4ETC9nM/YJrm_HJajaI/AAAAAAABCPA/SwuODmd0rtIduTCeQniwOaSBvR_YqDykgCK8BGAsYHg/s512/2021-05-11.png" group-title="COLOMBIA", TV Peñol | CO
@@ -2897,10 +2905,15 @@ https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8?PlaylistM3UCL
 https://liveingesta118.cdnmedia.tv/cristovisionlive/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="898" tvg-name="Buenisima Radio TV" tvg-logo="https://i2.paste.pics/aa99b1f0883fe3d009f973f0a0e2848f.png" group-title="COLOMBIA", Buenisima Radio TV | CO
 http://streamyes.alsolnet.com/buturama/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://lh3.googleusercontent.com/-dGnGcoZ4XMI/YGiuDJ-l9SI/AAAAAAABBKo/29BjyFATaBUc5W1wMu7u18r7fY1SHwLhwCK8BGAsYHg/s512/2021-04-03.png" group-title="COLOMBIA", Mundo de la Musica TV | CL
+https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1090" tvg-name="Noticiero 90 Minutos" tvg-logo="https://i2.paste.pics/711d250f609782c10c5afef0d9628632.png" group-title="COLOMBIA", Noticiero 90 Minutos | CO
 https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1157" tvg-name="Veo TV" tvg-logo="https://i2.paste.pics/10c25d2283903f2f06871459f16b8391.png" group-title="COLOMBIA", Veo TV | CO
 https://movil.ejeserver.com/live/veotv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1165" tvg-name="MVT TV" tvg-logo="https://i2.paste.pics/7daced6121ffeb1fb3a547c87a1c0a25.png" group-title="COLOMBIA", MVT TV | CO
+http://streaminginfotecsa.com:8080/hls/mvt/index.m3u8?PlaylistM3UCL
+
 
 #EXTINF:0,-BOLIVIA-
 
@@ -3379,10 +3392,8 @@ https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
 
 #EXTINF:0,-COSTA RICA-
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RY267Xw.png" group-title="COSTA RICA",•●★-- 📺 COSTA RICA 📺 --★●•
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-id="1107" tvg-name="Wowly" tvg-logo="https://i2.paste.pics/e980359ee920b476bc6ff4e2187f220a.png" group-title="COSTA RICA", Wowly | CR
-https://wowly.stream/hls/stream_src/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1233" tvg-name="Canal 1" tvg-logo="https://i2.paste.pics/8a3218def129b372d3c596ac36942e40.png" group-title="COSTA RICA", Canal 1 | CR
+https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1060" tvg-name="Canal 11" tvg-logo="https://i2.paste.pics/ecb09bce24a74b422ff4fd6923b52300.png" group-title="COSTA RICA", Canal 11 | CR
 https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1061" tvg-name="Canal 2" tvg-logo="https://i2.paste.pics/ba60ca7d95a11556425430032c24e0ed.png" group-title="COSTA RICA", Canal 2 | CR
@@ -3409,6 +3420,8 @@ https://5bf8041cb3fed.streamlock.net:443/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1050" tvg-name="TVN 14" tvg-logo="https://i2.paste.pics/7a71c98ae29da64846c3690f0417b341.png" group-title="COSTA RICA", TVN 14 | CR
 https://5fd8fec96951d.streamlock.net:8443/TVN/CH14.stream_720p/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1170" tvg-name="MZ Sports" tvg-logo="https://i2.paste.pics/c62d925b201bdb9d034e4d582d62abf2.png" group-title="COSTA RICA", MZ Sports | CR
+https://srv.panelcast.net/canalmz/canalmz/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="37" tvg-name="Canal 38" tvg-logo="https://lh3.googleusercontent.com/-JsoqJma_UaI/Xz5177aFy8I/AAAAAAAA4r8/2mN9M0HRshQfHf1Y1bH_ul9q22z36M41gCK8BGAsYHg/s0/2020-08-20.png" group-title="COSTA RICA", Canal 38 | CR
 https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1062" tvg-name="Canal VM Latino" tvg-logo="https://i2.paste.pics/fbefcbca47462eb80eedbeaf95126474.png" group-title="COSTA RICA", Canal VM Latino | CR
@@ -3417,6 +3430,8 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="911" tvg-name="Tele Clasicos" tvg-logo="https://i2.paste.pics/379d8ce5893c94a972cd1ec9f5a13149.png" group-title="COSTA RICA", Tele Clasicos | CR
 https://tvdatta.com:3574/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1234" tvg-name="Urbano TV" tvg-logo="https://i2.paste.pics/0c73fe6bc691b4aa4d1ac9cc3f93e500.png" group-title="COSTA RICA", Urbano TV | CR
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="22" tvg-name="Video Tour Channel" tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png" group-title="COSTA RICA", Video Tour Channel | CR
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1063" tvg-name="Vintage Music" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png" group-title="COSTA RICA", Vintage Music | CR
@@ -3433,6 +3448,7 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8?PlaylistM3UCL
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="192" tvg-name="Luz Naciente TV" tvg-logo="https://lh3.googleusercontent.com/-TkocLRjb3Kk/YE1LWyaocRI/AAAAAAABAmc/_HK4XABBOKg9ybKErozOO7NCL2GMe9RDQCK8BGAsYHg/s512/2021-03-13.png" group-title="COSTA RICA", Luz Naciente TV | CR
 https://cloudflare.streamgato.us:3399/live/luznacientetvlive.m3u8?PlaylistM3UCL
+
 
 #EXTINF:0,-HONDURAS-
 
