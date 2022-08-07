@@ -3750,8 +3750,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b7500077
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a1017b00-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3566ca8c-2173-405a-b3fd-417fe1777274&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/742490028559982592/ddFmTivZ_400x400.jpg" group-title="MUSICA LATINA",La Mega Mundial HD
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/742490028559982592/ddFmTivZ_400x400.jpg" group-title="MUSICA LATINA",La Mega Mundial HD
-https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
 #EXTINF:-1 tvg-id="924" tvg-name="Panavision" tvg-logo="https://www.m3u.cl/logo/924_Panavision.png" group-title="MUSICA LATINA", Panavision | VE
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1076" tvg-name="Fabulosa FM" tvg-logo="https://www.m3u.cl/logo/1076_Fabulosa_FM.png" group-title="MUSICA LATINA", Fabulosa FM | ES
@@ -3782,8 +3780,6 @@ https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
 https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="996" tvg-name="Latinos Radio" tvg-logo="https://www.m3u.cl/logo/996_Latinos_Radio.png" group-title="MUSICA LATINA", Latinos Radio * | CL
 https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="35" tvg-name="TOP Latino TV" tvg-logo="https://www.m3u.cl/logo/35_TOP_Latino_TV.png" group-title="MUSICA LATINA", TOP Latino TV | PE
-https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="904" tvg-name="Latin Zone TV" tvg-logo="https://www.m3u.cl/logo/904_Latin_Zone_TV.png" group-title="MUSICA LATINA", Latin Zone TV | US
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="926" tvg-name="Oxigeno Network" tvg-logo="https://www.m3u.cl/logo/926_Oxigeno_Network.png" group-title="MUSICA LATINA", Oxigeno Network | VE
@@ -3796,10 +3792,6 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1075" tvg-name="Cadena Elite" tvg-logo="https://www.m3u.cl/logo/1075_Cadena_Elite.png" group-title="MUSICA LATINA", Cadena Elite | ES
 https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" group-title="MUSICA LATINA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/musicalatinaparati.png",Music Latina Para Ti
-https://broadcast.mytvtogo.net/musicalatinaparati/musicalatinaparati/chunklist_w49508185.m3u8
-#EXTINF:-1 tvg-id="786" tvg-name="Tributo Valentina" tvg-logo="https://www.m3u.cl/logo/786_Tributo_Valentina.png"  group-title="MUSICA LATINA", Tributo Valentina | CL
-https://vdohd.cl:1936/8044/8044/playlist.m3u8
 #EXTINF:-1 tvg-id="985" tvg-name="Batalla de Gallos" tvg-logo="https://www.m3u.cl/logo/985_Batalla_de_Gallos.png"  group-title="MUSICA LATINA", Batalla de Gallos 
 https://videostreaming.cloudserverlatam.com:443/Batalladegallos/Batalladegallos/playlist.m3u8
 #EXTINF:-1 tvg-id="1029" tvg-name="Evavisión Pachanga" tvg-logo="https://www.m3u.cl/logo/1029_Evavision_Pachanga.png" group-title="MUSICA LATINA", Evavisión Pachanga | CL
@@ -3831,8 +3823,6 @@ https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="26" tvg-name="RCKTV" tvg-logo="https://i2.paste.pics/b4e09c1315da8b38ccb2e308519cbda1.png" group-title="MUSICA LATINA", RCKTV * | CL
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="769" tvg-name="Radioteca WebStereo" tvg-logo="https://i2.paste.pics/8990ff3b0c53684e7f62a5db3c0cab06.png" group-title="MUSICA LATINA", Radioteca WebStereo * | CL
-https://vdohd.cl:1936/9040/9040/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://lh3.googleusercontent.com/-dGnGcoZ4XMI/YGiuDJ-l9SI/AAAAAAABBKo/29BjyFATaBUc5W1wMu7u18r7fY1SHwLhwCK8BGAsYHg/s512/2021-04-03.png" group-title="MUSICA LATINA", Mundo de la Musica TV * | CL
 https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="996" tvg-name="Latinos Radio" tvg-logo="https://i2.paste.pics/f5a6133c6b0fcec076105dfd2508549c.png" group-title="MUSICA LATINA", Latinos Radio * | CL
@@ -3845,8 +3835,6 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 https://mix247.ml:444/TocaHits/Top100Mix24-7/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://lh3.googleusercontent.com/-k9n3tedhqBs/XbC_-FblJSI/AAAAAAAArm4/pMPtuBhhdtoL_yFWs5dt23dHFTHHCv8hgCK8BGAsYHg/s0/2019-10-23.png" group-title="MUSICA LATINA", Portal FoxMix | CL
 https://593b04c4c5670.streamlock.net:443/portalfoxmix/portalfoxmix/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="21" tvg-name="Retro Music Television" tvg-logo="https://lh3.googleusercontent.com/-z4SQcFR0bIs/Xs_MlInCKMI/AAAAAAAA1QM/T2RR2owl_CYpymBiQ8lOi1ykYZVAwI6NACK8BGAsYHg/s0/2020-05-28.png" group-title="MUSICA LATINA", Retro Music Television | CZ
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="32" tvg-name="Alegria TV" tvg-logo="https://lh3.googleusercontent.com/-IDCwMaJRdnM/Xb11MVTbE-I/AAAAAAAAr4s/PbNF6ie1AIothtCRKeVvdVC6S5hO6a3xACK8BGAsYHg/s0/2019-11-02.png" group-title="MUSICA LATINA", Alegria TV | CL
 https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://lh3.googleusercontent.com/-3hmTnW9e-Y4/XbDAlKKxKtI/AAAAAAAArnA/OkLJM2f1T0ktieMaceuBzVPOADwGIf1jACK8BGAsYHg/s0/2019-10-23.png" group-title="MUSICA LATINA", Carolina TV | CL
@@ -3855,8 +3843,6 @@ https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?Play
 https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="63" tvg-name="Bajo Cero TV" tvg-logo="https://i2.paste.pics/3caab16270214727377ff0994bb64031.png" group-title="MUSICA LATINA", Bajo Cero TV | CL
 https://mediacpstreamchile.com:1936/bajocero/bajocero/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://lh3.googleusercontent.com/-1OS8OxMcn0I/XzmCbfsP71I/AAAAAAAA4hQ/FAENkONIqpU9vS0mReGgunUTSJ-he5hPQCK8BGAsYHg/s0/2020-08-16.png" group-title="MUSICA LATINA", Conecta TV | MX
-https://stream8.mexiserver.com:443/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="18" tvg-name="ShowVen TV" tvg-logo="https://i2.paste.pics/84325e40ce60d16037b02586850d1c30.png" group-title="MUSICA LATINA", ShowVen TV | VE
 https://vcp.myplaytv.com/coll/coll/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="30" tvg-name="Ibiza Global TV" tvg-logo="https://lh3.googleusercontent.com/-7rDHdedeWvo/Xmr-CC8Pa2I/AAAAAAAAwyI/X8CvdyCJtdQZutdQi2clULPfWJH0c8S3QCK8BGAsYHg/s0/2020-03-12.png" group-title="MUSICA LATINA", Ibiza Global TV | ES
@@ -3865,8 +3851,6 @@ https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="24" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-jyK2QfeF7tk/YBShx6dT-eI/AAAAAAAA_k4/gq6qGMH-1UAurScNL4TayXfEA47gA1ljgCK8BGAsYHg/s0/2021-01-29.png" group-title="MUSICA LATINA", Music Top | AR
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="17" tvg-name="The Retro Channel" tvg-logo="https://lh3.googleusercontent.com/-2UEnkgDLK5U/YF8mPyKQ4dI/AAAAAAABA_M/TAGtmHfbRZwax3VsZ5bs861v4NaitIXLgCK8BGAsYHg/s512/2021-03-27.png" group-title="MUSICA LATINA", The Retro Channel | PR
-https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="25" tvg-name="TuTv Quillota" tvg-logo="https://i2.paste.pics/cff14c81193469fc7a3157d689d6f594.png" group-title="MUSICA LATINA", TuTv Quillota | CL
 https://paneltv.net:3978/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="34" tvg-name="TV vconline.cl" tvg-logo="https://lh3.googleusercontent.com/-F0CYLyk3J_M/XxzNduxMoVI/AAAAAAAA3Zk/3S772u4F4jER7F0bULY-hlG7Nn9bbGa7gCK8BGAsYHg/s0/2020-07-25.png" group-title="MUSICA LATINA", TV vconline.cl | CL
@@ -3877,10 +3861,6 @@ https://srv1.zcast.com.br/djlonchotv/djlonchotv/playlist.m3u8?PlaylistM3UCL
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="22" tvg-name="Video Tour Channel" tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png" group-title="MUSICA LATINA", Video Tour Channel | CR
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="36" tvg-name="Telemusica" tvg-logo="https://lh3.googleusercontent.com/-i9WwagfKEd0/Xkyj43nNFOI/AAAAAAAAwIM/KdtEMa1z7fIoleKmbrXFEU3N9ASWoq5IwCK8BGAsYHg/s0/2020-02-18.png" group-title="MUSICA LATINA", Telemusica | CO
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="35" tvg-name="TOP Latino TV" tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png" group-title="MUSICA LATINA", TOP Latino TV | PE
-https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="39" tvg-name="Karibeña TV" tvg-logo="https://lh3.googleusercontent.com/-3WtV-Ee6f4g/XzxuRNf0V2I/AAAAAAAA4p4/0FT0EgwqeLEXbJe0vEdCcTO5mhzkmq5qwCK8BGAsYHg/s0/2020-08-18.jpg" group-title="MUSICA LATINA", Karibeña TV | PE
 https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="38" tvg-name="Best Cable Music" tvg-logo="https://lh3.googleusercontent.com/-5_iLG_7dCR4/XzxsvrIsFsI/AAAAAAAA4po/GH4DSrK2H5YVOskucpzMxMZeU417wwVvQCK8BGAsYHg/s0/2020-08-18.jpg" group-title="MUSICA LATINA", Best Cable Music | PE
@@ -3891,26 +3871,14 @@ https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8?PlaylistM3UC
 https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://lh3.googleusercontent.com/-G5Yc3uX2FuI/X96fIN48GAI/AAAAAAAA8W0/OiYowGFVndAfjVe7nyNsjtL1OavXrBEkwCK8BGAsYHg/s0/2020-12-19.png" group-title="MUSICA LATINA", Turbo Mix TV | PE
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="112" tvg-name="Amordiscos TV" tvg-logo="https://lh3.googleusercontent.com/-B53G138sG3s/Xzgjjsh5viI/AAAAAAAA4ZY/4vy018w8PMQffGyePubDIScUjyD7UeamwCK8BGAsYHg/s0/2020-08-15.png" group-title="MUSICA LATINA", Amordiscos TV | CO
-https://5b464b69d264e.streamlock.net:/Channels_live/ngrp:amordiscos_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="782" tvg-name="Sexy Kpop TV" tvg-logo="https://lh3.googleusercontent.com/-_mVYIdXLYWQ/YGuFFxxUHFI/AAAAAAABBOo/1u_EVaReRtY31sRUcng-usb7bVQ9krgKwCK8BGAsYHg/s512/2021-04-05.jpg" group-title="MUSICA LATINA", Sexy Kpop TV | BR
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="785" tvg-name="Re7" tvg-logo="https://lh3.googleusercontent.com/-G0VClSWuZuY/YG8IaybYl4I/AAAAAAABBQc/muG2PSbo290d03axgs10Z-KSgdK3uWcBACK8BGAsYHg/s512/2021-04-08.png" group-title="MUSICA LATINA", Re7 | CL
-https://oracle.streaminghd.cl:443/estacion7radio/estacion7radio/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="849" tvg-name="High Music" tvg-logo="https://lh3.googleusercontent.com/-C6a5ObWNq2E/YIxMW2MLOiI/AAAAAAABCEQ/W-H__V_pPaUG5WgvOBrge4NzdIzR3xLsQCK8BGAsYHg/s512/2021-04-30.jpg" group-title="MUSICA LATINA", High Music | CL
-https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="876" tvg-name="Vision Musica TV" tvg-logo="https://lh3.googleusercontent.com/-gaitJQnLecE/YKqXiP-BdgI/AAAAAAABCgE/Z-pquANdfv01XInDHZfgDzFf27LP7LOEACK8BGAsYHg/s512/2021-05-23.png" group-title="MUSICA LATINA", Vision Musica TV | PE
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="887" tvg-name="Hits 360" tvg-logo="https://lh3.googleusercontent.com/-5-1IsAfHulw/YLY20QswyOI/AAAAAAABCnU/3HTzC_ryaZc_tkdFb_MZGFH05anhfxPGgCJEEGAsYHg/s512/2021-06-01.png" group-title="MUSICA LATINA", Hits 360 | DO
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="889" tvg-name="La Sabrosura TV" tvg-logo="https://lh3.googleusercontent.com/-8b7QS_hJZdY/YLu9e1SGFLI/AAAAAAABCrk/aO5qeFONSokBmWT8vsROhr1uigX0FizcQCJEEGAsYHg/s512/2021-06-05.png" group-title="MUSICA LATINA", La Sabrosura TV | CL
-https://tv.streaming-chile.com:1936/radiosabrosura/radiosabrosura/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="893" tvg-name="Complejo Dance" tvg-logo="https://lh3.googleusercontent.com/-NvdU5z_za7I/YL5mrWlRJvI/AAAAAAABCxc/yQW5t2ZKAs4sSEUH1lxrnR9eNiTYUGb4gCJEEGAsYHg/s512/2021-06-07.png" group-title="MUSICA LATINA", Complejo Dance | AR
-https://mediacp.hostradios.com.ar:19360/complejodance/complejodance.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="904" tvg-name="Latin Zone TV" tvg-logo="https://i2.paste.pics/80e0212c6d6715e2ebdda69e5f2a6c61.png" group-title="MUSICA LATINA", Latin Zone TV | US
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="911" tvg-name="Tele Clasicos" tvg-logo="https://i2.paste.pics/379d8ce5893c94a972cd1ec9f5a13149.png" group-title="MUSICA LATINA", Tele Clasicos | CR
-https://tvdatta.com:3574/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="925" tvg-name="Nubeh TV" tvg-logo="https://i2.paste.pics/82dcfd31aad429ffee4c8edc9afa7624.png" group-title="MUSICA LATINA", Nubeh TV | VE
 https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="926" tvg-name="Oxigeno Network" tvg-logo="https://i2.paste.pics/ef1ca23d4134cf47e55c3092fae7e513.png" group-title="MUSICA LATINA", Oxigeno Network | VE
@@ -3919,20 +3887,6 @@ https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="929" tvg-name="Italianissimo" tvg-logo="https://i2.paste.pics/f98ee219e6d74ae697f46761bfc763c3.png" group-title="MUSICA LATINA", Italianissimo | VE
 https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="955" tvg-name="MCRT 80s" tvg-logo="https://i2.paste.pics/843283aea869f8124ab8ceec08c7fa68.png" group-title="MUSICA LATINA", MCRT 80s | CA
-https://stmv.negotv.com/80s2021/80s2021/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="949" tvg-name="MCRT Banda" tvg-logo="https://i2.paste.pics/843283aea869f8124ab8ceec08c7fa68.png" group-title="MUSICA LATINA", MCRT Banda | CA
-https://stmv.negotv.com/bandamx/bandamx/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="950" tvg-name="MCRT Cristiana" tvg-logo="https://i2.paste.pics/843283aea869f8124ab8ceec08c7fa68.png" group-title="MUSICA LATINA", MCRT Cristiana | CA
-https://stmv.negotv.com/religion2021/religion2021/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="952" tvg-name="MCRT En Español" tvg-logo="https://i2.paste.pics/843283aea869f8124ab8ceec08c7fa68.png" group-title="MUSICA LATINA", MCRT En Español | CA
-https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="951" tvg-name="MCRT GYM" tvg-logo="https://i2.paste.pics/843283aea869f8124ab8ceec08c7fa68.png" group-title="MUSICA LATINA", MCRT GYM | CA
-https://stmv.negotv.com/gym2021/gym2021/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="953" tvg-name="MCRT Reggaeton" tvg-logo="https://i2.paste.pics/843283aea869f8124ab8ceec08c7fa68.png" group-title="MUSICA LATINA", MCRT Reggaeton | CA
-https://stmv.negotv.com/regueton2021/regueton2021/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="954" tvg-name="MCRT Top Hits" tvg-logo="https://i2.paste.pics/843283aea869f8124ab8ceec08c7fa68.png" group-title="MUSICA LATINA", MCRT Top Hits | CA
-https://stmv.negotv.com/top2021/top2021/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1008" tvg-name="Cloud FM" tvg-logo="https://i2.paste.pics/bfdf6e6db7e66a7f59008cc6e85079b6.png" group-title="MUSICA LATINA", Cloud FM | CL
 https://videostreaming.cloudserverlatam.com:443/CLOUDFM/CLOUDFM/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1009" tvg-name="Radiomania" tvg-logo="https://i2.paste.pics/23bcb93c2d0cdd0163f92bffdb001898.png" group-title="MUSICA LATINA", Radiomania | CL
@@ -3953,18 +3907,10 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
 https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1076" tvg-name="Fabulosa FM" tvg-logo="https://i2.paste.pics/10532b52fe8caff8b9ac5d56c616bddb.png" group-title="MUSICA LATINA", Fabulosa FM | ES
 http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1077" tvg-name="Molahits TV" tvg-logo="https://i2.paste.pics/46fdcecaa7fc4ca2f236df0d8a4df6a6.png" group-title="MUSICA LATINA", Molahits TV | ES
-http://ventdelnord.tv:8080/mola/directe.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1092" tvg-name="Planeta TV" tvg-logo="https://i2.paste.pics/4075185fbbf2ba30f8739d15c9e56298.png" group-title="MUSICA LATINA", Planeta TV | PE
-https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="546" tvg-name="Top TV" tvg-logo="https://lh3.googleusercontent.com/-UXc734ztZfU/X0KOOvmuZAI/AAAAAAAA440/6ngQMIIe7Ukh8ugZlXJwxSnlbiiVz-bZQCK8BGAsYHg/s0/2020-08-23.png" group-title="MUSICA LATINA", Top TV | BR
 https://cast.cdnseguro.com:19360/8092/8092.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="561" tvg-name="TV Uniao" tvg-logo="https://i2.paste.pics/92b2a8a3fdeb9191df67c2d4c681f106.png" group-title="MUSICA LATINA", TV Uniao | BR
 https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="324" tvg-name="El Galpon 80" tvg-logo="https://i2.paste.pics/f1bc9762fc091f72206cac3d4d4111da.png" group-title="MUSICA LATINA", El Galpon 80 | CL
-http://elgalpon80.ddns.net:8080/livestream/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="845" tvg-name="Tu Musica HD" tvg-logo="https://i2.paste.pics/125ce9f4e1e661f94fb7c6dce4224485.png" group-title="MUSICA LATINA", Tu Musica HD | DO
-https://cloudflare.streamgato.us:3618/live/tumusicahdlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1127" tvg-name="Carolina TV 2" tvg-logo="https://i2.paste.pics/a1f3645efd9dcde7f2c90bc14f24ddc1.png" group-title="MUSICA LATINA", Carolina TV 2 | CL
 https://unlimited1-cl-isp.dps.live/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1128" tvg-name="Solobailalo TV" tvg-logo="https://i2.paste.pics/d96b857f73a9ce281cdef4e11766eddd.png" group-title="MUSICA LATINA", Solobailalo TV | CL
@@ -3975,8 +3921,6 @@ https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8?PlaylistM3UCL
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1181" tvg-name="Freestyledjs" tvg-logo="https://i2.paste.pics/d7192184924772147bbeed4fffde3680.png" group-title="MUSICA LATINA", Freestyledjs | CL
 https://paneltv.online:1936/8178/8178/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1195" tvg-name="La Chilena TV" tvg-logo="https://i2.paste.pics/8c05e352159b95f3dc0092a6149b3daf.png" group-title="MUSICA LATINA", La Chilena TV | CL
-https://vdohd.cl:1936/8066/8066/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1221" tvg-name="Cantina TV" tvg-logo="https://i2.paste.pics/ede0172917569eae7de0f05b84cfde92.png" group-title="MUSICA LATINA", Cantina TV | VE
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1219" tvg-name="Fiesta Max TV" tvg-logo="https://i2.paste.pics/44d839eef2ee10d75d93b498dc776dfc.png" group-title="MUSICA LATINA", Fiesta Max TV | VE
@@ -3990,12 +3934,6 @@ https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3U
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="MUSICA ANGLO", Sexy Kpop TV | BR
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="20" tvg-name="On Radio Kpop" tvg-logo="https://www.m3u.cl/logo/20_On_Radio_Kpop.png" group-title="MUSICA ANGLO", On Radio Kpop | CL
-https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mas23tv.com/wp-content/uploads/2020/02/logomas23.png" group-title="MUSICA ANGLO",+23 Tv | PA
-https://mediacp.us:8081/23tv/index.m3u8
-#EXTINF:-1 tvg-id="1077" tvg-name="Molahits TV" tvg-logo="https://www.m3u.cl/logo/1077_Molahits_TV.png" group-title="MUSICA ANGLO", Molahits TV | ES
-http://ventdelnord.tv:8080/mola/directe.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" group-title="MUSICA ANGLO" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle-150x150-1.png",Clubbing Tv 
 https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="24" tvg-name="Music Top" tvg-logo="https://www.m3u.cl/logo/24_Music_Top.png" group-title="MUSICA ANGLO", Music Top | AR
@@ -4006,10 +3944,6 @@ https://stmv1.srvstm.com/bruno4723/bruno4723/chunklist_w1139996119.m3u8
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="796" tvg-name="Euro Indie Music" tvg-logo="https://www.m3u.cl/logo/796_Euro_Indie_Music.png" group-title="MUSICA ANGLO", Euro Indie Music | GB
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="21" tvg-name="Retro Music Television" tvg-logo="https://www.m3u.cl/logo/21_Retro_Music_Television.png" group-title="MUSICA ANGLO", Retro Music Television | CZ
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="21" tvg-name="Retro Music Television" tvg-logo="https://www.m3u.cl/logo/21_Retro_Music_Television.png" group-title="MUSICA ANGLO", Retro Music Television | CZ
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="The Retro Channel" tvg-logo="https://www.m3u.cl/logo/17_The_Retro_Channel.png" group-title="MUSICA ANGLO", The Retro Channel | PR
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/master.m3u8
 #EXTINF:-1 tvg-id="25" tvg-name="TuTv Quillota" tvg-logo="https://www.m3u.cl/logo/25_TuTv_Quillota.png" group-title="MUSICA ANGLO", TuTv Quillota | CL
@@ -4042,10 +3976,6 @@ https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/QmusicNL/picture?width=200&height=200" group-title="MUSICA ANGLO" tvg-name="QMusic Holanda",QMusic Holanda NL
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/4FUN.TV/picture?width=200&height=200" group-title="MUSICA ANGLO" tvg-name="4FUN TV Polonia",4FUN TV Polonia PL
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/radioitalia/picture?width=200&height=200" group-title="MUSICA ANGLO" tvg-name="Radio Italia TV",Radio Italia TV IT
-https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tvocko/picture?width=200&height=200" group-title="MUSICA ANGLO" tvg-name="Ocko Chequia",Ocko Chequia CZ
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ockostar/picture?width=200&height=200" group-title="MUSICA ANGLO" tvg-name="Ocko Star Chequia",Ocko Star Chequia CZ
@@ -4064,8 +3994,6 @@ https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_
 http://190.2.155.162:8080/m6music/mpegts
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/powerapp/picture?width=200&height=200" group-title="MUSICA ANGLO" tvg-name="Power TV Turquía",Power TV Turquía
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RADIO21germany/picture?width=200&height=200" group-title="MUSICA ANGLO" tvg-name="Radio 21 Rock'n Pop Alemania",Radio 21 Rock'n Pop Alemania DE
-https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RadioU/picture?width=200&height=200" group-title="MUSICA ANGLO" tvg-name="RadioU TV USA",RadioU TV USA EN
 https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/onemusicchannel/picture?width=200&height=200" group-title="MUSICA ANGLO" tvg-name="First Music Channel Bielorrusia",First Music Channel Bielorrusia
@@ -4118,8 +4046,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png" group-title="MUSICA ANGLO",CMT MUSIC
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="MUSICA ANGLO" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV%20Portugal.png",MTV Hits
-http://190.171.101.36:80/MTV/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="MUSICA ANGLO" tvg-logo="https://images.pluto.tv/channels/5f9847fd513250000728a9a5/colorLogoPNG.png",MTV Ridiculousness
 https://bit.ly/3t94rxC?inspiration.m3u8
 #EXTINF:-1 group-title="MUSICA ANGLO" tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png",MTV Are you the One?
@@ -4134,10 +4060,6 @@ https://bit.ly/34xiFy2?/playlist.m3u8
 https://bit.ly/34BEY5L?/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="MUSICA ANGLO" tvg-logo="https://images.pluto.tv/channels/6130d6f3f3f7bb0007dbd092/colorLogoPNG.png",MTV Unplugged
 https://bit.ly/3K2CDBb?/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/1200px-MTV-Logo.svg.png" group-title="MUSICA ANGLO",MTV 80s
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=mtv80s
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/1200px-MTV-Logo.svg.png" group-title="MUSICA ANGLO",MTV 90s
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=mtv90s
 #EXTINF:-1 group-title="MUSICA ANGLO" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/VEVO.png",VEVO 80's
 https://bit.ly/vevo80s?wmsAuthSign=InspirationLinks
 #EXTINF:-1 group-title="MUSICA ANGLO" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/VEVO.png",VEVO 90's
@@ -4147,10 +4069,6 @@ https://bit.ly/vevo90s?wmsAuthSign=InspirationLinks
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/PTC_Punjabi.jpg" group-title="MUSICA ANGLO",PTC Punjabi
 https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w1389871650_b1396000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ijBDV01.png" group-title="MUSICA ANGLO",Still Bird Music
-http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="MUSICA ANGLO",Jhanjaar Music
-http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1 tvg-logo="https://balleballe.tv/wp-content/uploads/2019/07/logo-e1568618159543.png" group-title="MUSICA ANGLO",Balle Balle
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:0 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_1997/Pop_Patakha_Logo176X96.png" group-title="MUSICA ANGLO",Pop Pataka
@@ -4185,8 +4103,6 @@ https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rEhhYpe.png" group-title="MUSICA ANGLO", Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="MUSICA ANGLO", Gaaan Bangla
-https://somoy.appv.jagobd.com:444/somoy/gaanbangla-8-orgd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LZ7W3Yc.png" group-title="MUSICA ANGLO", Masti TV
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LZ7W3Yc.png" group-title="MUSICA ANGLO", Music Mastii
