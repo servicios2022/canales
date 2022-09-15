@@ -775,30 +775,30 @@
 			  "image": "https://i.imgur.com/TTaCeXw.png",
 	   	     "url": "https://pelotero.net/ver/cdfpremium.php",
 			"userAgent" : ""
+                    },  {
+		 "name": "TNT Sports Chile (opc.2) TU | CL 🇨🇱",
+			  "image": "https://i.imgur.com/TTaCeXw.png",
+	   	     "url": "https://www.tutele.nl/online.php?a=4",
+			"userAgent" : ""
                     }, {
-			"name": "TNT Sports Chile (opc.2) MA | CL 🇨🇱",
+			"name": "TNT Sports Chile (opc.3) MA | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://macron.xyz/player/1/118",
            		 "isHost" : "true"
            	 },  {
-		 "name": "TNT Sports Chile (opc.3) BL | CL 🇨🇱",
+		 "name": "TNT Sports Chile (opc.4) BL | CL 🇨🇱",
 			  "image": "https://i.imgur.com/TTaCeXw.png",
 	   	     "url": "https://tnclllll.blogspot.com/",
 			"userAgent" : ""
                     },  {
-		 "name": "TNT Sports Chile (opc.4) FU | CL 🇨🇱",
+		 "name": "TNT Sports Chile (opc.5) FU | CL 🇨🇱",
 			  "image": "https://i.imgur.com/TTaCeXw.png",
 	   	     "url": "https://futbolfullenvivo.com/ver-channel-tnt-sports-chile-en-vivo/",
 			"userAgent" : ""
                     },  {
-		 "name": "TNT Sports Chile (opc.5) ME| CL 🇨🇱",
+		 "name": "TNT Sports Chile (opc.6) ME| CL 🇨🇱",
 			  "image": "https://i.imgur.com/TTaCeXw.png",
 	   	     "url": "https://megatelevisionhd.com/en-vivo/tnt-sports-chile/?ver",
-			"userAgent" : ""
-                    },  {
-		 "name": "TNT Sports Chile (opc.6) TU | CL 🇨🇱",
-			  "image": "https://i.imgur.com/TTaCeXw.png",
-	   	     "url": "https://www.tutele.nl/online.php?a=4",
 			"userAgent" : ""
                     },  {
 			"name": "TNT Sports Argentina (opc.1) FU | AR 🇦🇷",
