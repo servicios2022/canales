@@ -15,10 +15,10 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Chile_01.png" group-title="FIESTAS PATRIAS",•●★-- 📺 FIESTAS PATRIAS 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-id="1029" tvg-name="Evavisión Pachanga" tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png" group-title="FIESTAS PATRIAS", Evavisión Pachanga | CL
-http://159.69.56.148:25461/live/evavision/2r4rfasf/38.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1255" tvg-name="VClassicTV Tropical" tvg-logo="https://i2.paste.pics/355ba171055dd0e6747131673432cc18.png" group-title="FIESTAS PATRIAS", VClassicTV Tropical * | CL
 https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1029" tvg-name="Evavisión Pachanga" tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png" group-title="FIESTAS PATRIAS", Evavisión Pachanga | CL
+http://159.69.56.148:25461/live/evavision/2r4rfasf/38.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1196" tvg-name="Radio Ritmo FM" tvg-logo="https://i2.paste.pics/7e2feb3f6e5b19c3b4b26515ee025bac.png" group-title="FIESTAS PATRIAS", Radio Ritmo FM | CL
 https://video.streamingchilenos.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="386" tvg-name="Energia TV" tvg-logo="https://lh3.googleusercontent.com/-OixheIRfa_Y/YDwn1t40sVI/AAAAAAABAcE/SV3ZQAJE8l4yRS-KV-hCat4miTZwNOuXwCK8BGAsYHg/s512/2021-02-28.png" group-title="FIESTAS PATRIAS", Energia TV | CL
