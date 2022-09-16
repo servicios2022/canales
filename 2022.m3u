@@ -33,6 +33,10 @@ https://tv.streaming-chile.com:19360/ritmofm/ritmofm.m3u8?PlaylistM3UCL
 https://v1.tustreaming.cl/sabortv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="401" tvg-name="Radio Fiessta" tvg-logo="https://lh3.googleusercontent.com/-geXQ8sv9psc/XoPRmsgB8zI/AAAAAAAAxYA/XW6P5dLJn1wAaa3IZFhc5NBjBIr-OAbqgCK8BGAsYHg/s0/2020-03-31.png" group-title="FIESTAS PATRIAS", Radio Fiessta | CL
 https://videostreaming.cloudserverlatam.com:443/8052/8052/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="417" tvg-name="Radio Favorita" tvg-logo="https://i2.paste.pics/013f102620fa4558ed5f233f7ea3b33e.png" group-title="FIESTAS PATRIAS", Radio Favorita | CL
+https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="389" tvg-name="Radio Fantasia TV" tvg-logo="https://lh3.googleusercontent.com/-7Uf_S_1oEU8/XmV_Zz3S5cI/AAAAAAAAwsA/yYku6NdZFTk7c0a9AtwAOJBoh3a2UMnqQCK8BGAsYHg/s0/2020-03-08.png" group-title="FIESTAS PATRIAS", Radio Fantasia TV | CL
+https://v2.tustreaming.cl/fantasiatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1195" tvg-name="La Chilena TV" tvg-logo="https://i2.paste.pics/8c05e352159b95f3dc0092a6149b3daf.png" group-title="FIESTAS PATRIAS", La Chilena TV * | CL
 https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
 
