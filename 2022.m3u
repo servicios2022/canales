@@ -11,6 +11,29 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NOXtQ6s.png" group-title="LISTA GRATUITA",📺 IPTV PRO REPRODUCTOR RECOMENDADO 📺
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
+#EXTINF:1,-FIESTAS PATRIAS-
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Chile_01.png" group-title="FIESTAS PATRIAS",•●★-- 📺 FIESTAS PATRIAS 📺 --★●•
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 tvg-id="1029" tvg-name="Evavisión Pachanga" tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png" group-title="FIESTAS PATRIAS", Evavisión Pachanga | CL
+http://159.69.56.148:25461/live/evavision/2r4rfasf/38.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1255" tvg-name="VClassicTV Tropical" tvg-logo="https://i2.paste.pics/355ba171055dd0e6747131673432cc18.png" group-title="FIESTAS PATRIAS", VClassicTV Tropical * | CL
+https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1196" tvg-name="Radio Ritmo FM" tvg-logo="https://i2.paste.pics/7e2feb3f6e5b19c3b4b26515ee025bac.png" group-title="FIESTAS PATRIAS", Radio Ritmo FM | CL
+https://video.streamingchilenos.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="386" tvg-name="Energia TV" tvg-logo="https://lh3.googleusercontent.com/-OixheIRfa_Y/YDwn1t40sVI/AAAAAAABAcE/SV3ZQAJE8l4yRS-KV-hCat4miTZwNOuXwCK8BGAsYHg/s512/2021-02-28.png" group-title="FIESTAS PATRIAS", Energia TV | CL
+https://cdn.oneplaychile.cl:1936/regionales/energia-fm/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="32" tvg-name="Alegria TV" tvg-logo="https://lh3.googleusercontent.com/-IDCwMaJRdnM/Xb11MVTbE-I/AAAAAAAAr4s/PbNF6ie1AIothtCRKeVvdVC6S5hO6a3xACK8BGAsYHg/s0/2019-11-02.png" group-title="FIESTAS PATRIAS", Alegria TV | CL
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1004" tvg-name="Ritmo TV" tvg-logo="https://i2.paste.pics/c21ae73475f4ae5a72d93defb2bdc1b7.png" group-title="FIESTAS PATRIAS", Ritmo TV | CL
+https://tv.streaming-chile.com:19360/ritmofm/ritmofm.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="416" tvg-name="Sabor TV" tvg-logo="https://i2.paste.pics/0c69fb7b8aed951e8fbb9dfae98c39a5.png" group-title="FIESTAS PATRIAS", Sabor TV | CL
+https://v1.tustreaming.cl/sabortv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="401" tvg-name="Radio Fiessta" tvg-logo="https://lh3.googleusercontent.com/-geXQ8sv9psc/XoPRmsgB8zI/AAAAAAAAxYA/XW6P5dLJn1wAaa3IZFhc5NBjBIr-OAbqgCK8BGAsYHg/s0/2020-03-31.png" group-title="FIESTAS PATRIAS", Radio Fiessta | CL
+https://videostreaming.cloudserverlatam.com:443/8052/8052/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1195" tvg-name="La Chilena TV" tvg-logo="https://i2.paste.pics/8c05e352159b95f3dc0092a6149b3daf.png" group-title="FIESTAS PATRIAS", La Chilena TV * | CL
+https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
+
 #EXTINF:1,-LA LIGA-
 
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="LA LIGA",•●★-- 📺 LA LIGA 📺 --★●•
