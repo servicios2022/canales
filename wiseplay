@@ -51,6 +51,16 @@
 	        "url": "https://starlive.xyz/embed.php?id=livexDazn3_ES",
 		"userAgent" : ""
                     }, {
+			"name": "DAZN la Liga (opc.1) | ES 🇪🇸",
+			"image": "https://www.mundoplus.tv/wp-content/uploads/2022/07/dazn-laliga-santander.jpg.webp",
+	        "url": "https://starlive.xyz/embed.php?id=liveLigaDazn",
+		"userAgent" : ""
+                    }, {
+			"name": "DAZN la Liga (opc.2) | ES 🇪🇸",
+			"image": "https://www.mundoplus.tv/wp-content/uploads/2022/07/dazn-laliga-santander.jpg.webp",
+	        "url": "https://starlive.xyz/embed.php?id=livexLigaDazn",
+		"userAgent" : ""
+                    }, {
 			"name": "Fox Sports Mexico (opc.1) | MX 🇲🇽",
 			"image": "https://i.imgur.com/CF5il5c.png",
 	        "url": "https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd",
@@ -64,6 +74,26 @@
 			"name": "Fox Sports 3 Mexico (opc.1) | MX 🇲🇽",
 			"image": "https://i.imgur.com/VxIZXH9.png",
 	        "url": "https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd",
+		"userAgent" : ""
+                    }, {
+			"name": "La Liga Tv Bar (opc.1) | ES 🇪🇸",
+			"image": "https://laligatvbar.es/meta-image.jpg",
+	        "url": "https://starlive.xyz/embed.php?id=liveLigaBar",
+		"userAgent" : ""
+                    }, {
+			"name": "La Liga Tv Bar (opc.2) | ES 🇪🇸",
+			"image": "https://laligatvbar.es/meta-image.jpg",
+	        "url": "https://starlive.xyz/embed.php?id=livexLigaBar",
+		"userAgent" : ""
+                    }, {
+			"name": "La Liga por M+ (opc.1) | ES 🇪🇸",
+			"image": "https://laligatvbar.es/meta-image.jpg",
+	        "url": "https://starlive.xyz/embed.php?id=liveLiga",
+		"userAgent" : ""
+                    }, {
+			"name": "La Liga por M+ (opc.2) | ES 🇪🇸",
+			"image": "https://laligatvbar.es/meta-image.jpg",
+	        "url": "https://starlive.xyz/embed.php?id=livexLiga",
 		"userAgent" : ""
                     }, {
 			"name": " TNT Estadio Chile | CL 🇨🇱",
