@@ -114,8 +114,29 @@
 			  "name": "TNT Sports Chile (opc.1) ba | CL 🇨🇱",
                		 "image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://bahiadeportes.com/canales/tntsportschile.php",
+			 "referer": "https://bahiadeportes.com/tntsportschile.html",
          	   "isHost" : "true"
-           	 },  {
+           	 }, {
+			  "name": "TNT Sports Chile (opc.2) ba | CL 🇨🇱",
+               		 "image": "https://i.imgur.com/TTaCeXw.png",
+			"url":"https://bahiadeportes.com/canales/tntsportschile.php",
+			 "referer": "https://bahiadeportes.com/tntsportschile",
+         	   "isHost" : "true"
+           	 }, {
+			  "name": "TNT Sports Chile (opc.3) ba | CL 🇨🇱",
+               		 "image": "https://i.imgur.com/TTaCeXw.png",
+			"url":"https://bahiadeportes.com/canales/tntsportschile.php",
+			 "referer": "https://bahiadeportes.com",
+         	   "isHost" : "true"
+           	 }, {
+			  "name": "TNT Sports Chile (opc.4) ba | CL 🇨🇱",
+               		 "image": "https://i.imgur.com/TTaCeXw.png",
+			"url":"https://bahiadeportes.com/canales/tntsportschile.php",
+			 "referer": "https://bahiadeportes.com.html",
+         	   "isHost" : "true"
+           	 }, 
+		 
+		 {
 			  "name": "TNT Sports Chile (opc.1) fu | CL 🇨🇱",
                		 "image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://www.futbolgratis.online/p/tnt-sports-chile-en-vivo.html",
