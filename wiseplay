@@ -10,6 +10,14 @@
     
   "stations": [ 
   
+  
+  {
+			"name": "espn | LAT 🇲🇽",
+          	   "image": "https://i.imgur.com/c4gfwhr.png",
+          	 "url" :  "https://futbollatam.com/en-vivo/espn-1/",
+			 "isHost":"true"
+                      },
+  
   {
 			"name": "Bein Sport Extra Ñ (opc.1) | LAT 🇲🇽",
 			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
