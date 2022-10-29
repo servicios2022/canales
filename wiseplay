@@ -21,9 +21,34 @@
 	        "url": "https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8",
 		"userAgent" : ""
                     },  {
-			"name": "DAZN 3 | ES 🇪🇸",
+			"name": "DAZN 1 (opc.1) | ES 🇪🇸",
+			"image": "https://i.imgur.com/BEtyZsQ.png",
+	        "url": "https://starlive.xyz/embed.php?id=liveDazn1_ES",
+		"userAgent" : ""
+                    }, {
+			"name": "DAZN 1 (opc.2) | ES 🇪🇸",
+			"image": "https://i.imgur.com/BEtyZsQ.png",
+	        "url": "https://starlive.xyz/embed.php?id=livexDazn1_ES",
+		"userAgent" : ""
+                    }, {
+			"name": "DAZN 2 (opc.1) | ES 🇪🇸",
+			"image": "https://i.imgur.com/BEtyZsQ.png",
+	        "url": "https://starlive.xyz/embed.php?id=liveDazn2_ES",
+		"userAgent" : ""
+                    }, {
+			"name": "DAZN 3 (opc.2) | ES 🇪🇸",
+			"image": "https://i.imgur.com/BEtyZsQ.png",
+	        "url": "https://starlive.xyz/embed.php?id=livexDazn2_ES",
+		"userAgent" : ""
+                    }, {
+			"name": "DAZN 2 (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/BEtyZsQ.png",
 	        "url": "https://starlive.xyz/embed.php?id=liveDazn3_ES",
+		"userAgent" : ""
+                    }, {
+			"name": "DAZN 3 (opc.2) | ES 🇪🇸",
+			"image": "https://i.imgur.com/BEtyZsQ.png",
+	        "url": "https://starlive.xyz/embed.php?id=livexDazn3_ES",
 		"userAgent" : ""
                     }, {
 			"name": "Fox Sports Mexico (opc.1) | MX 🇲🇽",
