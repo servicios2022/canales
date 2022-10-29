@@ -1,4 +1,3 @@
-  
 {
 
 "name": "⚽ SOLO DEPORTES ⚽",
@@ -9,95 +8,146 @@
 
     
   "stations": [ 
-  
 
-  
-  {
+ {
 			"name": "Bein Sport Extra Ñ (opc.1) | LAT 🇲🇽",
 			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
 	   	     "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8",
 			"userAgent" : ""
                     },  {
-			"name": "Bein Sport Ñ (opc.1) MA | LAT 🇲🇽",
+			"name": "Bein Sport Extra Ñ (opc.2) | LAT 🇲🇽",
+			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
+	   	      "url" :  "https://macron.xyz/player/1/83",
+			 "isHost":"true"
+                    }, {
+			"name": "Bein Sport Extra Ñ (opc.3) | LAT 🇲🇽",
+			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
+	   	      "url" :  "https://macron.xyz/player/1/82",
+			 "isHost":"true"
+                    },  {
+			"name": "Bein Sport Ñ (opc.1) | LAT 🇲🇽",
           	   "image": "https://i.imgur.com/c4gfwhr.png",
           	 "url" :  "https://macron.xyz/player/1/101",
 			 "isHost":"true"
                       }, {
-			"name": "Bein Sport Ñ (opc.2) PE | LAT 🇲🇽",
+			"name": "Bein Sport Ñ (opc.2) | LAT 🇲🇽",
           	   "image": "https://i.imgur.com/c4gfwhr.png",
           	 "url" :  "https://pelotero.net/ver/beinsports.php",
 			 "isHost":"true"
                       }, {
-			"name": "Bein Sport Ñ (opc.3) TI | LAT 🇲🇽",
+			"name": "Bein Sport Ñ (opc.3) | LAT 🇲🇽",
 			"image": "https://i.imgur.com/c4gfwhr.png",
            	 "url" : "http://timesports.cc/beinsportes.php",
 			"isHost": "true"
                      }, {
-			"name": "Bein Sport Ñ (opc.4) TU | LAT 🇲🇽",
+			"name": "Bein Sport Ñ (opc.4) | LAT 🇲🇽",
            	  "image": "https://i.imgur.com/c4gfwhr.png",
           	 "url" :  "https://www.tutele.sx/online.php?a=9",
 			 "isHost":"true"
-                      },  {
-			"name": "Bein Sport Ñ (opc.5) MA | LAT 🇲🇽",
+                      }, {
+			"name": "Bein Sport Ñ (opc.5) | LAT 🇲🇽",
 			"image": "https://i.imgur.com/c4gfwhr.png",
-			"url": "https://macron.xyz/player/1/101",
+			"url": "https://c787898.com/embed.php?id=live10",
+          	  "referer" : "https://c787898.com.html",
           	   "isHost": "true"
+          	   }, {
+			"name": "Bein Sport Ñ (opc.6) | LAT 🇲🇽",
+			"image": "https://i.imgur.com/c4gfwhr.png",
+			"url": "https://starlive.xyz/embed.php?id=live10",
+           	 "referer" : "https://starlive.xyz/",
+           	  "isHost": "true"
            	  },  {
-			"name": "Bein Sports HD (opc.1)  TI | EN 🇺🇸",
+			"name": "Bein Sport Ñ (opc.7) | LAT 🇲🇽",
+			"image": "https://i.imgur.com/c4gfwhr.png",
+			"url": "https://c787898.com/embed.php?id=live18",
+         	   "referer" : "https://c787898.com.html",
+          	   "isHost": "true"
+          	   }, {
+			"name": "Bein Sport Ñ (opc.8) | LAT 🇲🇽",
+			"image": "https://i.imgur.com/c4gfwhr.png",
+			"url": "https://starlive.xyz/embed.php?id=live18",
+          	   "isHost": "true"
+           	  }, {
+			"name": "Bein Sport Ñ (opc.9) | LAT 🇲🇽",
+			"image": "https://i.imgur.com/c4gfwhr.png",
+			"url": "https://cdnz.one/ch40.php",
+          	   "isHost": "true"
+           	  }, {
+			"name": "Bein Sports HD (opc.1) | EN 🇺🇸",
+             "image": "https://i.imgur.com/XpU4D9m.png",
+           "url" :  "https://c787898.com/embed.php?id=live19",
+			 "isHost":"true"
+                      }, {
+			"name": "Bein Sports HD (opc.2) | EN 🇺🇸",
+             "image": "https://i.imgur.com/XpU4D9m.png",
+           "url" :  "https://starlive.xyz/embed.php?id=live19",
+			 "isHost":"true"
+                      }, {
+			"name": "Bein Sports HD (opc.3) | EN 🇺🇸",
+             "image": "https://i.imgur.com/XpU4D9m.png",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd5.php",
+			 "isHost":"true"
+                      },  {
+			"name": "Bein Sports HD (opc.4) | EN 🇺🇸",
+             "image": "https://i.imgur.com/XpU4D9m.png",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd8.php",
+			 "isHost":"true"
+                      }, {
+			"name": "Bein Sports HD (opc.5) | EN 🇺🇸",
 			"image": "https://i.imgur.com/XpU4D9m.png",
             "url" : "http://timesports.cc/beinsportusa.php",
 			"isHost": "true"
                      }, {
-			"name": "Bein Sports HD (opc.2) TU | EN 🇺🇸",
+			"name": "Bein Sports HD |(opc.6)  EN 🇺🇸",
              "image": "https://i.imgur.com/XpU4D9m.png",
            "url" :  "https://www.tutele.sx/online.php?a=76",
 			 "isHost":"true"
                       }, {
-			 "name": "BT Sport 1 (opc.1)  RA | UK 🇬🇧",
+			 "name": "BT Sport 1 (opc.1) | UK 🇬🇧",
 			"image": "https://i.imgur.com/og4XWuT.png",
 			"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp1",
             "referer" : "https://cdnz.one/",
             "isHost" : "true"
 		}, {
-			 "name": "BT Sport 1 (opc.2)  TI | UK 🇬🇧",
+			 "name": "BT Sport 1 (opc.2) | UK 🇬🇧",
 			"image": "https://i.imgur.com/og4XWuT.png",
 			"url":"http://timesports.cc/btsport1uk.php",
             "isHost" : "true"
 		}, {
-			 "name": "BT Sport 1 (opc.3)  CD | UK 🇬🇧",
+			 "name": "BT Sport 1 (opc.3) | UK 🇬🇧",
 			"image": "https://i.imgur.com/og4XWuT.png",
 			"url":"https://cdnz.one/ch41.php",
             "isHost" : "true"
 		}, {
-              "name": "BT Sport 2 (opc.1)  CD | UK 🇬🇧",
+              "name": "BT Sport 2 (opc.1) | UK 🇬🇧",
 			"image": "https://i.imgur.com/pzDve0y.png",
 		"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp2",
             "referer" : "https://cdnz.one/",
             "isHost" : "true"
           }, {
-              "name": "BT Sport 2 (opc.2) TI | UK 🇬🇧",
+              "name": "BT Sport 2 (opc.2) | UK 🇬🇧",
 			"image": "https://i.imgur.com/pzDve0y.png",
 		"url":"http://timesports.cc/btsport2uk.php",
             "isHost" : "true"
           }, {
-              "name": "BT Sport 2 (opc.3) CD | UK 🇬🇧",
+              "name": "BT Sport 2 (opc.3) | UK 🇬🇧",
 			"image": "https://i.imgur.com/pzDve0y.png",
 		"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp2",
             "referer" : "https://cdnz.one/ch42.php",
             "isHost" : "true"
           }, {
-              "name": "BT Sport 3 (opc.1) RA | UK 🇬🇧",
+              "name": "BT Sport 3 (opc.1) | UK 🇬🇧",
 			"image": "https://i.imgur.com/66lxeXn.png",
 			"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp3",
             "referer" : "https://cdnz.one/",
             "isHost" : "true"
 		 }, {
-              "name": "BT Sport 3 (opc.2) TI | UK 🇬🇧",
+              "name": "BT Sport 3 (opc.2) | UK 🇬🇧",
 			"image": "https://i.imgur.com/66lxeXn.png",
 			"url":"http://timesports.cc/btsport3uk.php",
             "isHost" : "true"
 		 }, {
-              "name": "BT Sport 3 (opc.3) CD | UK 🇬🇧",
+              "name": "BT Sport 3 (opc.3) | UK 🇬🇧",
 			"image": "https://i.imgur.com/66lxeXn.png",
 			"url":"https://cdnz.one/ch43.php",
             "isHost" : "true"
@@ -107,209 +157,290 @@
 	        "url": "https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8",
 		"userAgent" : ""
                     }, {
-                    "name": "Deportes por M+ (opc.1) CA | ES 🇪🇸",
+                 "name": "DAZN 1 (opc.1) | ES 🇪🇸",
+                    "image": "https://i.imgur.com/NcXEpiv.png",
+                  "url": "https://cloudstreams.org/cloud.php?player=desktop&live=wiz43",
+            "referer" : "https://wizhdlive.xyz/",
+			"ishost": "true"
+                       }, {
+                    "name": "DAZN 1 (opc.2) | ES 🇪🇸",
+                    "image": "https://i.imgur.com/NcXEpiv.png",
+			   "url": "https://cloudstreams.org/cloud.php?player=desktop&live=sdazn1",
+             "isHost": "true"
+                      }, {
+			"name": "DAZN 1 (opc.3) | ES 🇪🇸",
+                    "image": "https://i.imgur.com/NcXEpiv.png",
+			"url" : "https://ragnarp.net/embed/loofty",
+			 "referer": "https://macron.xyz/",
+             "isHost": "true"
+                    }, {   
+                 "name": "DAZN 1 (opc.4) | ES 🇪🇸",
+                    "image": "https://i.imgur.com/NcXEpiv.png",
+                     "url": "http://emb.x178323.apl118.me/player/live.php?id=178323&w=728&h=450",
+               "isHost" : "true"
+                 }, {   
+                 "name": "DAZN 1 (opc.5) | ES 🇪🇸",
+                    "image": "https://i.imgur.com/NcXEpiv.png",
+                     "url": "https://futbolfullenvivo.com/ver-channel-dazn-1-online-en-directo/",
+               "isHost" : "true"
+                 }, {   
+                 "name": "DAZN 1 (opc.6) | IT 🇮🇹",
+                    "image": "https://i.imgur.com/NcXEpiv.png",
+                     "url": "https://v2.sportsonline.to/channels/hd/hd7.php",
+               "isHost" : "true"
+                 },  {   
+                 "name": "DAZN 1 (opc.7) | IT 🇮🇹",
+                    "image": "https://i.imgur.com/NcXEpiv.png",
+                     "url": "https://cdnz.one/ch29.php",
+               "isHost" : "true"
+                 }, {   
+                 "name": "DAZN 2 (opc.1) | ES 🇪🇸",
+                    "image": "https://i.imgur.com/N5mzib9.png",
+                     "url": "https://futbolfullenvivo.com/ver-channel-dazn-2-online-en-directo/",
+               "isHost" : "true"
+                 }, {   
+                 "name": "DAZN 2 (opc.2) | ES 🇪🇸",
+                    "image": "https://i.imgur.com/N5mzib9.png",
+                     "url": "https://cdnz.one/ch30.php",
+               "isHost" : "true"
+                 }, {
+			"name": "DAZN Formula 1 (opc.1) | ES 🇪🇸",
+			"image": "https://i.imgur.com/U7lLcbT.jpg",
+			"url": "https://c787898.com/embed.php?id=30",
+             "isHost": "true"
+             }, {
+			"name": "DAZN Formula 1 (opc.2) | ES 🇪🇸",
+			"image": "https://i.imgur.com/U7lLcbT.jpg",
+			"url": "https://starlive.xyz/embed.php?id=live30",
+             "isHost": "true"
+             },  {   
+                 "name": "DAZN Formula 1 (opc.3) | ES 🇪🇸",
+                    "image": "https://i.imgur.com/U7lLcbT.jpg",
+                     "url": "http://emb.x177234.apl118.me/player/live.php?id=177234&w=728&h=450",
+               "isHost" : "true"
+                 }, {
+		"name": "DAZN Formula 1 (opc.4) | ES 🇪🇸",
+		"image": "https://i.imgur.com/U7lLcbT.jpg",
+		"url": "http://www.ciberespaciotv.com/p/dazn-f1-online.html",
+		 "referer":"", 
+                "desktop": "true", 
+		"isHost": "true"
+		}, {   
+			"name": "DAZN Formula 1 (opc.5) | ES 🇪🇸",
+			"image": "https://i.imgur.com/U7lLcbT.jpg",
+              "url" : "https://www.tutele.sx/online.php?a=3881",
+			 "referer" : "https://telefullenvivo.com/",
+                    "isHost" : "true"
+        }, {
+                    "name": "Deportes por M+ (opc.1) | ES 🇪🇸",
                     "image": "https://i.imgur.com/OJqxHKo.png",
                 		"url": "https://fclecteur.com/footy.php?player=desktop&live=ufeed67",
                       "referer" : "https://casadelfutbol.net/",
 			"isHost": "true"
                 }, {
-                       "name": "Deportes por M+ (opc.2) MA | ES 🇪🇸",
+                       "name": "Deportes por M+ (opc.2) | ES 🇪🇸",
                     "image": "https://i.imgur.com/OJqxHKo.png",
                 			"url": "https://ragnarp.net/embed/577d4aefb1y83e",
 			  "referer" : "https://macron.xyz/",
             "isHost": "true"
                 }, {
-                     "name": "Deportes por M+ (opc.3) RA | ES 🇪🇸",
+                     "name": "Deportes por M+ (opc.3) | ES 🇪🇸",
                     "image": "https://i.imgur.com/OJqxHKo.png",
                  "url": "https://ragnarp.net/embed/6ojgvg",
                  "referer" : "https://leet365.cc/",
 			 "isHost": "true"
                       }, {
-			"name": "Deportes por M+ (opc.4) C7 | ES 🇪🇸",
+			"name": "Deportes por M+ (opc.4) | ES 🇪🇸",
 			"image": "https://i.imgur.com/OJqxHKo.png",
 	        "url": "https://c787898.com/embed.php?id=live27",
 		"userAgent" : ""
                     }, {
-			"name": "Deportes por M+ (opc.5) ST | ES 🇪🇸",
+			"name": "Deportes por M+ (opc.5) | ES 🇪🇸",
 			"image": "https://i.imgur.com/OJqxHKo.png",
 	        "url": "https://starlive.xyz/embed.php?id=live27",
 		"userAgent" : ""
                     }, {
-			"name": "Deportes por M+ (opc.6) MA | ES 🇪🇸",
+			"name": "Deportes por M+ (opc.6) | ES 🇪🇸",
 			"image": "https://i.imgur.com/OJqxHKo.png",
 	        "url": "https://macron.xyz/player/1/67",
 		"userAgent" : ""
                     }, {
-			"name": "Deportes por M+ (opc.7) CD | ES 🇪🇸",
+			"name": "Deportes por M+ (opc.7) | ES 🇪🇸",
 			"image": "https://i.imgur.com/OJqxHKo.png",
 	        "url": "https://cdnz.one/ch21.php",
 		"userAgent" : ""
                     }, {
-			"name": "Direct Tv Sports (opc.1) FU | AR 🇦🇷",
-          	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
-         	  "url" :  "https://futbollatam.com/en-vivo/directv-sports/",
-			 "isHost":"true"
-                      }, {
-			"name": "Direct Tv Sports (opc.2) CA | AR 🇦🇷",
+			"name": "Direct Tv Sports (opc.1) | AR 🇦🇷",
           	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
          	  "url" :  "https://pelotero.net/ver/directvsports.php",
 	 	  "referer": "https://cablegratis.online/como-ver-directv-sports-como-en-vivo-hoy-hoy-hd-hd-hd.html",
 			 "isHost":"true"
                       }, {
-			"name": "Direct Tv Sports (opc.3) TU | AR 🇦🇷",
+			"name": "Direct Tv Sports (opc.2) | AR 🇦🇷",
          	    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
          	  "url" :  "https://www.tutele.sx/online.php?a=6",
 			 "isHost":"true"
                       },  {
-			"name": "Direct Tv Sports (opc.4) FU | AR 🇦🇷",
+			"name": "Direct Tv Sports (opc.3) | AR 🇦🇷",
           	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
          	  "url" :  "https://futbolfullenvivo.com/ver-channel-directv-en-vivo/",
 			 "isHost":"true"
                       }, {
-			"name": "Direct Tv Sports 2 (opc.1) FU | AR 🇦🇷",
-             "image": "https://i.imgur.com/bWw9A7h.png",
-           "url" :  "https://futbollatam.com/en-vivo/directv-sports-2",
-			 "isHost":"true"
-                      }, {
-			"name": "Direct Tv Sports 2 (opc.2) CA | AR 🇦🇷",
+			"name": "Direct Tv Sports 2 (opc.1) | AR 🇦🇷",
              "image": "https://i.imgur.com/bWw9A7h.png",
            "url" :  "https://pelotero.net/ver/directvsports2.php",
 	   "referer": "https://cablegratis.online/como-ver-directv-sports-2-en-vivo-hoy-hoy-gratis.html",
 			 "isHost":"true"
                       }, {
-			"name": "Direct Tv Sports 2 (opc.3) TU | AR 🇦🇷",
+			"name": "Direct Tv Sports 2 (opc.2) | AR 🇦🇷",
              "image": "https://i.imgur.com/bWw9A7h.png",
            "url" :  "https://www.tutele.sx/online.php?a=7",
 			 "isHost":"true"
                       }, {
-			"name": "Direct Tv Sports 2 (opc.4) FU | AR 🇦🇷",
+			"name": "Direct Tv Sports 2 (opc.3) | AR 🇦🇷",
              "image": "https://i.imgur.com/bWw9A7h.png",
            "url" :  "https://futbolfullenvivo.com/ver-channel-directv-2-en-vivo/",
 			 "isHost":"true"
                       }, {
-			"name": "Direct Tv Sports Plus (opc.1) FU | AR 🇦🇷",
-             "image": "https://i.imgur.com/ztxH679.png",
-           "url" :  "https://futbollatam.com/en-vivo/directv-sports-3",
-			 "isHost":"true"
-                      },  {
-			"name": "Direct Tv Sports Plus (opc.2) CA | AR 🇦🇷",
+			"name": "Direct Tv Sports Plus (opc.1) | AR 🇦🇷",
              "image": "https://i.imgur.com/ztxH679.png",
            "url" :  "https://pelotero.net/ver/directvsportsplus.php",
 	   "referer": "https://cablegratis.online/como-ver-directv-sports-plus-en-vivo-como-hoy-hd-hd.html",
 			 "isHost":"true"
                       }, {
-			"name": "Direct Tv Sports Plus (opc.3) TU | AR 🇦🇷",
+			"name": "Direct Tv Sports Plus (opc.2) | AR 🇦🇷",
              "image": "https://i.imgur.com/ztxH679.png",
            "url" :  "https://www.tutele.sx/online.php?a=8",
 			 "isHost":"true"
                       }, {
-			"name": "Direct Tv Sports Plus (opc.4) FU | AR 🇦🇷",
+			"name": "Direct Tv Sports Plus (opc.3) | AR 🇦🇷",
              "image": "https://i.imgur.com/ztxH679.png",
            "url" :  "https://futbolfullenvivo.com/ver-channel-directv-plus-en-vivo/",
 			 "isHost":"true"
                       }, {
 			"name": "ESPN Argentina (opc.1) | AR 🇦🇷",
-			      "image": "https://i.imgur.com/MFhpD4D.png",
-	        "url": "https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8",
+			"image": "https://i.imgur.com/MFhpD4D.png",
+	        "url": "http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8",
 		"userAgent" : ""
                     }, {
-			"name": "ESPN Argentina (opc.2) PE | AR 🇦🇷",
-             "image": "https://i.imgur.com/MFhpD4D.png",
-           "url" :  "https://pelotero.net/ver/espn.php",
-			 "isHost":"true"
-                      }, {
-			"name": "ESPN Argentina (opc.3) CA | AR 🇦🇷",
+			"name": "ESPN Argentina (opc.2) | AR 🇦🇷",
              "image": "https://i.imgur.com/MFhpD4D.png",
            "url" :  "https://pelotero.net/ver/espn.php",
 	   "referer": "https://cablegratis.online/espn-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN Argentina (opc.4) TI | AR 🇦🇷",
+			"name": "ESPN Argentina (opc.3) | AR 🇦🇷",
              "image": "https://i.imgur.com/MFhpD4D.png",
            "url" :  "http://timesports.cc/espn1sur.php",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN Argentina (opc.5) TU | AR 🇦🇷",
+			"name": "ESPN Argentina (opc.4) | AR 🇦🇷",
+             "image": "https://i.imgur.com/MFhpD4D.png",
+           "url" :  "https://pelotero.net/ver/espn.php",
+			 "isHost":"true"
+                      }, {
+			"name": "ESPN Argentina |(opc.5)  AR 🇦🇷",
              "image": "https://i.imgur.com/MFhpD4D.png",
            "url" :  "https://www.tutele.sx/online.php?a=1",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 2 Argentina (opc.1) CA | AR 🇦🇷",
+			"name": "ESPN 2 Argentina (opc.1) | AR 🇦🇷",
              "image": "https://i.imgur.com/jq1s4to.png",
            "url" :  "https://pelotero.net/ver/espn2.php",
 	   "referer": "https://cablegratis.online/espn-2-en-vivo-gratis.html",
 			 "isHost":"true"
                       }, {
-                  "name": "ESPN 2 Argentina (opc.2) PE | AR 🇦🇷",
+                  "name": "ESPN 2 Argentina (opc.2) | AR 🇦🇷",
                     "image": "https://i.imgur.com/jq1s4to.png",
                     "url": "https://cloudstream.to/e/olq87c7ym5a",
                       "referer" : "https://pelotero.net/",
                      "isHost" : "true"
                  }, {
-			"name": "ESPN 2 Argentina (opc.3) TU | AR 🇦🇷",
+			"name": "ESPN 2 Argentina (opc.3) | AR 🇦🇷",
              "image": "https://i.imgur.com/jq1s4to.png",
            "url" :  "https://www.tutele.sx/online.php?a=2",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 2 Argentina (opc.4) PE | AR 🇦🇷",
+			"name": "ESPN 2 Argentina (opc.4) | AR 🇦🇷",
              "image": "https://i.imgur.com/jq1s4to.png",
            "url" :  "https://pelotero.net/ver/espn2.php",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 3 Argentina (opc.1) CA | AR 🇦🇷",
+			"name": "ESPN 3 Argentina (opc.1) | AR 🇦🇷",
+             "image": "https://i.imgur.com/iFqCpKj.png",
+           "url" :  "http://spliktv-edge2.wedrly.xyz/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8",
+			"userAgent" : ""
+                      }, {
+			"name": "ESPN 3 Argentina (opc.2) | AR 🇦🇷",
              "image": "https://i.imgur.com/iFqCpKj.png",
            "url" :  "https://pelotero.net/ver/espn3.php",
 	   "referer": "https://cablegratis.online/espn-3-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 3 Argentina (opc.2) TI | AR 🇦🇷",
+			"name": "ESPN 3 Argentina (opc.3) | AR 🇦🇷",
              "image": "https://i.imgur.com/iFqCpKj.png",
            "url" :  "http://timesports.cc/espn3sur.php",
 			 "isHost":"true"
                       }, {
-			"name": "ESPN 3 Argentina (opc.3) TU | AR 🇦🇷",
+			"name": "ESPN 3 Argentina (opc.4) | AR 🇦🇷",
              "image": "https://i.imgur.com/iFqCpKj.png",
            "url" :  "https://www.tutele.sx/online.php?a=3",
 			 "isHost":"true"
                       },{
-			"name": "ESPN 3 Argentina (opc.4) PE | AR 🇦🇷",
+			"name": "ESPN 3 Argentina (opc.5) | AR 🇦🇷",
              "image": "https://i.imgur.com/iFqCpKj.png",
            "url" :  "https://pelotero.net/ver/espn3.php",
 			 "isHost":"true"
                       }, {
-			"name": "Fox Sports Argentina (opc.1) PE | AR 🇦🇷",
-             "image": "https://i.imgur.com/CF5il5c.png",
-           "url" :  "https://pelotero.net/ver/foxsports.php",
+			"name": "ESPN Extra Argentina | AR 🇦🇷",
+             "image": "https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png",
+           "url" :  "http://timesports.cc/espn2sur.php",
 			 "isHost":"true"
                       }, {
-			"name": "Fox Sports Argentina (opc.2) CA | AR 🇦🇷",
+			"name": "Fox Sports Argentina (opc.1) | AR 🇦🇷",
+			"image": "https://i.imgur.com/CF5il5c.png",
+	        "url": "http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8",
+		"userAgent" : ""
+                    }, {
+			"name": "Fox Sports Argentina (opc.2) | AR 🇦🇷",
+			"image": "https://i.imgur.com/CF5il5c.png",
+			 "url": "https://iraffletv.com/match/pl5.php",
+			"referer": "https://iraffletv.com",
+             "isHost": "true"
+                     }, {
+			"name": "Fox Sports Argentina (opc.3) | AR 🇦🇷",
              "image": "https://i.imgur.com/CF5il5c.png",
            "url" :  "https://pelotero.net/ver/foxsports.php",
 	   "referer": "https://cablegratis.online/fox-sports-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "Fox Sports Argentina (opc.3) TU | AR 🇦🇷",
+			"name": "Fox Sports Argentina (opc.4) | AR 🇦🇷",
              "image": "https://i.imgur.com/CF5il5c.png",
            "url" :  "https://www.tutele.sx/online.php?a=132",
 			 "isHost":"true"
                       }, {
-			"name": "Fox Sports Mexico (opc.4) DI | MX 🇲🇽",
+			"name": "Fox Sports Mexico (opc.5) | MX 🇲🇽",
 			"image": "https://i.imgur.com/CF5il5c.png",
 	        "url": "https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd",
 		"userAgent" : ""
                     }, {
-			"name": "Fox Sports 2 Argentina (opc.1) CA | AR 🇦🇷",
+			"name": "Fox Sports 2 Argentina (opc.1) | AR 🇦🇷",
+			"image": "https://i.imgur.com/t2Wn2rO.png",
+	        "url": "http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8",
+		"userAgent" : ""
+                    }, {
+			"name": "Fox Sports 2 Argentina (opc.2) | AR 🇦🇷",
              "image": "https://i.imgur.com/t2Wn2rO.png",
            "url" :  "https://pelotero.net/ver/foxsports2.php",
 	   "referer": "https://cablegratis.online/fox-sports-2-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "Fox Sports 2 Argentina (opc.2) TU | AR 🇦🇷",
+			"name": "Fox Sports 2 Argentina (opc.3) | AR 🇦🇷",
              "image": "https://i.imgur.com/t2Wn2rO.png",
            "url" :  "https://www.tutele.sx/online.php?a=133",
 			 "isHost":"true"
                       }, {
-			"name": "Fox Sports 2 Mexico (opc.3) DI | MX 🇲🇽",
+			"name": "Fox Sports 2 Mexico (opc.4) | MX 🇲🇽",
 			"image": "https://i.imgur.com/t2Wn2rO.png",
 	        "url": "https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd",
 		"userAgent" : ""
@@ -319,258 +450,272 @@
 	        "url": "http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8",
 		"userAgent" : ""
                     }, {
-			"name": "Fox Sports 3 Mexico (opc.2) DI | MX 🇲🇽",
+			"name": "Fox Sports 3 Mexico (opc.2) | MX 🇲🇽",
 			"image": "https://i.imgur.com/VxIZXH9.png",
 	        "url": "https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd",
 		"userAgent" : ""
                     }, {
-			"name": "Fox Sports Premium (opc.1) FU | AR 🇦🇷",
-             "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
-           "url" :  "https://futbollatam.com/en-vivo/fox-sports-premium",
-			 "isHost":"true"
-                      }, {
-			"name": "Fox Sports Premium (opc.2) TU | AR 🇦🇷",
+			"name": "Fox Sports Premium (opc.1) | AR 🇦🇷",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
            "url" :  "https://www.tutele.sx/online.php?a=5",
 			 "isHost":"true"
                       }, {
-			"name": "Fox Sports Premium (opc.3) C7 | AR 🇦🇷",
+			"name": "Fox Sports Premium (opc.2) | AR 🇦🇷",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
            "url" :  "https://c787898.com/embed.php?id=livefoxpremium",
 			 "isHost":"true"
                       }, {
-			"name": "Fox Sports Premium (opc.4) ST | AR 🇦🇷",
+			"name": "Fox Sports Premium (opc.3) | AR 🇦🇷",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
            "url" :  "https://starlive.xyz/embed.php?id=livefoxpremium",
 			 "isHost":"true"
                       }, {
-			"name": "Fox Sports Premium (opc.5) PE | AR 🇦🇷",
+			"name": "Fox Sports Premium (opc.4) | AR 🇦🇷",
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
            "url" :  "https://pelotero.net/ver/foxsportspremium.php",
 	   "referer": "https://cablegratis.online/fox-sports-premium-en-vivo.html",
 			 "isHost":"true"
                       }, {
-			"name": "Gol TV (opc.1) EL | ES 🇪🇸",
+			"name": "Futbol Brasileño PPV 1 | BR 🇧🇷",
+			"image": "https://i.imgur.com/AFN3H0m.png",
+			"url": "https://v2.sportsonline.to/channels/bra/br1.php",
+             "isHost": "true"
+         }, {
+			"name": "Futbol Brasileño PPV 2 | BR 🇧🇷",
+			"image": "https://i.imgur.com/AFN3H0m.png",
+			"url": "https://v2.sportsonline.to/channels/bra/br2.php",
+             "isHost": "true"
+         }, {
+			"name": "Futbol Brasileño PPV 3 | BR 🇧🇷",
+			"image": "https://i.imgur.com/AFN3H0m.png",
+			"url": "https://v2.sportsonline.to/channels/bra/br3.php",
+             "isHost": "true"
+         }, {
+			"name": "Gol TV (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/kN4OKEp.png",
           "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
 			"referer": "https://elixx.xyz/",
              "isHost": "true"
                      }, {
-			"name": "Gol TV (opc.2) CN | ES 🇪🇸",
+			"name": "Gol TV (opc.2) | ES 🇪🇸",
 			"image": "https://i.imgur.com/kN4OKEp.png",
-			 "url": "https://v3.sportsonline.to/channels/hd/hd6.php",
+			 "url": "https://sportsonline.to/channels/hd/hd6.php",
 			"referer": "http://cnlsport.xyz/",
 			"isHost" : "true"
            }, {
-			"name": "Gol TV (opc.3) CD | ES 🇪🇸",
+			"name": "Gol TV (opc.3) | ES 🇪🇸",
 			"image": "https://i.imgur.com/kN4OKEp.png",
 			"url" : "https://ragnaru.net/embed.php?player=desktop&live=do10",
 			 "referer": "https://cdnz.one/",
              "isHost": "true" 
                     }, {
-			"name": "Gol TV (opc.4) EL | ES 🇪🇸",
+			"name": "Gol TV (opc.4) | ES 🇪🇸",
 			"image": "https://i.imgur.com/kN4OKEp.png",
 			"url":"https://elixx.xyz/apsg.html",
             "isHost" : "true"
             }, {
-			"name": "Gol TV (opc.5) DE | ES 🇪🇸",
+			"name": "Gol TV (opc.5) | ES 🇪🇸",
 			"image": "https://i.imgur.com/kN4OKEp.png",
 			"url":"http://deportesgratis.net/?movies=hd2",
             "isHost" : "true"
             }, {
-			"name": "Gol TV (opc.6) CI | ES 🇪🇸",
+			"name": "Gol TV (opc.6) | ES 🇪🇸",
 			"image": "https://i.imgur.com/kN4OKEp.png",
 			"url": "http://www.ciberespaciotv.com/p/ver-gol-television-en-directo-online.html",
 			 "referer":"", 
                             "desktop": "true", 
 			"isHost": "true"
-		}, {
-			"name": "Gol TV (opc.7) VE | ES 🇪🇸",
+						}, {
+			"name": "Gol TV (opc.7) | ES 🇪🇸",
 			"image": "https://i.imgur.com/kN4OKEp.png",
 			  "url": "https://ragnaru.net/embed.php?player=desktop&live=do19",
 			"referer": "https://1.vecdn.pw/",
              "isHost": "true"
                }, { 
-                "name": "Gol TV (opc.8) EL | ES 🇪🇸",
+                "name": "Gol TV (opc.8) | ES 🇪🇸",
                 "image": "https://i.imgur.com/kN4OKEp.png",
                 "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
                 "referer":"https://elixx.xyz/", 
                 "desktop": "true",
                 "isHost":"true"
-                }, { 
-                "name": "Gol TV (opc.9) CD | ES 🇪🇸",
-                "image": "https://i.imgur.com/kN4OKEp.png",
-                "url": "https://cdnz.one/ch10.php",
-                "isHost":"true"
-                }, { 
-                "name": "Gol TV (opc.10) MA | ES 🇪🇸",
-                "image": "https://i.imgur.com/kN4OKEp.png",
-                "url": "https://macron.xyz/player/1/70",
-                "isHost":"true"
-                }, { 
-                "name": "Gol TV (opc.11) SP | ES 🇪🇸",
-                "image": "https://i.imgur.com/kN4OKEp.png",
-                "url": "https://v3.sportsonline.to/channels/hd/hd8.php",
-                "isHost":"true"
                 }, {
-		"name": "La Liga por M+ (opc.1) MA | ES 🇪🇸",
-		"image": "https://i.imgur.com/PoAUHmh.png",
-        "url" : "https://maxsport.one/laliga.php",
-               "referer" : "http://cdn.livetv507.me/",
-			  "isHost" : "true"
-                 },{
-			"name": "La Liga por M+ (opc.2) EL | ES 🇪🇸",
+			"name": "Gol Peru | PE 🇵🇪",
+             "image": "https://i.imgur.com/xvHtnbT.jpg",
+           "url" :  "https://futbolfullenvivo.com/ver-channel-gol-peru-en-vivo/",
+			 "isHost":"true"
+                      }, {
+			"name": "Gol Tv Ecuador (opc.1) | EC 🇪🇨",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
+	        "url": "https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8",
+		"userAgent" : ""
+                    }, {
+			"name": "Gol Tv Ecuador (opc.2) | EC 🇪🇨",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
+	        "url": "https://macron.xyz/player/1/102",
+		 "isHost":"true"
+                    }, {
+			"name": "Gol Tv Ecuador (opc.3) | EC 🇪🇨",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
+	        "url": "https://futbolfullenvivo.com/ver-channel-goltv-en-vivo/",
+		 "isHost":"true"
+                    }, {
+			"name": "La Liga por M+ (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
           "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
 			"referer": "https://elixx.xyz/",
              "isHost": "true"
                      }, {
-			"name": "La Liga por M+ (opc.3) MA | ES 🇪🇸",
+			"name": "La Liga por M+ (opc.2) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			 "url" : "https://ragnarp.net/embed/j7z1ypmmxi8p",
               "referer" : "https://macron.xyz/",
               "isHost" : "true"
                      }, {
-			"name": "La Liga por M+ (opc.4) CD | ES 🇪🇸",
+			"name": "La Liga por M+ (opc.3) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url" : "https://ragnaru.net/embed.php?player=desktop&live=do10",
 			 "referer": "https://cdnz.one/",
              "isHost": "true" 
                     },   {
-			"name":"La Liga por M+ (opc.5) 1R | ES 🇪🇸",
+			"name":"La Liga por M+ (opc.4) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
            	"url": "https://ragnarp.net/embed/a092om",
 			"referer": "https://1rowsports.com/",
              "isHost": "true"
                }, {
-			"name": "La Liga por M+ (opc.6) CN | ES 🇪🇸",
+			"name": "La Liga por M+ (opc.5) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
-			 "url": "https://v3.sportsonline.to/channels/hd/hd6.php",
+			 "url": "https://sportsonline.to/channels/hd/hd6.php",
 			"referer": "http://cnlsport.xyz/",
 			"isHost" : "true"
            }, {
-			"name": "La Liga por M+ (opc.7) EM | ES 🇪🇸",
+			"name": "La Liga por M+ (opc.6) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
              "url": "http://emb.apl118.me/player/live.php?id=177662&w=728&h=450",
 			"isHost" : "true"
                   },  {
-			"name": "La Liga por M+ (opc.8) EM | ES 🇪🇸",
+			"name": "La Liga por M+ (opc.7) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
          "url": "http://emb.x177655.apl118.me/player/live.php?id=177655&w=728&h=450",
 			"isHost": "true"
                      }, {
-			"name": "La Liga por M+ (opc.9) C7 | ES 🇪🇸",
+			"name": "La Liga por M+ (opc.8) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://c787898.com/embed.php?id=live5",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ (opc.10) C7 | ES 🇪🇸",
+			"name": "La Liga por M+ (opc.9) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://c787898.com/embed.php?id=live6",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ (opc.11) ES | ES 🇪🇸",
+			"name": "La Liga por M+ (opc.10) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://starlive.xyz/embed.php?id=live5",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ (opc.12) ST | ES 🇪🇸",
+			"name": "La Liga por M+ (opc.11) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://starlive.xyz/embed.php?id=live6",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ (opc.13) EL | ES 🇪🇸",
+			"name": "La Liga por M+ (opc.12) | ES 🇪🇸",
 			"image": "https://i.imgur.com/PoAUHmh.png",
 			"url":"https://elixx.xyz/apsg.html",
             "isHost" : "true"
             }, {
-			"name": "La Liga por M+ (opc.14) CD | ES 🇪🇸",
-			"image": "https://i.imgur.com/PoAUHmh.png",
-			"url":"https://cdnz.one/ch19.php",
-            "isHost" : "true"
-            }, {
-			"name": "la Liga TV Bar (opc.1) C7 | ES 🇪🇸",
+			"name": "la Liga TV Bar (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/1o92EFs.png",
 			"url":"https://c787898.com/embed.php?id=live6",
             "isHost" : "true"
             }, {
-			"name": "la Liga TV Bar (opc.2) ST | ES 🇪🇸",
+			"name": "la Liga TV Bar (opc.2) | ES 🇪🇸",
 			"image": "https://i.imgur.com/1o92EFs.png",
 	        "url": "https://starlive.xyz/embed.php?id=live6",
 		"userAgent" : ""
                     }, {
-			"name": "la Liga TV Bar (opc.3) TI | UK 🇬🇧",
+			"name": "la Liga TV Bar (opc.3) | UK 🇬🇧",
 			"image": "https://i.imgur.com/1o92EFs.png",
 			"url":"http://timesports.cc/laligauk.php",
             "isHost" : "true"
             }, {
+			"name": "La Liga PPV (solo partidos) | ES 🇪🇸",
+			"image": "https://i.imgur.com/X3LlIhz.png",
+	        "url": "http://loga.ultratotal.ml/xls/ligota/index.m3u8",
+		"userAgent" : ""
+                    }, {
 			"name": "La Liga PPV (solo partidos) | EN 🇺🇸",
 			"image": "https://i.imgur.com/X3LlIhz.png",
 	        "url": "http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8",
 		"userAgent" : ""
                     }, {
-			"name": "Liga de Campeones por M+ (opc.1) MA | ES 🇪🇸",
+			"name": "Liga de Campeones por M+ (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/wiLQCUD.png",
 			"url": "https://ragnarp.net/embed/tq24aomq",
             "referer" : "https://macron.xyz/",
              "isHost": "true"
              }, {
-			"name": "Liga de Campeones por M+ (opc.2) MA | ES 🇪🇸",
+			"name": "Liga de Campeones por M+ (opc.2) | ES 🇪🇸",
 			"image": "https://i.imgur.com/wiLQCUD.png",
 			 "url": "https://ragnarp.net/embed/405ppgjssim1wf",
                     "referer":"https://macron.xyz/",
                     "isHost":"true"
           }, {
-                "name": "Liga de Campeones por M+ (opc.3) EL | ES 🇪🇸",
+                "name": "Liga de Campeones por M+ (opc.3) | ES 🇪🇸",
                 "image": "https://i.imgur.com/wiLQCUD.png",
                 "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
                 "referer":"https://elixx.xyz/", 
                 "desktop": "true",
                 "isHost":"true"
                 }, {
-			"name": "Liga de Campeones por M+ (opc.4) EM | ES 🇪🇸",
+			"name": "Liga de Campeones por M+ (opc.4) | ES 🇪🇸",
 			"image": "https://i.imgur.com/wiLQCUD.png",
 	        "url": "http://emb.apl118.me/player/live.php?id=177258&w=728&h=450/",
              "isHost": "true" 
                     }, {
-			"name": "Liga de Campeones por M+ (opc.5) SP | ES 🇪🇸",
+			"name": "Liga de Campeones por M+ (opc.5) | ES 🇪🇸",
 			"image": "https://i.imgur.com/wiLQCUD.png",
 			"url": "https://v2.sportsonline.to/channels/hd/hd6.php",
             "referer" : "https://v2.sportsonline.to.html",
              "isHost": "true"
              }, {
-			"name": "Liga de Campeones por M+ (opc.6) MA | ES 🇪🇸",
+			"name": "Liga de Campeones por M+ (opc.6) | ES 🇪🇸",
 			"image": "https://i.imgur.com/wiLQCUD.png",
         "url" : "https://macron.xyz/player/1/64",
 			  "isHost" : "true"
                  }, {
-			"name": "Liga de Campeones por M+ (opc.7) CD | ES 🇪🇸",
+			"name": "Liga de Campeones por M+ (opc.7) | ES 🇪🇸",
 			"image": "https://i.imgur.com/wiLQCUD.png",
         "url" : "https://cdnz.one/ch10.php",
 			  "isHost" : "true"
                  }, {
-			"name": "Liga de Campeones por M+ (opc.8) CD | ES 🇪🇸",
+			"name": "Liga de Campeones por M+ (opc.8) | ES 🇪🇸",
 			"image": "https://i.imgur.com/wiLQCUD.png",
 			"url" : "https://ragnaru.net/embed.php?player=desktop&live=do10",
 			 "referer": "https://cdnz.one/",
              "isHost": "true" 
                     }, {
-		"name": "Liga de Campeones por M+ (opc.9) MA | ES 🇪🇸",
+		"name": "Liga de Campeones por M+ (opc.9) | ES 🇪🇸",
 			"image": "https://i.imgur.com/wiLQCUD.png",
            	 "url" : "https://macron.xyz/player/1/65",
 			"isHost": "true"
                      }, {
-		"name": "Liga de Campeones por M+ (opc.9) MA | ES 🇪🇸",
-			"image": "https://i.imgur.com/wiLQCUD.png",
-           	 "url" : "https://macron.xyz/player/1/64",
-			"isHost": "true"
-                     }, {
-              "name": "Sky Sports Football (opc.1) C7 | UK 🇬🇧",
+              "name": "Now Sports Premier League (opc.1) | UK 🇬🇧",
+			"image": "https://i.imgur.com/d0PItKo.png",
+			"url":"https://c787898.com/embed.php?id=live11",
+            "isHost" : "true"
+		 }, {
+              "name": "Now Sports Premier League (opc.2) | UK 🇬🇧",
+			"image": "https://i.imgur.com/d0PItKo.png",
+			"url":"https://starlive.xyz/embed.php?id=live11",
+            "isHost" : "true"
+		 }, {
+              "name": "Sky Sports Football (opc.1) | UK 🇬🇧",
 			"image": "https://i.imgur.com/ALTPlpT.png",
 			"url":"https://c787898.com/embed.php?id=live2",
             "isHost" : "true"
 		 }, {
-              "name": "Sky Sports Football (opc.2) ST | UK 🇬🇧",
+              "name": "Sky Sports Football (opc.2) | UK 🇬🇧",
 			"image": "https://i.imgur.com/ALTPlpT.png",
 			"url":"https://starlive.xyz/embed.php?id=live2",
             "isHost" : "true"
@@ -580,92 +725,87 @@
 			"url":"http://timesports.cc/skysportsfootball.php",
             "isHost" : "true"
 		 }, {
-              "name": "Sky Sports Football (opc.4) TU | UK 🇬🇧",
+              "name": "Sky Sports Football (opc.4) | UK 🇬🇧",
 			"image": "https://i.imgur.com/ALTPlpT.png",
 			"url":"https://www.tutele.sx/online.php?a=145",
             "isHost" : "true"
 		 }, {
-			"name": "SKY Sports Formula 1 (opc.1) C7 | IT 🇮🇹",
-			"image": "https://i.imgur.com/nRPJtmu.jpg",
-            "url" : "https://c787898.com/embed.php?id=26m",
-			"isHost": "true"
-		}, {
-			"name": "SKY Sports Formula 1 (opc.2) C7 | IT 🇮🇹",
+			"name": "SKY Sports Formula 1 (opc.1) | IT 🇮🇹",
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
             "url" : "https://c787898.com/embed.php?id=live1",
 			"isHost": "true"
 		}, {
-			"name": "SKY Sports Formula 1 (opc.3) C7 | IT 🇮🇹",
+			"name": "SKY Sports Formula 1 (opc.2) | IT 🇮🇹",
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
             "url" : "https://c787898.com/embed.php?id=live29",
 			"isHost": "true"
 		}, {
-			"name": "SKY Sports Formula 1 (opc.4) ST | IT 🇮🇹",
+			"name": "SKY Sports Formula 1 (opc.3) | IT 🇮🇹",
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
             "url" : "https://starlive.xyz/embed.php?id=live29",
 			"isHost": "true"
 		}, {
-			"name": "SKY Sports Formula 1 (opc.5) ST | IT 🇮🇹",
+			"name": "SKY Sports Formula 1 (opc.4) | IT 🇮🇹",
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
             "url" : "https://starlive.xyz/embed.php?id=live1",
 			"isHost": "true"
 		}, {
-			"name": "SKY Sports Formula 1 (opc.6)  UF | IT 🇮🇹",
+			"name": "SKY Sports Formula 1 (opc.5) | IT 🇮🇹",
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
             "url" : "http://ufckhabib.com/f1/formula1-stream.php",
 			"isHost": "true"
 		}, {
-			"name": "SKY Sports Formula 1 (opc.7) TI | IT 🇮🇹",
+			"name": "SKY Sports Formula 1 (opc.6) | IT 🇮🇹",
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
             "url" : "http://timesports.cc/skysportsformula1.php",
 			"isHost": "true"
                      }, {
-			"name": "SKY Sports Formula 1 (opc.8) CD | IT 🇮🇹",
+			"name": "SKY Sports Formula 1 (opc.7) | IT 🇮🇹",
 			"image": "https://i.imgur.com/nRPJtmu.jpg",
             "url" : "https://cdnz.one/ch49.php",
 			"isHost": "true"
                      }, {
-              "name": "Sky Sports Premier League (opc.1) CD | UK 🇬🇧",
+              "name": "Sky Sports Premier League (opc.1) | UK 🇬🇧",
 			"image": "https://i.imgur.com/PeCJr2n.png",
 			"url":"https://cdnz.one/ch47.php",
             "isHost" : "true"
 		 }, {
-              "name": "Sky Sports Premier League (opc.2) TI | UK 🇬🇧",
+              "name": "Sky Sports Premier League (opc.2) | UK 🇬🇧",
 			"image": "https://i.imgur.com/PeCJr2n.png",
 			"url":"http://timesports.cc/skysportspremierleague.php",
             "isHost" : "true"
 		 }, {
-              "name": "Sky Sports Premier League (opc.3) TU | UK 🇬🇧",
+              "name": "Sky Sports Premier League (opc.3) | UK 🇬🇧",
 			"image": "https://i.imgur.com/PeCJr2n.png",
 			"url":"https://www.tutele.sx/online.php?a=144",
             "isHost" : "true"
 		 }, {
-              "name": "Sky Sports Premier League (opc.4) FU | UK 🇬🇧",
+              "name": "Sky Sports Premier League (opc.4) | UK 🇬🇧",
 			"image": "https://i.imgur.com/PeCJr2n.png",
 			"url":"https://futbolfullenvivo.com/ver-channel-sky-premier-league-en-vivo/",
             "isHost" : "true"
 		 }, {
-			"name": "Sky Sport Uno Tennis (opc.1) C7 | EN 🇺🇸",
+			"name": "Sky Sport Uno Tennis (opc.1) | EN 🇺🇸",
 			"image": "https://i.imgur.com/8eGsFAe.png",
 	        "url": "https://c787898.com/embed.php?id=live1",
 		"userAgent" : ""
                     }, {
-			"name": "Sky Sport Uno Tennis (opc.2) ST | EN 🇺🇸",
+			"name": "Sky Sport Uno Tennis (opc.2) | EN 🇺🇸",
 			"image": "https://i.imgur.com/8eGsFAe.png",
 	        "url": "https://starlive.xyz/embed.php?id=live1",
 		"userAgent" : ""
                     }, {
-			"name": "Sport Tv 1 SP | PT 🇵🇹",
+			"name": "Sport Tv 1 | PT 🇵🇹",
              "image": "https://i.imgur.com/uHkR0lP.png",
            "url" :  "https://v2.sportsonline.to/channels/pt/sporttv1.php",
 			 "isHost":"true"
                       }, {
-			"name": "Sport Tv 2 (opc.1) SP | PT 🇵🇹",
+			"name": "Sport Tv 2 (opc.1) | PT 🇵🇹",
              "image": "https://i.imgur.com/GGVYfbU.png",
            "url" :  "https://v2.sportsonline.to/channels/pt/sporttv2.php",
 			 "isHost":"true"
                       }, {
-			"name": "Sport Tv 2 (opc.2) EL | PT 🇵🇹",
+			"name": "Sport Tv 2 (opc.2) | PT 🇵🇹",
 			"image": "https://i.imgur.com/GGVYfbU.png",
 			"url": "https://wigistream.to/embed/nhishd",
 			 "referer" : "https://elixx.xyz/",
@@ -692,272 +832,490 @@
            "url" :  "https://v2.sportsonline.to/channels/pt/sporttv5.php",
 			 "isHost":"true"
                       }, {
+			"name": "Star+ Ecuador | EC 🇪🇨",
+			"image": "https://i.imgur.com/ZesPLU3.png",
+	        "url": "https://macron.xyz/player/1/121",
+		 "isHost":"true"
+                    }, {
               "name": "Super Sport La Liga (opc.1) | UK 🇬🇧",
 			"image": "https://i.imgur.com/MnZnAPI.png",
 			"url":"https://v2.sportsonline.to/channels/hd/hd5.php",
             "isHost" : "true"
 		 }, {
-              "name": "Super Sport La Liga (opc.2) TI | UK 🇬🇧",
+              "name": "Super Sport La Liga (opc.2) | UK 🇬🇧",
 			"image": "https://i.imgur.com/MnZnAPI.png",
 			"url":"http://timesports.cc/laligauk.php",
             "isHost" : "true"
 		 }, {
-              "name": "Super Sport La Liga (opc.3) TU | UK 🇬🇧",
+              "name": "Super Sport La Liga (opc.3) | UK 🇬🇧",
 			"image": "https://i.imgur.com/MnZnAPI.png",
 			"url":"https://www.tutele.sx/online.php?a=153",
             "isHost" : "true"
 		 }, {
-              "name": "Super Sport La Liga (opc.4) FU | UK 🇬🇧",
+              "name": "Super Sport La Liga (opc.4) | UK 🇬🇧",
 			"image": "https://i.imgur.com/MnZnAPI.png",
 			"url":"https://futbolfullenvivo.com/ver-channel-laligatv-uk-en-vivo/",
             "isHost" : "true"
 		 }, {
-              "name": "Super Sport Football (opc.1) C7 | UK 🇬🇧",
+              "name": "Super Sport Football (opc.1) | UK 🇬🇧",
 			"image": "https://i.imgur.com/8pKu1bh.png",
 			"url":"https://c787898.com/embed.php?id=live10",
             "isHost" : "true"
 		 }, {
-              "name": "Super Sport Football (opc.2) ST | UK 🇬🇧",
+              "name": "Super Sport Football (opc.2) | UK 🇬🇧",
 			"image": "https://i.imgur.com/8pKu1bh.png",
 			"url":"https://starlive.xyz/embed.php?id=live10m",
             "isHost" : "true"
 		 },  {
-              "name": "Super Sport Football (opc.3) TI | UK 🇬🇧",
+              "name": "Super Sport Football (opc.3) | UK 🇬🇧",
 			"image": "https://i.imgur.com/8pKu1bh.png",
 			"url":"http://timesports.cc/supersportsfootball.php",
             "isHost" : "true"
 		 }, {
-              "name": "Super Sport Football (opc.4) TU | UK 🇬🇧",
+              "name": "Super Sport Football (opc.4) | UK 🇬🇧",
 			"image": "https://i.imgur.com/8pKu1bh.png",
 			"url":"https://www.tutele.sx/online.php?a=186",
             "isHost" : "true"
 		 }, {
-              "name": "Super Sport Premier League (opc.1) SP | UK 🇬🇧",
+              "name": "Super Sport Premier League (opc.1) | UK 🇬🇧",
 			"image": "https://i.imgur.com/giycoB2.png",
 			"url":"https://v2.sportsonline.to/channels/hd/hd1.php",
             "isHost" : "true"
 		 }, {
-              "name": "Super Sport Premier League (opc.2) TI | UK 🇬🇧",
+              "name": "Super Sport Premier League (opc.2) | UK 🇬🇧",
 			"image": "https://i.imgur.com/giycoB2.png",
 			"url":"http://timesports.cc/supersportspremier.php",
             "isHost" : "true"
 		 }, {
-              "name": "Super Sport Premier League (opc.3) TU | UK 🇬🇧",
+              "name": "Super Sport Premier League (opc.3) | UK 🇬🇧",
 			"image": "https://i.imgur.com/giycoB2.png",
 			"url":"https://www.tutele.sx/online.php?a=187",
             "isHost" : "true"
 		 }, {
-			"name": "Tennis Channel (opc.1) C7 | EN 🇺🇸",
+			"name": "TDP | ES 🇪🇸",
+			"image": "https://github.com/inspirationlinks/inspiration-1/raw/master/teledeporte-tdt.png",
+	        "url": "https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/tdp/dash/tdp.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=0dbaf99a2445785158dc6390e1d6fc399135dd940",
+		"userAgent" : ""
+                    }, {
+			"name": "Tennis Channel (opc.1) | EN 🇺🇸",
 			"image": "https://w7.pngwing.com/pngs/237/1008/png-transparent-logo-tennis-channel-hd-television-channel-tv-logos-angle-text-rectangle.png",
 	        "url": "https://c787898.com/embed.php?id=live28",
 		"userAgent" : ""
                     }, {
-			"name": "Tennis Channel (opc.2) ST | EN 🇺🇸",
+			"name": "Tennis Channel (opc.2) | EN 🇺🇸",
 			"image": "https://w7.pngwing.com/pngs/237/1008/png-transparent-logo-tennis-channel-hd-television-channel-tv-logos-angle-text-rectangle.png",
 	        "url": "https://starlive.xyz/embed.php?id=live28",
 		"userAgent" : ""
                     }, {
-			"name": "Tennis Channel (opc.3) | EN 🇺🇸",
-			"image": "https://w7.pngwing.com/pngs/237/1008/png-transparent-logo-tennis-channel-hd-television-channel-tv-logos-angle-text-rectangle.png",
-	        "url": "https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8",
-		"userAgent" : ""
-                    }, {
-		 "name": "TNT Sports Chile (opc.1) PEL | CL 🇨🇱",
-			  "image": "https://i.imgur.com/TTaCeXw.png",
-	   	     "url": "https://pelotero.net/ver/cdfpremium.php",
-			"userAgent" : ""
-                    },  {
-		 "name": "TNT Sports Chile (opc.2) TUT | CL 🇨🇱",
-			  "image": "https://i.imgur.com/TTaCeXw.png",
-	   	     "url": "https://www.tutele.nl/online.php?a=4",
-			"userAgent" : ""
-                    },
-		    
-		    
-		    
-		    
-		    {
-		 "name": "TNT Sports Chile (opc.4) BL | CL 🇨🇱",
-			  "image": "https://i.imgur.com/TTaCeXw.png",
-	   	     "url": "https://tnclllll.blogspot.com/",
-			"userAgent" : ""
-                    },   {
-		 "name": "TNT Sports Chile (opc.6) ME| CL 🇨🇱",
-			  "image": "https://i.imgur.com/TTaCeXw.png",
-	   	     "url": "https://megatelevisionhd.com/en-vivo/tnt-sports-chile/?ver",
-			"userAgent" : ""
-                    },  {
-			"name": " TNT Estadio Chile (opc.1) FU | CL 🇨🇱",
+			"name": " TNT Estadio Chile | CL 🇨🇱",
 			"image": "https://i.imgur.com/ma78IEH.png",
 			"url":"https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
          	   "isHost" : "true"
-           	 }, 
-		 
-		 
-		 
-		 
-		 {
-			"name": "TNT Sports Argentina (opc.1) FU | AR 🇦🇷",
-            	 "image": "https://i.imgur.com/TTaCeXw.png",
-         	  "url" :  "https://futbollatam.com/en-vivo/tnt-sports-argentina/?ver",
-			 "isHost":"true"
-                      }, {
-			"name": "TNT Sports Argentina (opc.2) CA | AR 🇦🇷",
+           	 }, {
+                "name": "TNT Sports Chile (opc.1) | CL 🇨🇱",
+                "image": "https://i.imgur.com/TTaCeXw.png",
+                "url": "https://pelotero.net/cdf.php",
+                 "referer": "https://www.futbolgratis.online/p/cdf-premium-en-vivo.html",
+                "isHost": "true"      
+         	 }, {
+                "name": "TNT Sports Chile (opc.2) | CL 🇨🇱",
+                "image": "https://i.imgur.com/TTaCeXw.png",
+                "url": "https://pelotero.net/ver/cdfpremium.php",
+                 "referer": "https://www.futbolgratis.online/p/cdf-premium-en-vivo.html",
+                "isHost": "true"      
+         	 },  {
+			"name": "TNT Sports Chile (opc.3) | CL 🇨🇱",
+			"image": "https://i.imgur.com/TTaCeXw.png",
+			"url":"https://macron.xyz/player/1/118",
+           		 "isHost" : "true"
+           	 }, {
+			"name": "TNT Sports Chile (opc.4) | CL 🇨🇱",
+			"image": "https://i.imgur.com/TTaCeXw.png",
+			"url":"https://www.tutele.sx/online.php?a=4",
+          		  "isHost" : "true"
+           	 }, {
+			"name": "TNT Sports Chile (opc.5) | CL 🇨🇱",
+			"image": "https://i.imgur.com/TTaCeXw.png",
+			"url" :  "https://futbolfullenvivo.com/ver-channel-tnt-sports-chile-en-vivo/",
+			"isHost":"true"
+			}, {
+			"name": "TNT Sports Chile (opc.6) | CL 🇨🇱",
+			"image": "https://i.imgur.com/TTaCeXw.png",
+			"url": "https://freelive365.nl/player2.php?id=11&code=126&evento=chile",
+			"isHost": "true" 
+           	  }, {
+			"name": "TNT Sports Argentina (opc.1) | AR 🇦🇷",
             	 "image": "https://i.imgur.com/TTaCeXw.png",
          	  "url" :  "https://pelotero.net/ver/tntsports.php",
 	  	 "referer": "https://cablegratis.online/tnt-sports-en-vivo-argentina-vip-tu-casa.html",
 			 "isHost":"true"
                       }, {
-			"name": "TNT Sports Argentina (opc.3) TU | AR 🇦🇷",
+			"name": "TNT Sports Argentina (opc.2) | AR 🇦🇷",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://www.tutele.sx/online.php?a=149",
           	  "isHost" : "true"
            	   },  {
-			"name": "TNT Sports Argentina (opc.4) C7 | AR 🇦🇷",
+			"name": "TNT Sports Argentina (opc.3) | AR 🇦🇷",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://c787898.com/embed.php?id=tntsports",
           	  "isHost" : "true"
            	   }, {
-			"name": "TNT Sports Argentina (opc.5) ST | AR 🇦🇷",
+			"name": "TNT Sports Argentina (opc.4) | AR 🇦🇷",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url":"https://starlive.xyz/embed.php?id=livetntsport",
           	  "isHost" : "true"
            	   }, {
-			"name": "TUDN (opc.1) 54 | MX 🇲🇽",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
-	        "url": "http://54.39.19.162:8081/live/dream1/playlist.m3u8",
-		"userAgent" : ""
-                    }, {
-			"name": "TUDN (opc.2) CD | MX 🇲🇽",
+			"name": "TUDN (opc.1) | MX 🇲🇽",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
 			"url":"https://cdnz.one/ch40.php",
             "isHost" : "true"
             }, {
-			"name": "TUDN (opc.3) MA | MX 🇲🇽",
+			"name": "TUDN (opc.2) | MX 🇲🇽",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
 			"url":"https://macron.xyz/player/1/113",
             "isHost" : "true"
             }, {
-			"name": "TUDN (opc.4) TU | MX 🇲🇽",
+			"name": "TUDN (opc.3) | MX 🇲🇽",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
 			"url":"https://www.tutele.sx/online.php?a=17",
             "isHost" : "true"
             }, {
-			"name": "TUDN (opc.5) FU | MX 🇲🇽",
+			"name": "TUDN (opc.4) | MX 🇲🇽",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
 			"url":"https://futbolfullenvivo.com/ver-channel-tudn-en-vivo/",
             "isHost" : "true"
             }, {
-			"name": "TUDN (opc.6) SP | MX 🇲🇽",
+			"name": "TUDN (opc.5) | MX 🇲🇽",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+	        "url": "https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8",
+		"userAgent" : ""
+                    }, {
+			"name": "TUDN (opc.6) | MX 🇲🇽",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://v2.sportsonline.to/channels/hd/hd6.php",
 			 "isHost":"true" 
                       }, {
-			"name": "TUDN (opc.7) MA | MX 🇲🇽",
+			"name": "TUDN (opc.7) | MX 🇲🇽",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://macron.xyz/player/1/47",
 			 "isHost":"true" 
                       }, {
-			"name": "TUDN (opc.8) MA | MX 🇲🇽",
+			"name": "TUDN (opc.8) | MX 🇲🇽",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://macron.xyz/player/1/100",
 			 "isHost":"true" 
                       }, {
-			"name": "TUDN (opc.9) MA | MX 🇲🇽",
+			"name": "TUDN (opc.9) | MX 🇲🇽",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://macron.xyz/player/1/111",
 			 "isHost":"true" 
                       }, {
-			"name": "TUDN (opc.10) MA | MX 🇲🇽",
+			"name": "TUDN (opc.10) | MX 🇲🇽",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://macron.xyz/player/1/113",
 			 "isHost":"true" 
                       }, {
-			"name": "TUDN (opc.11) MA | MX 🇲🇽",
+			"name": "TUDN (opc.11) | MX 🇲🇽",
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
            "url" :  "https://macron.xyz/player/1/114",
 			 "isHost":"true" 
-                      },  {
-			"name": "TUDN (opc.12) SP | MX 🇲🇽",
-             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
-           "url" :  "https://v3.sportsonline.to/channels/hd/hd8.php",
-			 "isHost":"true" 
                       }, {
-			"name": "TYC Sports (opc.1) CA | AR 🇦🇷",
+			"name": "TYC Sports (opc.1) | AR 🇦🇷",
+			"image": "https://i.imgur.com/I7Lhgej.png",
+	        "url": "https://sv.spliktv.xyz/live/caster/RB/TYC-SPORTS.m3u8",
+		"userAgent" : ""
+                    }, {
+			"name": "TYC Sports (opc.2) | AR 🇦🇷",
+			"image": "https://i.imgur.com/I7Lhgej.png",
+	        "url": "https://bs.spliktv.xyz/?id=TYC-SPORTS",
+		"userAgent" : ""
+                    }, {
+			"name": "TYC Sports (opc.3) | AR 🇦🇷",
              "image": "https://i.imgur.com/I7Lhgej.png",
            "url" :  "https://pelotero.net/ver/tycsports.php",
 	   "referer": "https://cablegratis.online/tyc-sports-en-vivo-gratis.html",
 			 "isHost":"true"
                       }, {
-			"name": "TYC Sports (opc.2) TU | AR 🇦🇷",
+			"name": "TYC Sports (opc.4) | AR 🇦🇷",
              "image": "https://i.imgur.com/I7Lhgej.png",
            "url" :  "https://www.tutele.sx/online.php?a=1204",
 			 "isHost":"true"
                       }, {
-			"name": "TYC Sports (opc.3) MA | AR 🇦🇷",
-             "image": "https://i.imgur.com/I7Lhgej.png",
-           "url" :  "https://macron.xyz/player/1/103",
-			 "isHost":"true"
-                      }, {
-			"name": "Vamos por M+ (opc.1) MA | ES 🇪🇸",
+			"name": "Vamos por M+ (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/ZYXUy5I.png",
          "url": "https://ragnarp.net/embed/6jv5qrdinf",
 			"referer": "https://macron.xyz/",
              "isHost": "true"
                    }, {
-			"name": "Vamos por M+ (opc.2) VE | ES 🇪🇸",
+			"name": "Vamos por M+ (opc.2) | ES 🇪🇸",
 			"image": "https://i.imgur.com/ZYXUy5I.png",
 			  "url": "https://ragnaru.net/embed.php?player=desktop&live=do20",
 			"referer": "https://1.vecdn.pw/",
              "isHost": "true"
             }, {
- 			"name": "Vamos por M+ (opc.3) RE | ES 🇪🇸",
+ 			"name": "Vamos por M+ (opc.3) | ES 🇪🇸",
 			"image": "https://i.imgur.com/ZYXUy5I.png",    
             "url": "http://46.105.112.116:80/?watch=NL/vamoshd-esp&lb=1.m3u8&token=RED_mUZT__rECEXJvr9lU9Hpxg==,1647157751.6423232819&t=1&s=2&p=1&c=MA&r=1321&lb=1",
              "userAgent": "REDLINECLIENT TS4000 V2.4.81"
               }, {
- 			"name": "Vamos por M+ (opc.4) MA | ES 🇪🇸",
-			"image": "https://i.imgur.com/ZYXUy5I.png",    
-            "url": "https://macron.xyz/player/1/71",
+			"name": "VTV Plus (opc.1) | URU 🇺🇾",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png",
+           "url" :  "https://pelotero.net/ver/vtv.php",
+	   "referer": "https://cablegratis.online/vtv-plus-en-vivo.html",
 			 "isHost":"true"
-              }, {
-			"name": "Win Sports Plus (opc.1) CA | CO 🇨🇴",
+                      }, {
+			"name": "VTV Plus (opc.2) | URU 🇺🇾",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png",
+           "url" :  "https://www.tutele.sx/online.php?a=4264",
+			 "isHost":"true"
+                      }, {
+			"name": "VTV Plus (opc.3) | URU 🇺🇾",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png",
+           "url" :  "https://futbolfullenvivo.com/ver-channel-vtv-en-vivo/",
+			 "isHost":"true"
+                      },  {
+			"name": "Win Sports Plus (opc.1) | CO 🇨🇴",
              "image": "https://i.imgur.com/NwKPC6B.png",
            "url" :  "https://pelotero.net/ver/winsportsmas.php",
 	   "referer": "https://cablegratis.online/win-sports-mas-premium-cccccc-hd-online-vip-vip.html",
 			 "isHost":"true"
                       }, {
-			"name": "Win Sports Plus (opc.2) TU | CO 🇨🇴",
+			"name": "Win Sports Plus (opc.2) | CO 🇨🇴",
+             "image": "https://i.imgur.com/NwKPC6B.png",
+           "url" :  "https://futbolfullenvivo.com/ver-channel-win-sports-en-vivo/",
+			 "isHost":"true"
+                      }, {
+			"name": "Win Sports Plus (opc.3) | CO 🇨🇴",
              "image": "https://i.imgur.com/NwKPC6B.png",
            "url" :  "https://www.tutele.sx/online.php?a=3305",
 			 "isHost":"true"
                       }, {
-			"name": "Win Sports Plus (opc.4) SP | CO 🇨🇴",
+			"name": "Win Sports Plus (opc.4) | CO 🇨🇴",
 			"image": "https://i.imgur.com/NwKPC6B.png",
 			"url": "https://v2.sportsonline.to/channels/hd/hd6.php",
             "referer" : "https://v2.sportsonline.to.html",
              "isHost": "true"
              },  {
-			"name": "Win Sports Plus (opc.5) EL | CO 🇨🇴",
+			"name": "Win Sports Plus (opc.5) | CO 🇨🇴",
 			"image": "https://i.imgur.com/NwKPC6B.png",
           "url": "https://wigistream.to/embed/qpa8q5ydeozqp9",
 			"referer": "https://elixx.xyz/",
              "isHost": "true"
                      }, {
-			"name": "Win Sports Plus (opc.6) MA | CO 🇨🇴",
+			"name": "Win Sports Plus (opc.6) | CO 🇨🇴",
              "image": "https://i.imgur.com/NwKPC6B.png",
            "url" :  "https://macron.xyz/player/1/120",
 			 "isHost":"true"
-                      }
+                      }, {
+			"name": "World Padel Tour Tv | ES 🇪🇸",
+			"image": "https://i.imgur.com/0r7t82v.jpg",
+	        "url": "https://laligatech-live-usp.akamaized.net/live/wpt01-bkp/wpt01-bkp.isml/wpt01-bkp-audio_track_0_0_spa=96000-video_track=4000000.m3u8",
+		"userAgent" : ""
+                    }, 
 		    
 		    
 		    
-		
+		    {
+			"name": "PPV NBA  (opc.1) | LAT 🇦🇷",
+             "image": "https://i.imgur.com/Z4rLQC8.png",
+           "url" :  "https://pelotero.net/ver/espn2.php",
+	   "referer": "https://cablegratis.online/espn-2-en-vivo-gratis.html",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV NBA  (opc.2) | LAT 🇦🇷",
+             "image": "https://i.imgur.com/Z4rLQC8.png",
+           "url" :  "https://www.tutele.sx/online.php?a=2",
+			 "isHost":"true"
+                      },  {
+			"name": "PPV NBA  (opc.3) | BR 🇧🇷",
+             "image": "https://i.imgur.com/Z4rLQC8.png",
+           "url" :  "https://v2.sportsonline.to/channels/pt/sporttv1.php",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV NBA  (opc.4) | BR 🇧🇷",
+             "image": "https://i.imgur.com/Z4rLQC8.png",
+           "url" :  "https://v2.sportsonline.to/channels/pt/sporttv2.php",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV NBA  (opc.5) | BR 🇧🇷",
+             "image": "https://i.imgur.com/Z4rLQC8.png",
+           "url" :  "https://v2.sportsonline.to/channels/pt/sporttv3.php",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV NBA  (opc.6) | BR 🇧🇷",
+             "image": "https://i.imgur.com/Z4rLQC8.png",
+           "url" :  "https://v2.sportsonline.to/channels/pt/sporttv4.php",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV NBA  (opc.7) | UK 🇬🇧",
+             "image": "https://i.imgur.com/Z4rLQC8.png",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd1.php",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV NBA  (opc.8) | UK 🇬🇧",
+             "image": "https://i.imgur.com/Z4rLQC8.png",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd2.php",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV NBA  (opc.9) | UK 🇬🇧",
+             "image": "https://i.imgur.com/Z4rLQC8.png",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd3.php",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV NBA  (opc.10) | UK 🇬🇧",
+             "image": "https://i.imgur.com/Z4rLQC8.png",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd5.php",
+			 "isHost":"true"
+                      }, 
 		      
 		      
 		      
-		     
-                     
+		      {
+			"name": "PPV WWE: Friday Night Smackdown (opc.1) | MX 🇲🇽",
+			"image": "https://i.imgur.com/QVtPPdl.png",
+	        "url": "https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd",
+		"userAgent" : ""
+                    }, {
+			"name": "PPV WWE: Friday Night Smackdown (opc.2) | LAT 🇦🇷",
+			"image": "https://i.imgur.com/QVtPPdl.png",
+	        "url": "http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8",
+		"userAgent" : ""
+                    }, {
+			"name": "PPV WWE: Friday Night Smackdown (opc.3) | LAT 🇦🇷",
+             "image": "https://i.imgur.com/QVtPPdl.png",
+           "url" :  "https://pelotero.net/ver/foxsports2.php",
+	   "referer": "https://cablegratis.online/fox-sports-2-en-vivo.html",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV WWE: Friday Night Smackdown (opc.4) | LAT 🇦🇷",
+             "image": "https://i.imgur.com/QVtPPdl.png",
+           "url" :  "https://www.tutele.sx/online.php?a=133",
+			 "isHost":"true"
+                      },  {
+			"name": "PPV WWE: Friday Night Smackdown (opc.5) | PT 🇵🇹",
+             "image": "https://i.imgur.com/QVtPPdl.png",
+           "url" :  "https://v2.sportsonline.to/channels/pt/sporttv3.php",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV WWE: Friday Night Smackdown (opc.6) | EN 🇬🇧",
+             "image": "https://i.imgur.com/QVtPPdl.png",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd8.php",
+			 "isHost":"true"
+                      }, 
+		      
+		      
+		      
+		      {
+			"name": "PPV WWE: NXT (opc.1) | PT 🇵🇹",
+             "image": "https://i.imgur.com/BL8lXDh.png",
+           "url" :  "https://v2.sportsonline.to/channels/pt/sporttv3.php",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV WWE: NXT (opc.2) | EN 🇬🇧",
+             "image": "https://i.imgur.com/BL8lXDh.png",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd8.php",
+			 "isHost":"true"
+                      }, 
+		      
+		      
+		      
+		      {
+			"name": "PPV UFC Fight Night (opc.1) | MX 🇲🇽",
+			"image": "https://i.imgur.com/IXPSmGc.png",
+	        "url": "https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd",
+		"userAgent" : ""
+                    }, {
+			"name": "PPV UFC Fight Night (opc.2) | LAT 🇦🇷",
+			"image": "https://i.imgur.com/IXPSmGc.png",
+	        "url": "http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8",
+		"userAgent" : ""
+                    },{
+			"name": "PPV UFC Fight Night (opc.3) | LAT 🇦🇷",
+             "image": "https://i.imgur.com/IXPSmGc.png",
+           "url" :  "https://pelotero.net/ver/foxsports2.php",
+	   "referer": "https://cablegratis.online/fox-sports-2-en-vivo.html",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV UFC Fight Night (opc.4) | LAT 🇦🇷",
+             "image": "https://i.imgur.com/IXPSmGc.png",
+           "url" :  "https://www.tutele.sx/online.php?a=133",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV UFC Fight Night (opc.5) | PT 🇵🇹",
+             "image": "https://i.imgur.com/IXPSmGc.png",
+           "url" :  "https://v2.sportsonline.to/channels/pt/sporttv1.php",
+			 "isHost":"true"
+                      }, {
+			"name": "PPV UFC Fight Night (opc.6) | PT 🇵🇹",
+             "image": "https://i.imgur.com/IXPSmGc.png",
+           "url" :  "https://v2.sportsonline.to/channels/bra/br3.php",
+			 "isHost":"true"
+                      }, {
+			 "name": "PPV UFC Fight Night (opc.7) | UK 🇬🇧",
+			"image": "https://i.imgur.com/IXPSmGc.png",
+			"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp1",
+            "referer" : "https://cdnz.one/",
+            "isHost" : "true"
+		}, {
+			 "name": "PPV UFC Fight Night (opc.8) | UK 🇬🇧",
+			"image": "https://i.imgur.com/IXPSmGc.png",
+			"url":"http://timesports.cc/btsport1uk.php",
+            "isHost" : "true"
+		}, {
+			 "name": "PPV UFC Fight Night (opc.9) | UK 🇬🇧",
+			"image": "https://i.imgur.com/IXPSmGc.png",
+			"url":"https://cdnz.one/ch41.php",
+            "isHost" : "true"
+		}, {
+			"name": "PPV UFC Fight Night (opc.10) | UK 🇬🇧",
+             "image": "https://i.imgur.com/IXPSmGc.png",
+           "url" :  "https://v2.sportsonline.to/channels/hd/hd8.php",
+			 "isHost":"true"
+                      }, 
+		      
+		      
+		      
+		      {
+			"name": "PPV Juventus vs Villarreal FHD 1 | ES 🇪🇸",
+			"image": "https://i.imgur.com/F7rt7u0.png",
+           	 "url" : "https://cdnz.one/ch10.php",
+			"isHost": "true"
+                     }, {
+			"name": "PPV Juventus vs Villarreal FHD 2 | ES 🇪🇸",
+			"image": "https://i.imgur.com/F7rt7u0.png",
+           	 "url" : "https://macron.xyz/player/1/64",
+			"isHost": "true"
+                     },  {
+			"name": "PPV Juventus vs Villarreal FHD 3 | ES 🇪🇸",
+			"image": "https://i.imgur.com/F7rt7u0.png",
+           	 "url" : "https://v2.sportsonline.to/channels/hd/hd6.php",
+			"isHost": "true"
+                     }, {
+			"name": "PPV Juventus vs Villarreal FHD 4 | PE 🇵🇪",
+			"image": "https://i.imgur.com/F7rt7u0.png",
+           	 "url" : "https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8",
+			"userAgent" : ""
+                     }, {
+			"name": "PPV Juventus vs Villarreal FHD 5 | LAT 🇦🇷",
+			"image": "https://i.imgur.com/F7rt7u0.png",
+           	 "url" : "http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8",
+			"userAgent" : ""
+                     }, {
+			"name": "PPV Lille vs Celsea FHD 1 | MX 🇲🇽",
+			"image": "https://i.imgur.com/F7rt7u0.png",
+           	 "url" : "https://cdnz.one/ch19.php",
+			"isHost": "true"
+                     }, {
+			"name": "PPV Lille vs Celsea FHD 2 | ES 🇪🇸",
+			"image": "https://i.imgur.com/F7rt7u0.png",
+           	 "url" : "https://macron.xyz/player/1/65",
+			"isHost": "true"
+                     }, {
+			"name": "PPV Lille vs Celsea FHD 3 | LAT 🇦🇷",
+			"image": "https://i.imgur.com/F7rt7u0.png",
+           	 "url" : "http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8",
+			"userAgent" : ""
+                     }
 
 
 	     
