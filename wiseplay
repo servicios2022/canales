@@ -142,7 +142,32 @@
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url": "https://freelive365.nl/player2.php?id=11&code=126&evento=chile",
 			"isHost": "true" 
-           	  }
+           	  }, {
+			"name": "Sport Tv 1 | PT 🇵🇹",
+             "image": "https://i.imgur.com/uHkR0lP.png",
+           "url" :  "https://v4.sportsonline.to/channels/pt/sporttv1.php",
+			 "isHost":"true"
+                      }, {
+			"name": "Sport Tv 2 (opc.1) | PT 🇵🇹",
+             "image": "https://i.imgur.com/GGVYfbU.png",
+           "url" :  "https://v4.sportsonline.to/channels/pt/sporttv2.php",
+			 "isHost":"true"
+                      }, {
+			"name": "Sport Tv 3 (opc.1) | PT 🇵🇹",
+             "image": "https://i.imgur.com/tvCMAD0.png",
+           "url" :  "https://v4.sportsonline.to/channels/pt/sporttv3.php",
+			 "isHost":"true"
+                      },  {
+			"name": "Sport Tv 4 | PT 🇵🇹",
+             "image": "https://i.imgur.com/hsFXLeF.png",
+           "url" :  "https://v4.sportsonline.to/channels/pt/sporttv4.php",
+			 "isHost":"true"
+                      }, {
+			"name": "Sport Tv 5 | PT 🇵🇹",
+             "image": "https://i.imgur.com/PcK7Dub.png",
+           "url" :  "https://v4.sportsonline.to/channels/pt/sporttv5.php",
+			 "isHost":"true"
+                      }
 
 	     
 
