@@ -1,0 +1,41 @@
+
+{
+
+"name": "⚽ SOLO DEPORTES ⚽",
+ "author": "📺Algunos canales se activan antes del partido!! 📺",
+ "image": "https://downloadwap.com/thumbs3/screensavers/d/new/sports/football-246700.gif",
+    "info": "Enlaces encontrados en internet",
+"url": "https://raw.githubusercontent.com/servicios2022/canales/main/wiseplay",
+
+    
+  "stations": [ 
+
+
+ {
+			"name": "espn | LAT 🇲🇽",
+          	   "image": "https://i.imgur.com/c4gfwhr.png",
+          	 "url" :  "https://futbollatam.com/en-vivo/espn-1/",
+			 "isHost":"true"
+                      },
+		      
+		       {
+			"name": "fox sports | LAT 🇲🇽",
+          	   "image": "https://i.imgur.com/c4gfwhr.png",
+          	 "url" :  "https://1118-vos.dtvott.com/DASH/manifest.mpd",
+			  "referer" : "https://megadeportes.live/en-vivo/fox-sports-en-vivo/",
+                      }, {
+			"name": "fox sports 2| LAT 🇲🇽",
+          	   "image": "https://i.imgur.com/c4gfwhr.png",
+          	 "url" :  "https://1118-vos.dtvott.com/DASH/manifest.mpd",
+			  "referer" : "https://megadeportes.live",
+                      }
+
+
+		      
+
+
+
+	     
+
+ ]
+
