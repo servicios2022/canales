@@ -13,32 +13,6 @@
 
 
  {
-			"name": "espn | LAT 🇲🇽",
-          	   "image": "https://i.imgur.com/c4gfwhr.png",
-          	 "url" :  "https://futbollatam.com/en-vivo/espn-1/",
-			 "isHost":"true"
-                      },
-		      
-		       {
-			"name": "fox sports | LAT 🇲🇽",
-          	   "image": "https://i.imgur.com/c4gfwhr.png",
-          	 "url" :  "https://1118-vos.dtvott.com/DASH/manifest.mpd",
-			  "referer" : "https://megadeportes.live/en-vivo/fox-sports-en-vivo/",
-                      }, {
-			"name": "fox sports 2| LAT 🇲🇽",
-          	   "image": "https://i.imgur.com/c4gfwhr.png",
-          	 "url" :  "https://1118-vos.dtvott.com/DASH/manifest.mpd",
-			  "referer" : "https://megadeportes.live",
-                      },
-		      
-		      
-		      
-		      
-		      
-
-
-
- {
 			"name": "Bein Sport Extra Ñ (opc.1) | LAT 🇲🇽",
 			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
 	   	     "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8",
