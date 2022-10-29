@@ -111,6 +111,22 @@
 			"url":"https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
          	   "isHost" : "true"
            	 }, {
+			  "name": "TNT Sports Chile (opc.1) ba | CL 🇨🇱",
+               		 "image": "https://i.imgur.com/TTaCeXw.png",
+			"url":"https://bahiadeportes.com/canales/tntsportschile.php",
+         	   "isHost" : "true"
+           	 },  {
+			  "name": "TNT Sports Chile (opc.1) fu | CL 🇨🇱",
+               		 "image": "https://i.imgur.com/TTaCeXw.png",
+			"url":"https://www.futbolgratis.online/p/tnt-sports-chile-en-vivo.html",
+         	   "isHost" : "true"
+           	 },
+		 
+		 
+		 
+		 
+		 
+		 {
                 "name": "TNT Sports Chile (opc.1) | CL 🇨🇱",
                 "image": "https://i.imgur.com/TTaCeXw.png",
                 "url": "https://pelotero.net/cdf.php",
