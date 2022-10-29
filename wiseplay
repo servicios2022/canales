@@ -51,6 +51,16 @@
 	        "url": "https://starlive.xyz/embed.php?id=livexDazn3_ES",
 		"userAgent" : ""
                     }, {
+			"name": "DAZN F1 (opc.1) | ES 🇪🇸",
+			"image": "https://i.imgur.com/U7lLcbT.jpg",
+	        "url": "https://starlive.xyz/embed.php?id=liveDaznF1_ES",
+		"userAgent" : ""
+                    }, {
+			"name": "DAZN F1 (opc.2) | ES 🇪🇸",
+			"image": "https://i.imgur.com/U7lLcbT.jpg",
+	        "url": "https://starlive.xyz/embed.php?id=livexDaznF1_ES",
+		"userAgent" : ""
+                    }, {
 			"name": "DAZN la Liga (opc.1) | ES 🇪🇸",
 			"image": "https://www.mundoplus.tv/wp-content/uploads/2022/07/dazn-laliga-santander.jpg.webp",
 	        "url": "https://starlive.xyz/embed.php?id=liveLigaDazn",
