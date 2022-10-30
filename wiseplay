@@ -120,25 +120,7 @@
 			"image": "https://i.imgur.com/ma78IEH.png",
 			"url":"https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
          	   "isHost" : "true"
-           	 },   {
-			"name": " TNT Estadio Chile 4| CL 🇨🇱",
-			"image": "https://i.imgur.com/ma78IEH.png",
-			"url":"https://bahiadeportes.com/tntsportschile",
-			 "referer" : "https://cdn4.xaxa.live/keys/dtvar.json",
-         	   "isHost" : "true"
-           	 },  {
-			"name": " TNT Estadio Chile 5| CL 🇨🇱",
-			"image": "https://i.imgur.com/ma78IEH.png",
-			"url":"https://bahiadeportes.com/canales/tntsportschile.php",
-			 "referer" : "https://cdn4.xaxa.live/keys/dtvar.json",
-         	   "isHost" : "true"
-           	 },  {
-			"name": " TNT Estadio Chile 6| CL 🇨🇱",
-			"image": "https://i.imgur.com/ma78IEH.png",
-			"url":"https://dtvott-abc.akamaized.net/dash_live_1232/manifest.mpd",
-			 "referer" : "https://cdn4.xaxa.live/keys/dtvar.json",
-         	   "isHost" : "true"
-           	 }, 
+           	 },  
 		 
 		 
 		 
