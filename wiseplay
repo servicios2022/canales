@@ -416,6 +416,12 @@
 			"url": "https://bahiadeportes.com/canales/vtvplus.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
+"embed": "true" },  {
+			"name": "#Vamos por M+ (opc.1) | ES 🇪🇸",
+			"image": "https://i.imgur.com/ZYXUy5I.png",
+			"url": "https://futbolfullenvivo.com/ver-canal-vamos-online-en-directo/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
 "embed": "true" }, {
 			"name": "Sport Tv 1 | PT 🇵🇹",
              "image": "https://i.imgur.com/uHkR0lP.png",
