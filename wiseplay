@@ -95,7 +95,7 @@
                   "url": "https://sportkart1.xyz/tv/scplayer-149.php",
                     "referer" : "https://maxsport.one/",
                      "isHost" : "true"
-                    },{
+                    }, {
                    "name": "ESPN Argentina (opc.2) | AR 🇦🇷",
 			"image": "https://i.imgur.com/MFhpD4D.png",
                     "url":"https://egrc.tarjetarojatv.site/webplayer.php?ifr=70&lang=en&lid=70&ci=37&si=1",
@@ -110,7 +110,7 @@
                     "url": "https://sportkart1.xyz/tv/scplayer-150.php",
                     "referer" : "https://maxsport.one/",
                      "isHost" : "true"
-                 },{
+                 }, {
                     "name": "ESPN 2 Argentina (opc.2) | AR 🇦🇷",
              "image": "https://i.imgur.com/jq1s4to.png",
                    "url":"https://livetvon.click/stream/stream-150.php",
@@ -201,25 +201,25 @@
 			"url": "https://bahiadeportes.com/canales/tntsportschile.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true"}, {
+"embed": "true" }, {
 			"name": "TNT Sports Chile 2 | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url": "https://megadeportes.live/en-vivo/tnt-sports-chile/?ver",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true"}, {
+"embed": "true" }, {
 			"name": "TNT Sports Chile 3 | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url": "https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true"},{
+"embed": "true" },{
 			"name": "TNT Sports Chile 4 | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
            	 "url": "https://www.supertelevisionhd.com/cdf-premium-hd/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true"}, {
+"embed": "true" }, {
                   "name": "TNT Sports Chile 5 | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
                     "url": "https://livetvon.click/embed/stream-1.php",
@@ -246,7 +246,7 @@
                       "name": "TYC Sports (opc.1) | AR 🇦🇷",
 			"image": "https://i.imgur.com/I7Lhgej.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=122&evento=Argentina"
-                        },{
+                        }, {
 			"name": "Sport Tv 1 | PT 🇵🇹",
              "image": "https://i.imgur.com/uHkR0lP.png",
            "url" :  "https://v4.sportsonline.to/channels/pt/sporttv1.php",
