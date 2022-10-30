@@ -26,22 +26,34 @@
 	        "url": "https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8",
 		"userAgent" : ""
                     },  {
-			"name": "DAZN 1 (opc.1) | ES 🇪🇸",
+         		 "name": "DAZN 1 (opc.1) | ES 🇪🇸",
+			"image": "https://i.imgur.com/NcXEpiv.png",
+                 "url": "https://cdix.pages.dev/dazn1",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+			"name": "DAZN 1 (opc.2) | ES 🇪🇸",
 			"image": "https://i.imgur.com/NcXEpiv.png",
 	        "url": "https://starlive.xyz/embed.php?id=liveDazn1_ES",
 		"userAgent" : ""
                     }, {
-			"name": "DAZN 1 (opc.2) | ES 🇪🇸",
+			"name": "DAZN 1 (opc.3) | ES 🇪🇸",
 			"image": "https://i.imgur.com/NcXEpiv.png",
 	        "url": "https://starlive.xyz/embed.php?id=livexDazn1_ES",
 		"userAgent" : ""
-                    }, {
-			"name": "DAZN 2 (opc.1) | ES 🇪🇸",
+                    },  {
+         		"name": "DAZN 2 (opc.1) | ES 🇪🇸",
+			"image": "https://i.imgur.com/N5mzib9.png",
+                 "url": "https://cdix.pages.dev/dazn2",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+			"name": "DAZN 2 (opc.2) | ES 🇪🇸",
 			"image": "https://i.imgur.com/N5mzib9.png",
 	        "url": "https://starlive.xyz/embed.php?id=liveDazn2_ES",
 		"userAgent" : ""
                     }, {
-			"name": "DAZN 2 (opc.2) | ES 🇪🇸",
+			"name": "DAZN 2 (opc.3) | ES 🇪🇸",
 			"image": "https://i.imgur.com/N5mzib9.png",
 	        "url": "https://starlive.xyz/embed.php?id=livexDazn2_ES",
 		"userAgent" : ""
@@ -56,12 +68,18 @@
 	        "url": "https://starlive.xyz/embed.php?id=livexDazn3_ES",
 		"userAgent" : ""
                     }, {
-			"name": "DAZN F1 (opc.1) | ES 🇪🇸",
+         		"name": "DAZN F1 (opc.1) | ES 🇪🇸",
+			"image": "https://i.imgur.com/U7lLcbT.jpg",
+                 "url": "https://cdix.pages.dev/daznf1",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+			"name": "DAZN F1 (opc.2) | ES 🇪🇸",
 			"image": "https://i.imgur.com/U7lLcbT.jpg",
 	        "url": "https://starlive.xyz/embed.php?id=liveDaznF1_ES",
 		"userAgent" : ""
                     }, {
-			"name": "DAZN F1 (opc.2) | ES 🇪🇸",
+			"name": "DAZN F1 (opc.3) | ES 🇪🇸",
 			"image": "https://i.imgur.com/U7lLcbT.jpg",
 	        "url": "https://starlive.xyz/embed.php?id=livexDaznF1_ES",
 		"userAgent" : ""
