@@ -76,87 +76,81 @@
 	        "url": "https://starlive.xyz/embed.php?id=livexLigaDazn",
 		"userAgent" : ""
                     }, {
-                        "name": "DIRECT TV 1",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                       "name": "Direct Tv Sports (opc.1) | AR 🇦🇷",
+          	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=117&evento=Argentina"
                         },
                         {
-                        "name": "DIRECT TV 2",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "name": "Direct Tv Sports 2 (opc.1) | AR 🇦🇷",
+             "image": "https://i.imgur.com/bWw9A7h.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=118&evento=Argentina"
                         },
                         {
-                        "name": "DIRECT TV +",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "name": "Direct Tv Sports Plus (opc.1) | AR 🇦🇷",
+             "image": "https://i.imgur.com/ztxH679.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=119&evento=Argentina"
                         }, {
-                    "name": "ESPN-Argentina HD",
-                    "image": "https://i.ibb.co/pfvTKxK/espn.gif",
+                    "name": "ESPN Argentina (opc.1) | AR 🇦🇷",
+			"image": "https://i.imgur.com/MFhpD4D.png",
                   "url": "https://sportkart1.xyz/tv/scplayer-149.php",
                     "referer" : "https://maxsport.one/",
                      "isHost" : "true"
                     },{
-                    "name": "ESPN-Argentina HD",
-                    "image": "https://i.ibb.co/pfvTKxK/espn.gif",
+                   "name": "ESPN Argentina (opc.2) | AR 🇦🇷",
+			"image": "https://i.imgur.com/MFhpD4D.png",
                     "url":"https://egrc.tarjetarojatv.site/webplayer.php?ifr=70&lang=en&lid=70&ci=37&si=1",
             "isHost" : "true"
-                  },{
-                    "name": "ESPN2-Argentina HD",
-                    "image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
+                  }, {
+                       "name": "ESPN Argentina (opc.3) | AR 🇦🇷",
+			"image": "https://i.imgur.com/MFhpD4D.png",
+                        "url": "https://freelive365.nl/player2.php?id=8&code=114&evento=Argentina"
+                        }, {
+                   "name": "ESPN 2 Argentina (opc.1) | AR 🇦🇷",
+             "image": "https://i.imgur.com/jq1s4to.png",
                     "url": "https://sportkart1.xyz/tv/scplayer-150.php",
                     "referer" : "https://maxsport.one/",
                      "isHost" : "true"
                  },{
-                    "name": "ESPN2-Argentina HD",
-                    "image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
+                    "name": "ESPN 2 Argentina (opc.2) | AR 🇦🇷",
+             "image": "https://i.imgur.com/jq1s4to.png",
                    "url":"https://livetvon.click/stream/stream-150.php",
             "isHost" : "true"
-                                    },{
-                    "name": "ESPN3-Argentina HD",
-                    "image": "https://i.ibb.co/Jzf8TCz/espn3.gif",
+                                    },  {
+                          "name": "ESPN 2 Argentina (opc.3) | AR 🇦🇷",
+             "image": "https://i.imgur.com/jq1s4to.png",
+                        "url": "https://freelive365.nl/player2.php?id=8&code=115&evento=Argentina"
+                        }, {
+                  "name": "ESPN 3 Argentina (opc.1) | AR 🇦🇷",
+             "image": "https://i.imgur.com/iFqCpKj.png",
                   "url": "https://warnforlese.net/embed/qwzyeiwqzd",
                     "referer" : "https://casadelfutbol.net/",
                      "isHost" : "true"
-                  }, {
-                        "name": "ESPN",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=8&code=114&evento=Argentina"
-                        },
-                        {
-                        "name": "ESPN2",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=8&code=115&evento=Argentina"
-                        },
-                        {
-                        "name": "ESPN3",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                  },  {
+                         "name": "ESPN 3 Argentina (opc.2) | AR 🇦🇷",
+             "image": "https://i.imgur.com/iFqCpKj.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=116&evento=Argentina"
-                        },   {
-                        "name": "ESPN EXTRA",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        }, {
+                      "name": "ESPN Extra Argentina | AR 🇦🇷",
+             "image": "https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=157&evento=Argentina"
                         },  {
-                        "name": "ESPN DEPORTES",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                          "name": "ESPN Deportes Mexico | MX mx",
+                        "image": "https://secure.espncdn.com/watchespn/images/channels/bba8fb76-57ff-3c63-998b-90fef8f4f8b6.png",
                         "url": "https://freelive365.nl/player2.php?id=11&code=130&evento=Mexico"
-                        }, {
-                        "name": "TYC SPORTS",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=8&code=122&evento=Argentina"
                         },
                         {
-                        "name": "FOX SPORTS 1",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                       "name": "Fox Sports Argentina (opc.1) | AR 🇦🇷",
+			"image": "https://i.imgur.com/CF5il5c.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=123&evento=Argentina"
                         },
                         {
-                        "name": "FOX SPORTS 2",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                       "name": "Fox Sports 2 Argentina (opc.1) | AR 🇦🇷",
+			"image": "https://i.imgur.com/t2Wn2rO.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=124&evento=Argentina"
                         },
                         {
-                        "name": "FOX SPORTS 3",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                       "name": "Fox Sports 3 Argentina (opc.1) | AR 🇦🇷",
+			"image": "https://i.imgur.com/VxIZXH9.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=125&evento=Argentina"
                         }, {
 			"name": "Fox Sports Mexico (opc.1) | MX 🇲🇽",
@@ -174,20 +168,14 @@
 	        "url": "https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd",
 		"userAgent" : ""
                     },    {
-                        "name": "FOX DEPORTES",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "name": "Fox Deportes Mexico (opc.1) | MX 🇲🇽",
+			"image": "https://cdn.tvpassport.com/image/station/240x135/v2/s15377_h15_ab.png",
                         "url": "https://freelive365.nl/player2.php?id=11&code=131&evento=Mexico"
                         }, {
-                        "name": "FOX SPORTS PREMIUM",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                       "name": "Fox Sports Premium (opc.1) | AR 🇦🇷",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=121&evento=Argentina"
-                        },  {
-			"name": "Gol TV",
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiBlRp_zDOVjE35dayStjG3oWpN_UFMpHrXg&usqp=CAU",
-			"url": "https://ragnaru.net/embed.php?player=desktop&live=do10",
-             "referer" : "https://1l1l.to/",
-             "isHost": "true"
-           }, {
+                        }, {
 			"name": "La Liga Tv Bar (opc.1) | ES 🇪🇸",
 			"image": "https://laligatvbar.es/meta-image.jpg",
 	        "url": "https://starlive.xyz/embed.php?id=liveLigaBar",
@@ -237,24 +225,28 @@
                     "url": "https://livetvon.click/embed/stream-1.php",
                     "isHost": "true"
                                         },  {
-                        "name": "TNT SPORTS ARGENTINA",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                       "name": "TNT Sports Argentina (opc.1) | AR 🇦🇷",
+            	 "image": "https://i.imgur.com/TTaCeXw.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=120&evento=Argentina"
                         },   {
-                        "name": "TNT SPORTS",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                       "name": "TNT Sports Argentina (opc.2) | AR 🇦🇷",
+            	 "image": "https://i.imgur.com/TTaCeXw.png",
                         "url": "https://freelive365.nl/player2.php?id=10&code=126&evento=chile"
                         },   
 		      {
-			"name": "TUDN",
-			"image": "https://televisa.brightspotcdn.com/dims4/default/67595e0/2147483647/strip/true/crop/1000x563+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Ff7%2Ffe%2F6e7f5225433c9ba97a4bd5342329%2Fproxy.jpeg",
+			"name": "TUDN (opc.1) | MX 🇲🇽",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
 			"url":"http://54.39.19.162:8081/live/dream1/playlist.m3u8",
 	                "userAgent": ""
         },   {
-                        "name": "TUDN",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                      "name": "TUDN (opc.2) | MX 🇲🇽",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
                         "url": "https://freelive365.nl/player2.php?id=11&code=132&evento=Mexico"
-                        }, {
+                        },  {
+                      "name": "TYC Sports (opc.1) | AR 🇦🇷",
+			"image": "https://i.imgur.com/I7Lhgej.png",
+                        "url": "https://freelive365.nl/player2.php?id=8&code=122&evento=Argentina"
+                        },{
 			"name": "Sport Tv 1 | PT 🇵🇹",
              "image": "https://i.imgur.com/uHkR0lP.png",
            "url" :  "https://v4.sportsonline.to/channels/pt/sporttv1.php",
