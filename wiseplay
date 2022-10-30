@@ -331,10 +331,16 @@
 "embed": "true" }, {
 			"name": "TUDN (opc.2) | MX 🇲🇽",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
+			"url": "https://bahiadeportes.com/canales/tudnusa.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+			"name": "TUDN (opc.3) | MX 🇲🇽",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
 			"url":"http://54.39.19.162:8081/live/dream1/playlist.m3u8",
 	                "userAgent": ""
         },   {
-                      "name": "TUDN (opc.2) | MX 🇲🇽",
+                      "name": "TUDN (opc.4) | MX 🇲🇽",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",
                         "url": "https://freelive365.nl/player2.php?id=11&code=132&evento=Mexico"
                         },   {
