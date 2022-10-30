@@ -96,6 +96,12 @@
              "image": "https://i.imgur.com/ztxH679.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=119&evento=Argentina"
                         },  {
+			   "name": "Direct Tv Sports Fight | AR 🇦🇷",
+             "image": "https://sfntv.xyz/webp/logos/optimized/dtvfight.webp",
+			"url": "https://bahiadeportes.com/canales/dtvsportsfight.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
 			    "name": "ESPN Argentina (opc.1) | AR 🇦🇷",
 			"image": "https://i.imgur.com/MFhpD4D.png",
 			"url": "https://bahiadeportes.com/canales/espnarg.php",
