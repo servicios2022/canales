@@ -120,7 +120,13 @@
 			"image": "https://i.imgur.com/ma78IEH.png",
 			"url":"https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
          	   "isHost" : "true"
-           	 },  
+           	 },   {
+			"name": " TNT Estadio Chile 4 | CL 🇨🇱",
+			"image": "https://i.imgur.com/ma78IEH.png",
+           	 "url": "https://www.supertelevisionhd.com/cdf-premium-hd/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true"},
 		 
 		 
 		 
