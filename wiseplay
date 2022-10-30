@@ -179,7 +179,71 @@
                   "url": "https://warnforlese.net/embed/qwzyeiwqzd",
                     "referer" : "https://casadelfutbol.net/",
                      "isHost" : "true"
-                  },
+                  }, {
+                        "name": "ESPN",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=8&code=114&evento=Argentina"
+                        },
+                        {
+                        "name": "ESPN2",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=8&code=115&evento=Argentina"
+                        },
+                        {
+                        "name": "ESPN3",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=8&code=116&evento=Argentina"
+                        },
+                        {
+                        "name": "DIRECT TV 1",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=8&code=117&evento=Argentina"
+                        },
+                        {
+                        "name": "DIRECT TV 2",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=8&code=118&evento=Argentina"
+                        },
+                        {
+                        "name": "DIRECT TV +",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=8&code=119&evento=Argentina"
+                        },
+                        {
+                        "name": "TNT SPORTS",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=8&code=120&evento=Argentina"
+                        },
+                        {
+                        "name": "FOX SPORTS PREMIUM",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=8&code=121&evento=Argentina"
+                        },
+                        {
+                        "name": "TYC SPORTS",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=8&code=122&evento=Argentina"
+                        },
+                        {
+                        "name": "FOX SPORTS 1",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=8&code=123&evento=Argentina"
+                        },
+                        {
+                        "name": "FOX SPORTS 2",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=8&code=124&evento=Argentina"
+                        },
+                        {
+                        "name": "FOX SPORTS 3",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=8&code=125&evento=Argentina"
+                        },
+                        {
+                        "name": "ESPN EXTRA",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=8&code=157&evento=Argentina"
+                        },
 		      
 		      {
 			"name": "TUDN",
@@ -192,7 +256,25 @@
 			"url": "https://ragnaru.net/embed.php?player=desktop&live=do10",
              "referer" : "https://1l1l.to/",
              "isHost": "true"
-           }
+           }, {
+                        "name": "TNT SPORTS",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=10&code=126&evento=chile"
+                        }, {
+                        "name": "ESPN DEPORTES",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=11&code=130&evento=Mexico"
+                        },
+                        {
+                        "name": "FOX DEPORTES",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=11&code=131&evento=Mexico"
+                        },
+                        {
+                        "name": "TUDN",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=11&code=132&evento=Mexico"
+                        }
 
 	     
 
