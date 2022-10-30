@@ -148,8 +148,20 @@
              "image": "https://i.imgur.com/iFqCpKj.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=116&evento=Argentina"
                         }, {
-                      "name": "ESPN Extra Argentina | AR 🇦🇷",
-             "image": "https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png",
+                  "name": "ESPN 4 Argentina (opc.1) | AR 🇦🇷",
+             "image": "https://i.imgur.com/G9nJy7y.png",
+                 "url": "https://bahiadeportes.com/canales/espn4.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+                  "name": "ESPN Premium Argentina (opc.1) | AR 🇦🇷",
+             "image": "https://i.imgur.com/KvY0uqu.png",
+                 "url": "https://bahiadeportes.com/canales/espnpremium",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+                      "name": "ESPN Premium Argentina (opc.2) | AR 🇦🇷",
+             "image": "https://i.imgur.com/KvY0uqu.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=157&evento=Argentina"
                         },  {
                           "name": "ESPN Deportes Mexico | MX mx",
