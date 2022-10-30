@@ -303,11 +303,6 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
-                  "name": "TNT Sports Chile 5 | CL 🇨🇱",
-			"image": "https://i.imgur.com/TTaCeXw.png",
-                    "url": "https://livetvon.click/embed/stream-1.php",
-                    "isHost": "true"
-                                        },  {
                        "name": "TNT Sports Argentina (opc.1) | AR 🇦🇷",
             	 "image": "https://i.imgur.com/TTaCeXw.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=120&evento=Argentina"
