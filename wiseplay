@@ -220,10 +220,22 @@
                         },  {
 			"name": "Fox Sports Mexico (opc.1) | MX 🇲🇽",
 			"image": "https://i.imgur.com/CF5il5c.png",
+	         "url": "https://bahiadeportes.com/canales/foxsportsdtv.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+			"name": "Fox Sports Mexico (opc.2) | MX 🇲🇽",
+			"image": "https://i.imgur.com/CF5il5c.png",
 	        "url": "https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd",
 		"userAgent" : ""
                     }, {
-			"name": "Fox Sports 2 Mexico (opc.1) | MX 🇲🇽",
+		"name": "Fox Sports 2 Mexico (opc.1) | MX 🇲🇽",
+			"image": "https://i.imgur.com/t2Wn2rO.png",
+	         "url": "https://bahiadeportes.com/canales/foxsports2-3.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+			"name": "Fox Sports 2 Mexico (opc.2) | MX 🇲🇽",
 			"image": "https://i.imgur.com/t2Wn2rO.png",
 	        "url": "https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd",
 		"userAgent" : ""
