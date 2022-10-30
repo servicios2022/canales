@@ -98,7 +98,12 @@
 			"image": "https://i.imgur.com/JLciFmy.jpg",
 	        "url": "https://starlive.xyz/embed.php?id=livexLigaDazn",
 		"userAgent" : ""
-                    },  {
+                    }, {
+				"name": "DAZN la Liga (opc.4) | ES 🇪🇸",
+			"image": "https://i.imgur.com/JLciFmy.jpg",
+			"url" : "http://stream.jokerstreampage.xyz/?player=%3Ciframe%20src%3D%22https%3A%2F%2Fwww.jokersplayer.xyz%2Fembedssl.php%3Fu%3Ddaznlaliga%26amp%3Bvw%3D100percent%26vh%3D360%22%20width%3D%22640%22%20height%3D%22360%22%20scrolling%3D%22no%22%20frameborder%3D%220%22%20allowtransparency%3D%22true%22%20marginheight%3D%220%22%20marginwidth%3D%220%22%20allowfullscreen%3D%22allowfullscreen%22%3E%3C%2Fiframe%3E&homeTeamName=Valencia&homeTeamLogo=/participants/2828.png&guestTeamName=Barcelona&guestTeamLogo=/participants/2817.png&matchStartTime=1667070000&matchEndTime=1667077200&gameType=football&leagueUrl=laliga&leagueName=LaLiga&leagueLogo=/league/8.png&leagueId=90bdf1bd&title=Valencia%20vs%20Barcelona%20Live%20Stream%20-%20on%20Saturday,%2029%20October%2019:00%20UTC",
+                        "isHost": "true"
+			 }, {
                  "name": "Direct Tv Sports (opc.1) | AR 🇦🇷",
           	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
                  "url": "https://bahiadeportes.com/canales/directvsports.php",
@@ -313,7 +318,13 @@
 			"image": "https://i.imgur.com/82Eb5m0.png",
 	        "url": "https://starlive.xyz/embed.php?id=livexLigaBar",
 		"userAgent" : ""
-                    }, {
+                    }, { 
+			"name": "La Liga Tv Bar (opc.3) | ES 🇪🇸",
+			"image": "https://i.imgur.com/82Eb5m0.png",
+			 "url": "https://utopianwilderness.com/embed/vmrjhp94n",
+              "referer": "https://starlive.xyz/",
+             "isHost": "true"
+                     }, {
 			"name": "La Liga Tv por M+ (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/K1p7zVZ.png",
 	        "url": "https://starlive.xyz/embed.php?id=liveLiga",
@@ -329,6 +340,48 @@
 	        "url": "https://v4.sportsonline.to/channels/hd/hd6.php",
 		"userAgent" : ""
                     }, {
+			"name": "La Liga Tv por M+ (opc.4) | ES 🇪🇸",
+			"image": "https://i.imgur.com/K1p7zVZ.png",
+			  "url": "https://ragnaru.net/embed.php?player=desktop&live=do19",
+			"referer": "https://1.vecdn.pw/",
+             "isHost": "true"
+               }, {
+		  "name": "La Liga Tv por M+ (opc.5) | ES 🇪🇸",
+			"image": "https://i.imgur.com/K1p7zVZ.png",
+			 "url": "https://utopianwilderness.com/embed/7str56mtb",
+              "referer": "https://starlive.xyz/",
+             "isHost": "true"
+                     }, {
+		  "name": "La Liga Tv por M+ (opc.6) | ES 🇪🇸",
+			"image": "https://i.imgur.com/K1p7zVZ.png",
+			"url" : "https://unbiasedsenseevent.com/embed/pyxs8u5a6hp",
+			 "referer": "https://l1l1.to/",
+             "isHost": "true"  
+                    }, {
+		  "name": "La Liga Tv por M+ (opc.7) | ES 🇪🇸",
+			"image": "https://i.imgur.com/K1p7zVZ.png",
+			 "url": "https://parsimoniousinvincible.net/embed/6na79kddf",
+			"referer": "https://leet365.cc/",
+			"isHost" : "true"
+			  }, {
+			  "name": "La Liga Tv por M+ (opc.8) | ES 🇪🇸",
+			"image": "https://i.imgur.com/K1p7zVZ.png",
+			 "url": "https://strayindicate.net/embed/2twhx",
+			"referer": "https://1rowsportz.info/",
+			"isHost" : "true" 
+                   }, {
+		  "name": "La Liga Tv por M+ (opc.9) | ES 🇪🇸",
+			"image": "https://i.imgur.com/K1p7zVZ.png",
+        "url": "https://sportkart1.xyz/embed/scplayer-84.php",
+			"referer": "https://cdn.sportcast.life/",
+             "isHost": "true"
+                  }, {
+		  "name": "La Liga Tv por M+ (opc.10) | ES 🇪🇸",
+			"image": "https://i.imgur.com/K1p7zVZ.png",
+        			"url" : "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
+            "referer": "https://buzztv.futbol/",
+			"isHost": "true"  
+                 }, {
 			"name": "TNT Sports Chile 1 | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url": "https://bahiadeportes.com/canales/tntsportschile.php",
