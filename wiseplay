@@ -167,6 +167,10 @@
                           "name": "ESPN Deportes Mexico | MX mx",
                         "image": "https://secure.espncdn.com/watchespn/images/channels/bba8fb76-57ff-3c63-998b-90fef8f4f8b6.png",
                         "url": "https://freelive365.nl/player2.php?id=11&code=130&evento=Mexico"
+                        },  {
+                       "name": "ESPN Mexico (opc.1) | MX mx",
+			"image": "https://i.imgur.com/MFhpD4D.png",
+                        "url": "https://bahiadeportes.com/canales/espn-3.php"
                         },
                         {
                        "name": "Fox Sports Argentina (opc.1) | AR 🇦🇷",
