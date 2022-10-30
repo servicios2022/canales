@@ -98,13 +98,7 @@
 			"image": "https://i.imgur.com/JLciFmy.jpg",
 	        "url": "https://starlive.xyz/embed.php?id=livexLigaDazn",
 		"userAgent" : ""
-                    }, {
-			  "name": "Deportes por M+ (opc.1) | ES 🇪🇸",
-                    "image": "https://i.imgur.com/OJqxHKo.png",
-			"url": "https://futbolfullenvivo.com/ver-canal-deportes-online-en-directo/",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
+                    },  {
                  "name": "Direct Tv Sports (opc.1) | AR 🇦🇷",
           	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
                  "url": "https://bahiadeportes.com/canales/directvsports.php",
