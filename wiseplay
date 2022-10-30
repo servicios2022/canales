@@ -287,7 +287,59 @@
                         "name": "TUDN",
                         "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
                         "url": "https://freelive365.nl/player2.php?id=11&code=132&evento=Mexico"
-                        }
+                        }, {
+			"name": "BeinSport ñ",
+             "image": "https://newcastlebeach.org/images/logo-bein-sport-6.jpg",
+           "url" :  "https://flowcablevision.com/online.php?a=09",
+			 "isHost":"true"
+                      }, {
+                    "name": "ESPN2-Argentina HD",
+                    "image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
+               "url": "https://deliriousholistic.net/embed/1hauu682wp9h0k",
+                    "referer" : "https://bahiadeportes.com/",
+                     "isHost" : "true"
+                  }, {
+                    "name": "ESPN3-Argentina HD",
+                    "image": "https://i.ibb.co/Jzf8TCz/espn3.gif",
+                 "url": "https://parsimoniousinvincible.net/embed/jlgi6wee6",
+                    "referer" : "https://bahiadeportes.com/",
+                     "isHost" : "true"
+                  }, {
+			"name": "Fox Sport 1-Argentina",
+			"image": "https://i.pinimg.com/originals/03/a3/82/03a3822bfa7d5e79c01c69e997ea1eac.jpg",
+                      "url":"https://voraciousglove.net/embed/lumm1b762ct",
+            "referer" : "https://bahiadeportes.com/",
+			 "isHost":"true"
+		}, {
+			"name": "Fox Sport 2-Argentina",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzzWOE1xMXXiPmjUaz-3LdohqBsNK17JmWlVh2EYvH7fK3ZDNNjRzAzxqANSy8hLZporQ&usqp=CAU",
+                       			"url":"https://voraciousglove.net/embed/mgux56o831rp6",
+            "referer" : "https://bahiadeportes.com/",
+			 "isHost":"true"
+		}, {
+			"name": "Fox Sport 3-Argentina",
+			"image": "https://i.ytimg.com/vi/Z2_19oGaU-g/hqdefault.jpg",
+						"url":"https://voraciousglove.net/embed/0171wu93di",
+            "referer" : "https://bahiadeportes.com/",
+			 "isHost":"true"
+        }, {
+			"name": "Fox Sport Premium-Argentina",
+			"image": "https://yt3.ggpht.com/ytc/AKedOLQysFhsRE8suxR8Z7Z5H_T6tHeZqAzdAlmEEGvb=s900-c-k-c0x00ffffff-no-rj",
+			"url": "https://freelive365.com/player2.php?id=10&code=121&evento=Argentina",
+			"isHost": "true" 
+             }, {
+			"name": "Gol TV",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiBlRp_zDOVjE35dayStjG3oWpN_UFMpHrXg&usqp=CAU",
+			"url": "https://ragnaru.net/embed.php?player=desktop&live=do10",
+             "referer" : "https://cdn2.link/",
+			"isHost": "true" 
+           }, {
+			"name": "TyC Sport",
+			"image": "https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg",
+			"url":"https://wigistream.to/embed/pxntiw9omsojcp",
+            "referer" : "https://bahiadeportes.com/",
+			"isHost": "true"
+		}
 
 	     
 
