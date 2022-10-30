@@ -114,19 +114,29 @@
                        "name": "Direct Tv Sports (opc.2) | AR 🇦🇷",
           	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=117&evento=Argentina"
-                        },
-                        {
-                        "name": "Direct Tv Sports 2 (opc.1) | AR 🇦🇷",
+                        }, {
+                           "name": "Direct Tv Sports 2 (opc.1) | AR 🇦🇷",
+             "image": "https://i.imgur.com/bWw9A7h.png",
+                 "url": "https://megadeportes.live/en-vivo/directv-sports-2",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+                        "name": "Direct Tv Sports 2 (opc.2) | AR 🇦🇷",
              "image": "https://i.imgur.com/bWw9A7h.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=118&evento=Argentina"
-                        },
-                        {
-                        "name": "Direct Tv Sports Plus (opc.1) | AR 🇦🇷",
-             "image": "https://i.imgur.com/ztxH679.png",
+                        },  {
+                              "name": "Direct Tv Sports Plus (opc.1) | AR 🇦🇷",
+            	 "image": "https://i.imgur.com/ztxH679.png",
+                 "url": "https://megadeportes.live/en-vivo/directv-sports-plus",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },{
+                        "name": "Direct Tv Sports Plus (opc.2) | AR 🇦🇷",
+            		 "image": "https://i.imgur.com/ztxH679.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=119&evento=Argentina"
                         },  {
 			   "name": "Direct Tv Sports Fight | AR 🇦🇷",
-             "image": "https://i.imgur.com/WXDmOu1.png",
+            		 "image": "https://i.imgur.com/WXDmOu1.png",
 			"url": "https://bahiadeportes.com/canales/dtvsportsfight.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
