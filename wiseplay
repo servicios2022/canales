@@ -126,23 +126,12 @@
 			"url":"https://dtvott-abc.akamaized.net/dash_live_1232/manifest.mpd",
 			 "referer" : "https://bahiadeportes.com/canales/tntsportschile.php",
          	   "isHost" : "true"
-           	 }, {
+           	 },  {
 			"name": " TNT Estadio Chile 4ba | CL 🇨🇱",
 			"image": "https://i.imgur.com/ma78IEH.png",
-			"url":"https://bahiadeportes.com/canales/tntsportschile.php",
-			 "referer" : "https://bahiadeportes.com/tntsportschile",
-         	   "isHost" : "true"
-           	 }, {
-			"name": " TNT Estadio Chile 5 | CL 🇨🇱",
-			"image": "https://i.imgur.com/ma78IEH.png",
-			"url":"https://dtvott-abc.akamaized.net/dash_live_1232/dash/1232_TNT_SPORTS-video=3838800-100025827635076.dash",
+			"url":"https://dtvott-abc.akamaized.net/dash_live_1232/manifest.mpd",
 			 "referer" : "https://bahiadeportes.com/canales/tntsportschile.php",
-         	   "isHost" : "true"
-           	 }, {
-			"name": " TNT Estadio Chile 6 | CL 🇨🇱",
-			"image": "https://i.imgur.com/ma78IEH.png",
-			"url":"https://dtvott-abc.akamaized.net/dash_live_1232/dash/1232_TNT_SPORTS-video=3838800-100025827635076.dash",
-			 "referer" : "https://bahiadeportes.com",
+			  "referer" : "https://bahiadeportes.com",
          	   "isHost" : "true"
            	 },
 		 
