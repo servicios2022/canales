@@ -185,18 +185,36 @@
                  "url": "https://bahiadeportes.com/canales/espn2-3.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
+"embed": "true" },  {
+                "name": "Fox Sports Argentina (opc.1) | AR 🇦🇷",
+			"image": "https://i.imgur.com/CF5il5c.png",
+                 "url": "https://bahiadeportes.com/canales/foxsportsarg.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
 "embed": "true" }, {
-                       "name": "Fox Sports Argentina (opc.1) | AR 🇦🇷",
+                       "name": "Fox Sports Argentina (opc.2) | AR 🇦🇷",
 			"image": "https://i.imgur.com/CF5il5c.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=123&evento=Argentina"
-                        },
+                        }, {
+              "name": "Fox Sports 2 Argentina (opc.1) | AR 🇦🇷",
+			"image": "https://i.imgur.com/t2Wn2rO.png",
+                 "url": "https://bahiadeportes.com/canales/foxsports2arg.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },
                         {
-                       "name": "Fox Sports 2 Argentina (opc.1) | AR 🇦🇷",
+                       "name": "Fox Sports 2 Argentina (opc.2) | AR 🇦🇷",
 			"image": "https://i.imgur.com/t2Wn2rO.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=124&evento=Argentina"
-                        },
+                        }, {
+              "name": "Fox Sports 3 Argentina (opc.1) | AR 🇦🇷",
+			"image": "https://i.imgur.com/VxIZXH9.png",
+                 "url": "https://bahiadeportes.com/canales/foxsports3arg.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },
                         {
-                       "name": "Fox Sports 3 Argentina (opc.1) | AR 🇦🇷",
+                       "name": "Fox Sports 3 Argentina (opc.2) | AR 🇦🇷",
 			"image": "https://i.imgur.com/VxIZXH9.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=125&evento=Argentina"
                         },  {
