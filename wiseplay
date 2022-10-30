@@ -147,7 +147,11 @@
 			   "url": "https://strayindicate.net/embed/wwcujo0oiatyw93",
               "referer": "https://1rowsportz.info/",
              "isHost": "true"
-                 },  {  
+                 },  {
+          	"name": "DAZN la Liga (opc.7) | ES 🇪🇸",
+			"image": "https://i.imgur.com/JLciFmy.jpg",
+                        "url": "https://freelive365.nl/player2.php?id=33&code=171&evento=espa%C3%91a"
+                        }, {  
 			"name": "Deportes por M+ (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/OJqxHKo.png",
 			 "url": "https://livetvon.click/stream/stream-436.php",
@@ -158,7 +162,11 @@
 			 "url": "https://wecast.to/sabri.php?stream=sabrouch39",
 			"referer": "https://wizhdlive.xyz/",
 			"isHost": "true"
-         }, {
+         },   {
+                       	"name": "Deportes por M+ (opc.3) | ES 🇪🇸",
+			"image": "https://i.imgur.com/OJqxHKo.png",
+                        "url": "https://freelive365.nl/player2.php?id=33&code=177&evento=espa%C3%91a"
+                        }, {
                  "name": "Direct Tv Sports (opc.1) | AR 🇦🇷",
           	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
                  "url": "https://bahiadeportes.com/canales/directvsports.php",
@@ -453,7 +461,11 @@
                 "image": "https://i.imgur.com/wiLQCUD.png",
 			 "url": "https://livetvon.click/stream/stream-435.php",
 			"isHost" : "true"
-                    }, {
+                    },  {
+                   		  "name": "Liga de Campeones por M+ (opc.4) | ES 🇪🇸",
+                "image": "https://i.imgur.com/wiLQCUD.png",
+                        "url": "https://freelive365.nl/player2.php?id=33&code=172&evento=espa%C3%91a"
+                        }, {
 			"name": "TNT Sports Chile 1 | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url": "https://bahiadeportes.com/canales/tntsportschile.php",
@@ -558,6 +570,10 @@
 			   "url" : "https://livetvon.click/stream/stream-521.php",
             "isHost":"true"
             }, {
+                     	  "name": "#Vamos por M+ (opc.5) | ES 🇪🇸",
+			"image": "https://i.imgur.com/ZYXUy5I.png",
+                        "url": "https://freelive365.nl/player2.php?id=33&code=173&evento=espa%C3%91a"
+                        }, {
 			"name": "Sport Tv 1 | PT 🇵🇹",
              "image": "https://i.imgur.com/uHkR0lP.png",
            "url" :  "https://v4.sportsonline.to/channels/pt/sporttv1.php",
