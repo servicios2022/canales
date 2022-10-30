@@ -542,13 +542,13 @@
                         }, {
 			"name": "VTV Plus (opc.1) | URU 🇺🇾",
              "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png",
-			"url": "https://bahiadeportes.com/canales/winsportsplus.php",
+			"url": "https://bahiadeportes.com/canales/vtvplus.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
 			"name": "Win Sports Plus (opc.1) | CO 🇨🇴",
 			"image": "https://i.imgur.com/NwKPC6B.png",
-			"url": "https://bahiadeportes.com/canales/vtvplus.php",
+			"url": "https://bahiadeportes.com/canales/winsportsplus.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, { 
