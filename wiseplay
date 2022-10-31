@@ -9,7 +9,18 @@
     
   "stations": [ 
   
-  
+  {
+      		    "name": "tigo | LAT 🇲🇽",
+            	    "image": "https://i.imgur.com/c4gfwhr.png",
+		    "url": "https://www.tvplusgratis.com/tigo-sports-en-vivo.html",
+                    "isHost": "true"
+                },   {
+      		    "name": "tigo 2| LAT 🇲🇽",
+            	    "image": "https://i.imgur.com/c4gfwhr.png",
+		    "url": "https://www.tvplusgratis.com/tigo-sports-en-vivo.html",
+                  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, 
 
 {		
 			"name": "Bein Sport Extra Ñ (opc.1) | LAT 🇲🇽",
