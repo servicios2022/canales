@@ -471,6 +471,11 @@
                 "image": "https://i.imgur.com/wiLQCUD.png",
                         "url": "https://freelive365.nl/player2.php?id=33&code=172&evento=espa%C3%91a"
                         }, {
+                    "name": "Teledeporte TDP (opc.1) | ES 🇪🇸",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png",
+                    "url": "https://livetvon.click/embed/stream-529.php",
+                    "isHost": "true"
+                }, {
 			"name": "TNT Sports Chile (opc.1) | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url": "https://bahiadeportes.com/canales/tntsportschile.php",
