@@ -10,7 +10,20 @@
   "stations": [ 
   
  
-
+ {
+                    "name": "Barça TV Spain",
+                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
+                    "url": "https://livetvon.click/embed/stream-522.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "Benfica TV",
+                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
+                    "url": "https://livetvon.click/embed/stream-380.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, 
 {		
 			"name": "Bein Sport Extra Ñ (opc.1) | LAT 🇲🇽",
 			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
@@ -65,6 +78,12 @@
 			  "url": "https://maxsport.one/dazn1.php",
 			"isHost": "true"
 			}, {
+                 "name": "DAZN 1 (opc.6) | ES 🇪🇸",
+			"image": "https://i.imgur.com/NcXEpiv.png",
+                    "url": "https://livetvon.click/embed/stream-445.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
          		"name": "DAZN 2 (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/N5mzib9.png",
                  "url": "https://cdix.pages.dev/dazn2",
@@ -91,7 +110,13 @@
                    "url" : "https://deliriousholistic.net/embed/lup8x",
 			 "referer": "https://bahiadeportes.com/",
              "isHost": "true"
-                    }, {
+                    },  {
+               "name": "DAZN 2 (opc.6) | ES 🇪🇸",
+			"image": "https://i.imgur.com/N5mzib9.png",
+                    "url": "https://livetvon.click/embed/stream-446.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
 			"name": "DAZN 3 (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/uiwiHzs.png",
 	        "url": "https://starlive.xyz/embed.php?id=liveDazn3_ES",
@@ -112,6 +137,12 @@
                      "url": "https://maxsport.one/dazn3.php",
             "isHost":"true"
                     }, {
+                    "name": "DAZN 4 Spain",
+                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
+                    "url": "https://livetvon.click/embed/stream-448.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
          		"name": "DAZN F1 (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/U7lLcbT.jpg",
                  "url": "https://cdix.pages.dev/daznf1",
@@ -128,6 +159,12 @@
 	        "url": "https://starlive.xyz/embed.php?id=livexDaznF1_ES",
 		"userAgent" : ""
                     }, {
+           "name": "DAZN F1 (opc.4) | ES 🇪🇸",
+			"image": "https://i.imgur.com/U7lLcbT.jpg",
+                    "url": "https://livetvon.click/embed/stream-537.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
               	"name": "DAZN la Liga (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/JLciFmy.jpg",
                  "url": "https://cdix.pages.dev/daznlaliga",
@@ -295,7 +332,13 @@
                       "name": "ESPN Premium Argentina (opc.2) | AR 🇦🇷",
              "image": "https://i.imgur.com/KvY0uqu.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=157&evento=Argentina"
-                        }, {
+                        },  {
+                     "name": "ESPN Premium Argentina (opc.3) | AR 🇦🇷",
+             "image": "https://i.imgur.com/KvY0uqu.png",
+                    "url": "https://livetvon.click/embed/stream-387.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
                   "name": "ESPN Extra Argentina (opc.1) | AR 🇦🇷",
              "image": "https://i.imgur.com/EgURkNV.png",
                  "url": "https://bahiadeportes.com/canales/espnextra.php",
@@ -314,10 +357,16 @@
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
-                          "name": "ESPN Deportes Mexico | LAT 🇲🇽",
+                          "name": "ESPN Deportes Mexico (opc.1) | LAT 🇲🇽",
                         "image": "https://i.imgur.com/cYvji3A.png",
                         "url": "https://freelive365.nl/player2.php?id=11&code=130&evento=Mexico"
-                      }, {
+                      },  {
+                      "name": "ESPN Deportes Mexico (opc.2) | LAT 🇲🇽",
+                        "image": "https://i.imgur.com/cYvji3A.png",
+                    "url": "https://livetvon.click/embed/stream-375.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
                 "name": "Fox Sports Argentina (opc.1) | AR 🇦🇷",
 			"image": "https://i.imgur.com/CF5il5c.png",
                  "url": "https://bahiadeportes.com/canales/foxsportsarg.php",
