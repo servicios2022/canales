@@ -406,12 +406,13 @@
 			"url": "https://bahiadeportes.com/canales/goltv.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true" },  {
+"embed": "true" }, {
 			"name": "Gol Tv (opc.2) | ",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
 			"url": "https://futbol-tv.online/ver/goltv",
-		 "isHost": "true"
-                }, {
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
 			"name": "La Liga Tv Bar (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/82Eb5m0.png",
 	        "url": "https://starlive.xyz/embed.php?id=liveLigaBar",
