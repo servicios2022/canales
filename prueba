@@ -1,31 +1,293 @@
 
-{
-
-"name": "⚽ SOLO DEPORTES ⚽",
- "author": "📺Algunos canales se activan antes del partido!! 📺",
- "image": "https://downloadwap.com/thumbs3/screensavers/d/new/sports/football-246700.gif",
-    "info": "Enlaces encontrados en internet",
-"url": "https://raw.githubusercontent.com/servicios2022/canales/main/wiseplay",
-
-    
-  "stations": [ 
-
-
- {
-			"name": "espn | LAT 🇲🇽",
-          	   "image": "https://i.imgur.com/c4gfwhr.png",
-          	 "url" :  "https://futbollatam.com/en-vivo/espn-1/",
-			 "isHost":"true"
-                      }
-		      
-		      
-
-
-		      
-
-
-
-	     
-
- ]
-
+{	"name": "RC EVENTOS"  , 
+	"author":"RCPARRAS",
+	"url": "https://w3ubin.com/v1CrGaYSO.w3u",
+	"image": "https://4.bp.blogspot.com/-BOG9RboDcFE/TlJXQkAGj4I/AAAAAAAAArk/3OFrxdFgOB4/w1200-h630-p-k-no-nu/lopera1.jpg",
+	"imageScale": "",
+	"telegram":"RCPARRAS",
+	"info":"RC EVENTOS WISEPLAY",
+	"groups":[
+	    {
+        "name":"CANALES TV ESPAÑOL",
+        "image": "https://w7.pngwing.com/pngs/54/852/png-transparent-2014-fifa-world-cup-2018-fifa-world-cup-hisense-series-5-football-player-led-tv-television-sport-display-advertising.png",
+        "groups":[
+                {
+                "name":"ESPAÑA",
+                "image": "https://w7.pngwing.com/pngs/730/661/png-transparent-flag-of-mexico-graphy-mexico-miscellaneous-flag-flag-of-the-united-states.png",
+                "stations":[
+                        {
+                        "name": "MOVISTAR LALIGA",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=33&code=171&evento=espa%C3%91a"
+                        },
+                        {
+                        "name": "MOVISTAR LIGA DE CAMPEONES",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=33&code=172&evento=espa%C3%91a"
+                        },
+                        {
+                        "name": "MOVISTAR VAMOS",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=33&code=173&evento=espa%C3%91a"
+                        },
+                        {
+                        "name": "DAZN MOVISTAR",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=33&code=174&evento=espa%C3%91a"
+                        },
+                        {
+                        "name": "EUROSPORT",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=33&code=175&evento=espa%C3%91a"
+                        },
+                        {
+                        "name": "MOVISTAR DEPORTES",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=33&code=177&evento=espa%C3%91a"
+                        }
+                    ]
+                },
+                {
+                "name":"LATINOS",
+                "image": "https://www.buscopng.com/wp-content/uploads/2020/09/Bandera-circular-de-Reino-Unido.png",
+                "stations":[
+                        {
+                        "name": "BT SPORT 1",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=1&code=73&evento=United%20Kingdom"
+                        },
+                        {
+                        "name": "BT SPORT 2",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=1&code=74&evento=United%20Kingdom"
+                        },
+                        {
+                        "name": "BT SPORT 3",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=1&code=75&evento=United%20Kingdom"
+                        },
+                        {
+                        "name": "BT SPORT ESPN",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=1&code=76&evento=United%20Kingdom"
+                        },
+                        {
+                        "name": "SKY SPORTS MAIN EVEN",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=1&code=77&evento=United%20Kingdom"
+                        },
+                        {
+                        "name": "SKY SPORTS FOOTBALL",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=1&code=78&evento=United%20Kingdom"
+                        },
+                        {
+                        "name": "SKY SPORTS PL",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=1&code=79&evento=United%20Kingdom"
+                        },
+                        {
+                        "name": "SKY SPORTS F1",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=1&code=83&evento=United%20Kingdom"
+                        },
+                        {
+                        "name": "EUROSPORTS 1",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=1&code=84&evento=United%20Kingdom"
+                        },
+                        {
+                        "name": "PREMEIR SPORTS 1",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=1&code=85&evento=United%20Kingdom"
+                        },
+                        {
+                        "name": "PREMEIR SPORTS 2",
+                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
+                        "url": "https://freelive365.nl/player2.php?id=1&code=86&evento=United%20Kingdom"
+                        }
+                    ]
+                },
+              }
+                }
+            ]
+	    },
+	    {
+        "name":DEPORTE INGLES",
+        "image": "https://e7.pngegg.com/pngimages/185/209/png-clipart-ace-stream-android-application-package-streaming-media-android-television-leaf.png",
+        "stations":[
+                {
+                "name": "Liga Tv Bar 1080",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://268361065992567230d35c0d62f02ffdebe8be2d"
+                },
+                {
+                "name": "M. La Liga 1080 MultiAudio",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://2b16391b15b98bd06576cfb7f7be400d3f78f2d1"
+                },
+                {
+                "name": "M.La Liga 720",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://0ce1373e072d1e8fe6bfb1129d1e11c11c8fe93d"
+                },
+                {
+                "name": "M.La Liga MULTI",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://db2087af8267c5d62cc08384eeb63c460cdc7218"
+                },
+                {
+                "name": "M. La Liga 1 1080",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://4477859c90e843d5557297d8e27b64783baeaa29"
+                },
+                {
+                "name": "M.La Liga 2 1080",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://b35fd54093c095e9afce3f20c512d622d0e94ac4"
+                },
+                {
+                "name": "M.La Liga 3 1080",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://e693d6b35ee9dc2c6a0d0593edec281268e79440"
+                },
+                {
+                "name": "# Vamos 1080",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://28c4a6a2c7e5edc768db06bcfd9e197e8189cdae"
+                },
+                {
+                "name": "M. Deportes 1080",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://9a68bf410d49d4d140217cfd576cc99e927f1cd6"
+                
+                },
+                {
+                "name": "M. Deportes 1 1080",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://b2c349035181772990ef2acba88a582833667f88"
+                
+                },
+                {
+                "name": "M. Deportes 2 1080",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://4477859c90e843d5557297d8e27b64783baeaa29"
+                
+                },
+                {
+                "name": "M. Deportes  3  SD",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://d357998908bf0986f5ae2714e0ef471d2e74ceca"
+                
+                },
+                {
+                "name": "M. Liga de Campeones 1080",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://3484a8b98af044d885fdc5f77e6e46a1506cbcf6"
+                
+                },
+                {
+                "name": "M. Liga de Campeones 1 1080",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://836b3aa3e4dfef6b02479a9df15b464cbbef9d26"
+                
+                },
+                {
+                "name": "M. Liga de Campeones 2 1080",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://3e35e555174b8bbfa642cf88c5a9ab4ee401f350"
+                
+                },
+                {
+                "name": "M. Liga de Campeones 3 1080",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://a5d22610cb7bd5608c14249e3984bacb54dfe487"
+                
+                },
+                {
+                "name": "M. Golf 1080",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://d1ca203e4da54bbdcd653beee41744a1ce10e256"
+                
+                },
+                {
+                "name": "DAZN 1 1080",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://3fa73a810166f4ad4c5017351e723a5c6cf910c2"
+                
+                },
+                {
+                "name": "DAZN 2 1080",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://872d02418a60d3fd48b2c0da19b57b7c00550e15"
+                
+                },
+                {
+                "name": "DAZN 3 1080",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://ef7ccc8cf3c7870abe3e7aacf13e0c842bce5aae"
+                
+                },
+                {
+                "name": "DAZN 4 1080",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://bdc003e8c0e83a67a61b474f604d4db168fa9855"
+                
+                },
+                {
+                "name": "GOL TV 1080",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://8403e032a5a3666f26d8d7d1a65a0c843e020f40"
+                
+                },
+                {
+                "name": "EuroSport 1 1080",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://5d330dc46d4e24a8db88ab9945c0595883bd280e"
+                
+                },
+                {
+                "name": "M. La Liga 1 1080",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://4477859c90e843d5557297d8e27b64783baeaa29"
+                
+                },
+                {
+                "name": "EUROSPORT  2 1080",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://4a7fe5b8b49cfd6a2e4f66713bc6a8c506c2159b"
+                
+                },
+                {
+                "name": "Sport Tv 1 1080",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://15894eb997a5a8fcbff7aeba0484208c043f9bef"
+                
+                },
+                {
+                "name": "Sport Tv 2 1080",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://b6035d6c3e25776479b5000ece8a080dd8b4c679"
+                
+                },
+                {
+                "name": "Sport Tv 3 1080",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a"
+                
+                },
+                {
+                "name": "ESPN 2 720",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://5ae9afd963961cd07e8f690e44a6596a2bb4e51e"
+                
+                },
+                {
+                "name": "BEIN Ñ",
+                "image": "https://i.pinimg.com/474x/90/dc/3d/90dc3dc24ff0cf946e52898ccb4b3309.jpg",
+                "url": "acestream://c08fd1bc22520c8998b9e8e86c30b7dd0aab2a18"
+                }
+            ]
+	    }            
+    ]
+}
