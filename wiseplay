@@ -390,12 +390,6 @@
 		    "url": "https://golperu.futboltvhd.repl.co/",
                     "isHost": "true"
                 },  {
-			  "name": "Gol  Peru (opc.2) | PE 🇵🇪",
-            	    "image": "https://i.imgur.com/xvHtnbT.jpg",
-			"url": "https://www.vertvcable.com/gol-peru-en-vivo/",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
 			"name": "Gol Tv (opc.1) | ",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
 			"url": "https://bahiadeportes.com/canales/goltv.php",
