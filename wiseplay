@@ -216,7 +216,41 @@
                        	"name": "Deportes por M+ (opc.3) | ES 🇪🇸",
 			"image": "https://i.imgur.com/OJqxHKo.png",
                         "url": "https://freelive365.nl/player2.php?id=33&code=177&evento=espa%C3%91a"
-                        }, {
+                        },    {
+                    "name": "Movistar Deportes 1 Spain",
+                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
+                    "url": "https://livetvon.click/embed/stream-437.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "Movistar Deportes 2 Spain",
+                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
+                    "url": "https://livetvon.click/embed/stream-438.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "Movistar Deportes 3",
+                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
+                    "url": "https://livetvon.click/embed/stream-526.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "Movistar Deportes 4",
+                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
+                    "url": "https://livetvon.click/embed/stream-527.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "Movistar Deportes Spain",
+                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
+                    "url": "https://livetvon.click/embed/stream-436.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
                  "name": "Direct Tv Sports (opc.1) | AR 🇦🇷",
           	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
                  "url": "https://bahiadeportes.com/canales/directvsports.php",
@@ -279,7 +313,13 @@
 			"image": "https://i.imgur.com/MFhpD4D.png",
                     "url":"https://egrc.tarjetarojatv.site/webplayer.php?ifr=70&lang=en&lid=70&ci=37&si=1",
             "isHost" : "true"
-                  }, {
+                  },   {
+                     "name": "ESPN Argentina (opc.5) | AR 🇦🇷",
+			"image": "https://i.imgur.com/MFhpD4D.png",
+                    "url": "https://livetvon.click/embed/stream-149.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
 			   "name": "ESPN 2 Argentina (opc.1) | AR 🇦🇷",
              "image": "https://i.imgur.com/jq1s4to.png",
 			"url": "https://bahiadeportes.com/canales/espn2arg.php",
@@ -301,6 +341,12 @@
              "image": "https://i.imgur.com/jq1s4to.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=115&evento=Argentina"
                         }, {
+                               "name": "ESPN 2 Argentina (opc.5) | AR 🇦🇷",
+             "image": "https://i.imgur.com/jq1s4to.png",
+                    "url": "https://livetvon.click/embed/stream-150.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
                   "name": "ESPN 3 Argentina (opc.1) | AR 🇦🇷",
              "image": "https://i.imgur.com/iFqCpKj.png",
                  "url": "https://bahiadeportes.com/canales/espn3arg.php",
@@ -364,6 +410,19 @@
                       "name": "ESPN Deportes Mexico (opc.2) | LAT 🇲🇽",
                         "image": "https://i.imgur.com/cYvji3A.png",
                     "url": "https://livetvon.click/embed/stream-375.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },  {
+                    "name": "EuroSport 1 Spain",
+                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
+                    "url": "https://livetvon.click/embed/stream-524.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "EuroSport 2 Spain",
+                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
+                    "url": "https://livetvon.click/embed/stream-525.php",
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
@@ -450,7 +509,19 @@
 			"url": "https://futbol-tv.online/ver/goltv",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true" }, {
+"embed": "true" },  {
+                    "name": "Gol Spain",
+                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
+                    "url": "https://livetvon.click/embed/stream-530.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },   {
+                    "name": "Movistar Golf Spain",
+                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
+                    "url": "https://livetvon.click/embed/stream-528.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
 			"name": "La Liga Tv Bar (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/82Eb5m0.png",
 	        "url": "https://starlive.xyz/embed.php?id=liveLigaBar",
@@ -523,7 +594,34 @@
         			"url" : "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
             "referer": "https://buzztv.futbol/",
 			"isHost": "true"  
-                 },  {
+                 },    {
+                    "name": "Movistar La Liga 1",
+                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
+                    "url": "https://livetvon.click/embed/stream-538.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "Movistar La Liga 2",
+                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
+                    "url": "https://livetvon.click/embed/stream-539.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "Movistar La Liga 3",
+                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
+                    "url": "https://livetvon.click/embed/stream-540.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "Movistar La Liga",
+                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
+                    "url": "https://livetvon.click/embed/stream-84.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
 			  "name": "Liga de Campeones por M+ (opc.1) | ES 🇪🇸",
                 "image": "https://i.imgur.com/wiLQCUD.png",
         "url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
@@ -544,10 +642,22 @@
                    		  "name": "Liga de Campeones por M+ (opc.4) | ES 🇪🇸",
                 "image": "https://i.imgur.com/wiLQCUD.png",
                         "url": "https://freelive365.nl/player2.php?id=33&code=172&evento=espa%C3%91a"
-                        }, {
+                        },  {
+                    "name": "Real Madrid TV Spain",
+                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
+                    "url": "https://livetvon.click/embed/stream-523.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
                     "name": "Teledeporte TDP (opc.1) | ES 🇪🇸",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png",
                     "url": "https://livetvon.click/embed/stream-529.php",
+                    "isHost": "true"
+                },  {
+                    "name": "Telemundo USA",
+                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
+                    "url": "https://livetvon.click/embed/stream-131.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
 			"name": "Tigo Sports (opc.1) | ",
@@ -610,7 +720,13 @@
                        "name": "TNT Sports Argentina (opc.3) | AR 🇦🇷",
             	 "image": "https://i.imgur.com/TTaCeXw.png",
                         "url": "https://freelive365.nl/player2.php?id=10&code=126&evento=chile"
-                        },  {
+                        }, {
+                    "name": "TNT Sports Argentina",
+                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
+                    "url": "https://livetvon.click/embed/stream-388.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },  {
 			"name": "TUDN USA (opc.1) | MX 🇺🇸",
 			"image": "https://i.imgur.com/hDp5KBz.png",
 			"url": "https://bahiadeportes.com/canales/tudnblim.php",
@@ -643,7 +759,13 @@
                       "name": "TYC Sports (opc.2) | AR 🇦🇷",
 			"image": "https://i.imgur.com/I7Lhgej.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=122&evento=Argentina"
-                        }, {
+                        },  {
+                    "name": "Univision",
+                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
+                    "url": "https://livetvon.click/embed/stream-132.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
 			"name": "VTV Plus (opc.1) | URU 🇺🇾",
              "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png",
 			"url": "https://bahiadeportes.com/canales/vtvplus.php",
