@@ -13,9 +13,15 @@
   
   
  {
-         		"name": "tigo| ES 🇪🇸",
+         		"name": "tigo paraguay | ES 🇪🇸",
 			"image": "https://i.imgur.com/N5mzib9.png",
                  "url": "https://www.telegratishd.com/tigo-sports-paraguay-en-vivo.html",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+         		"name": "tigo bolivia | ES 🇪🇸",
+			"image": "https://i.imgur.com/N5mzib9.png",
+                 "url": "https://www.telegratishd.com/tigo-sports-bolivia-en-vivo.html",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },
