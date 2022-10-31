@@ -12,24 +12,6 @@
   
   
   
-  {
-         		"name": "canal del f | ES 🇪🇸",
-			"image": "https://www.telegratishd.com/gol-peru-en-vivo.html",
-                 "url": "https://cablegratishd.online/ver/ecdf-en-vivo/",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
-         		"name": "cdo ES 🇪🇸",
-			"image": "https://www.telegratishd.com/gol-peru-en-vivo.html",
-                 "url": "https://cablegratishd.online/ver/ecdf-en-vivo/",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, 
-
-
-
-
-
 
 {		
 			"name": "Bein Sport Extra Ñ (opc.1) | LAT 🇲🇽",
@@ -46,7 +28,13 @@
 			"image": "https://i.imgur.com/c4gfwhr.png",
 	   	      "url" :  "https://www.freelive365.net/player2.php?id=2&code=129&evento=United%20States",
 			 "isHost":"true"
-                    }, {
+                    },  {
+         	"name": "CDO Premium (opc.1) | CL 🇨🇱",
+			"image": "https://static.wikia.nocookie.net/logopedia/images/7/7c/CDO_2021.png/revision/latest?cb=20211122020635&path-prefix=es",
+                 "url": "https://cablegratishd.online/ver/ecdf-en-vivo/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
 			"name": "Claro Sports | LAT 🇲🇽",
 			"image": "https://i.imgur.com/BAHebvo.png",
 	        "url": "https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8",
