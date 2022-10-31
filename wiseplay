@@ -36,6 +36,12 @@
                  "url": "https://megatelevisionhd.com/en-vivo/tigo-sports/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
+"embed": "true" },  {
+         		"name": "gol peru 🇪🇸",
+			"image": "https://www.telegratishd.com/gol-peru-en-vivo.html",
+                 "url": "https://www.supertelevisionhd.com/gol-peru-en-vivo/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
 "embed": "true" }, 
 
 
