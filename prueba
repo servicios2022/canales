@@ -7,7 +7,7 @@
 	"info":"RC EVENTOS WISEPLAY",
 	"groups":[
 	    {
-        "name":"CANALES TV DEPORTES",
+        "name":"CANALES español",
         "image": "https://w7.pngwing.com/pngs/54/852/png-transparent-2014-fifa-world-cup-2018-fifa-world-cup-hisense-series-5-football-player-led-tv-television-sport-display-advertising.png",
         "groups":[
                 {
@@ -330,7 +330,7 @@
             ]
 	    },
 	    {
-        "name":"ACESTREAM",
+        "name":ingles",
         "image": "https://e7.pngegg.com/pngimages/185/209/png-clipart-ace-stream-android-application-package-streaming-media-android-television-leaf.png",
         "stations":[
                 {
