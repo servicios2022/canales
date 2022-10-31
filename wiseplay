@@ -130,8 +130,8 @@
                      "url": "https://maxsport.one/dazn3.php",
             "isHost":"true"
                     }, {
-                    "name": "DAZN 4 Spain",
-                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
+                      "name": "DAZN 4 (opc.1) | ES 🇪🇸",
+			"image": "https://i.imgur.com/oXdLRf4.png",
                     "url": "https://livetvon.click/embed/stream-448.php",
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
