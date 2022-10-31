@@ -216,6 +216,12 @@
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
+			   "name": "ECDF | EC 🇪🇨",
+            		 "image": "https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png",
+			"url": "https://futbolfullenvivo.com/ver-channel-el-canal-del-futbol-en-vivo/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
 			    "name": "ESPN Argentina (opc.1) | AR 🇦🇷",
 			"image": "https://i.imgur.com/MFhpD4D.png",
 			"url": "https://bahiadeportes.com/canales/espnarg.php",
