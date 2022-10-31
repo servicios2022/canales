@@ -524,7 +524,13 @@
 			 "url": "https://utopianwilderness.com/embed/vmrjhp94n",
               "referer": "https://starlive.xyz/",
              "isHost": "true"
-                     }, {
+                     },   {
+          	"name": "La Liga Tv Bar (opc.4) | ES 🇪🇸",
+			"image": "https://i.imgur.com/82Eb5m0.png",
+                    "url": "https://livetvon.click/embed/stream-539.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
 			"name": "La Liga Tv por M+ (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/K1p7zVZ.png",
 	        "url": "https://starlive.xyz/embed.php?id=liveLiga",
@@ -582,33 +588,13 @@
             "referer": "https://buzztv.futbol/",
 			"isHost": "true"  
                  },    {
-                    "name": "Movistar La Liga 1",
-                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
+          "name": "La Liga Tv por M+ (opc.11) | ES 🇪🇸",
+			"image": "https://i.imgur.com/K1p7zVZ.png",
                     "url": "https://livetvon.click/embed/stream-538.php",
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },
-                {
-                    "name": "Movistar La Liga 2",
-                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
-                    "url": "https://livetvon.click/embed/stream-539.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "Movistar La Liga 3",
-                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
-                    "url": "https://livetvon.click/embed/stream-540.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "Movistar La Liga",
-                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
-                    "url": "https://livetvon.click/embed/stream-84.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
+                 {
 			  "name": "Liga de Campeones por M+ (opc.1) | ES 🇪🇸",
                 "image": "https://i.imgur.com/wiLQCUD.png",
         "url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
