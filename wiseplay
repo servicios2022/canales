@@ -379,9 +379,15 @@
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=121&evento=Argentina"
                         },  {
-			"name": "Gol Tv Ecuador (opc.2) | EC 🇪🇨",
+			"name": "Gol Tv Ecuador (opc.1) | EC 🇪🇨",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
 			"url": "https://bahiadeportes.com/canales/goltv.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },  {
+			"name": "Gol Peru (opc.1) | PE 🇵🇪",
+			"image": "https://i.imgur.com/xvHtnbT.jpg",
+			"url": "https://futbolfullenvivo.com/ver-channel-gol-peru-en-vivo/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
