@@ -693,11 +693,13 @@
                     "name": "Dazn Liga",
                     "image": "https://www.androidaba.net/wp-content/uploads/2017/05/ACELISTING.png",
                     "url": "fee5612d57824b6e8db780f210ec54093056dc3a"
-                }, {
+                }, 
+		{
                     "name": "GOL TV 1080",
                     "image": "https://www.androidaba.net/wp-content/uploads/2017/05/ACELISTING.png",
                     "url": "acestream://49c35606668ebf7a895434ec4c9243a163d87718"
-                }, {
+                }, 
+		{
                     "name": "LIGA HD",
                     "image": "https://www.androidaba.net/wp-content/uploads/2017/05/ACELISTING.png",
                     "url": "acestream://3d783550706c36af82b5dc053bbf4170173da4c2"
@@ -771,7 +773,8 @@
                     "name": "M LaLiga",
                     "image": "https://www.androidaba.net/wp-content/uploads/2017/05/ACELISTING.png",
                     "url": "acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175"
-                },   {
+                },  
+		{
                     "name": "ML Campeones 1080",
                     "image": "https://www.androidaba.net/wp-content/uploads/2017/05/ACELISTING.png",
                     "url": "acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b "
@@ -805,7 +808,8 @@
                     "name": "ML Campeones 720",
                     "image": "https://www.androidaba.net/wp-content/uploads/2017/05/ACELISTING.png",
                     "url": "acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d"
-                },   {
+                },  
+		{
                     "name": "TDP 1080",
                     "image": "https://www.androidaba.net/wp-content/uploads/2017/05/ACELISTING.png",
                     "url": "acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535"
@@ -819,7 +823,8 @@
                     "name": "Vamos 720",
                     "image": "https://www.androidaba.net/wp-content/uploads/2017/05/ACELISTING.png",
                     "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
-                },   {
+                },  
+		{
                     "name": "#VAMOS 1080",
                     "image": "https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png",
                     "url": "acestream://069431a1199eb2545a14c0a724095e57bdc58e9c"
@@ -833,7 +838,8 @@
                     "name": "#VAMOS HD",
                     "image": "https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png",
                     "url": "acestream://87a043de5d4cd60c731bc00d09f13bad8d882164"
-                }, {
+                },
+		{
                     "name": "DAZN 1 1080",
                     "image": "https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png",
                     "url": "acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05"
@@ -912,7 +918,9 @@
                     "name": "DIRECTV ECUADOR",
                     "image": "https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png",
                     "url": "acestream://f3f14b89eb62839f97153593432370b5bd61a5df"
-                },     "name": "ESPN 2 URUGUAY",
+                },     
+		{
+		    "name": "ESPN 2 URUGUAY",
                     "image": "https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png",
                     "url": "acestream://e40b29774fdfd953751a71f5695f647726623b9d"
                 },
