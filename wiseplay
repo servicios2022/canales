@@ -1806,13 +1806,6 @@
                     "isHost": "true"
                 },
                 {
-                    "name": "beIN SPORTS en Español",
-                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
-                    "url": "https://livetvon.click/embed/stream-372.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
                     "name": "tru TV",
                     "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
                     "url": "https://livetvon.click/embed/stream-341.php",
