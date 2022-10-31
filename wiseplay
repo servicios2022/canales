@@ -10,14 +10,6 @@
   "stations": [ 
   
   
-  
-   {
-         	"name": "gol (opc.1) | CL 🇨🇱",
-			"image": "https://static.wikia.nocookie.net/logopedia/images/7/7c/CDO_2021.png/revision/latest?cb=20211122020635&path-prefix=es",
-                 "url": "https://www.telegratishd.com/gol-peru-en-vivo.html",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" },
 
 {		
 			"name": "Bein Sport Extra Ñ (opc.1) | LAT 🇲🇽",
@@ -37,7 +29,7 @@
                     },  {
          	"name": "CDO Premium (opc.1) | CL 🇨🇱",
 			"image": "https://static.wikia.nocookie.net/logopedia/images/7/7c/CDO_2021.png/revision/latest?cb=20211122020635&path-prefix=es",
-                 "url": "https://cablegratishd.online/ver/ecdf-en-vivo/",
+                 "url": https://megatelevisionhd.com/en-vivo/cdo-premium/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
@@ -221,12 +213,6 @@
 			   "name": "Direct Tv Sports Fight | AR 🇦🇷",
             		 "image": "https://i.imgur.com/WXDmOu1.png",
 			"url": "https://bahiadeportes.com/canales/dtvsportsfight.php",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" },  {
-         		   "name": "ECDF (opc.1) | EC 🇪🇨",
-			"image": "https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png",
-                 "url": "https://cablegratishd.online/ver/ecdf-en-vivo/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
