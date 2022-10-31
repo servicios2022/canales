@@ -501,7 +501,13 @@
                     "url": "https://livetvon.click/embed/stream-529.php",
                     "isHost": "true"
                 }, {
-			"name": "Tigo Sports",
+			"name": "Tigo Sports (opc.1) | ",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png",
+			"url": "https://megatelevisionhd.com/en-vivo/tigo-sports/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+			"name": "Tigo Sports (opc.2) | ",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png",
 			"url": "https://futbollibre.net/en-vivo/tigo-sports/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
