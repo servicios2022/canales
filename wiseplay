@@ -12,13 +12,7 @@
   
   
   
- {
-         		"name": "tnt | ES 🇪🇸",
-			"image": "https://www.telegratishd.com/gol-peru-en-vivo.html",
-                 "url": "https://futboltv.live/v/tnt-sports-hd-en-vivo/",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" },  {
+  {
          		"name": "canal del f | ES 🇪🇸",
 			"image": "https://www.telegratishd.com/gol-peru-en-vivo.html",
                  "url": "https://cablegratishd.online/ver/ecdf-en-vivo/",
@@ -233,6 +227,12 @@
 			   "name": "Direct Tv Sports Fight | AR 🇦🇷",
             		 "image": "https://i.imgur.com/WXDmOu1.png",
 			"url": "https://bahiadeportes.com/canales/dtvsportsfight.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },  {
+         		   "name": "ECDF (opc.1) | EC 🇪🇨",
+			"image": "https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png",
+                 "url": "https://cablegratishd.online/ver/ecdf-en-vivo/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
@@ -521,14 +521,20 @@
 			"url": "https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
+"embed": "true" },  {
+         		"name": "TNT Sports Chile (opc.4) | CL 🇨🇱",
+			"image": "https://i.imgur.com/TTaCeXw.png",
+                 "url": "https://futboltv.live/v/tnt-sports-hd-en-vivo/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
 "embed": "true" }, {
-			"name": "TNT Sports Chile (opc.4) | CL 🇨🇱",
+			"name": "TNT Sports Chile (opc.5) | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
            	 "url": "https://www.supertelevisionhd.com/cdf-premium-hd/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
-                        "name": "TNT Sports Chile (opc.5) | CL 🇨🇱",
+                        "name": "TNT Sports Chile (opc.6) | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
                         "url": "https://tvrojadirecta.info/cdf.php#",
                         "isHost": "true"
