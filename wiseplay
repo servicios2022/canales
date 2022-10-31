@@ -9,7 +9,12 @@
     
   "stations": [ 
   
- 
+ {		
+			"name": "tigo(opc.1) | LAT 🇲🇽",
+			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
+	   	     "url": "https://futbollibre.net/en-vivo/tigo-sports/",
+			"userAgent" : ""
+                    },
 
 {		
 			"name": "Bein Sport Extra Ñ (opc.1) | LAT 🇲🇽",
