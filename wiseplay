@@ -522,24 +522,18 @@
 "embed": "true" }, {
 			"name": "TUDN USA (opc.1) | MX 🇺🇸",
 			"image": "https://i.imgur.com/hDp5KBz.png",
-			"url": "https://bahiadeportes.com/canales/tudnusa.php",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
-			"name": "TUDN USA (opc.2) | MX 🇺🇸",
-			"image": "https://i.imgur.com/hDp5KBz.png",
 			"url":"http://54.39.19.162:8081/live/dream1/playlist.m3u8",
 	                "userAgent": ""
         },   {
-                   "name": "TUDN USA (opc.3) | MX 🇺🇸",
+                   "name": "TUDN USA (opc.2) | MX 🇺🇸",
 			"image": "https://i.imgur.com/hDp5KBz.png",
                         "url": "https://freelive365.nl/player2.php?id=11&code=132&evento=Mexico"
                         },  {
-                     "name": "TUDN USA (opc.4) | MX 🇺🇸",
+                     "name": "TUDN USA (opc.3) | MX 🇺🇸",
 			"image": "https://i.imgur.com/hDp5KBz.png",
                         "url": "https://v4.sportsonline.to/channels/hd/hd6.php"
                         },  {
-                   "name": "TUDN USA (opc.5) | MX 🇺🇸",
+                   "name": "TUDN USA (opc.4) | MX 🇺🇸",
 			"image": "https://i.imgur.com/hDp5KBz.png",
                         "url": "https://livetvon.click/embed/stream-66.php"
                         }, {
