@@ -9,12 +9,7 @@
     
   "stations": [ 
   
- {		
-			"name": "tigo(opc.1) | LAT 🇲🇽",
-			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
-	   	     "url": "https://futbollibre.net/en-vivo/tigo-sports/",
-			"userAgent" : ""
-                    },
+ 
 
 {		
 			"name": "Bein Sport Extra Ñ (opc.1) | LAT 🇲🇽",
@@ -506,6 +501,12 @@
                     "url": "https://livetvon.click/embed/stream-529.php",
                     "isHost": "true"
                 }, {
+			"name": "Tigo Sports",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png",
+			"url": "https://futbollibre.net/en-vivo/tigo-sports/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
 			"name": "TNT Sports Chile (opc.1) | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url": "https://bahiadeportes.com/canales/tntsportschile.php",
