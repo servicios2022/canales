@@ -209,41 +209,41 @@
                        	"name": "Deportes por M+ (opc.3) | ES 🇪🇸",
 			"image": "https://i.imgur.com/OJqxHKo.png",
                         "url": "https://freelive365.nl/player2.php?id=33&code=177&evento=espa%C3%91a"
-                        },    {
-                    "name": "Movistar Deportes 1 Spain",
-                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
-                    "url": "https://livetvon.click/embed/stream-437.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "Movistar Deportes 2 Spain",
-                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
-                    "url": "https://livetvon.click/embed/stream-438.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "Movistar Deportes 3",
-                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
-                    "url": "https://livetvon.click/embed/stream-526.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "Movistar Deportes 4",
-                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
-                    "url": "https://livetvon.click/embed/stream-527.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "Movistar Deportes Spain",
+                        },     {
+                  	"name": "Deportes por M+ (opc.4) | ES 🇪🇸",
                     "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
                     "url": "https://livetvon.click/embed/stream-436.php",
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
+                   	"name": "Deportes por M+ 1 | ES 🇪🇸",
+			"image": "https://i.imgur.com/OJqxHKo.png",
+                    "url": "https://livetvon.click/embed/stream-437.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+ 	"name": "Deportes por M+ 2 | ES 🇪🇸",
+			"image": "https://i.imgur.com/OJqxHKo.png",
+                    "url": "https://livetvon.click/embed/stream-438.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+     	"name": "Deportes por M+ 3 | ES 🇪🇸",
+			"image": "https://i.imgur.com/OJqxHKo.png",
+                    "url": "https://livetvon.click/embed/stream-526.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+            	"name": "Deportes por M+ 4 | ES 🇪🇸",
+			"image": "https://i.imgur.com/OJqxHKo.png",
+                    "url": "https://livetvon.click/embed/stream-527.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+               {
                  "name": "Direct Tv Sports (opc.1) | AR 🇦🇷",
           	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
                  "url": "https://bahiadeportes.com/canales/directvsports.php",
