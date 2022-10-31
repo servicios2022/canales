@@ -15,6 +15,17 @@
 	   	     "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8",
 			"userAgent" : ""
                     }, {
+                                    "name": "00:00 Cobresal vs Palestino",
+                                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
+                                    "url": "https://www.intergolestv.info/Television/canal32.html",
+                                    "isHost": "true"
+                                },
+                                {
+                                    "name": "00:00 Cobresal vs Palestino",
+                                    "image": "https://e7.pngegg.com/pngimages/159/485/png-clipart-silver-play-button-circle-divx-media-media-player-thumbnail.png",
+                                    "url": "https://www.intergolestv.info/Television/canal83.html",
+                                    "isHost": "true"
+                                }, {
 			"name": "Bein Sport Ñ | LAT 🇲🇽",
 			"image": "https://i.imgur.com/c4gfwhr.png",
 	   	      "url" :  "https://www.freelive365.net/player2.php?id=2&code=129&evento=United%20States",
