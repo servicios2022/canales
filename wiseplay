@@ -396,6 +396,12 @@
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
+                         "name": "ESPN 3 Mexico | LAT 🇲🇽",
+             "image": "https://i.imgur.com/iFqCpKj.png",
+                      "url": "https://bahiadeportes.com/canales/espn3-2.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
                           "name": "ESPN Deportes Mexico (opc.1) | LAT 🇲🇽",
                         "image": "https://i.imgur.com/cYvji3A.png",
                         "url": "https://freelive365.nl/player2.php?id=11&code=130&evento=Mexico"
