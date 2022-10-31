@@ -5,11 +5,11 @@
 "url": "https://raw.githubusercontent.com/servicios2022/canales/main/prueba",
 	"groups":[
 	    {
-        "name":"CANALES español",
+        "name":"deportes en español",
         "image": "https://w7.pngwing.com/pngs/54/852/png-transparent-2014-fifa-world-cup-2018-fifa-world-cup-hisense-series-5-football-player-led-tv-television-sport-display-advertising.png",
         "groups":[
                 {
-                "name":"ESPAÑA",
+                "name":"españa",
                 "image": "https://w7.pngwing.com/pngs/730/661/png-transparent-flag-of-mexico-graphy-mexico-miscellaneous-flag-flag-of-the-united-states.png",
                 "stations":[
                         {
@@ -44,186 +44,9 @@
                         }
                     ]
                 },
+               
                 {
-                "name":"REINO UNIDO",
-                "image": "https://www.buscopng.com/wp-content/uploads/2020/09/Bandera-circular-de-Reino-Unido.png",
-                "stations":[
-                        {
-                        "name": "BT SPORT 1",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=1&code=73&evento=United%20Kingdom"
-                        },
-                        {
-                        "name": "BT SPORT 2",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=1&code=74&evento=United%20Kingdom"
-                        },
-                        {
-                        "name": "BT SPORT 3",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=1&code=75&evento=United%20Kingdom"
-                        },
-                        {
-                        "name": "BT SPORT ESPN",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=1&code=76&evento=United%20Kingdom"
-                        },
-                        {
-                        "name": "SKY SPORTS MAIN EVEN",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=1&code=77&evento=United%20Kingdom"
-                        },
-                        {
-                        "name": "SKY SPORTS FOOTBALL",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=1&code=78&evento=United%20Kingdom"
-                        },
-                        {
-                        "name": "SKY SPORTS PL",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=1&code=79&evento=United%20Kingdom"
-                        },
-                        {
-                        "name": "SKY SPORTS F1",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=1&code=83&evento=United%20Kingdom"
-                        },
-                        {
-                        "name": "EUROSPORTS 1",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=1&code=84&evento=United%20Kingdom"
-                        },
-                        {
-                        "name": "PREMEIR SPORTS 1",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=1&code=85&evento=United%20Kingdom"
-                        },
-                        {
-                        "name": "PREMEIR SPORTS 2",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=1&code=86&evento=United%20Kingdom"
-                        }
-                    ]
-                },
-                {
-                "name":"ESTADOS UNIDOS ",
-                "image": "https://www.buscopng.com/wp-content/uploads/2020/09/Bandera-circular-de-Estados-Unidos.png",
-                "stations":[
-                        {
-                        "name": "ESPN",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=7&code=89&evento=United%20States"
-                        },
-                        {
-                        "name": "ESPN 2",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=2&code=90&evento=United%20States"
-                        },
-                        {
-                        "name": "NBCSN",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=2&code=91&evento=United%20States"
-                        },
-                        {
-                        "name": "BEIN SPORTS (ENGLISH)",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=2&code=92&evento=United%20States"
-                        },
-                        {
-                        "name": "BEIN Ñ",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=2&code=129&evento=United%20States"
-                        },
-                        {
-                        "name": "UFC FIGHT NIGHT PASS",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=2&code=156&evento=United%20States"
-                        },
-                        {
-                        "name": "GOL TV (ES)",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=2&code=158&evento=United%20States"
-                        },
-                        {
-                        "name": "WWE NETWORK",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=2&code=165&evento=United%20States"
-                        },
-                        {
-                        "name": "NBC UNIVERSO",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=2&code=170&evento=United%20States"
-                        }
-                    ]
-                },
-                {
-                "name":"SUDAFRICA",
-                "image": "https://www.buscopng.com/wp-content/uploads/2020/09/Bandera-circular-de-Sudafrica.png",
-                "stations":[
-                        {
-                        "name": "SUPERSPORTS GRANDSTA",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=3&code=103&evento=South%20Africa"
-                        },
-                        {
-                        "name": "SUPERSPORTS ACTION",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=3&code=104&evento=South%20Africa"
-                        },
-                        {
-                        "name": "SUPERSPORTS TENNIS",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=3&code=105&evento=South%20Africa"
-                        },
-                        {
-                        "name": "SUPERSPORTS FOOTBALL",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=9&code=106&evento=South%20Africa"
-                        },
-                        {
-                        "name": "SUPERSPORTS PREMIER",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=3&code=107&evento=South%20Africa"
-                        },
-                        {
-                        "name": "SUPERSPORTS MAXIMO 1",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=3&code=108&evento=South%20Africa"
-                        },
-                        {
-                        "name": "SUPERSPORTS VARIETY 1",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=9&code=109&evento=South%20Africa"
-                        },
-                        {
-                        "name": "SUPERSPORTS VARIETY 2",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=3&code=110&evento=South%20Africa"
-                        },
-                        {
-                        "name": "SUPERSPORTS VARIETY 3",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=3&code=111&evento=South%20Africa"
-                        },
-                        {
-                        "name": "SUPERSPORTS VARIETY 4",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=3&code=112&evento=South%20Africa"
-                        },
-                        {
-                        "name": "SUPERSPORTS LALIGA",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=3&code=113&evento=South%20Africa"
-                        },
-                        {
-                        "name": "SUPERSPORTS MOTORSPORT",
-                        "image": "https://images.vexels.com/media/users/3/239400/isolated/preview/21c02204bf58c27a09914cd9d7b43570-inicioiconos-notebookdoodle-25.png",
-                        "url": "https://freelive365.nl/player2.php?id=3&code=164&evento=South%20Africa"
-                        }
-                    ]
-                },
-                {
-                "name":"MEXICO",
+                "name":"latinos",
                 "image": "https://w7.pngwing.com/pngs/730/661/png-transparent-flag-of-mexico-graphy-mexico-miscellaneous-flag-flag-of-the-united-states.png",
                 "stations":[
                         {
@@ -246,7 +69,7 @@
             ]
 	    },
 	    {
-        "name":ingles",
+        "name":"deportes en ingles",
         "image": "https://e7.pngegg.com/pngimages/185/209/png-clipart-ace-stream-android-application-package-streaming-media-android-television-leaf.png",
         "stations":[
                 {
