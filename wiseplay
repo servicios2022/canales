@@ -19,7 +19,25 @@
             	    "image": "https://i.imgur.com/c4gfwhr.png",
 		    "url": "https://livetvon.click/embed/stream-372.php",
                     "isHost": "true"
-                }, {
+                },
+		
+		
+		{
+      		    "name": "Bein Sport Ñ (opc.33) | LAT 🇲🇽",
+            	    "image": "https://i.imgur.com/c4gfwhr.png",
+		    "url": "https://www.futbolgratis.online/p/tnt-sports-chile-en-vivo.html",
+                    "isHost": "true"
+                },	{
+      		    "name": "Bein Sport Ñ (opc.34) | LAT 🇲🇽",
+            	    "image": "https://i.imgur.com/c4gfwhr.png",
+		    "url": "https://www.futbolgratis.online/p/bein-sports-en-vivo.html",
+                    "isHost": "true"
+                },	
+		
+		
+		
+		
+		{
 			"name": "Bein Sport Ñ (opc.2) | LAT 🇲🇽",
 			"image": "https://i.imgur.com/c4gfwhr.png",
 	   	      "url" :  "https://www.freelive365.net/player2.php?id=2&code=129&evento=United%20States",
