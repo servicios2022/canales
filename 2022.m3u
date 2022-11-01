@@ -1627,24 +1627,25 @@ https://sv.spliktv.xyz/live/caster/CL/LARED.m3u8
 https://oracle.streaminghd.cl/llaullaotv/llaullaotv/playlist.m3u8
 
 
+
 #EXTINF:-1 tvg-id="1" tvg-name="Rewind Radio y TV" tvg-logo="https://i2.paste.pics/02c63dfaaf621ab897fbddd3e4666a33.png" group-title="CHILE", Rewind Radio y TV * | CL
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="7" tvg-name="Toca Hits" tvg-logo="https://i2.paste.pics/a49dfcb76b5d0413f88658b1a8b2716f.png" group-title="CHILE", Toca Hits * | CL
-https://mix247.ml:444/TocaHits/Top100Mix24-7/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="13" tvg-name="Ruidos TV" tvg-logo="https://i2.paste.pics/004835d0c1a19dd14fa643dd18897d4d.png" group-title="CHILE", Ruidos TV * | CL
-https://593b04c4c5670.streamlock.net/8038/8038/playlist.m3u8?PlaylistM3UCL
+https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1195" tvg-name="La Chilena TV" tvg-logo="https://i2.paste.pics/8c05e352159b95f3dc0092a6149b3daf.png" group-title="CHILE", La Chilena TV * | CL
 https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1058" tvg-name="Spectrum Channel" tvg-logo="https://i2.paste.pics/8e7293ed71d91aac5719c797af4ff208.png" group-title="CHILE", Spectrum Channel * | CL
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Señal 1" tvg-logo="https://i2.paste.pics/6e12320dbdc58fc4ae26350c244f72af.png" group-title="CHILE", EnerGeek Señal 1 * | CL
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8?PlaylistM3UCL
+https://stream.wifispeed.cl:3103/live/energeek1live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1112" tvg-name="Energeek Señal 2" tvg-logo="https://i2.paste.pics/ec9a99d22c4dd4a38c9af9c016019d88.png" group-title="CHILE", Energeek Señal 2 * | CL
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8?PlaylistM3UCL
+https://stream.wifispeed.cl:3247/live/energeek2live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1230" tvg-name="EnerGeek Señal 3" tvg-logo="https://i2.paste.pics/2bf75a344d4cf7c2530247f14e101d84.png" group-title="CHILE", EnerGeek Señal 3 * | CL
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1085" tvg-name="Control.VG" tvg-logo="https://i2.paste.pics/b7451f5e0cacde5e936c5ab3ee2d0deb.png" group-title="CHILE", Control.VG * | CL
-https://tls-cl.cdnz.cl/onradio-5/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1269" tvg-name="EnerGeek Señal 4" tvg-logo="https://i2.paste.pics/256571eecddd2c7e0156fc340b900787.png" group-title="CHILE", EnerGeek Señal 4 * | CL
+https://live.tubyte.xyz/LiveApp/streams/531839509402196773557900.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1266" tvg-name="EnerGeek Radio" tvg-logo="https://i2.paste.pics/cb6d3df7e55e32e5c786962a1fa742cd.png" group-title="CHILE", EnerGeek Radio * | CL
+https://streamtest.energeek.cl/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="26" tvg-name="RCKTV" tvg-logo="https://i2.paste.pics/b4e09c1315da8b38ccb2e308519cbda1.png" group-title="CHILE", RCKTV * | CL
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="CHILE", Retro Plus TV * | CL
@@ -1663,6 +1664,28 @@ https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?Playlist
 https://scl.edge.grupoz.cl/music/live/music.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1016" tvg-name="PlanetaTV Movies" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="CHILE", PlanetaTV Movies * | CL
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1298" tvg-name="TV3" tvg-logo="https://i2.paste.pics/8a7a99e1b5860be23282ab5849063d4e.png" group-title="CHILE", TV3 * | CL
+https://app.viloud.tv/hls/channel/218dd4a6fed494b0f428181eb53957ab.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1293" tvg-name="TVM" tvg-logo="https://i2.paste.pics/46d2ec568b713450ec11771e49f2dfdf.png" group-title="CHILE", TVM * | CL
+https://oracle.streaminghd.cl/tvmcercadeti/tvmcercadeti/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1292" tvg-name="EmilioVisión TV" tvg-logo="https://i2.paste.pics/c7f7edc12c2e2cc4a82a1ae812e2b92f.png" group-title="CHILE", EmilioVisión TV * | CL
+https://cablemor.andremor.dev/live/emiliovisiontv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1288" tvg-name="Suyai TV" tvg-logo="https://i2.paste.pics/e2924ada84b3f7e229cb483f0787444a.png" group-title="CHILE", Suyai TV * | CL
+https://videostreaming.cloudserverlatam.com/nfgumujmxv/nfgumujmxv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1294" tvg-name="TP1" tvg-logo="https://i2.paste.pics/75e4bf44c48cad2c7e60ec154efa7196.png" group-title="CHILE", TP1 * | CL
+https://cablemor.andremor.dev/live/tp1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1287" tvg-name="CDR" tvg-logo="https://i2.paste.pics/bd867f1a431411c9720ec246807ade49.png" group-title="CHILE", CDR * | CL
+https://tv.streaming-chile.com:19360/mescibar/mescibar.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1284" tvg-name="Autonoma Radio" tvg-logo="https://i2.paste.pics/ab3b4f72e0708cab3f568772f2f6bcac.png" group-title="CHILE", Autonoma Radio * | CL
+https://stream.wifispeed.cl:3033/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1283" tvg-name="Cloud TV Plus" tvg-logo="https://i2.paste.pics/298f449b97c123292ec4d3a73ef1cfe5.png" group-title="CHILE", Cloud TV Plus * | CL
+https://videostreaming.cloudserverlatam.com:443/cloudtvplus/cloudtvplus/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1282" tvg-name="Galactika Media" tvg-logo="https://i2.paste.pics/334ded887e14d80c7f01e985aa2e521a.png" group-title="CHILE", Galactika Media * | CL
+https://oracle.streaminghd.cl/galactika/galactika/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1281" tvg-name="Caldera Vision TV" tvg-logo="https://i2.paste.pics/858141c7c41b39c658df61aae68aee83.png" group-title="CHILE", Caldera Vision TV * | CL
+https://vdo.miserver.pro:3475/live/calderavisionlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1261" tvg-name="Radio FM Kitsch" tvg-logo="https://i2.paste.pics/d92601c17e8fdec1c35a50d4570c51fe.png" group-title="CHILE", Radio FM Kitsch * | CL
+https://mediacp2.mistreamingtv.uno:19360/fmkitschtv/fmkitschtv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1253" tvg-name="El Tipografo" tvg-logo="https://i2.paste.pics/4df8ca35af0bfce1985b33b930990505.png" group-title="CHILE", El Tipografo * | CL
 http://live.mundogo.cl/mundo/Tipografo/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1250" tvg-name="Nueva Region TV" tvg-logo="https://i2.paste.pics/6eeeac8e90c540f2462704788bb4db1d.png" group-title="CHILE", Nueva Region TV * | CL
@@ -1683,8 +1706,6 @@ https://Stmv1.zcastbr.com/lofchile/lofchile/playlist.m3u8?PlaylistM3UCL
 https://tv.streaming-chile.com:19360/origentv/origentv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1231" tvg-name="Canal Local" tvg-logo="https://i2.paste.pics/b06a3259d7f1a9883bc755647b2ad1bd.png" group-title="CHILE", Canal Local * | CL
 http://live.mundogo.cl/mundo/Canallocalquillota/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1199" tvg-name="D13" tvg-logo="https://i2.paste.pics/21803adf68e4ed46e638156868973edd.png" group-title="CHILE", D13 * | CL
-https://unlimited2-cl-isp.dps.live/13d/13d.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1181" tvg-name="Freestyledjs" tvg-logo="https://i2.paste.pics/d7192184924772147bbeed4fffde3680.png" group-title="CHILE", Freestyledjs * | CL
 https://paneltv.online:1936/8178/8178/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1172" tvg-name="Radio Q" tvg-logo="https://i2.paste.pics/36610b128075b57027afdf3e49842a97.png" group-title="CHILE", Radio Q * | CL
@@ -1693,18 +1714,10 @@ https://panel.miplay.cl:8081/radioq/index.m3u8?PlaylistM3UCL
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1148" tvg-name="Juntos TV" tvg-logo="https://i2.paste.pics/dbcff546ed8bc477680ebbb04bc2ddeb.png" group-title="CHILE", Juntos TV * | CL
 https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1142" tvg-name="Liceo Bicentenario Politecnico Caupolican TV" tvg-logo="https://i2.paste.pics/9e7041dd739f29c540a9f5b189cc0235.png" group-title="CHILE", Liceo Bicentenario Politecnico Caupolican TV * | CL
-https://stmv2.voxtvhd.com.br/liceobicentenario/liceobicentenario/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1007" tvg-name="LEA TV" tvg-logo="https://i2.paste.pics/34bcff80c8c4278843b92514db87ab15.png" group-title="CHILE", LEA TV * | CL
-https://vdohd.cl:1936/8046/8046/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1128" tvg-name="Solobailalo TV" tvg-logo="https://i2.paste.pics/d96b857f73a9ce281cdef4e11766eddd.png" group-title="CHILE", Solobailalo TV * | CL
 https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1135" tvg-name="Marca TV" tvg-logo="https://i2.paste.pics/59dd442e8c5b45bbbb50f7009a141413.png" group-title="CHILE", Marca TV * | CL
-https://vdo.asdmedios.cl:3773/live/marcafmlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1111" tvg-name="Canal Turismo Travel TV" tvg-logo="https://i2.paste.pics/50d8cde45e0c3efff3bc3fb05c5da6d1.png" group-title="CHILE", Canal Turismo Travel TV * | CL
-https://srv.panelcast.net/traveltv/traveltv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1098" tvg-name="CRTV" tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png" group-title="CHILE", CRTV * | CL
-https://srv.panelcast.net/crtv/crtv/playlist.m3u8?PlaylistM3UCL
+https://vdo.panelstreaming.live:3540/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1087" tvg-name="Opinionsur TV" tvg-logo="https://i2.paste.pics/bbb0373472ad737d7f75d40d9c3d1839.png" group-title="CHILE", Opinionsur TV * | CL
 https://mediacpstreamchile.com:1936/opinionsur/opinionsur/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1074" tvg-name="Eva Retro" tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png" group-title="CHILE", Eva Retro * | CL
@@ -1714,25 +1727,27 @@ https://mediacpstreamchile.com:1936/nexotv/nexotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="432" tvg-name="HiperTV" tvg-logo="https://lh3.googleusercontent.com/-YUlLyA8Pk7Y/X5n9AMtVNNI/AAAAAAAA61E/UkiOjRsCTWMa94h4g35uC424D4E_wU_2gCK8BGAsYHg/s0/2020-10-28.png" group-title="CHILE", HiperTV * | CL
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1005" tvg-name="Onda Radio TV" tvg-logo="https://i2.paste.pics/3dfe5a972a3e189325eeb30759bbcdcd.png" group-title="CHILE", Onda Radio TV * | CL
-https://tv.streaming-chile.com:19360/ondaradio/ondaradio.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="47" tvg-name="CSTV" tvg-logo="https://i2.paste.pics/34feb14ad3ee6a17a160ab0635915bf0.png" group-title="CHILE", CSTV * | CL
-https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://i2.paste.pics/363bdf769b4b91716d6ebb6db72d1d4b.png" group-title="CHILE", Chavo TV * | CL
-https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
+https://tv.streaming-chile.com:1936/ondaradio/ondaradio/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="46" tvg-name="El Chavo Plus" tvg-logo="https://i2.paste.pics/a78f72eb025464f327c8628a20cc4811.png" group-title="CHILE", El Chavo Plus * | CL
+https://videostreaming.cloudserverlatam.com:443/elchavoplus/elchavoplus/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="433" tvg-name="Solo Stand Up" tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png" group-title="CHILE", Solo Stand Up * | CL
 https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1015" tvg-name="PlanetaTV Kids" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="CHILE", PlanetaTV Kids * | CL
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1205" tvg-name="Viwix TV Terror" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="CHILE", Viwix TV Terror * | CL
-https://cloudvideo.servers10.com:8081/8206/index.m3u8?PlaylistM3UCL
+https://s2.tvdatta.com:3849/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1206" tvg-name="Viwix TV Series" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="CHILE", Viwix TV Series * | CL
-https://cloudvideo.servers10.com:8081/8208/index.m3u8?PlaylistM3UCL
+https://s2.tvdatta.com:3402/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1207" tvg-name="Viwix TV Accion" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="CHILE", Viwix TV Accion * | CL
-https://cloudvideo.servers10.com:8081/8128/index.m3u8?PlaylistM3UCL
+https://s2.tvdatta.com:3457/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1209" tvg-name="Viwix TV Estrenos" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="CHILE", Viwix TV Estrenos * | CL
-https://cloudvideo.servers10.com:8081/8212/index.m3u8?PlaylistM3UCL
+https://s2.tvdatta.com:3172/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1208" tvg-name="Viwix TV Music" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="CHILE", Viwix TV Music * | CL
-https://cloudvideo.servers10.com:8081/8210/index.m3u8?PlaylistM3UCL
+https://s2.tvdatta.com:3548/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1142" tvg-name="Liceo Bicentenario Politecnico Caupolican TV" tvg-logo="https://i2.paste.pics/9e7041dd739f29c540a9f5b189cc0235.png" group-title="CHILE", Liceo Bicentenario Politecnico Caupolican TV | CL
+https://stmv2.voxtvhd.com.br/liceobicentenario/liceobicentenario/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1111" tvg-name="Canal Turismo Travel TV" tvg-logo="https://i2.paste.pics/50d8cde45e0c3efff3bc3fb05c5da6d1.png" group-title="CHILE", Canal Turismo Travel TV | CL
+https://srv.panelcast.net/traveltv/traveltv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1229" tvg-name="Macarena FM" tvg-logo="https://i2.paste.pics/c1462d513ed7e5b049d338693366ff29.png" group-title="CHILE", Macarena FM | CL
 https://5ff3d9babae13.streamlock.net:443/8042/8042/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1175" tvg-name="TV Hits" tvg-logo="https://i2.paste.pics/e1258cbc0dc7db659d1cd804226f4d69.png" group-title="CHILE", TV Hits | CL
@@ -1745,6 +1760,8 @@ https://makestreaming.online:3061/hybrid/play.m3u8?PlaylistM3UCL
 https://5eff35271151c.streamlock.net:1936/8150/8150/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1141" tvg-name="Estudio TV" tvg-logo="https://i2.paste.pics/5b659c86fa4c47f9a6b71677e4698fd5.png" group-title="CHILE", Estudio TV | CL
 https://mediacpstreamchile.com:1936/hugomendez/hugomendez/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1079" tvg-name="Goodstock Radio" tvg-logo="https://i2.paste.pics/86a3502ed656592af8e5adf17e8498ca.png" group-title="CHILE", Goodstock Radio | CL
+https://live.tvcontrolcp.com:1936/goodstock/goodstock/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1020" tvg-name="Caracola TV" tvg-logo="https://i2.paste.pics/1c5801e48a6cf804950bd1ce5e78a303.png" group-title="CHILE", Caracola TV | CL
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1163" tvg-name="YungayOnline" tvg-logo="https://i2.paste.pics/2f5a5c317d9813f9d83b71e9b1a1c9a9.png" group-title="CHILE", YungayOnline | CL
@@ -1768,7 +1785,7 @@ https://unlimited2-cl-isp.dps.live/etctv/etctv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="45" tvg-name="NTV" tvg-logo="https://i2.paste.pics/49116db7b95befdabb207ccbd2bb94b6.png" group-title="CHILE", NTV | CL
 https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="66" tvg-name="Pichilemu TV" tvg-logo="https://lh3.googleusercontent.com/-cLe1X-6sOWM/XqtZ-zhsGYI/AAAAAAAAydY/AFIEb1ZL-HEceewpnqr3m9QxC3_3_KzIwCK8BGAsYHg/s0/2020-04-30.png" group-title="CHILE", Pichilemu TV | CL
-https://oracle.streaminghd.cl/roberto886/roberto886/playlist.m3u8?PlaylistM3UCL
+https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="967" tvg-name="Quillayino TV" tvg-logo="https://i2.paste.pics/e62da6123a4ac3e7a3d21580d051e283.png" group-title="CHILE", Quillayino TV | CL
 https://videostreaming.cloudserverlatam.com:443/ucekskgnhn/ucekskgnhn/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="65" tvg-name="El 3 de Conce" tvg-logo="https://lh3.googleusercontent.com/--o0_vpNuzz4/XqsNGuGSUEI/AAAAAAAAyck/t0v8luwsOWAEbNMHeaIvlrVCQrYyXLJXwCK8BGAsYHg/s0/2020-04-30.png" group-title="CHILE", El 3 de Conce | CL
@@ -1787,6 +1804,34 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1243" tvg-name="TVMas2" tvg-logo="https://i2.paste.pics/f37083fc717ad290191a24b61ee7eec7.png" group-title="CHILE", TVMas2 | CL
 https://marine2.miplay.cl/tateti/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="452" tvg-name="TVN" tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png" group-title="CHILE", TVN | CL
+https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="453" tvg-name="TVN - 24h" tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png" group-title="CHILE", TVN - 24h | CL
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="454" tvg-name="TVN - Reuters" tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png" group-title="CHILE", TVN - Reuters | CL
+https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png" group-title="CHILE", Mega | CL
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1232" tvg-name="CHV Contigo" tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png" group-title="CHILE", CHV Contigo | CL
+https://siloh-latam-aka.plutotv.net/lilo/production/ChileVisionContigo/VE/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="456" tvg-name="CHV" tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png" group-title="CHILE", CHV | CL
+https://marine2.miplay.cl/chv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="457" tvg-name="Canal 13" tvg-logo="https://lh3.googleusercontent.com/-lTPRVsTnfaY/XlMLxy_VhII/AAAAAAAAwZs/TNUiwtX3VEEFdP26RGGtfie-M7AI01XMgCK8BGAsYHg/s0/2020-02-23.png" group-title="CHILE", Canal 13 | CL
+https://unlimited1-cl-isp.dps.live/13cl/13cl.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1193" tvg-name="13 Cultura" tvg-logo="https://i2.paste.pics/c04bad5b9339444b2acb44912d04b0a7.png" group-title="CHILE", 13 Cultura | CL
+https://unlimited2-cl-isp.dps.live/13cultura/13cultura.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="979" tvg-name="13 Entretencion" tvg-logo="https://i2.paste.pics/a59418e1a9cb4068b83345be503f722c.png" group-title="CHILE", 13 Entretencion | CL
+https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1033" tvg-name="13 Prime" tvg-logo="https://i2.paste.pics/544548398fcd92bf2db73e9d0fcddf5f.png" group-title="CHILE", 13 Prime | CL
+https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png" group-title="CHILE", 13 Teleseries | CL
+https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1017" tvg-name="U Chile TV" tvg-logo="https://i2.paste.pics/2336e0cef4642213124e4192f019ccfd.png" group-title="CHILE", U Chile TV | CL
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="54" tvg-name="UCV" tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png" group-title="CHILE", UCV | CL
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1152" tvg-name="UCV 2" tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png" group-title="CHILE", UCV 2 | CL
+https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="53" tvg-name="STGO.TV" tvg-logo="https://lh3.googleusercontent.com/-02uPrXnaZuY/Xk_sz_MIaEI/AAAAAAAAwVo/wwJD8vjW0ScrhAp-BVHSElUKIOUN_CqJgCK8BGAsYHg/s0/2020-02-21.png" group-title="CHILE", STGO.TV | CL
 https://stv.janus.cl/playlist/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="55" tvg-name="Campus TV" tvg-logo="https://lh3.googleusercontent.com/-pW3OtBR0N4A/Xl5Y7H0fi7I/AAAAAAAAwjg/gdqG0LJ8DP42Md2rGIh2qHs1vNF7AYopACK8BGAsYHg/s0/2020-03-03.png" group-title="CHILE", Campus TV | CL
@@ -1821,10 +1866,22 @@ https://hd.chileservidores.cl:1936/ceactv/ceactv/playlist.m3u8?PlaylistM3UCL
 https://mdstrm.com/live-stream-playlist/5eee24e3ed5b6d0761a11a31.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="415" tvg-name="Puranoticia" tvg-logo="https://i2.paste.pics/3dcc431073eca367aef2011ebdd26387.png" group-title="CHILE", Puranoticia | CL
 https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="447" tvg-name="TVN 24 Horas" tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png" group-title="CHILE", TVN 24 Horas | CL
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="448" tvg-name="TVN 24 Horas 2" tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png" group-title="CHILE", TVN 24 Horas 2 | CL
+https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1153" tvg-name="CHV Noticias" tvg-logo="https://i2.paste.pics/5bf0db1521a041595f387a893ab6512b.png" group-title="CHILE", CHV Noticias | CL
+https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1054" tvg-name="T13" tvg-logo="https://i2.paste.pics/38adedd4130272be03ef804c5eaf067e.png" group-title="CHILE", T13 | CL
+https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="449" tvg-name="Meganoticias" tvg-logo="https://lh3.googleusercontent.com/-42YG0jZhyGg/XbC0Ua8FlLI/AAAAAAAArlw/S2qhcWOdFuskqCondIatbmxSfLMvgj9owCK8BGAsYHg/s0/2019-10-23.png" group-title="CHILE", Meganoticias | CL
+http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1239" tvg-name="Señal Mediabanco" tvg-logo="https://i2.paste.pics/65df3a54b748e91cb8081bb17dee405b.png" group-title="CHILE", Señal Mediabanco | CL
 https://unlimited1-cl-isp.dps.live/mediabanco/mediabanco.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="434" tvg-name="Teletón TV" tvg-logo="https://lh3.googleusercontent.com/-RsMjPwaqZeE/XlMNZlWurnI/AAAAAAAAwZ4/RmHs1fZ6XLEEoLl-i_-v_bFmCaNF9AYCQCK8BGAsYHg/s0/2020-02-23.png" group-title="CHILE", Teletón TV | CL
 https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1022" tvg-name="EGM Channel" tvg-logo="https://i2.paste.pics/c4059d4b2eb7b24f7208a93b05312995.png" group-title="CHILE", EGM Channel | CL
+https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="985" tvg-name="Batalla de Gallos" tvg-logo="https://i2.paste.pics/3c29fc261fbf485bad52c705e4c5342a.png" group-title="CHILE", Batalla de Gallos | CL
 https://videostreaming.cloudserverlatam.com:443/Batalladegallos/Batalladegallos/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="986" tvg-name="Ziza TV" tvg-logo="https://i2.paste.pics/129d176f2117a7985aefe938703c34a5.png" group-title="CHILE", Ziza TV | CL
@@ -1832,7 +1889,7 @@ https://v2.tustreaming.cl/zizatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="895" tvg-name="RLOTV" tvg-logo="https://lh3.googleusercontent.com/-k3Xfmd6KcLo/YL98wEjWBnI/AAAAAAABCzo/6deLMFJ6YUElLm3DMqccKFmz8nyzWoRPQCJEEGAsYHg/s512/2021-06-08.png" group-title="CHILE", RLOTV | CL
 https://593b04c4c5670.streamlock.net:443/8034/8034/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="910" tvg-name="Raices Arabes TV" tvg-logo="https://i2.paste.pics/632a740768764ab4dd8208568ae61b01.png" group-title="CHILE", Raices Arabes TV | CL
-https://Stmv1.zcastbr.com/julio4589/julio4589/playlist.m3u8?PlaylistM3UCL
+https://videostreaming.cloudserverlatam.com:443/gsnzdymwdq/gsnzdymwdq/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="467" tvg-name="TV Pop" tvg-logo="https://lh3.googleusercontent.com/-XpZwlTaVD70/X5jAxBIjQnI/AAAAAAAA6ys/IoG_B-D9vCwSs4nNVTr2tK_hz-rI7VXCgCK8BGAsYHg/s0/2020-10-27.jpg" group-title="CHILE", TV Pop | CL
 https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="438" tvg-name="Tevex" tvg-logo="https://i2.paste.pics/37360245ae2194a41c9eaca39c5e1ec0.png" group-title="CHILE", Tevex | CL
@@ -1899,6 +1956,8 @@ https://mediacpstreamchile.com:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
 https://livefocamundo.com:8081/cdlcyerko/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="74" tvg-name="Girovisual TV" tvg-logo="https://i2.paste.pics/11ba44db3bc04558ed204a000c65c266.png" group-title="CHILE", Girovisual TV | CL
 https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="464" tvg-name="Frecuencia 7 Aconcagua" tvg-logo="https://lh3.googleusercontent.com/-48JoMOIDPB4/YEtdWeH5oII/AAAAAAABAkQ/I1dAHLNoz4UVqNH4CL-wr1-O2hrEHD6VgCK8BGAsYHg/s512/2021-03-12.png" group-title="CHILE", Frecuencia 7 Aconcagua | CL
+https://v2.tustreaming.cl/frecuencia7/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="76" tvg-name="Canal 2 de San Antonio" tvg-logo="https://lh3.googleusercontent.com/-8rzHJZdq8rY/Xb2AX9UW_tI/AAAAAAAAr58/gqkZ21n2nf4rm5Ah-lzNOz5ch6_JVUS5wCK8BGAsYHg/s0/2019-11-02.png" group-title="CHILE", Canal 2 de San Antonio | CL
 https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="77" tvg-name="TVR" tvg-logo="https://i2.paste.pics/138972442c9f6e8c471b5eecec021f08.png" group-title="CHILE", TVR | CL
@@ -1908,7 +1967,7 @@ https://v2.tustreaming.cl/tendenciastv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1024" tvg-name="Vision Plus TV" tvg-logo="https://i2.paste.pics/e067ea7d04aa3bcd78e8892df03409af.png" group-title="CHILE", Vision Plus TV | CL
 https://v2.tustreaming.cl/visionplustv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1120" tvg-name="Autonoma TV" tvg-logo="https://i2.paste.pics/c00eb38ed6d7b15ebc179af065730860.png" group-title="CHILE", Autonoma TV | CL
-https://tv.streaming-chile.com:19360/autonomatv/autonomatv.m3u8?PlaylistM3UCL
+https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="999" tvg-name="38TV" tvg-logo="https://i2.paste.pics/3cc1950b0f0c4ad15752bd5b6646fdf6.png" group-title="CHILE", 38TV | CL
 https://v2.tustreaming.cl:19360/38tv/38tv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="337" tvg-name="Buin Somos Todos" tvg-logo="https://lh3.googleusercontent.com/-qHSWQUuG5HU/XkIKFkSMFBI/AAAAAAAAv-o/80_hG25Pe6cfe7Dm3Uc6VDpcMp2Nd3ImwCK8BGAsYHg/s0/2020-02-10.png" group-title="CHILE", Buin Somos Todos | CL
@@ -2017,10 +2076,10 @@ https://Stmv1.zcastbr.com/evevision/evevision/playlist.m3u8?PlaylistM3UCL
 https://v1.tustreaming.cl:19360/canalsurpatagoniatv/canalsurpatagoniatv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="373" tvg-name="PinguinoTV" tvg-logo="https://lh3.googleusercontent.com/-qSwYgRuowGA/YLwYt69YoOI/AAAAAAABCuU/avw_KQcl4cUIiy4s2iebwzLAuy5CZDOXQCJEEGAsYHg/s512/2021-06-05.png" group-title="CHILE", PinguinoTV | CL
 http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="491" tvg-name="TV Chile" tvg-logo="https://lh3.googleusercontent.com/-tUAc1plWtjg/Xa0CQyx4E_I/AAAAAAAArgs/ET8I9WYNPSA3R5FoRn54Ok6IGA9-5ItaACK8BGAsYHg/s0/2019-10-20.png" group-title="CHILE", TV Chile | CL
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="376" tvg-name="Teletrak" tvg-logo="https://lh3.googleusercontent.com/-H203VH0Qnr0/XxzMCs6SOmI/AAAAAAAA3ZQ/S5ojmvOjSQERDOMBWTNQRoN_tqvAZGMBQCK8BGAsYHg/s0/2020-07-25.png" group-title="CHILE", Teletrak | CL
 https://mdstrm.com/live-stream-playlist/62616df888feb366839a3eb5.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1199" tvg-name="D13" tvg-logo="https://i2.paste.pics/21803adf68e4ed46e638156868973edd.png" group-title="CHILE", D13 | CL
+https://unlimited2-cl-isp.dps.live/13d/13d.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="374" tvg-name="TV Turf Movil" tvg-logo="https://lh3.googleusercontent.com/-4gdqGn04Bng/Xb9WF2WzB6I/AAAAAAAAr7A/tbeDeaQTuuMuHOka_gYv4trQHwAyzqKPQCK8BGAsYHg/s0/2019-11-03.png" group-title="CHILE", TV Turf Movil | CL
 https://janus.tvturf.cl/playlist/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="375" tvg-name="Valparaiso Sporting" tvg-logo="https://lh3.googleusercontent.com/-HLkq9KDNolI/XxzLq65I2KI/AAAAAAAA3ZI/Vx5DVILxWmoGc5_PJ01NSoc2wVODn-FqACK8BGAsYHg/s0/2020-07-25.png" group-title="CHILE", Valparaiso Sporting | CL
@@ -2034,7 +2093,7 @@ https://video3.servidorderadio.net:3661/live/sszzglfplive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="769" tvg-name="Radioteca TV" tvg-logo="https://i2.paste.pics/8990ff3b0c53684e7f62a5db3c0cab06.png" group-title="CHILE", Radioteca TV | CL
 https://paneltv.net:3570/live/txtkignslive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="785" tvg-name="Re7" tvg-logo="https://lh3.googleusercontent.com/-G0VClSWuZuY/YG8IaybYl4I/AAAAAAABBQc/muG2PSbo290d03axgs10Z-KSgdK3uWcBACK8BGAsYHg/s512/2021-04-08.png" group-title="CHILE", Re7 | CL
-https://tvestacion7.com:3193/stream/play.m3u8?PlaylistM3UCL
+https://hostv7.tvestacion7.com:3222/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://lh3.googleusercontent.com/-u9hoJJgi3Qg/YCCON9BSD1I/AAAAAAAA_xk/IaTcH9DfgAgCjdrjd_MM10F7TGPoUnpEACK8BGAsYHg/s0/2021-02-07.png" group-title="CHILE", Recuerdos Retro Radio TV | CL
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="889" tvg-name="La Sabrosura TV" tvg-logo="https://lh3.googleusercontent.com/-8b7QS_hJZdY/YLu9e1SGFLI/AAAAAAABCrk/aO5qeFONSokBmWT8vsROhr1uigX0FizcQCJEEGAsYHg/s512/2021-06-05.png" group-title="CHILE", La Sabrosura TV | CL
@@ -2055,8 +2114,8 @@ https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8?Playli
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="32" tvg-name="Alegria TV" tvg-logo="https://lh3.googleusercontent.com/-IDCwMaJRdnM/Xb11MVTbE-I/AAAAAAAAr4s/PbNF6ie1AIothtCRKeVvdVC6S5hO6a3xACK8BGAsYHg/s0/2019-11-02.png" group-title="CHILE", Alegria TV | CL
 https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1008" tvg-name="Cloud FM" tvg-logo="https://i2.paste.pics/bfdf6e6db7e66a7f59008cc6e85079b6.png" group-title="CHILE", Cloud FM | CL
-https://videostreaming.cloudserverlatam.com:443/CLOUDFM/CLOUDFM/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1008" tvg-name="FM Hit" tvg-logo="https://i2.paste.pics/2634a30ce1a741cffa2e23cf6c0ca9ee.png" group-title="CHILE", FM Hit | CL
+https://videostreaming.cloudserverlatam.com:443/radiofmhit/radiofmhit/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1009" tvg-name="Radiomania" tvg-logo="https://i2.paste.pics/23bcb93c2d0cdd0163f92bffdb001898.png" group-title="CHILE", Radiomania | CL
 https://videostreaming.cloudserverlatam.com:443/8000/8000/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="973" tvg-name="Top New Radio" tvg-logo="https://i2.paste.pics/fa96854fb72b2a5e1032d030c83814fa.png" group-title="CHILE", Top New Radio | CL
@@ -2142,7 +2201,7 @@ https://593b04c4c5670.streamlock.net:443/8076/8076/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="395" tvg-name="Mi Radio TV" tvg-logo="https://lh3.googleusercontent.com/-7XLo-eid_jI/Xm9iFNKwCYI/AAAAAAAAw8Y/TWJlVG10Ofc-nX2cNdUPKn7quq7hKWKBACK8BGAsYHg/s0/2020-03-16.png" group-title="CHILE", Mi Radio TV | CL
 https://v2.tustreaming.cl/miradiotv/rewind-999999.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="411" tvg-name="Interradio TV" tvg-logo="https://i2.paste.pics/29e1c081406ffc375a6af8717839fb30.png" group-title="CHILE", Interradio TV | CL
-https://unlimited1-cl-isp.dps.live/intrr/intrr.smil/playlist.m3u8?PlaylistM3UCL
+https://live-hls-0lvn.livepush.io/live/emWnRcgrC8y0ryk/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="388" tvg-name="Interactiva FM" tvg-logo="https://lh3.googleusercontent.com/-QI0Y25E7D14/X4YuErUkgLI/AAAAAAAA6Yo/WZwniEwC_RwZWkwXPGKRXxRueEu4ekjUQCK8BGAsYHg/s0/2020-10-13.jpg" group-title="CHILE", Interactiva FM | CL
 https://live.tvcontrolcp.com:1936/interactiva/interactiva/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="397" tvg-name="FM Pulso" tvg-logo="https://lh3.googleusercontent.com/-PnlftgFahF0/XoThpbgVNeI/AAAAAAAAxZw/YFbXaFZUUikkGSKbQjxlOyxVMmJQBQMFACK8BGAsYHg/s0/2020-04-01.png" group-title="CHILE", FM Pulso | CL
@@ -2157,6 +2216,8 @@ https://5eaccbab48461.streamlock.net:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
 https://v2.tustreaming.cl/radioancoatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="414" tvg-name="AE Radio" tvg-logo="https://i2.paste.pics/f8b890eebda6062f306024bdc70afafa.png" group-title="CHILE", AE Radio | CL
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1270" tvg-name="La Clave" tvg-logo="https://i2.paste.pics/cfee8bde46f156bfd6c7fc6aad021835.png" group-title="CHILE", La Clave | CL
+https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="882" tvg-name="Pauta TV" tvg-logo="https://lh3.googleusercontent.com/-DB74taQncQw/XbSnai__c5I/AAAAAAAArt0/jqsOckrCWRMdlGZoE1ecSjJrHivTgt_fQCK8BGAsYHg/s0/2019-10-26.png" group-title="CHILE", Pauta TV | CL
 https://unlimited1-cl-isp.dps.live/pautatv/pautatv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="426" tvg-name="Radio Tiempo" tvg-logo="https://lh3.googleusercontent.com/-pG_O1wKWuUY/XlPedSivgtI/AAAAAAAAwbg/f7tHw2tx4kMuTwzpTSoJQeiprrvTMshuQCK8BGAsYHg/s0/2020-02-24.png" group-title="CHILE", Radio Tiempo | CL
@@ -2207,6 +2268,8 @@ https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8?PlaylistM3UCL
 https://vdohd.cl:1936/8080/8080/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1202" tvg-name="MC Radio" tvg-logo="https://i2.paste.pics/7070d20a86a32c32e668f538bac42bdf.png" group-title="CHILE", MC Radio | CL
 https://live.tvcontrolcp.com:1936/manten/manten/playlist.m3u8?PlaylistM3UCL
+https://live.tvcontrolcp.com:1936/manten/manten/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:1,-ARGENTINA-
 
