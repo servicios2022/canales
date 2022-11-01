@@ -9,8 +9,13 @@
     
   "stations": [ 
   
- 
-}{
+ {
+			"name": "Carolina Tv | CL 🇨🇱",
+			"image": "https://pbs.twimg.com/profile_images/738422492709150720/zuFvpogp_400x400.jpg",
+			   "url" : "https://rudo.video/live/carolinatv",
+            "isHost":"true"
+            }, 
+		{
               	"name": "DAZN la Liga (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/JLciFmy.jpg",
                  "url": "https://cdix.pages.dev/daznlaliga",
