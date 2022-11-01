@@ -13,27 +13,27 @@
 			"name": "Carolina Tv | CL 🇨🇱",
 			"image": "https://pbs.twimg.com/profile_images/738422492709150720/zuFvpogp_400x400.jpg",
 			   "url" : "https://rudo.video/live/carolinatv",
-            "isHost":"true"
+          		  "isHost":"true"
             },  {
-			"name": tvn | CL 🇨🇱",
+			"name": "tvn | CL 🇨🇱",
 			"image": "https://pbs.twimg.com/profile_images/738422492709150720/zuFvpogp_400x400.jpg",
 			   "url" : "https://www.tvn.cl/envivo/",
-            "isHost":"true"
+           		 "isHost":"true"
             },  {
 			"name": "mega | CL 🇨🇱",
 			"image": "https://pbs.twimg.com/profile_images/738422492709150720/zuFvpogp_400x400.jpg",
 			   "url" : "https://www.mega.cl/senal-en-vivo/",
-            "isHost":"true"
+           		 "isHost":"true"
             },  {
 			"name": "chilevision | CL 🇨🇱",
 			"image": "https://pbs.twimg.com/profile_images/738422492709150720/zuFvpogp_400x400.jpg",
 			   "url" : "https://www.chilevision.cl/senal-online",
-            "isHost":"true"
+            		"isHost":"true"
             },  {
 			"name": "Canal 13 | CL 🇨🇱",
 			"image": "https://pbs.twimg.com/profile_images/738422492709150720/zuFvpogp_400x400.jpg",
 			   "url" : "https://www.13.cl/en-vivo",
-            "isHost":"true"
+           		 "isHost":"true"
             }, 
 	    
 	    
