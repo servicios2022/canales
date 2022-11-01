@@ -960,7 +960,154 @@
                     "url": "https://livetvon.click/embed/stream-43.php",
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
+                },   {
+                    "name": "beIN SPORTS 1 Arabia",
+                    "image": "https://i.imgur.com/KH7dVjI.png",
+                    "url": "https://livetvon.click/embed/stream-91.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
                 },
+                {
+                    "name": "beIN SPORTS 1 English",
+                    "image": "https://i.imgur.com/KH7dVjI.png",
+                    "url": "https://livetvon.click/embed/stream-61.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "beIN SPORTS 1 France",
+                    "image": "https://i.imgur.com/KH7dVjI.png",
+                    "url": "https://livetvon.click/embed/stream-116.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "beIN SPORTS 1 PREMIUM",
+                    "image": "https://i.imgur.com/KH7dVjI.png",
+                    "url": "https://livetvon.click/embed/stream-98.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "beIN SPORTS 1 Turkey",
+                    "image": "https://i.imgur.com/KH7dVjI.png",
+                    "url": "https://livetvon.click/embed/stream-62.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "beIN SPORTS 2 Arabia",
+                    "image": "https://i.imgur.com/KH7dVjI.png",
+                    "url": "https://livetvon.click/embed/stream-92.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "beIN SPORTS 2 English",
+                    "image": "https://i.imgur.com/KH7dVjI.png",
+                    "url": "https://livetvon.click/embed/stream-90.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "beIN SPORTS 2 France",
+                    "image": "https://i.imgur.com/KH7dVjI.png",
+                    "url": "https://livetvon.click/embed/stream-117.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "beIN SPORTS 2 PREMIUM",
+                    "image": "https://i.imgur.com/KH7dVjI.png",
+                    "url": "https://livetvon.click/embed/stream-99.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "beIN SPORTS 2 Turkey",
+                    "image": "https://i.imgur.com/KH7dVjI.png",
+                    "url": "https://livetvon.click/embed/stream-63.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "beIN SPORTS 3 Arabia",
+                    "image": "https://i.imgur.com/KH7dVjI.png",
+                    "url": "https://livetvon.click/embed/stream-93.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "beIN SPORTS 3 English",
+                    "image": "https://i.imgur.com/KH7dVjI.png",
+                    "url": "https://livetvon.click/embed/stream-46.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "beIN SPORTS 3 France",
+                    "image": "https://i.imgur.com/KH7dVjI.png",
+                    "url": "https://livetvon.click/embed/stream-118.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "beIN SPORTS 3 PREMIUM",
+                    "image": "https://i.imgur.com/KH7dVjI.png",
+                    "url": "https://livetvon.click/embed/stream-100.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "beIN SPORTS 3 Turkey",
+                    "image": "https://i.imgur.com/KH7dVjI.png",
+                    "url": "https://livetvon.click/embed/stream-64.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "beIN SPORTS 4 Arabia",
+                    "image": "https://i.imgur.com/KH7dVjI.png",
+                    "url": "https://livetvon.click/embed/stream-94.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "beIN SPORTS 4 Turkey",
+                    "image": "https://i.imgur.com/KH7dVjI.png",
+                    "url": "https://livetvon.click/embed/stream-67.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "beIN SPORTS 5 Arabia",
+                    "image": "https://i.imgur.com/KH7dVjI.png",
+                    "url": "https://livetvon.click/embed/stream-95.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "beIN SPORTS 6 Arabia",
+                    "image": "https://i.imgur.com/KH7dVjI.png",
+                    "url": "https://livetvon.click/embed/stream-96.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "beIN SPORTS 7 Arabia",
+                    "image": "https://i.imgur.com/KH7dVjI.png",
+                    "url": "https://livetvon.click/embed/stream-97.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+                    "name": "beIN SPORTS USA",
+                    "image": "https://i.imgur.com/KH7dVjI.png",
+                    "url": "https://livetvon.click/embed/stream-425.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+               
                 {
                     "name": "BT Sport 1 HD",
                     "image": "https://i.imgur.com/KH7dVjI.png",
@@ -1079,29 +1226,13 @@
                     "url": "https://livetvon.click/embed/stream-81.php",
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                },
-                {
-                    "name": "ESPN USA",
-                    "image": "https://i.imgur.com/KH7dVjI.png",
-                    "url": "https://livetvon.click/embed/stream-44.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
+                }, {
                     "name": "ESPN2 BR",
                     "image": "https://i.imgur.com/KH7dVjI.png",
                     "url": "https://livetvon.click/embed/stream-82.php",
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                },
-                {
-                    "name": "ESPN2 USA",
-                    "image": "https://i.imgur.com/KH7dVjI.png",
-                    "url": "https://livetvon.click/embed/stream-45.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
+                },   {
                     "name": "ESPN3 BR",
                     "image": "https://i.imgur.com/KH7dVjI.png",
                     "url": "https://livetvon.click/embed/stream-83.php",
@@ -1115,6 +1246,22 @@
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },
+                {
+                    "name": "ESPN USA",
+                    "image": "https://i.imgur.com/KH7dVjI.png",
+                    "url": "https://livetvon.click/embed/stream-44.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                
+                {
+                    "name": "ESPN2 USA",
+                    "image": "https://i.imgur.com/KH7dVjI.png",
+                    "url": "https://livetvon.click/embed/stream-45.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+             
                 {
                     "name": "ESPNU USA",
                     "image": "https://i.imgur.com/KH7dVjI.png",
@@ -1219,7 +1366,13 @@
                     "url": "https://livetvon.click/embed/stream-127.php",
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                },
+                },  {
+                    "name": "МАТЧ! БОЕЦ Russia",
+                    "image": "https://i.imgur.com/KH7dVjI.png",
+                    "url": "https://livetvon.click/embed/stream-395.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, 
                 {
                     "name": "NBA TV USA",
                     "image": "https://i.imgur.com/KH7dVjI.png",
@@ -1821,161 +1974,8 @@
                     "url": "https://livetvon.click/embed/stream-398.php",
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                },
-                {
-                    "name": "beIN SPORTS 1 Arabia",
-                    "image": "https://i.imgur.com/KH7dVjI.png",
-                    "url": "https://livetvon.click/embed/stream-91.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "beIN SPORTS 1 English",
-                    "image": "https://i.imgur.com/KH7dVjI.png",
-                    "url": "https://livetvon.click/embed/stream-61.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "beIN SPORTS 1 France",
-                    "image": "https://i.imgur.com/KH7dVjI.png",
-                    "url": "https://livetvon.click/embed/stream-116.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "beIN SPORTS 1 PREMIUM",
-                    "image": "https://i.imgur.com/KH7dVjI.png",
-                    "url": "https://livetvon.click/embed/stream-98.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "beIN SPORTS 1 Turkey",
-                    "image": "https://i.imgur.com/KH7dVjI.png",
-                    "url": "https://livetvon.click/embed/stream-62.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "beIN SPORTS 2 Arabia",
-                    "image": "https://i.imgur.com/KH7dVjI.png",
-                    "url": "https://livetvon.click/embed/stream-92.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "beIN SPORTS 2 English",
-                    "image": "https://i.imgur.com/KH7dVjI.png",
-                    "url": "https://livetvon.click/embed/stream-90.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "beIN SPORTS 2 France",
-                    "image": "https://i.imgur.com/KH7dVjI.png",
-                    "url": "https://livetvon.click/embed/stream-117.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "beIN SPORTS 2 PREMIUM",
-                    "image": "https://i.imgur.com/KH7dVjI.png",
-                    "url": "https://livetvon.click/embed/stream-99.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "beIN SPORTS 2 Turkey",
-                    "image": "https://i.imgur.com/KH7dVjI.png",
-                    "url": "https://livetvon.click/embed/stream-63.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "beIN SPORTS 3 Arabia",
-                    "image": "https://i.imgur.com/KH7dVjI.png",
-                    "url": "https://livetvon.click/embed/stream-93.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "beIN SPORTS 3 English",
-                    "image": "https://i.imgur.com/KH7dVjI.png",
-                    "url": "https://livetvon.click/embed/stream-46.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "beIN SPORTS 3 France",
-                    "image": "https://i.imgur.com/KH7dVjI.png",
-                    "url": "https://livetvon.click/embed/stream-118.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "beIN SPORTS 3 PREMIUM",
-                    "image": "https://i.imgur.com/KH7dVjI.png",
-                    "url": "https://livetvon.click/embed/stream-100.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "beIN SPORTS 3 Turkey",
-                    "image": "https://i.imgur.com/KH7dVjI.png",
-                    "url": "https://livetvon.click/embed/stream-64.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "beIN SPORTS 4 Arabia",
-                    "image": "https://i.imgur.com/KH7dVjI.png",
-                    "url": "https://livetvon.click/embed/stream-94.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "beIN SPORTS 4 Turkey",
-                    "image": "https://i.imgur.com/KH7dVjI.png",
-                    "url": "https://livetvon.click/embed/stream-67.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "beIN SPORTS 5 Arabia",
-                    "image": "https://i.imgur.com/KH7dVjI.png",
-                    "url": "https://livetvon.click/embed/stream-95.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "beIN SPORTS 6 Arabia",
-                    "image": "https://i.imgur.com/KH7dVjI.png",
-                    "url": "https://livetvon.click/embed/stream-96.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "beIN SPORTS 7 Arabia",
-                    "image": "https://i.imgur.com/KH7dVjI.png",
-                    "url": "https://livetvon.click/embed/stream-97.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "beIN SPORTS USA",
-                    "image": "https://i.imgur.com/KH7dVjI.png",
-                    "url": "https://livetvon.click/embed/stream-425.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-                {
-                    "name": "МАТЧ! БОЕЦ Russia",
-                    "image": "https://i.imgur.com/KH7dVjI.png",
-                    "url": "https://livetvon.click/embed/stream-395.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
                 }
+              
             ]
 	    }            
     ]
