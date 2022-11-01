@@ -776,6 +776,12 @@
 			"image": "https://i.imgur.com/I7Lhgej.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=122&evento=Argentina"
                         },  {
+                    "name": "Unimas USA | MX 🇺🇸",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png",
+                    "url": "https://livetvon.click/embed/stream-133.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },  {
                     "name": "Univision USA | MX 🇺🇸",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png",
                     "url": "https://livetvon.click/embed/stream-132.php",
