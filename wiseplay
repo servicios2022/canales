@@ -321,8 +321,7 @@
                     "url": "https://livetvon.click/embed/stream-538.php",
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                },
-                 {
+                }, {
 			  "name": "Liga de Campeones por M+ (opc.1) | ES 🇪🇸",
                 "image": "https://i.imgur.com/wiLQCUD.png",
         "url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
@@ -343,7 +342,13 @@
                    		  "name": "Liga de Campeones por M+ (opc.4) | ES 🇪🇸",
                 "image": "https://i.imgur.com/wiLQCUD.png",
                         "url": "https://freelive365.nl/player2.php?id=33&code=172&evento=espa%C3%91a"
-                        }, {
+                        },  {
+                  "name": "Real Madrid Tv | ES 🇪🇸",
+			"image": "http://meteoalcorcon.es/12_real_madrid_tv.png",
+                    "url": "https://livetvon.click/embed/stream-523.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
                     "name": "Teledeporte TDP (opc.1) | ES 🇪🇸",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png",
                     "url": "https://livetvon.click/embed/stream-529.php",
@@ -669,7 +674,7 @@
 			"url": "https://futbol-tv.online/ver/goltv",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true" },  {
+"embed": "true" }, {
                     "name": "Telemundo USA | MX 🇺🇸",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",
                     "url": "https://livetvon.click/embed/stream-131.php",
