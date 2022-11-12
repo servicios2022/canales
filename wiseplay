@@ -395,13 +395,19 @@
 			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
 	   	     "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8",
 			"userAgent" : ""
-                    }, {
-      		    "name": "Bein Sport Ñ (opc.1) | LAT 🇲🇽",
+                    },  {
+         	"name": "Bein Sport Ñ (opc.1) | LAT 🇲🇽",
+			"image": "https://i.imgur.com/c4gfwhr.png",
+                 "url": "https://bahiadeportes.com/canales/beinsportsn-2",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+      		    "name": "Bein Sport Ñ (opc.2) | LAT 🇲🇽",
             	    "image": "https://i.imgur.com/c4gfwhr.png",
 		    "url": "https://livetvon.click/embed/stream-372.php",
                     "isHost": "true"
                 }, {
-			"name": "Bein Sport Ñ (opc.2) | LAT 🇲🇽",
+			"name": "Bein Sport Ñ (opc.3) | LAT 🇲🇽",
 			"image": "https://i.imgur.com/c4gfwhr.png",
 	   	      "url" :  "https://www.freelive365.net/player2.php?id=2&code=129&evento=United%20States",
 			 "isHost":"true"
