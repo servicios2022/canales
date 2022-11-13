@@ -1596,7 +1596,7 @@ https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master.m3u8?Play
 #EXTINF:-1 tvg-id="457" tvg-name="Canal 13" tvg-logo="https://lh3.googleusercontent.com/-lTPRVsTnfaY/XlMLxy_VhII/AAAAAAAAwZs/TNUiwtX3VEEFdP26RGGtfie-M7AI01XMgCK8BGAsYHg/s0/2020-02-23.png" group-title="CHILE", Canal 13 | CL
 https://marine2.miplay.cl/c13/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logotipo_de_Canal_13.svg/1200px-Logotipo_de_Canal_13.svg.png" group-title="CHILE",Canal 13 | CL
-http://canal13-m3u.chorroaeboy.repl.co
+https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/1054_T13.png" group-title="CHILE", T13 | CL
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="458" tvg-name="TV+" tvg-logo="https://lh3.googleusercontent.com/-OyqOBTEx-1E/XyA3AZwIgTI/AAAAAAAA3jQ/aDMZaLOx3mQuXBqjDKAF0X7dxExKFzawACK8BGAsYHg/s0/2020-07-28.png" group-title="CHILE", TV+ | CL
