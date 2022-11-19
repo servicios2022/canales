@@ -737,73 +737,16 @@
 "embed": "true" }, {
 			"name": "TNT Sports Chile (opc.2) | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
-			"url": "https://megadeportes.live/en-vivo/tnt-sports-chile/?ver",
+			"url": "https://librefutbol.com/en-vivo/tnt-sports-chile/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
 			"name": "TNT Sports Chile (opc.3) | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
-			"url": "https://futbollatam.com/en-vivo/tnt-sports-chile/?ver",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" },  {
-         		"name": "TNT Sports Chile (opc.4) | CL 🇨🇱",
-			"image": "https://i.imgur.com/TTaCeXw.png",
-                 "url": "https://futboltv.live/v/tnt-sports-hd-en-vivo/",
+			"url": "https://futbol-tv.online/ver/tnt-sports-chile",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
-			"name": "TNT Sports Chile (opc.5) | CL 🇨🇱",
-			"image": "https://i.imgur.com/TTaCeXw.png",
-           	 "url": "https://www.supertelevisionhd.com/cdf-premium-hd/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" },  {
-                        "name": "TNT Sports Chile (opc.6) | CL 🇨🇱",
-			"image": "https://i.imgur.com/TTaCeXw.png",
-                        "url": "https://tvrojadirecta.info/cdf.php#",
-                        "isHost": "true"
-                                },  {
-                        "name": "TNT Sports Chile 3 (opc.7) | CL 🇨🇱",
-			"image": "https://i.imgur.com/TTaCeXw.png",
-                        "url": "https://tvrojadirecta.info/futbol.php#",
-                        "isHost": "true"
-                                },  {
-                        "name": "TNT Sports Chile 3 (opc.8) | CL 🇨🇱",
-			"image": "https://i.imgur.com/TTaCeXw.png",
-                        "url": "https://www.rojadirectaenvivo.club/canal-24.php",
-                        "isHost": "true"
-                                },  {
-                        "name": "TNT Sports Chile p (opc.9) | CL 🇨🇱",
-			"image": "https://i.imgur.com/TTaCeXw.png",
-                        "url": "https://www.rojadirectaenvivo.club/canal-25.php",
-                        "isHost": "true"
-                                }, {
-                        "name": "TNT Sports Chile (opc.10) | CL 🇨🇱",
-			"image": "https://i.imgur.com/TTaCeXw.png",
-                        "url": "https://rojadirectatv.club/canal-32.php",
-                        "isHost": "true"
-                                }, {
-                        "name": "TNT Sports Chile 3 (opc.11) | CL 🇨🇱",
-			"image": "https://i.imgur.com/TTaCeXw.png",
-                        "url": "https://rojadirectatv.club/canal-41.php",
-                        "isHost": "true"
-                                },  {
-                        "name": "TNT Sports Chile p (opc.12) | CL 🇨🇱",
-			"image": "https://i.imgur.com/TTaCeXw.png",
-                        "url": "https://rojadirectatv.club/canal-42.php",
-                        "isHost": "true"
-                                }, {
-                        "name": "TNT Sports Chile (opc.13) | CL 🇨🇱",
-			"image": "https://i.imgur.com/TTaCeXw.png",
-                        "url": "https://rojadirectatv.club/canal-83.php",
-                        "isHost": "true"
-                                }, {
-                        "name": "TNT Sports Chile (opc.14) | CL 🇨🇱",
-			"image": "https://i.imgur.com/TTaCeXw.png",
-                        "url": "https://elevensports.club/ele96/110.php",
-                        "isHost": "true"
-                                }, {
 			        "name": "TNT Sports Argentina (opc.1) | AR 🇦🇷",
             	 "image": "https://i.imgur.com/TTaCeXw.png",
 			"url": "https://bahiadeportes.com/canales/tntsportsarg.php",
