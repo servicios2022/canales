@@ -688,6 +688,11 @@
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=121&evento=Argentina"
                         }, {
+			"name": "Gol Mundial(opc.1) | ES 🇪🇸",
+			"image": "https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png",
+	        "url": "https://starlive.xyz/embed.php?id=liveGOL_Mundial_1",
+		"userAgent" : ""
+                    }, {
       		     "name": "Gol  Peru (opc.1) | PE 🇵🇪",
             	    "image": "https://i.imgur.com/xvHtnbT.jpg",
 		    "url": "https://golperu.futboltvhd.repl.co/",
@@ -704,8 +709,14 @@
 			"url": "https://futbol-tv.online/ver/goltv",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true" }, {
-                    "name": "Telemundo USA | MX 🇺🇸",
+"embed": "true" },  {
+                    "name": "Telemundo USA (opc.1) | MX 🇺🇸",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",
+                    "url": "https://starlive.xyz/embed.php?id=liveTelemundo",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+                    "name": "Telemundo USA (opc.2) | MX 🇺🇸",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",
                     "url": "https://livetvon.click/embed/stream-131.php",
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
