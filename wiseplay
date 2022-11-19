@@ -422,67 +422,45 @@
 			"image": "https://i.imgur.com/BAHebvo.png",
 	        "url": "https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8",
 		"userAgent" : ""
-                    },  {
+                    }, {
                  "name": "Direct Tv Sports (opc.1) | AR 🇦🇷",
-          	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
-                 "url": "https://bahiadeportes.com/canales/directvsports.php",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" },  {
-                 "name": "Direct Tv Sports (opc.2) | AR 🇦🇷",
-          	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
-                 "url": "https://futbolfullenvivo.com/ver-channel-directv-en-vivo/",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
-                 "name": "Direct Tv Sports (opc.3) | AR 🇦🇷",
           	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
                  "url": "https://megadeportes.live/en-vivo/dsports/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true" }, {
-                 "name": "Direct Tv Sports (opc.4) | AR 🇦🇷",
-          	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
-                 "url": "https://cablegratishd.online/ver/directv-sports-en-vivo/",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" },  {
-                 "name": "Direct Tv Sports (opc.5) | AR 🇦🇷",
+"embed": "true" },   {
+                 "name": "Direct Tv Sports (opc.2) | AR 🇦🇷",
           	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
                  "url": "https://librefutbol.com/en-vivo/directv-sports/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
-                 "name": "Direct Tv Sports (opc.6) | AR 🇦🇷",
+                 "name": "Direct Tv Sports (opc.3) | AR 🇦🇷",
+          	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
+                 "url": "https://bahiadeportes.com/canales/directvsports.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },  {
+                 "name": "Direct Tv Sports (opc.4) | AR 🇦🇷",
           	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
                  "url": "https://futbol-tv.online/ver/dsports",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },
 
-
-
-
-
-
-
-
-
-{
-                       "name": "Direct Tv Sports (opc.2) | AR 🇦🇷",
-          	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
-                        "url": "https://freelive365.nl/player2.php?id=8&code=117&evento=Argentina"
-                        }, {
+ {
                            "name": "Direct Tv Sports 2 (opc.1) | AR 🇦🇷",
              "image": "https://i.imgur.com/bWw9A7h.png",
-                 "url": "https://megadeportes.live/en-vivo/directv-sports-2",
+                 "url": "https://librefutbol.com/en-vivo/directv-sports-2/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true" }, {
-                        "name": "Direct Tv Sports 2 (opc.2) | AR 🇦🇷",
+"embed": "true" },  {
+                           "name": "Direct Tv Sports 2 (opc.2) | AR 🇦🇷",
              "image": "https://i.imgur.com/bWw9A7h.png",
-                        "url": "https://freelive365.nl/player2.php?id=8&code=118&evento=Argentina"
-                        },  {
+                 "url": "https://futbol-tv.online/ver/dsports-2",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },  {
                               "name": "Direct Tv Sports Plus (opc.1) | AR 🇦🇷",
             	 "image": "https://i.imgur.com/ztxH679.png",
                  "url": "https://megadeportes.live/en-vivo/directv-sports-plus",
