@@ -423,6 +423,12 @@
 	        "url": "https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8",
 		"userAgent" : ""
                     }, {
+                 "name": "Deport Tv (opc.1) | AR 🇦🇷",
+          	   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/1200px-DeporTV_%282020_Logo_oficial%29.png",
+                 "url": "https://librefutbol.com/en-vivo/deportv/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
                  "name": "Direct Tv Sports (opc.1) | AR 🇦🇷",
           	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
                  "url": "https://librefutbol.com/en-vivo/directv-sports/",
@@ -698,7 +704,13 @@
 			"url": "https://futbol-tv.online/ver/goltv",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true" }, {
+"embed": "true" },  {
+                    "name": "Star+ Eventos (opc.1) | AR 🇦🇷",
+                    "image": "https://www.directv.cl/content/directv/cl/es/home/bienvenidos/combo-disney-star/star/_jcr_content/root/responsivegrid/image.img.png/1630631770014/logo-star.png",
+                    "url": "https://librefutbol.com/star-plus/",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
                     "name": "Telemundo USA | MX 🇺🇸",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",
                     "url": "https://livetvon.click/embed/stream-131.php",
