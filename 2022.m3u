@@ -502,9 +502,9 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 
 #EXTINF:-1 tvg-id="1179" tvg-name="Contacto Deportivo" tvg-logo="https://i2.paste.pics/7787d1d2ab3382cc09d2c3fa9bb8720d.png" group-title="DEPORTE LATINO", Contacto Deportivo | PE
 https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="DEPORTE LATINO",TUDN
-http://54.39.19.162:8081/live/dream1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="DEPORTE LATINO",TUDN
+https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist_640x360.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="DEPORTE LATINO",FOX SPORTS | MX 
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
