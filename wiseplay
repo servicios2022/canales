@@ -430,7 +430,7 @@
                     }, {
                  "name": "Deport Tv (opc.1) | AR 🇦🇷",
           	   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/1200px-DeporTV_%282020_Logo_oficial%29.png",
-                 "url": "https://librefutbol.com/en-vivo/deportv/",
+                 "url": "https://germanblogs.beauty/dtvpl2.html?id=1056",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
@@ -791,20 +791,26 @@
              "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
                         "url": "https://freelive365.nl/player2.php?id=8&code=121&evento=Argentina"
                         }, {
-      		     "name": "Gol  Peru (opc.1) | PE 🇵🇪",
+			     "name": "Gol  Peru (opc.1) | PE 🇵🇪",
+            	    "image": "https://i.imgur.com/xvHtnbT.jpg",
+			"url": "https://tucanaldeportivo.com/golperu.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },{
+      		     "name": "Gol  Peru (opc.2) | PE 🇵🇪",
             	    "image": "https://i.imgur.com/xvHtnbT.jpg",
 		    "url": "https://golperu.futboltvhd.repl.co/",
                     "isHost": "true"
                 },  {
 			"name": "Gol Tv (opc.1) | ",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
-			"url": "https://bahiadeportes.com/canales/goltv.php",
+			"url": "https://embed2.promedios.futbol/dtvpl2.html?id=1134",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
 			"name": "Gol Tv (opc.2) | ",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
-			"url": "https://futbol-tv.online/ver/goltv",
+			"url": "https://www.tutelehd.net/online.php?a=4702",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
@@ -840,13 +846,13 @@
 "embed": "true" }, {
 			"name": "TNT Sports Chile (opc.2) | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
-			"url": "https://librefutbol.com/en-vivo/tnt-sports-chile/",
+			"url": "https://germanblogs.beauty/dtvpl2.html?id=1232",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
 			"name": "TNT Sports Chile (opc.3) | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
-			"url": "https://futbol-tv.online/ver/tnt-sports-chile",
+			"url": "https://tucanaldeportivo.com/cdf.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
@@ -890,13 +896,13 @@
 "embed": "true" },  {
 			"name": "TUDN USA (opc.2) | MX 🇺🇸",
 			"image": "https://i.imgur.com/hDp5KBz.png",
-			"url": "https://futbol-tv.online/ver/tudn",
+			"url": "https://embed.librefutbol.com/bm.html?get=aHR0cHM6Ly9jaGFubmVsLXRkbi1jZG4uYmxpbS5jb20vbWFuaWZlc3QubXBk",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
 			"name": "TUDN USA (opc.3) | MX 🇺🇸",
 			"image": "https://i.imgur.com/hDp5KBz.png",
-			"url": "https://librefutbol.com/en-vivo/tudn/",
+			"url": "https://www.tutelehd.net/online.php?a=7428",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
@@ -944,11 +950,17 @@
                 }, {
 			"name": "VTV Plus (opc.1) | URU 🇺🇾",
              "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png",
+			"url": "https://embed2.promedios.futbol/dtvpl2.html?id=1246",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+			"name": "VTV Plus (opc.2) | URU 🇺🇾",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png",
 			"url": "https://bahiadeportes.com/canales/vtvplus.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
-			"name": "VTV Plus (opc.2) | URU 🇺🇾",
+			"name": "VTV Plus (opc.3) | URU 🇺🇾",
             		 "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png",
 			   "url" : "https://livetvon.click/embed/stream-391.php",
             "isHost":"true"
@@ -958,13 +970,31 @@
 			"url": "https://bahiadeportes.com/canales/winsportsplus.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true" },  {
+"embed": "true" }, {
 			"name": "Win Sports Plus (opc.2) | CO 🇨🇴",
+			"image": "https://i.imgur.com/NwKPC6B.png",
+			"url": "https://germanblogs.beauty/dtvpl2.html?id=1251",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+			"name": "Win Sports Plus (opc.3) | CO 🇨🇴",
+			"image": "https://i.imgur.com/NwKPC6B.png",
+			"url": "https://www.tutelehd.net/online.php?a=3305",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+			"name": "Win Sports Plus (opc.4) | CO 🇨🇴",
+			"image": "https://i.imgur.com/NwKPC6B.png",
+			"url": "https://tucanaldeportivo.com/winmas.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+			"name": "Win Sports Plus (opc.5) | CO 🇨🇴",
 			"image": "https://i.imgur.com/NwKPC6B.png",
 			   "url" : "https://tvrojadirecta.info/gol.php",
             "isHost":"true"
             }, {
-			"name": "Win Sports Plus (opc.3) | CO 🇨🇴",
+			"name": "Win Sports Plus (opc.6) | CO 🇨🇴",
 			"image": "https://i.imgur.com/NwKPC6B.png",
 			   "url" : "https://livetvon.click/embed/stream-392.php",
             "isHost":"true"
