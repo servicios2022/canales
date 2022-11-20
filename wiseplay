@@ -424,13 +424,7 @@
                 "name":"LATINOS",
                 "image": "https://media2.giphy.com/media/FLm1cCVmEYYF8lH3E7/giphy.gif",
                 "stations":[
-                      {
-         	"name": "Azteca / (opc.1) | LAT 🇲🇽",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png",
-                 "url": "https://bahiadeportes.com/canales/azteca7.php",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" },  {		
+                      {		
 			"name": "Bein Sport Extra Ñ (opc.1) | LAT 🇲🇽",
 			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
 	   	     "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8",
@@ -452,12 +446,6 @@
 	   	      "url" :  "https://www.freelive365.net/player2.php?id=2&code=129&evento=United%20States",
 			 "isHost":"true"
                     }, {
-         	"name": "Canal 5 | LAT 🇲🇽",
-			"image": "https://i.imgur.com/kF3SyOi.png",
-                 "url": "https://bahiadeportes.com/canales/canal5",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
          	"name": "CDO Premium (opc.1) | CL 🇨🇱",
 			"image": "https://static.wikia.nocookie.net/logopedia/images/7/7c/CDO_2021.png/revision/latest?cb=20211122020635&path-prefix=es",
                  "url": "https://megatelevisionhd.com/en-vivo/cdo-premium/",
