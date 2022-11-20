@@ -6,7 +6,7 @@
 	"groups":[
 	    {
         "name":"DEPORTE EN ESPAÑOL",
-        "image": "https://i.pinimg.com/originals/c3/8e/b0/c38eb0e616eb4164cf55379910063ca2.gif",
+        "image": "https://media.giphy.com/media/WQqYj9ToV10g49Ma1h/giphy.gif",
         "groups":[
                 {
                 "name":"ESPAÑA",
@@ -1010,7 +1010,7 @@
 	    },
 	    {
         "name":"DEPORTE MUNDIAL",
-        "image": "https://i.pinimg.com/originals/c3/8e/b0/c38eb0e616eb4164cf55379910063ca2.gif",
+        "image": "https://media.giphy.com/media/WQqYj9ToV10g49Ma1h/giphy.gif",
         "stations":[
                 {
 			"name": "Sport Tv 1 | PT 🇵🇹",
