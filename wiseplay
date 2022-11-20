@@ -478,25 +478,25 @@
 "embed": "true" },  {
                            "name": "Direct Tv Sports 2 (opc.1) | AR 🇦🇷",
              "image": "https://i.imgur.com/bWw9A7h.png",
-                 "url": "https://librefutbol.com/en-vivo/directv-sports-2/",
+                 "url": "https://germanblogs.beauty/dtvpl2.html?id=1063",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
                            "name": "Direct Tv Sports 2 (opc.2) | AR 🇦🇷",
              "image": "https://i.imgur.com/bWw9A7h.png",
-                 "url": "https://futbol-tv.online/ver/dsports-2",
+                 "url": "https://www.tutelehd.net/online.php?a=7",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
                               "name": "Direct Tv Sports Plus (opc.1) | AR 🇦🇷",
             	 "image": "https://i.imgur.com/ztxH679.png",
-                 "url": "https://librefutbol.com/en-vivo/directv-sports-plus/",
+                 "url": "https://germanblogs.beauty/dtvpl2.html?id=1071",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
                               "name": "Direct Tv Sports Plus (opc.2) | AR 🇦🇷",
             	 "image": "https://i.imgur.com/ztxH679.png",
-                 "url": "https://futbol-tv.online/ver/dsports-plus",
+                 "url": "https://www.tutelehd.net/online.php?a=8",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
@@ -899,7 +899,13 @@
 			"url": "https://librefutbol.com/en-vivo/tudn/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true" }, {
+"embed": "true" },  {
+			  "name": "Tv Publica (opc.1) | AR 🇦🇷",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",
+			"url": "https://germanblogs.beauty/dtvpl2.html?id=1156",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },{
 		  "name": "TYC Sports (opc.1) | AR 🇦🇷",
 			"image": "https://i.imgur.com/I7Lhgej.png",
 			"url": "https://bahiadeportes.com/canales/tycsports.php",
