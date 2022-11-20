@@ -999,31 +999,7 @@
         "image": "https://media.giphy.com/media/WQqYj9ToV10g49Ma1h/giphy.gif",
         "stations":[
 	
-	{
-			"name": "BEIN SPORTS 3 MAX 4K",
-			"image": "https://png.pngtree.com/png-vector/20221016/ourmid/pngtree-4k-ultra-hd-icon-badges-png-image_6345247.png",
-			"url": "https://maxsport.one/worldcup4k1.php",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
-			"name": "TVP SPORTS 4K",
-			"image": "https://png.pngtree.com/png-vector/20221016/ourmid/pngtree-4k-ultra-hd-icon-badges-png-image_6345247.png",
-			"url": "https://maxsport.one/worldcup4k2.php",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
-			"name": "TF1 FRANCE 4K",
-			"image": "https://png.pngtree.com/png-vector/20221016/ourmid/pngtree-4k-ultra-hd-icon-badges-png-image_6345247.png",
-			"url": "https://maxsport.one/worldcup4k3.php",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
-			"name": "TRT 4K",
-			"image": "https://png.pngtree.com/png-vector/20221016/ourmid/pngtree-4k-ultra-hd-icon-badges-png-image_6345247.png",
-			"url": "https://maxsport.one/worldcup4k.php",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
+	 {
 			"name": "Sport Tv 1 | PT 🇵🇹",
              "image": "https://i.imgur.com/uHkR0lP.png",
            "url" :  "https://v4.sportsonline.to/channels/pt/sporttv1.php",
