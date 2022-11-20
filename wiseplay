@@ -899,7 +899,23 @@
 			"url": "https://embed.librefutbol.com/bm.html?get=aHR0cHM6Ly9jaGFubmVsLXRkbi1jZG4uYmxpbS5jb20vbWFuaWZlc3QubXBk",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true" },  {
+"embed": "true" }, {
+			"name": "TUDN1P) | URU 🇺🇾",
+            		 "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png",
+			   "url" : "https://embed.librefutbol.com/bm.html?get=aHR0cHM6Ly9jaGFubmVsLXRkbi1jZG4uYmxpbS5jb20vbWFuaWZlc3QubXBk",
+            "isHost":"true"
+            },  {
+      		     "name": "TU2| PE 🇵🇪",
+            	    "image": "https://i.imgur.com/xvHtnbT.jpg",
+		    "url": "https://embed.librefutbol.com/bm.html?get=aHR0cHM6Ly9jaGFubmVsLXRkbi1jZG4uYmxpbS5jb20vbWFuaWZlc3QubXBk",
+                    "isHost": "true"
+                }, { 
+                 "name": "TU3 | ES 🇪🇸",
+			"image": "https://i.imgur.com/N5mzib9.png",
+                   "url" : "https://embed.librefutbol.com/bm.html?get=aHR0cHM6Ly9jaGFubmVsLXRkbi1jZG4uYmxpbS5jb20vbWFuaWZlc3QubXBk",
+			 "referer": "https://librefutbol.com/",
+             "isHost": "true"
+                    }, {
 			"name": "TUDN USA (opc.3) | MX 🇺🇸",
 			"image": "https://i.imgur.com/hDp5KBz.png",
 			"url": "https://www.tutelehd.net/online.php?a=7428",
