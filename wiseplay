@@ -242,6 +242,11 @@
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
+			"name": "La 1 (opc.1) | ES 🇪🇸",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",
+	        "url": "https://v4.sportsonline.to/channels/hd/hd6.php",
+                   "userAgent" : ""
+                    }, {
 			"name": "La Liga Tv Bar (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/82Eb5m0.png",
 	        "url": "https://starlive.xyz/embed.php?id=liveLigaBar",
@@ -395,7 +400,13 @@
                 "name":"LATINOS",
                 "image": "https://i.pinimg.com/originals/3a/77/f6/3a77f6d57d1c2f1739661f95a5eaba32.gif",
                 "stations":[
-                       {		
+                      {
+         	"name": "Azteca / (opc.1) | LAT 🇲🇽",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png",
+                 "url": "https://bahiadeportes.com/canales/azteca7.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },  {		
 			"name": "Bein Sport Extra Ñ (opc.1) | LAT 🇲🇽",
 			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
 	   	     "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8",
@@ -416,7 +427,13 @@
 			"image": "https://i.imgur.com/c4gfwhr.png",
 	   	      "url" :  "https://www.freelive365.net/player2.php?id=2&code=129&evento=United%20States",
 			 "isHost":"true"
-                    },  {
+                    }, {
+         	"name": "Canal 5 | LAT 🇲🇽",
+			"image": "https://i.imgur.com/kF3SyOi.png",
+                 "url": "https://bahiadeportes.com/canales/canal5",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
          	"name": "CDO Premium (opc.1) | CL 🇨🇱",
 			"image": "https://static.wikia.nocookie.net/logopedia/images/7/7c/CDO_2021.png/revision/latest?cb=20211122020635&path-prefix=es",
                  "url": "https://megatelevisionhd.com/en-vivo/cdo-premium/",
@@ -819,8 +836,14 @@
                     "url": "https://starlive.xyz/embed.php?id=liveTelemundo",
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                }, {
+                },   {
                     "name": "Telemundo USA (opc.2) | MX 🇺🇸",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",
+                    "url": "https://starlive.xyz/embed.php?id=livexTelemundo",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+                    "name": "Telemundo USA (opc.3) | MX 🇺🇸",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",
                     "url": "https://livetvon.click/embed/stream-131.php",
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
@@ -903,7 +926,13 @@
 			"url": "https://germanblogs.beauty/dtvpl2.html?id=1156",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true" },{
+"embed": "true" }, {
+			  "name": "Tv Publica (opc.2) | AR 🇦🇷",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",
+			"url": "https://bahiadeportes.com/canales/tvpublica.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
 		  "name": "TYC Sports (opc.1) | AR 🇦🇷",
 			"image": "https://i.imgur.com/I7Lhgej.png",
 			"url": "https://bahiadeportes.com/canales/tycsports.php",
