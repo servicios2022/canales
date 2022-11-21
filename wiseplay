@@ -231,16 +231,15 @@
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
-             "name": "Gol Mundial(opc.1) | ES 🇪🇸",
-			"image": "https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png",
-"url": "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i", 
-"referer": "https://l1l1.to/", 
-"isHost":"true" 
-				}, {
-			"name": "Gol Mundial(opc.2) | ES 🇪🇸",
+			"name": "Gol Mundial(opc.1) | ES 🇪🇸",
 			"image": "https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png",
 	        "url": "https://starlive.xyz/embed.php?id=liveGOL_Mundial_1",
 		"userAgent" : ""
+                    }, {
+				"name": "Gol Mundial(opc.2) | ES 🇪🇸",
+			"image": "https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png",
+	        "url": "https://v4.sportsonline.to/channels/hd/hd6.php",
+                   "userAgent" : ""
                     }, {
                "name": "Gol Mundial(opc.3) | ES 🇪🇸",
 			"image": "https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png",
@@ -248,7 +247,7 @@
 "referer": "https://starlive.xyz/", 
 "isHost":"true" 
                 }, {
-             "name": "Gol Mundial(opc.3) | ES 🇪🇸",
+             "name": "Gol Mundial(opc.4) | ES 🇪🇸",
 			"image": "https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png",
 "url": "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i", 
 "referer": "https://l1l1.to/", 
@@ -259,18 +258,7 @@
                     "url": "https://livetvon.click/embed/stream-528.php",
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                }, {
-			"name": "La 1 (opc.1) | ES 🇪🇸",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",
-	        "url": "https://v4.sportsonline.to/channels/hd/hd6.php",
-                   "userAgent" : ""
-                    }, {
-		"name": "La 1 (opc.2) | ES 🇪🇸",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",
-"url": "https://unbiasedsenseevent.com/embed/ksji2aq4bn72", 
-"referer": "https://sportz.football/", 
-"isHost":"true" 
-				}, {
+                },  {
 			"name": "La Liga Tv Bar (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/82Eb5m0.png",
 	        "url": "https://starlive.xyz/embed.php?id=liveLigaBar",
