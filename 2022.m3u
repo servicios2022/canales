@@ -20,14 +20,9 @@ https://marine2.miplay.cl/c13/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png" group-title="MUNDIAL QATAR 2022", TV Publica | AR
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images/mundial-qatar/Logo-Qatar-2022-HD.png" group-title="MUNDIAL QATAR 2022",1
-https://griomreavigremant654.s3.amazonaws.com:443/redzone_720p60.m3u8
-#EXTINF:-1 tvg-logo="https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images/mundial-qatar/Logo-Qatar-2022-HD.png" group-title="MUNDIAL QATAR 2022",2
-https://hdstreamss.club/live/ch1/index.m3u8
-#EXTINF:-1 tvg-logo="https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images/mundial-qatar/Logo-Qatar-2022-HD.png" group-title="MUNDIAL QATAR 2022",3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/ORF_1_92_bis_00.svg/681px-ORF_1_92_bis_00.svg.png" group-title="MUNDIAL QATAR 2022",ORF1
 https://s6.hopslan.com:443/orf111/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images/mundial-qatar/Logo-Qatar-2022-HD.png" group-title="MUNDIAL QATAR 2022",4
-https://s6.hopslan.com/servus2/index.m3u8
+
 
 
 #EXTINF:1,-PLUTO TV-
