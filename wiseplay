@@ -243,15 +243,27 @@
                     }, {
                "name": "Gol Mundial(opc.3) | ES 🇪🇸",
 			"image": "https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png",
-"url": "https://utopianwilderness.com/embed/datzi6", 
-"referer": "https://starlive.xyz/", 
-"isHost":"true" 
+		"url": "https://utopianwilderness.com/embed/datzi6", 
+		"referer": "https://starlive.xyz/", 
+		"isHost":"true" 
                 }, {
              "name": "Gol Mundial(opc.4) | ES 🇪🇸",
 			"image": "https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png",
-"url": "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i", 
-"referer": "https://l1l1.to/", 
-"isHost":"true" 
+		"url": "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i", 
+		"referer": "https://l1l1.to/", 
+		"isHost":"true" 
+				}, {
+         "name": "Gol Mundial(opc.5) | ES 🇪🇸",
+			"image": "https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png", 
+		"url": "https://unbiasedsenseevent.com/embed/ksji2aq4bn72", 
+		"referer": "https://sportz.football/", 
+		"isHost":"true" 
+                               }, {
+         "name": "Gol Mundial(opc.6) | ES 🇪🇸",
+			"image": "https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png",
+		"url": "https://warnforlese.net/embed/6na79kddf", 
+		"referer": "https://1rowsportz.info/", 
+		"isHost":"true" 
 				}, {
                     "name": "Movistar Golf Spain | ES 🇪🇸",
                     "image": "https://i.imgur.com/4arV1NW.png",
@@ -836,20 +848,14 @@
                     "url": "https://starlive.xyz/embed.php?id=liveTelemundo",
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                },   {
+                },  {
                     "name": "Telemundo USA (opc.2) | MX 🇺🇸",
-                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",
-                    "url": "https://starlive.xyz/embed.php?id=livexTelemundo",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-                    "name": "Telemundo USA (opc.3) | MX 🇺🇸",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",
                     "url": "https://livetvon.click/embed/stream-131.php",
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
-    		 "name": "Telemundo USA (opc.4) | MX 🇺🇸",
+    		 "name": "Telemundo USA (opc.3) | MX 🇺🇸",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",
 		"url": "https://utopianwilderness.com/embed/vmrjhp94n", 
 		"referer": "https://starlive.xyz/", 
@@ -975,12 +981,6 @@
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
-					 "name": "TYC Sports (opc.4) | AR 🇦🇷",
-			"image": "https://i.imgur.com/I7Lhgej.png",
-"url": "https://unbiasedsenseevent.com/embed/p7uf4et6n5s8o0", 
-"referer": "https://l1l1.to/", 
-"isHost":"true" 
-                }, {
                     "name": "Unimas USA | MX 🇺🇸",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png",
                     "url": "https://livetvon.click/embed/stream-133.php",
