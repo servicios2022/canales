@@ -29,14 +29,10 @@ https://v-px.mybtv.net/live/14/1280x720.m3u8
 https://v-ca.mybtv.net/live/170/1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://ar.catalyst.concentrix.com/wp-content/uploads/2019/12/fox-logo-gray.png" group-title="MUNDIAL QATAR 2022",FOX HD
 https://v-ny.mybtv.net/live/550/1280x720.m3u8
-#EXTINF:-1 tvg-logo="https://img.kooora.com/?i=o%2Fh%2F2%2F22%2Fgol-mundial-1.png" group-title="MUNDIAL QATAR 2022",Gol Mundial HD
-https://canaldominicanos.online/gol-mundial-trrresss-pluss-dddd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.kooora.com/?i=o%2Fh%2F2%2F22%2Fgol-mundial-1.png" group-title="MUNDIAL QATAR 2022",Gol Mundial HD
 http://80.82.65.242:8080/live/6581662236429346/8621662236429346/40862.ts?token=Q0FaWEpZFFsXVQRQBFMNUAEHVwJeDl4CBFYABQZSVwNeWgVcDQAABFYVGEZGFUdTUl9qWwIVAlVSCwZWGENHQ10RbVBdEwxDDQAHVgZDGRRHW1hXRA0JV1QKBVAHVgEFFEFCUF0TDEMHBwVRA0MZFFZKQVcUWVkNPVdVEl0CVxICDUdVVR0UDltoUAFYAFtSEQgXA0QbGggRQxJeWhReXBRBUFBNQ1cVUBUORgNXBwURHhdRCUJWFRBKEl4WJGESFEFXQU1UWBJcWFpGD0NBRREeF1sVaEoEEUdCAVUMV0IaWRAJGx0UDFRPawdaD1tTUEZcXQhEGltAAhJIFgxdXlEXXUtmQV8FFw0WVwJZBRRO
-#EXTINF:-1 tvg-logo="https://img.kooora.com/?i=o%2Fh%2F2%2F22%2Fgol-mundial-1.png" group-title="MUNDIAL QATAR 2022",9 Goal Tv HD
-https://s@turnthe.gameon.tel/live/bbconeuk/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.kooora.com/?i=o%2Fh%2F2%2F22%2Fgol-mundial-1.png" group-title="MUNDIAL QATAR 2022",9 TSN HD
-https://s@d3e59tvu740lwe.cloudfront.net:443/out/v1/b07445d192b74bad9a9d92d652287ff8/index_1.m3u8
+
 
 #EXTINF:1,-PLUTO TV-
 
