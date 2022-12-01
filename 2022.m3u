@@ -36,6 +36,8 @@ https://v-px.mybtv.net/live/14/1280x720.m3u8
 https://v-ca.mybtv.net/live/170/1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://ar.catalyst.concentrix.com/wp-content/uploads/2019/12/fox-logo-gray.png" group-title="MUNDIAL QATAR 2022",FOX HD
 https://v-ny.mybtv.net/live/550/1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N70yYDl.png" group-title="MUNDIAL QATAR 2022",Bein Sports 2 Max HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12304.m3u8
 
 #EXTINF:1,-PLUTO TV-
 
