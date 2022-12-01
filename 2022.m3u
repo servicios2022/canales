@@ -13,31 +13,30 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 
 #EXTINF:-1 tvg-logo="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F4.png" group-title="PLUTO TV",•●★-- 📺 MUNDIAL QATAR 2022 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="MUNDIAL QATAR 2022",Telemundo FHD
-https://v-ca.mybtv.net/live/140/1280x720.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="MUNDIAL QATAR 2022",Telemundo FHD
-https://v-px.mybtv.net/live/39/1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://img.kooora.com/?i=o%2Fh%2F2%2F22%2Fgol-mundial-1.png" group-title="MUNDIAL QATAR 2022",Gol Mundial HD
 http://80.82.65.242:8080/live/6581662236429346/8621662236429346/40862.ts?token=Q0FaWEpZFFsXVQRQBFMNUAEHVwJeDl4CBFYABQZSVwNeWgVcDQAABFYVGEZGFUdTUl9qWwIVAlVSCwZWGENHQ10RbVBdEwxDDQAHVgZDGRRHW1hXRA0JV1QKBVAHVgEFFEFCUF0TDEMHBwVRA0MZFFZKQVcUWVkNPVdVEl0CVxICDUdVVR0UDltoUAFYAFtSEQgXA0QbGggRQxJeWhReXBRBUFBNQ1cVUBUORgNXBwURHhdRCUJWFRBKEl4WJGESFEFXQU1UWBJcWFpGD0NBRREeF1sVaEoEEUdCAVUMV0IaWRAJGx0UDFRPawdaD1tTUEZcXQhEGltAAhJIFgxdXlEXXUtmQV8FFw0WVwJZBRRO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="MUNDIAL QATAR 2022",Telemundo FHD
+https://v-px.mybtv.net/live/39/1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="MUNDIAL QATAR 2022",Telemundo FHD
+https://v-ca.mybtv.net/live/140/1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="MUNDIAL QATAR 2022",La 1 HD
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="1179" tvg-name="Contacto Deportivo" tvg-logo="https://globalsquads.com/custom/uploads/images/72027_tyc.png" group-title="MUNDIAL QATAR 2022", TyC Sports HD
 https://s@d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/trt1-logo.png" group-title="MUNDIAL QATAR 2022",TRT 1 HD
-https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
-
 #EXTINF:-1 tvg-id="1179" tvg-name="Contacto Deportivo" tvg-logo="https://i2.paste.pics/7787d1d2ab3382cc09d2c3fa9bb8720d.png" group-title="MUNDIAL QATAR 2022", Contacto Deportivo HD
 https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N70yYDl.png" group-title="MUNDIAL QATAR 2022",Bein Sports 2 Max HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12304.m3u8
 #EXTINF:-1 tvg-logo="https://ar.catalyst.concentrix.com/wp-content/uploads/2019/12/fox-logo-gray.png" group-title="MUNDIAL QATAR 2022",FOX HD
 https://ovocloud.site:443/live/abr_s-1/live/s-1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://ar.catalyst.concentrix.com/wp-content/uploads/2019/12/fox-logo-gray.png" group-title="MUNDIAL QATAR 2022",FOX HD
-https://v-px.mybtv.net/live/14/1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://ar.catalyst.concentrix.com/wp-content/uploads/2019/12/fox-logo-gray.png" group-title="MUNDIAL QATAR 2022",FOX HD
 https://v-ca.mybtv.net/live/170/1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://ar.catalyst.concentrix.com/wp-content/uploads/2019/12/fox-logo-gray.png" group-title="MUNDIAL QATAR 2022",FOX HD
 https://v-ny.mybtv.net/live/550/1280x720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N70yYDl.png" group-title="MUNDIAL QATAR 2022",Bein Sports 2 Max HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12304.m3u8
+#EXTINF:-1 tvg-logo="https://ar.catalyst.concentrix.com/wp-content/uploads/2019/12/fox-logo-gray.png" group-title="MUNDIAL QATAR 2022",FOX HD
+https://v-px.mybtv.net/live/14/1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/trt1-logo.png" group-title="MUNDIAL QATAR 2022",TRT 1 HD
+https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 
 #EXTINF:1,-PLUTO TV-
 
