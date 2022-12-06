@@ -25,6 +25,8 @@ https://v-px.mybtv.net/live/39/1280x720.m3u8
 https://v-ca.mybtv.net/live/140/1280x720.m3u8
 #EXTINF:-1 tvg-id="1179" tvg-name="Contacto Deportivo" tvg-logo="https://i2.paste.pics/7787d1d2ab3382cc09d2c3fa9bb8720d.png" group-title="MUNDIAL QATAR 2022", Contacto Deportivo HD
 https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/220px-La_1_HD_TVE.png" group-title="MUNDIAL QATAR 2022",la 1 HD
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N70yYDl.png" group-title="MUNDIAL QATAR 2022",Bein Sports 2 Max HD
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/12304.m3u8
 #EXTINF:-1 tvg-logo="https://ar.catalyst.concentrix.com/wp-content/uploads/2019/12/fox-logo-gray.png" group-title="MUNDIAL QATAR 2022",FOX HD
