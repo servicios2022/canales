@@ -17,8 +17,11 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 https://turnthe.gameon.tel/live/telemundo/index.m3u8
 #EXTINF:-1 tvg-id="1179" tvg-name="Contacto Deportivo" tvg-logo="https://i2.paste.pics/7787d1d2ab3382cc09d2c3fa9bb8720d.png" group-title="MUNDIAL QATAR 2022", Contacto Deportivo HD
 https://live.obslivestream.com/cdeportivo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N70yYDl.png" group-title="MUNDIAL QATAR 2022",Bein Sports 2 Max HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12304.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUNDIAL QATAR 2022",B
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUNDIAL QATAR 2022",vtv
+https://nvzoftzsvflivcf.vcdn.com.vn/vtv6/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://ar.catalyst.concentrix.com/wp-content/uploads/2019/12/fox-logo-gray.png" group-title="MUNDIAL QATAR 2022",FOX HD
 https://ovocloud.site:443/live/abr_s-1/live/s-1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://ar.catalyst.concentrix.com/wp-content/uploads/2019/12/fox-logo-gray.png" group-title="MUNDIAL QATAR 2022",FOX HD
