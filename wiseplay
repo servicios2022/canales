@@ -280,12 +280,6 @@
                     }, {
 			 "name": "La Liga Tv por M+ (opc.8) | ES 🇪🇸",
 			"image": "https://i.imgur.com/K1p7zVZ.png",
-			 "url": "https://parsimoniousinvincible.net/embed/6na79kddf",
-			"referer": "https://streamonsport.ru/",
-			"isHost" : "true"
-			 }, {
-			 "name": "La Liga Tv por M+ (opc.9) | ES 🇪🇸",
-			"image": "https://i.imgur.com/K1p7zVZ.png",
 			 "url": "https://strayindicate.net/embed/2twhx",
 			"referer": "https://1rowsportz.info/",
 			"isHost" : "true" 
@@ -657,6 +651,12 @@
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
+			   "name": "ESPN Deportes Mexico (opc.3) | LAT 🇲🇽",
+                        "image": "https://i.imgur.com/cYvji3A.png",
+			"url" : "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i",
+			 "referer": "https://l1l1.to/",
+             "isHost": "true"  
+                     }, {
                 "name": "Fox Sports Argentina (opc.1) | AR 🇦🇷",
 			"image": "https://i.imgur.com/CF5il5c.png",
                  "url": "https://bahiadeportes.com/canales/foxsportsarg.php",
