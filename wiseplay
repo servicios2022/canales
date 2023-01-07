@@ -647,17 +647,7 @@
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
-                          "name": "ESPN Deportes Mexico (opc.1) | LAT 🇲🇽",
-                        "image": "https://i.imgur.com/cYvji3A.png",
-                        "url": "https://freelive365.nl/player2.php?id=11&code=130&evento=Mexico"
-                      },  {
-                      "name": "ESPN Deportes Mexico (opc.2) | LAT 🇲🇽",
-                        "image": "https://i.imgur.com/cYvji3A.png",
-                    "url": "https://livetvon.click/embed/stream-375.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			   "name": "ESPN Deportes Mexico (opc.3) | LAT 🇲🇽",
+			   "name": "ESPN Deportes Mexico (opc.1) | LAT 🇲🇽",
                         "image": "https://i.imgur.com/cYvji3A.png",
 			"url" : "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i",
 			 "referer": "https://l1l1.to/",
