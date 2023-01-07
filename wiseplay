@@ -1,5 +1,7 @@
 
 
+
+
 {	"name": "DEPORTE MUNDIAL",
  "author": "📺Si vives en España necesitas VPN para ver algunos canales!!📺",
  "image": "https://i.imgur.com/UeLUsrq.gif",
@@ -236,7 +238,7 @@
                     }, {
 			"name": "La Liga Tv por M+ (opc.2) | ES 🇪🇸",
 			"image": "https://i.imgur.com/K1p7zVZ.png",
-	        "url": "https://v4.sportsonline.to/channels/hd/hd6.php",
+	        "url": "https://sportsembed.su/channels/hd/hd6.php",
 		"userAgent" : ""
                     }, {
 		  "name": "La Liga Tv por M+ (opc.3) | ES 🇪🇸",
@@ -964,27 +966,27 @@
 	 {
 			"name": "Sport Tv 1 | PT 🇵🇹",
              "image": "https://i.imgur.com/uHkR0lP.png",
-           "url" :  "https://v4.sportsonline.to/channels/pt/sporttv1.php",
+           "url" :  "https://sportsembed.su/channels/pt/sporttv1.php",
 			 "isHost":"true"
                       }, {
 			"name": "Sport Tv 2 (opc.1) | PT 🇵🇹",
              "image": "https://i.imgur.com/GGVYfbU.png",
-           "url" :  "https://v4.sportsonline.to/channels/pt/sporttv2.php",
+           "url" :  "https://sportsembed.su/channels/pt/sporttv2.php",
 			 "isHost":"true"
                       }, {
 			"name": "Sport Tv 3 (opc.1) | PT 🇵🇹",
              "image": "https://i.imgur.com/tvCMAD0.png",
-           "url" :  "https://v4.sportsonline.to/channels/pt/sporttv3.php",
+           "url" :  "https://sportsembed.su/channels/pt/sporttv3.php",
 			 "isHost":"true"
                       },  {
 			"name": "Sport Tv 4 | PT 🇵🇹",
              "image": "https://i.imgur.com/hsFXLeF.png",
-           "url" :  "https://v4.sportsonline.to/channels/pt/sporttv4.php",
+           "url" :  "https://sportsembed.su/channels/pt/sporttv4.php",
 			 "isHost":"true"
                       }, {
 			"name": "Sport Tv 5 | PT 🇵🇹",
              "image": "https://i.imgur.com/PcK7Dub.png",
-           "url" :  "https://v4.sportsonline.to/channels/pt/sporttv5.php",
+           "url" :  "https://sportsembed.su/channels/pt/sporttv5.php",
 			 "isHost":"true"
                       }  {
                     "name": "Arena Sport 1 Croatia",
