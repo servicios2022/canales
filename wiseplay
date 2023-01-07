@@ -245,62 +245,27 @@
                     }, {
 			"name": "La Liga Tv por M+ (opc.2) | ES 🇪🇸",
 			"image": "https://i.imgur.com/K1p7zVZ.png",
-	        "url": "https://starlive.xyz/embed.php?id=livexLiga",
-		"userAgent" : ""
-                    }, {
-			"name": "La Liga Tv por M+ (opc.3) | ES 🇪🇸",
-			"image": "https://i.imgur.com/K1p7zVZ.png",
 	        "url": "https://v4.sportsonline.to/channels/hd/hd6.php",
 		"userAgent" : ""
                     }, {
-			"name": "La Liga Tv por M+ (opc.4) | ES 🇪🇸",
-			"image": "https://i.imgur.com/K1p7zVZ.png",
-			  "url": "https://ragnaru.net/embed.php?player=desktop&live=do19",
-			"referer": "https://1.vecdn.pw/",
-             "isHost": "true"
-               }, {
-		  "name": "La Liga Tv por M+ (opc.5) | ES 🇪🇸",
-			"image": "https://i.imgur.com/K1p7zVZ.png",
-			 "url": "https://utopianwilderness.com/embed/7str56mtb",
-              "referer": "https://starlive.xyz/",
-             "isHost": "true"
-                     }, {
-		  "name": "La Liga Tv por M+ (opc.6) | ES 🇪🇸",
-			"image": "https://i.imgur.com/K1p7zVZ.png",
-			"url" : "https://unbiasedsenseevent.com/embed/pyxs8u5a6hp",
-			 "referer": "https://l1l1.to/",
-             "isHost": "true"  
-                    }, {
-		  "name": "La Liga Tv por M+ (opc.7) | ES 🇪🇸",
+		  "name": "La Liga Tv por M+ (opc.3) | ES 🇪🇸",
 			"image": "https://i.imgur.com/K1p7zVZ.png",
 			 "url": "https://parsimoniousinvincible.net/embed/6na79kddf",
 			"referer": "https://leet365.cc/",
 			"isHost" : "true"
 			  }, {
-			  "name": "La Liga Tv por M+ (opc.8) | ES 🇪🇸",
+			  "name": "La Liga Tv por M+ (opc.4) | ES 🇪🇸",
 			"image": "https://i.imgur.com/K1p7zVZ.png",
 			 "url": "https://strayindicate.net/embed/2twhx",
 			"referer": "https://1rowsportz.info/",
 			"isHost" : "true" 
                    }, {
-		  "name": "La Liga Tv por M+ (opc.9) | ES 🇪🇸",
-			"image": "https://i.imgur.com/K1p7zVZ.png",
-        "url": "https://sportkart1.xyz/embed/scplayer-84.php",
-			"referer": "https://cdn.sportcast.life/",
-             "isHost": "true"
-                  }, {
-		  "name": "La Liga Tv por M+ (opc.10) | ES 🇪🇸",
+		  "name": "La Liga Tv por M+ (opc.5) | ES 🇪🇸",
 			"image": "https://i.imgur.com/K1p7zVZ.png",
         			"url" : "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
             "referer": "https://buzztv.futbol/",
 			"isHost": "true"  
-                 },    {
-          "name": "La Liga Tv por M+ (opc.11) | ES 🇪🇸",
-			"image": "https://i.imgur.com/K1p7zVZ.png",
-                    "url": "https://livetvon.click/embed/stream-538.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
+                 }, {
 			  "name": "Liga de Campeones por M+ (opc.1) | ES 🇪🇸",
                 "image": "https://i.imgur.com/wiLQCUD.png",
         "url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
