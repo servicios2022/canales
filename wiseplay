@@ -161,17 +161,23 @@
                                "url": "https://utopianwilderness.com/embed/c94q8ojya43p2",
               "referer": "https://starlive.xyz/",
              "isHost": "true"
-                       }, {
+                   }, {
                   	"name": "DAZN la Liga (opc.6) | ES 🇪🇸",
 			"image": "https://i.imgur.com/JLciFmy.jpg",
 			   "url": "https://strayindicate.net/embed/wwcujo0oiatyw93",
               "referer": "https://1rowsportz.info/",
              "isHost": "true"
-                 },  {
+               },  {
           	"name": "DAZN la Liga (opc.7) | ES 🇪🇸",
 			"image": "https://i.imgur.com/JLciFmy.jpg",
                         "url": "https://freelive365.nl/player2.php?id=33&code=171&evento=espa%C3%91a"
-                        }, {  
+              }, {
+			"name": "DAZN la Liga (opc.8) | ES 🇪🇸",
+			"image": "https://i.imgur.com/JLciFmy.jpg",
+			 "url": "https://fullhdmatch.biz/vplayer.php?stream=daznlaliga",
+			"referer": "https://fullhdmatch.biz/ch/daznlaliga.php",
+			"isHost" : "true" 
+                 }, {  
 			"name": "Deportes por M+ (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/OJqxHKo.png",
 			 "url": "https://livetvon.click/stream/stream-436.php",
