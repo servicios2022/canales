@@ -16,13 +16,7 @@
                 "name":"ESPAÑA",
                 "image": "https://i.imgur.com/lYTE7Uw.gif",
                 "stations":[
-                       {
-                    "name": "Barça TV | ES 🇪🇸",
-                    "image": "https://i.imgur.com/EKHFZDU.png",
-                    "url": "https://livetvon.click/embed/stream-522.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },  {
+                      {
          		 "name": "DAZN 1 (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/NcXEpiv.png",
                  "url": "https://cdix.pages.dev/dazn1",
