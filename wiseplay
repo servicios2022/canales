@@ -988,7 +988,7 @@
              "image": "https://i.imgur.com/PcK7Dub.png",
            "url" :  "https://sportsembed.su/channels/pt/sporttv5.php",
 			 "isHost":"true"
-                      }  {
+                      },  {
                     "name": "Arena Sport 1 Croatia",
                     "image": "https://i.imgur.com/KH7dVjI.png",
                     "url": "https://livetvon.click/embed/stream-432.php",
