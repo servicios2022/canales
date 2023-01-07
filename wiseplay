@@ -146,33 +146,18 @@
 	        "url": "https://starlive.xyz/embed.php?id=liveLigaDazn",
 		"userAgent" : ""
                     }, {
-			"name": "DAZN la Liga (opc.3) | ES 🇪🇸",
-			"image": "https://i.imgur.com/JLciFmy.jpg",
-	        "url": "https://starlive.xyz/embed.php?id=livexLigaDazn",
-		"userAgent" : ""
-                    }, {
-				"name": "DAZN la Liga (opc.4) | ES 🇪🇸",
+				"name": "DAZN la Liga (opc.3) | ES 🇪🇸",
 			"image": "https://i.imgur.com/JLciFmy.jpg",
 			"url" : "http://stream.jokerstreampage.xyz/?player=%3Ciframe%20src%3D%22https%3A%2F%2Fwww.jokersplayer.xyz%2Fembedssl.php%3Fu%3Ddaznlaliga%26amp%3Bvw%3D100percent%26vh%3D360%22%20width%3D%22640%22%20height%3D%22360%22%20scrolling%3D%22no%22%20frameborder%3D%220%22%20allowtransparency%3D%22true%22%20marginheight%3D%220%22%20marginwidth%3D%220%22%20allowfullscreen%3D%22allowfullscreen%22%3E%3C%2Fiframe%3E&homeTeamName=Valencia&homeTeamLogo=/participants/2828.png&guestTeamName=Barcelona&guestTeamLogo=/participants/2817.png&matchStartTime=1667070000&matchEndTime=1667077200&gameType=football&leagueUrl=laliga&leagueName=LaLiga&leagueLogo=/league/8.png&leagueId=90bdf1bd&title=Valencia%20vs%20Barcelona%20Live%20Stream%20-%20on%20Saturday,%2029%20October%2019:00%20UTC",
                         "isHost": "true"
-			 }, {
-                	"name": "DAZN la Liga (opc.5) | ES 🇪🇸",
-			"image": "https://i.imgur.com/JLciFmy.jpg",
-                               "url": "https://utopianwilderness.com/embed/c94q8ojya43p2",
-              "referer": "https://starlive.xyz/",
-             "isHost": "true"
-                   }, {
-                  	"name": "DAZN la Liga (opc.6) | ES 🇪🇸",
+			 } {
+                  	"name": "DAZN la Liga (opc.4) | ES 🇪🇸",
 			"image": "https://i.imgur.com/JLciFmy.jpg",
 			   "url": "https://strayindicate.net/embed/wwcujo0oiatyw93",
               "referer": "https://1rowsportz.info/",
              "isHost": "true"
-               },  {
-          	"name": "DAZN la Liga (opc.7) | ES 🇪🇸",
-			"image": "https://i.imgur.com/JLciFmy.jpg",
-                        "url": "https://freelive365.nl/player2.php?id=33&code=171&evento=espa%C3%91a"
-              }, {
-			"name": "DAZN la Liga (opc.8) | ES 🇪🇸",
+               }, {
+			"name": "DAZN la Liga (opc.5) | ES 🇪🇸",
 			"image": "https://i.imgur.com/JLciFmy.jpg",
 			 "url": "https://fullhdmatch.biz/vplayer.php?stream=daznlaliga",
 			"referer": "https://fullhdmatch.biz/ch/daznlaliga.php",
