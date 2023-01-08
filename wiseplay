@@ -226,22 +226,6 @@
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
-			"name": "Bein Sport Ñ (opc.2) | LAT 🇲🇽",
-			"image": "https://i.imgur.com/c4gfwhr.png",
-	   	      "url" :  "https://www.freelive365.net/player2.php?id=2&code=129&evento=United%20States",
-			 "isHost":"true"
-                    }, {
-         	"name": "CDO Premium (opc.1) | CL 🇨🇱",
-			"image": "https://static.wikia.nocookie.net/logopedia/images/7/7c/CDO_2021.png/revision/latest?cb=20211122020635&path-prefix=es",
-                 "url": "https://megatelevisionhd.com/en-vivo/cdo-premium/",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
-			"name": "Claro Sports | LAT 🇲🇽",
-			"image": "https://i.imgur.com/BAHebvo.png",
-	        "url": "https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8",
-		"userAgent" : ""
-                    }, {
                  "name": "Deport Tv (opc.1) | AR 🇦🇷",
           	   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/1200px-DeporTV_%282020_Logo_oficial%29.png",
                  "url": "https://usermarket.bond/dtvpl2.html?id=1056",
@@ -311,18 +295,6 @@
                               "name": "Direct Tv Sports Plus (opc.2) | AR 🇦🇷",
             	 "image": "https://i.imgur.com/ztxH679.png",
                  "url": "https://www.tutele.nl/online.php?a=8",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
-			   "name": "Direct Tv Sports Fight | AR 🇦🇷",
-            		 "image": "https://i.imgur.com/WXDmOu1.png",
-			"url": "https://bahiadeportes.com/canales/dtvsportsfight.php",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
-			   "name": "ECDF | EC 🇪🇨",
-            		 "image": "https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png",
-			"url": "https://futbolfullenvivo.com/ver-channel-el-canal-del-futbol-en-vivo/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
@@ -574,17 +546,7 @@
 			"image": "https://cdn.tvpassport.com/image/station/240x135/v2/s15377_h15_ab.png",
                         "url": "https://freelive365.nl/player2.php?id=11&code=131&evento=Mexico"
                         }, {
-                       "name": "Fox Sports Premium (opc.1) | AR 🇦🇷",
-             "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",
-                        "url": "https://freelive365.nl/player2.php?id=8&code=121&evento=Argentina"
-                        }, {
-			     "name": "Gol  Peru (opc.1) | PE 🇵🇪",
-            	    "image": "https://i.imgur.com/xvHtnbT.jpg",
-			"url": "https://tucanaldeportivo.com/golperu.php",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" },{
-      		     "name": "Gol  Peru (opc.2) | PE 🇵🇪",
+      		     "name": "Gol  Peru (opc.1) | PE 🇵🇪",
             	    "image": "https://i.imgur.com/xvHtnbT.jpg",
 		    "url": "https://golperu.futboltvhd.repl.co/",
                     "isHost": "true"
@@ -601,18 +563,6 @@
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
-			"name": "Tigo Sports (opc.1) | ",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png",
-			"url": "https://megatelevisionhd.com/en-vivo/tigo-sports/",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-		"playInNatPlayer": "true",
-		"embed": "true" }, {
-			"name": "Tigo Sports (opc.2) | ",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png",
-			"url": "https://futbollibre.net/en-vivo/tigo-sports/",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-		"playInNatPlayer": "true",
-		"embed": "true" }, {
 			"name": "TNT Sports Chile (opc.1) | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url": "https://facecamp.co.in/dtvpl2.html?id=1232",
@@ -703,12 +653,6 @@
 			"name": "VTV Plus (opc.1) | URU 🇺🇾",
              "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png",
 			"url": "https://embed2.promedios.futbol/dtvpl2.html?id=1246",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
-			"name": "VTV Plus (opc.2) | URU 🇺🇾",
-             "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png",
-			"url": "https://bahiadeportes.com/canales/vtvplus.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
