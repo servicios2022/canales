@@ -14,24 +14,8 @@
                  "url": "https://cdix.pages.dev/dazn1",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true" }, {
-			"name": "DAZN 1 (opc.2) | ES 🇪🇸",
-			"image": "https://i.imgur.com/NcXEpiv.png",
-	        "url": "https://starlive.xyz/embed.php?id=liveDazn1_ES",
-		"userAgent" : ""
-                    }, {
-			"name": "DAZN 1 (opc.3) | ES 🇪🇸",
-			"image": "https://i.imgur.com/NcXEpiv.png",
-	        "url": "https://starlive.xyz/embed.php?id=livexDazn1_ES",
-		"userAgent" : ""
-                    }, {
-             "name": "DAZN 1 (opc.4) | ES 🇪🇸",
-			"image": "https://i.imgur.com/NcXEpiv.png",
-                              "url" : "https://deliriousholistic.net/embed/tm0reet5y6nl3fi",
-			 "referer" : "https://bahiadeportes.com/",
-                    "isHost" : "true"
-                       },  {
-                  "name": "DAZN 1 (opc.5) | ES 🇪🇸",
+"embed": "true" },  {
+                  "name": "DAZN 1 (opc.2) | ES 🇪🇸",
 			"image": "https://i.imgur.com/NcXEpiv.png",
 			  "url": "https://maxsport.one/dazn1.php",
 			"isHost": "true"
@@ -41,39 +25,13 @@
                  "url": "https://cdix.pages.dev/dazn2",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true" }, {
-			"name": "DAZN 2 (opc.2) | ES 🇪🇸",
-			"image": "https://i.imgur.com/N5mzib9.png",
-	        "url": "https://starlive.xyz/embed.php?id=liveDazn2_ES",
-		"userAgent" : ""
-                    }, {
-			"name": "DAZN 2 (opc.3) | ES 🇪🇸",
-			"image": "https://i.imgur.com/N5mzib9.png",
-	        "url": "https://starlive.xyz/embed.php?id=livexDazn2_ES",
-		"userAgent" : ""
-                    }, { 
-                "name": "DAZN 2 (opc.4) | ES 🇪🇸",
+"embed": "true" }, { 
+                "name": "DAZN 2 (opc.2) | ES 🇪🇸",
 			"image": "https://i.imgur.com/N5mzib9.png",
                    "url": "https://maxsport.one/dazn2.php",
              "isHost": "true"
 	           }, { 
-                 "name": "DAZN 2 (opc.5) | ES 🇪🇸",
-			"image": "https://i.imgur.com/N5mzib9.png",
-                   "url" : "https://deliriousholistic.net/embed/lup8x",
-			 "referer": "https://bahiadeportes.com/",
-             "isHost": "true"
-                    }, {
-			"name": "DAZN 3 (opc.1) | ES 🇪🇸",
-			"image": "https://i.imgur.com/uiwiHzs.png",
-	        "url": "https://starlive.xyz/embed.php?id=liveDazn3_ES",
-		"userAgent" : ""
-                    }, {
-			"name": "DAZN 3 (opc.2) | ES 🇪🇸",
-			"image": "https://i.imgur.com/uiwiHzs.png",
-	        "url": "https://starlive.xyz/embed.php?id=livexDazn3_ES",
-		"userAgent" : ""
-                    }, { 
-               "name": "DAZN 3 (opc.4) | ES 🇪🇸",
+               "name": "DAZN 3 (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/uiwiHzs.png",
                      "url": "https://maxsport.one/dazn3.php",
             "isHost":"true"
