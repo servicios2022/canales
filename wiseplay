@@ -127,7 +127,18 @@
 			"image": "https://i.imgur.com/OJqxHKo.png",
                         "url": "http://xone8.1222908.net:80/live/559912B0380379ED95C397C46957B9DF/323634.m3u8",
 			 "userAgent" : "PlusMediaPlayer/0.0.9"
-			  },  {
+			  }, {
+			  "name": "La Liga SmartBank Tv (opc.1) | ES 🇪🇸",
+			"image": "https://i.imgur.com/fgG9oaZ.png",
+			 "url": "https://unbiasedsenseevent.com/embed/pyxs8u5a6hp",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"  
+	      },  {
+		  "name": "La Liga SmartBank Tv (opc.2) | ES 🇪🇸",
+			"image": "https://i.imgur.com/fgG9oaZ.png",
+       			 "url": "https://sportskart.click/embed/stream-539.php",
+           "isHost" : "true"
+		}, {
 		  "name": "La Liga Tv por M+ (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/K1p7zVZ.png",
         			"url" : "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
