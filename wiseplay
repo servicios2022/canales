@@ -129,14 +129,15 @@
                  },  {
 			"name": "Deportes por M+ (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/OJqxHKo.png",
-			 "url": "https://wecast.to/sabri.php?stream=sabrouch39",
-			"referer": "https://wizhdlive.xyz/",
-			"isHost": "true"
-         }, {
+			 "url": "https://unbiasedsenseevent.com/embed/89ftq8ua1j5lr",
+	        "referer" : "https://1stream.buzz/",
+                  "isHost": "true"
+        }, {
                        	"name": "Deportes por M+ (opc.2) | ES 🇪🇸",
 			"image": "https://i.imgur.com/OJqxHKo.png",
-                        "url": "https://freelive365.nl/player2.php?id=33&code=177&evento=espa%C3%91a"
-                        },  {
+                        "url": "http://xone8.1222908.net:80/live/559912B0380379ED95C397C46957B9DF/323634.m3u8",
+			 "userAgent" : "PlusMediaPlayer/0.0.9"
+			  },  {
 		  "name": "La Liga Tv por M+ (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/K1p7zVZ.png",
         			"url" : "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
@@ -197,26 +198,19 @@
                    		  "name": "Liga de Campeones por M+ (opc.3) | ES 🇪🇸",
                 "image": "https://i.imgur.com/wiLQCUD.png",
                         "url": "https://freelive365.nl/player2.php?id=33&code=172&evento=espa%C3%91a"
-                        },  { 
-                "name": "#Vamos por M+ (opc.1) | ES 🇪🇸",
-			"image": "https://i.imgur.com/ZYXUy5I.png",
-               "url" : "https://utopianwilderness.com/embed/fhc0cutcd",
-	        "referer" : "https://starlive.xyz/",
-            "isHost":"true"
-                    }, { 
-              "name": "#Vamos por M+ (opc.2) | ES 🇪🇸",
-			"image": "https://i.imgur.com/ZYXUy5I.png",
-                 "url": "https://tvhd.capshd.xyz/online/canal488.php",
-                  "referer" : "https://www.daddylive.pro/",
-			 "isHost": "true"
-                      }, {
-			  "name": "#Vamos por M+ (opc.3) | ES 🇪🇸",
+                        }, {
+			  "name": "#Vamos por M+ (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/ZYXUy5I.png",
 			   "url": "https://parsimoniousinvincible.net/embed/rq4g6",
 			 "referer":"https://leet365.cc/",
                     "isHost":"true"
             }, {
-                     	  "name": "#Vamos por M+ (opc.4) | ES 🇪🇸",
+   	  "name": "#Vamos por M+ (opc.2) | ES 🇪🇸",
+			"image": "https://i.imgur.com/ZYXUy5I.png",
+              			"url" : "http://xone8.1222908.net:80/live/559912B0380379ED95C397C46957B9DF/337813.m3u8",
+             "userAgent" : "PlusMediaPlayer/0.0.9"
+           }, {
+                     	  "name": "#Vamos por M+ (opc.3) | ES 🇪🇸",
 			"image": "https://i.imgur.com/ZYXUy5I.png",
                         "url": "https://freelive365.nl/player2.php?id=33&code=173&evento=espa%C3%91a"
                        
