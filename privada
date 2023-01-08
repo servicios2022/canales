@@ -6,7 +6,7 @@
 "url": "https://raw.githubusercontent.com/servicios2022/canales/main/privada",
 "groups": [
 
-{"name": "españa",
+{"name": "DEPORTE ESPAÑOL",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/Tv%20(1).gif",
 "stations":[
 
@@ -24,7 +24,7 @@
 "embed": "true"
 },
 ]},
-{"name": "latinos",
+{"name": "DEPORTE LATINO",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/bf15463024fb8d338a159a4d53f8eef0.gif",
 "stations":[
 
