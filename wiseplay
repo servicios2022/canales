@@ -19,7 +19,19 @@
 			"image": "https://i.imgur.com/NcXEpiv.png",
 			  "url": "https://maxsport.one/dazn1.php",
 			"isHost": "true"
+			},  {
+              "name": "DAZN 1 (opc.3) | ES 🇪🇸",
+			"image": "https://i.imgur.com/NcXEpiv.png",
+			  "url": "https://voraciousglove.net/embed/h5m4gyv36vtc",
+			"referer": "https://streamonsport.ru/",
+             "isHost": "true"
 			}, {
+             "name": "DAZN 1 (opc.4) | ES 🇪🇸",
+			"image": "https://i.imgur.com/NcXEpiv.png",
+	         "url":"https://olacast.live/maxsport.php?id=premium445",
+		  "referer" : "http://livetv.sx/enx/",
+            "isHost" : "true"
+                      }, {
          		"name": "DAZN 2 (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/N5mzib9.png",
                  "url": "https://cdix.pages.dev/dazn2",
@@ -31,11 +43,35 @@
                    "url": "https://maxsport.one/dazn2.php",
              "isHost": "true"
 	           }, { 
+          	"name": "DAZN 2 (opc.3) | ES 🇪🇸",
+			"image": "https://i.imgur.com/N5mzib9.png",
+                   "url": "https://voraciousglove.net/embed/xmr0xxbbmzod",
+           "referer": "https://www.streamonsport.click/",
+             "isHost": "true"
+	           },{ 
+           	"name": "DAZN 2 (opc.4) | ES 🇪🇸",
+			"image": "https://i.imgur.com/N5mzib9.png",
+                                  "url":"https://olacast.live/maxsport.php?id=premium446",
+		  "referer" : "http://livetv.sx/enx/",
+            "isHost" : "true"
+                    }, { 
                "name": "DAZN 3 (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/uiwiHzs.png",
                      "url": "https://maxsport.one/dazn3.php",
             "isHost":"true"
-                    }, {
+                    }, { 
+                   "name": "DAZN 3 (opc.2) | ES 🇪🇸",
+			"image": "https://i.imgur.com/uiwiHzs.png",
+                                 "url":"https://olacast.live/maxsport.php?id=premium447",
+		  "referer" : "http://livetv.sx/enx/",
+            "isHost" : "true"
+	           }, { 
+                     "name": "DAZN 4 (opc.1) | ES 🇪🇸",
+			"image": "https://i.imgur.com/oXdLRf4.png",
+                     "url": "https://gooals.top/tv/albaplayer/stream-448/?serv=1/",
+            "referer" : "https://www.daddylive.link/",
+           "isHost" : "true"
+		}, {
          		"name": "DAZN F1 (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/U7lLcbT.jpg",
                  "url": "https://cdix.pages.dev/daznf1",
