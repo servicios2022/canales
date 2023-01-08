@@ -1,16 +1,20 @@
+
+
+
+
 {	"name": "DEPORTE MUNDIAL",
- "author": "📺Actualizar antes de cada partido!!📺",
- "image": "https://media.giphy.com/media/WQqYj9ToV10g49Ma1h/giphy.gif",
+ "author": "📺Si vives en España necesitas VPN para ver algunos canales!!📺",
+ "image": "https://i.imgur.com/UeLUsrq.gif",
     "info": "Enlaces encontrados en internet",
 "url": "https://raw.githubusercontent.com/servicios2022/canales/main/wiseplay",
 	"groups":[
 	    {
         "name":"DEPORTE EN ESPAÑOL",
-        "image": "https://media2.giphy.com/media/FcY5EF8fPrXF41fZQm/giphy.gif",
+        "image": "https://thumbs.gfycat.com/ForsakenClearGoldfish-max-1mb.gif",
         "groups":[
                 {
                 "name":"ESPAÑA",
-                "image": "https://media2.giphy.com/media/mfJplFQI0vabe9FzGV/giphy.gif",
+                "image": "https://i.imgur.com/lYTE7Uw.gif",
                 "stations":[
                        {
                     "name": "Barça TV | ES 🇪🇸",
@@ -18,7 +22,7 @@
                     "url": "https://livetvon.click/embed/stream-522.php",
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                },  {
+                }, {
          		 "name": "DAZN 1 (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/NcXEpiv.png",
                  "url": "https://cdix.pages.dev/dazn1",
@@ -52,6 +56,12 @@
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
+                  	"name": "DAZN la Liga (opc.4) | ES 🇪🇸",
+			"image": "https://i.imgur.com/JLciFmy.jpg",
+			   "url": "https://strayindicate.net/embed/wwcujo0oiatyw93",
+              "referer": "https://1rowsportz.info/",
+             "isHost": "true"
+               }, {
          		"name": "DAZN 2 (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/N5mzib9.png",
                  "url": "https://cdix.pages.dev/dazn2",
@@ -144,32 +154,28 @@
 	        "url": "https://starlive.xyz/embed.php?id=liveLigaDazn",
 		"userAgent" : ""
                     }, {
-			"name": "DAZN la Liga (opc.3) | ES 🇪🇸",
-			"image": "https://i.imgur.com/JLciFmy.jpg",
-	        "url": "https://starlive.xyz/embed.php?id=livexLigaDazn",
-		"userAgent" : ""
-                    }, {
-				"name": "DAZN la Liga (opc.4) | ES 🇪🇸",
+				"name": "DAZN la Liga (opc.3) | ES 🇪🇸",
 			"image": "https://i.imgur.com/JLciFmy.jpg",
 			"url" : "http://stream.jokerstreampage.xyz/?player=%3Ciframe%20src%3D%22https%3A%2F%2Fwww.jokersplayer.xyz%2Fembedssl.php%3Fu%3Ddaznlaliga%26amp%3Bvw%3D100percent%26vh%3D360%22%20width%3D%22640%22%20height%3D%22360%22%20scrolling%3D%22no%22%20frameborder%3D%220%22%20allowtransparency%3D%22true%22%20marginheight%3D%220%22%20marginwidth%3D%220%22%20allowfullscreen%3D%22allowfullscreen%22%3E%3C%2Fiframe%3E&homeTeamName=Valencia&homeTeamLogo=/participants/2828.png&guestTeamName=Barcelona&guestTeamLogo=/participants/2817.png&matchStartTime=1667070000&matchEndTime=1667077200&gameType=football&leagueUrl=laliga&leagueName=LaLiga&leagueLogo=/league/8.png&leagueId=90bdf1bd&title=Valencia%20vs%20Barcelona%20Live%20Stream%20-%20on%20Saturday,%2029%20October%2019:00%20UTC",
                         "isHost": "true"
 			 }, {
-                	"name": "DAZN la Liga (opc.5) | ES 🇪🇸",
+			"name": "DAZN la Liga (opc.4) | ES 🇪🇸",
 			"image": "https://i.imgur.com/JLciFmy.jpg",
-                               "url": "https://utopianwilderness.com/embed/c94q8ojya43p2",
-              "referer": "https://starlive.xyz/",
+			 "url": "https://fullhdmatch.biz/vplayer.php?stream=daznlaliga",
+			"referer": "https://fullhdmatch.biz/ch/daznlaliga.php",
+			"isHost" : "true" 
+                 }, {
+			"name": "DAZN la Liga (opc.5) | ES 🇪🇸",
+			"image": "https://i.imgur.com/JLciFmy.jpg",
+	        "url": "https://sportsembed.su/channels/hd/hd6.php",
+		"userAgent" : ""
+                    },  {
+                    "name": "DAZN la Liga (opc.6) | ES 🇪🇸",
+			"image": "https://i.imgur.com/JLciFmy.jpg",
+			  "url" : "https://warnforlese.net/embed/zbz7klq",
+			 "referer": "https://macron.xyz/",
              "isHost": "true"
-                       }, {
-                  	"name": "DAZN la Liga (opc.6) | ES 🇪🇸",
-			"image": "https://i.imgur.com/JLciFmy.jpg",
-			   "url": "https://strayindicate.net/embed/wwcujo0oiatyw93",
-              "referer": "https://1rowsportz.info/",
-             "isHost": "true"
-                 },  {
-          	"name": "DAZN la Liga (opc.7) | ES 🇪🇸",
-			"image": "https://i.imgur.com/JLciFmy.jpg",
-                        "url": "https://freelive365.nl/player2.php?id=33&code=171&evento=espa%C3%91a"
-                        }, {  
+                 }, {  
 			"name": "Deportes por M+ (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/OJqxHKo.png",
 			 "url": "https://livetvon.click/stream/stream-436.php",
@@ -223,76 +229,19 @@
                     "url": "https://livetvon.click/embed/stream-524.php",
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                },
-                {
+                }, {
                     "name": "EuroSport 2 | ES 🇪🇸",
                     "image": "https://i.imgur.com/0M7GKai.png",
                     "url": "https://livetvon.click/embed/stream-525.php",
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
-             "name": "Gol Mundial(opc.1) | ES 🇪🇸",
-			"image": "https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png",
-"url": "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i", 
-"referer": "https://l1l1.to/", 
-"isHost":"true" 
-				}, {
-			"name": "Gol Mundial(opc.2) | ES 🇪🇸",
-			"image": "https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png",
-	        "url": "https://starlive.xyz/embed.php?id=liveGOL_Mundial_1",
-		"userAgent" : ""
-                    }, {
-               "name": "Gol Mundial(opc.3) | ES 🇪🇸",
-			"image": "https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png",
-"url": "https://utopianwilderness.com/embed/datzi6", 
-"referer": "https://starlive.xyz/", 
-"isHost":"true" 
-                }, {
-             "name": "Gol Mundial(opc.3) | ES 🇪🇸",
-			"image": "https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png",
-"url": "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i", 
-"referer": "https://l1l1.to/", 
-"isHost":"true" 
-				}, {
                     "name": "Movistar Golf Spain | ES 🇪🇸",
                     "image": "https://i.imgur.com/4arV1NW.png",
                     "url": "https://livetvon.click/embed/stream-528.php",
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                }, {
-			"name": "La 1 (opc.1) | ES 🇪🇸",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",
-	        "url": "https://v4.sportsonline.to/channels/hd/hd6.php",
-                   "userAgent" : ""
-                    }, {
-		"name": "La 1 (opc.2) | ES 🇪🇸",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",
-"url": "https://unbiasedsenseevent.com/embed/ksji2aq4bn72", 
-"referer": "https://sportz.football/", 
-"isHost":"true" 
-				}, {
-			"name": "La Liga Tv Bar (opc.1) | ES 🇪🇸",
-			"image": "https://i.imgur.com/82Eb5m0.png",
-	        "url": "https://starlive.xyz/embed.php?id=liveLigaBar",
-		"userAgent" : ""
-                    }, {
-			"name": "La Liga Tv Bar (opc.2) | ES 🇪🇸",
-			"image": "https://i.imgur.com/82Eb5m0.png",
-	        "url": "https://starlive.xyz/embed.php?id=livexLigaBar",
-		"userAgent" : ""
-                    }, { 
-			"name": "La Liga Tv Bar (opc.3) | ES 🇪🇸",
-			"image": "https://i.imgur.com/82Eb5m0.png",
-			 "url": "https://utopianwilderness.com/embed/vmrjhp94n",
-              "referer": "https://starlive.xyz/",
-             "isHost": "true"
-                     },   {
-          	"name": "La Liga Tv Bar (opc.4) | ES 🇪🇸",
-			"image": "https://i.imgur.com/82Eb5m0.png",
-                    "url": "https://livetvon.click/embed/stream-539.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
+                },  {
 			"name": "La Liga Tv por M+ (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/K1p7zVZ.png",
 	        "url": "https://starlive.xyz/embed.php?id=liveLiga",
@@ -300,62 +249,45 @@
                     }, {
 			"name": "La Liga Tv por M+ (opc.2) | ES 🇪🇸",
 			"image": "https://i.imgur.com/K1p7zVZ.png",
-	        "url": "https://starlive.xyz/embed.php?id=livexLiga",
+	        "url": "https://sportsembed.su/channels/hd/hd6.php",
 		"userAgent" : ""
                     }, {
-			"name": "La Liga Tv por M+ (opc.3) | ES 🇪🇸",
-			"image": "https://i.imgur.com/K1p7zVZ.png",
-	        "url": "https://v4.sportsonline.to/channels/hd/hd6.php",
-		"userAgent" : ""
-                    }, {
-			"name": "La Liga Tv por M+ (opc.4) | ES 🇪🇸",
-			"image": "https://i.imgur.com/K1p7zVZ.png",
-			  "url": "https://ragnaru.net/embed.php?player=desktop&live=do19",
-			"referer": "https://1.vecdn.pw/",
-             "isHost": "true"
-               }, {
-		  "name": "La Liga Tv por M+ (opc.5) | ES 🇪🇸",
-			"image": "https://i.imgur.com/K1p7zVZ.png",
-			 "url": "https://utopianwilderness.com/embed/7str56mtb",
-              "referer": "https://starlive.xyz/",
-             "isHost": "true"
-                     }, {
-		  "name": "La Liga Tv por M+ (opc.6) | ES 🇪🇸",
-			"image": "https://i.imgur.com/K1p7zVZ.png",
-			"url" : "https://unbiasedsenseevent.com/embed/pyxs8u5a6hp",
-			 "referer": "https://l1l1.to/",
-             "isHost": "true"  
-                    }, {
-		  "name": "La Liga Tv por M+ (opc.7) | ES 🇪🇸",
+		  "name": "La Liga Tv por M+ (opc.3) | ES 🇪🇸",
 			"image": "https://i.imgur.com/K1p7zVZ.png",
 			 "url": "https://parsimoniousinvincible.net/embed/6na79kddf",
 			"referer": "https://leet365.cc/",
 			"isHost" : "true"
 			  }, {
-			  "name": "La Liga Tv por M+ (opc.8) | ES 🇪🇸",
+			  "name": "La Liga Tv por M+ (opc.4) | ES 🇪🇸",
 			"image": "https://i.imgur.com/K1p7zVZ.png",
 			 "url": "https://strayindicate.net/embed/2twhx",
 			"referer": "https://1rowsportz.info/",
 			"isHost" : "true" 
                    }, {
-		  "name": "La Liga Tv por M+ (opc.9) | ES 🇪🇸",
-			"image": "https://i.imgur.com/K1p7zVZ.png",
-        "url": "https://sportkart1.xyz/embed/scplayer-84.php",
-			"referer": "https://cdn.sportcast.life/",
-             "isHost": "true"
-                  }, {
-		  "name": "La Liga Tv por M+ (opc.10) | ES 🇪🇸",
+		  "name": "La Liga Tv por M+ (opc.5) | ES 🇪🇸",
 			"image": "https://i.imgur.com/K1p7zVZ.png",
         			"url" : "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
             "referer": "https://buzztv.futbol/",
 			"isHost": "true"  
-                 },    {
-          "name": "La Liga Tv por M+ (opc.11) | ES 🇪🇸",
+                 },  {
+		 "name": "La Liga Tv por M+ (opc.6) | ES 🇪🇸",
 			"image": "https://i.imgur.com/K1p7zVZ.png",
-                    "url": "https://livetvon.click/embed/stream-538.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
+        		 "url" : "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
+            "referer": "https://buzztv.futbol/",
+			"isHost": "true"
+	              }, {
+			 "name": "La Liga Tv por M+ (opc.7) | ES 🇪🇸",
+			"image": "https://i.imgur.com/K1p7zVZ.png",
+		        "url": "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
+			"referer": "https://elixx.xyz/",
+			"isHost": "true"
+                    }, {
+			 "name": "La Liga Tv por M+ (opc.8) | ES 🇪🇸",
+			"image": "https://i.imgur.com/K1p7zVZ.png",
+			 "url": "https://strayindicate.net/embed/2twhx",
+			"referer": "https://1rowsportz.info/",
+			"isHost" : "true" 
+                   }, {
 			  "name": "Liga de Campeones por M+ (opc.1) | ES 🇪🇸",
                 "image": "https://i.imgur.com/wiLQCUD.png",
         "url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
@@ -422,7 +354,7 @@
                
                 {
                 "name":"LATINOS",
-                "image": "https://media2.giphy.com/media/FLm1cCVmEYYF8lH3E7/giphy.gif",
+                "image": "https://i.imgur.com/lYTE7Uw.gif",
                 "stations":[
                       {		
 			"name": "Bein Sport Extra Ñ (opc.1) | LAT 🇲🇽",
@@ -459,73 +391,73 @@
                     }, {
                  "name": "Deport Tv (opc.1) | AR 🇦🇷",
           	   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/1200px-DeporTV_%282020_Logo_oficial%29.png",
-                 "url": "https://germanblogs.beauty/dtvpl2.html?id=1056",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
-                 "name": "Direct Tv Sports (opc.1) | CO 🇦🇷",
-          	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
-                 "url": "https://germanblogs.beauty/dtvpl2.html?id=1059",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
-                 "name": "Direct Tv Sports (opc.2) | PE 🇦🇷",
-          	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
-                 "url": "https://germanblogs.beauty/dtvpl2.html?id=1061",
+                 "url": "https://usermarket.bond/dtvpl2.html?id=1056",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
-                 "name": "Direct Tv Sports (opc.3) | AR 🇦🇷",
+                 "name": "Direct Tv Sports (opc.1) | CL 🇦🇷",
           	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
-                 "url": "https://germanblogs.beauty/dtvpl2.html?id=1057",
+                 "url": "https://usermarket.bond/dtvpl2.html?id=1058",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+                 "name": "Direct Tv Sports (opc.2) | CO 🇦🇷",
+          	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
+                 "url": "https://usermarket.bond/dtvpl2.html?id=1059",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+                 "name": "Direct Tv Sports (opc.3) | PE 🇦🇷",
+          	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
+                 "url": "https://usermarket.bond/dtvpl2.html?id=1061",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
-                 "name": "Direct Tv Sports (opc.4) | CL 🇦🇷",
+                 "name": "Direct Tv Sports (opc.4) | AR 🇦🇷",
           	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
-                 "url": "https://germanblogs.beauty/dtvpl2.html?id=1058",
+                 "url": "https://usermarket.bond/dtvpl2.html?id=1057",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
                  "name": "Direct Tv Sports (opc.5) | EC 🇦🇷",
           	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
-                 "url": "https://germanblogs.beauty/dtvpl2.html?id=1060",
+                 "url": "https://usermarket.bond/dtvpl2.html?id=1060",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
                  "name": "Direct Tv Sports (opc.6) | UY 🇦🇷",
           	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
-                 "url": "https://germanblogs.beauty/dtvpl2.html?id=1062",
+                 "url": "https://usermarket.bond/dtvpl2.html?id=1062",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
                  "name": "Direct Tv Sports (opc.7) | AR 🇦🇷",
           	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
-                 "url": "https://www.tutelehd.net/online.php?a=6",
+                 "url": "https://www.tutele.nl/online.php?a=6",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
                            "name": "Direct Tv Sports 2 (opc.1) | AR 🇦🇷",
              "image": "https://i.imgur.com/bWw9A7h.png",
-                 "url": "https://germanblogs.beauty/dtvpl2.html?id=1063",
+                 "url": "https://usermarket.bond/dtvpl2.html?id=1063",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
                            "name": "Direct Tv Sports 2 (opc.2) | AR 🇦🇷",
              "image": "https://i.imgur.com/bWw9A7h.png",
-                 "url": "https://www.tutelehd.net/online.php?a=7",
+                 "url": "https://www.tutele.nl/online.php?a=7",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
                               "name": "Direct Tv Sports Plus (opc.1) | AR 🇦🇷",
             	 "image": "https://i.imgur.com/ztxH679.png",
-                 "url": "https://germanblogs.beauty/dtvpl2.html?id=1071",
+                 "url": "https://usermarket.bond/dtvpl2.html?id=1071",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
                               "name": "Direct Tv Sports Plus (opc.2) | AR 🇦🇷",
             	 "image": "https://i.imgur.com/ztxH679.png",
-                 "url": "https://www.tutelehd.net/online.php?a=8",
+                 "url": "https://www.tutele.nl/online.php?a=8",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
@@ -543,13 +475,13 @@
 "embed": "true" }, {
 			    "name": "ESPN Argentina (opc.1) | AR 🇦🇷",
 			"image": "https://i.imgur.com/MFhpD4D.png",
-			"url": "https://germanblogs.beauty/dtvpl2.html?id=1104",
+			"url": "https://usermarket.bond/dtvpl2.html?id=1104",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
 			    "name": "ESPN Argentina (opc.2) | CO 🇦🇷",
 			"image": "https://i.imgur.com/MFhpD4D.png",
-			"url": "https://germanblogs.beauty/dtvpl2.html?id=1106",
+			"url": "https://usermarket.bond/dtvpl2.html?id=1106",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
@@ -561,7 +493,7 @@
 "embed": "true" }, {
 			    "name": "ESPN Argentina (opc.4) | PE 🇦🇷",
 			"image": "https://i.imgur.com/MFhpD4D.png",
-			"url": "https://germanblogs.beauty/dtvpl2.html?id=1109",
+			"url": "https://usermarket.bond/dtvpl2.html?id=1109",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
@@ -588,7 +520,7 @@
                 }, {
 			   "name": "ESPN 2 Argentina (opc.1) | AR 🇦🇷",
              "image": "https://i.imgur.com/jq1s4to.png",
-			"url": "https://germanblogs.beauty/dtvpl2.html?id=1099",
+			"url": "https://usermarket.bond/dtvpl2.html?id=1099",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
@@ -600,7 +532,7 @@
 "embed": "true" }, {
 			   "name": "ESPN 2 Argentina (opc.3) | AR 🇦🇷",
              "image": "https://i.imgur.com/jq1s4to.png",
-			"url": "https://www.tutelehd.net/online.php?a=2",
+			"url": "https://www.tutele.nl/online.php?a=2",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
@@ -633,7 +565,7 @@
 "embed": "true" }, {
                   "name": "ESPN 3 Argentina (opc.2) | AR 🇦🇷",
              "image": "https://i.imgur.com/iFqCpKj.png",
-                 "url": "https://germanblogs.beauty/dtvpl2.html?id=1102",
+                 "url": "https://usermarket.bond/dtvpl2.html?id=1102",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
@@ -667,7 +599,7 @@
 "embed": "true" },  {
                   "name": "ESPN Premium Argentina (opc.2) | AR 🇦🇷",
              "image": "https://i.imgur.com/KvY0uqu.png",
-                 "url": "https://www.tutelehd.net/online.php?a=5",
+                 "url": "https://www.tutele.nl/online.php?a=5",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },{
@@ -679,7 +611,7 @@
                 }, {
                   "name": "ESPN Extra Argentina (opc.1) | AR 🇦🇷",
              "image": "https://i.imgur.com/EgURkNV.png",
-                 "url": "https://germanblogs.beauty/dtvpl2.html?id=1107",
+                 "url": "https://usermarket.bond/dtvpl2.html?id=1107",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
@@ -713,16 +645,12 @@
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
-                          "name": "ESPN Deportes Mexico (opc.1) | LAT 🇲🇽",
+			   "name": "ESPN Deportes Mexico (opc.1) | LAT 🇲🇽",
                         "image": "https://i.imgur.com/cYvji3A.png",
-                        "url": "https://freelive365.nl/player2.php?id=11&code=130&evento=Mexico"
-                      },  {
-                      "name": "ESPN Deportes Mexico (opc.2) | LAT 🇲🇽",
-                        "image": "https://i.imgur.com/cYvji3A.png",
-                    "url": "https://livetvon.click/embed/stream-375.php",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
+			"url" : "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i",
+			 "referer": "https://l1l1.to/",
+             "isHost": "true"  
+                     }, {
                 "name": "Fox Sports Argentina (opc.1) | AR 🇦🇷",
 			"image": "https://i.imgur.com/CF5il5c.png",
                  "url": "https://bahiadeportes.com/canales/foxsportsarg.php",
@@ -747,7 +675,7 @@
                         }, {
               "name": "Fox Sports 2 Argentina (opc.1) | AR 🇦🇷",
 			"image": "https://i.imgur.com/t2Wn2rO.png",
-                 "url": "https://www.tutelehd.net/online.php?a=133",
+                 "url": "https://www.tutele.nl/online.php?a=133",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
@@ -770,13 +698,13 @@
 "embed": "true" }, {
               "name": "Fox Sports 3 Argentina (opc.2) | AR 🇦🇷",
 			"image": "https://i.imgur.com/VxIZXH9.png",
-                 "url": "https://germanblogs.beauty/dtvpl2.html?id=1123",
+                 "url": "https://usermarket.bond/dtvpl2.html?id=1123",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
               "name": "Fox Sports 3 Argentina (opc.3) | AR 🇦🇷",
 			"image": "https://i.imgur.com/VxIZXH9.png",
-                 "url": "https://www.tutelehd.net/online.php?a=4673",
+                 "url": "https://www.tutele.nl/online.php?a=4673",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },
@@ -839,7 +767,7 @@
 "embed": "true" }, {
 			"name": "Gol Tv (opc.2) | ",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
-			"url": "https://www.tutelehd.net/online.php?a=4702",
+			"url": "https://www.tutele.nl/online.php?a=4702",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
@@ -848,20 +776,14 @@
                     "url": "https://starlive.xyz/embed.php?id=liveTelemundo",
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                },   {
+                },  {
                     "name": "Telemundo USA (opc.2) | MX 🇺🇸",
-                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",
-                    "url": "https://starlive.xyz/embed.php?id=livexTelemundo",
-                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-                    "name": "Telemundo USA (opc.3) | MX 🇺🇸",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",
                     "url": "https://livetvon.click/embed/stream-131.php",
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
-    		 "name": "Telemundo USA (opc.4) | MX 🇺🇸",
+    		 "name": "Telemundo USA (opc.3) | MX 🇺🇸",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",
 		"url": "https://utopianwilderness.com/embed/vmrjhp94n", 
 		"referer": "https://starlive.xyz/", 
@@ -881,40 +803,28 @@
 "embed": "true" }, {
 			"name": "TNT Sports Chile (opc.1) | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
-			"url": "https://bahiadeportes.com/canales/tntsportschile.php",
+			"url": "https://facecamp.co.in/dtvpl2.html?id=1232",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
 			"name": "TNT Sports Chile (opc.2) | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
-			"url": "https://germanblogs.beauty/dtvpl2.html?id=1232",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
-			"name": "TNT Sports Chile (opc.3) | CL 🇨🇱",
-			"image": "https://i.imgur.com/TTaCeXw.png",
-			"url": "https://tucanaldeportivo.com/cdf.php",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
-			"name": "TNT Sports Chile 2 (opc.1) | CL 🇨🇱",
-			"image": "https://i.imgur.com/Xb4D6QL.png",
-			"url": "https://germanytech.pro/dtvpl2.html?id=1230",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
-			"name": "TNT Sports Chile 2 (opc.2) | CL 🇨🇱",
-			"image": "https://i.imgur.com/Xb4D6QL.png",
-			"url": "https://www.tutelehd.net/online.php?a=4",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" },   {
-			"name": "TNT Sports Chile 3 (opc.1) | CL 🇨🇱",
-			"image": "https://i.imgur.com/ap027lf.png",
-			"url": "https://germanytech.pro/dtvpl2.html?id=1231",
+			"url": "https://usermarket.bond/dtvpl2.html?id=1232",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
+			"name": "TNT Sports Chile (opc.3) | CL 🇨🇱",
+			"image": "https://i.imgur.com/TTaCeXw.png",
+			"url": "https://futbol-tv.online/ver/tnt-sports-chile",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+			"name": "TNT Sports Chile (opc.4) | CL 🇨🇱",
+			"image": "https://i.imgur.com/TTaCeXw.png",
+			"url": "https://www.tutelehd.net/online.php?a=4",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
 			        "name": "TNT Sports Argentina (opc.1) | AR 🇦🇷",
             	 "image": "https://i.imgur.com/TTaCeXw.png",
 			"url": "https://bahiadeportes.com/canales/tntsportsarg.php",
@@ -923,13 +833,13 @@
 "embed": "true" }, {
 			        "name": "TNT Sports Argentina (opc.2) | AR 🇦🇷",
             	 "image": "https://i.imgur.com/TTaCeXw.png",
-			"url": "https://germanblogs.beauty/dtvpl2.html?id=1233",
+			"url": "https://usermarket.bond/dtvpl2.html?id=1233",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
 			        "name": "TNT Sports Argentina (opc.3) | AR 🇦🇷",
             	 "image": "https://i.imgur.com/TTaCeXw.png",
-			"url": "https://www.tutelehd.net/online.php?a=149",
+			"url": "https://www.tutele.nl/online.php?a=149",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
@@ -947,7 +857,7 @@
 "embed": "true" },  {
 			"name": "TUDN USA (opc.2) | MX 🇺🇸",
 			"image": "https://i.imgur.com/hDp5KBz.png",
-			"url": "https://www.tutelehd.net/online.php?a=7428",
+			"url": "https://www.tutele.nl/online.php?a=7428",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
@@ -959,7 +869,7 @@
 "embed": "true" }, {
 			  "name": "Tv Publica (opc.1) | AR 🇦🇷",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",
-			"url": "https://germanblogs.beauty/dtvpl2.html?id=1156",
+			"url": "https://usermarket.bond/dtvpl2.html?id=1156",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
@@ -987,12 +897,6 @@
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
-					 "name": "TYC Sports (opc.4) | AR 🇦🇷",
-			"image": "https://i.imgur.com/I7Lhgej.png",
-"url": "https://unbiasedsenseevent.com/embed/p7uf4et6n5s8o0", 
-"referer": "https://l1l1.to/", 
-"isHost":"true" 
-                }, {
                     "name": "Unimas USA | MX 🇺🇸",
                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png",
                     "url": "https://livetvon.click/embed/stream-133.php",
@@ -1030,13 +934,13 @@
 "embed": "true" }, {
 			"name": "Win Sports Plus (opc.2) | CO 🇨🇴",
 			"image": "https://i.imgur.com/NwKPC6B.png",
-			"url": "https://germanblogs.beauty/dtvpl2.html?id=1251",
+			"url": "https://usermarket.bond/dtvpl2.html?id=1251",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
 			"name": "Win Sports Plus (opc.3) | CO 🇨🇴",
 			"image": "https://i.imgur.com/NwKPC6B.png",
-			"url": "https://www.tutelehd.net/online.php?a=3305",
+			"url": "https://www.tutele.nl/online.php?a=3305",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
@@ -1067,37 +971,35 @@
 	    },
 	    {
         "name":"DEPORTE MUNDIAL",
-        "image": "https://media2.giphy.com/media/HSnLHWvXfdTqQeOiK5/giphy.gif",
+        "image": "https://www.gifss.com/deportes/futbol/images/jugadora-02.gif",
         "stations":[
 	
 	 {
 			"name": "Sport Tv 1 | PT 🇵🇹",
              "image": "https://i.imgur.com/uHkR0lP.png",
-           "url" :  "https://v4.sportsonline.to/channels/pt/sporttv1.php",
+           "url" :  "https://sportsembed.su/channels/pt/sporttv1.php",
 			 "isHost":"true"
                       }, {
 			"name": "Sport Tv 2 (opc.1) | PT 🇵🇹",
              "image": "https://i.imgur.com/GGVYfbU.png",
-           "url" :  "https://v4.sportsonline.to/channels/pt/sporttv2.php",
+           "url" :  "https://sportsembed.su/channels/pt/sporttv2.php",
 			 "isHost":"true"
                       }, {
 			"name": "Sport Tv 3 (opc.1) | PT 🇵🇹",
              "image": "https://i.imgur.com/tvCMAD0.png",
-           "url" :  "https://v4.sportsonline.to/channels/pt/sporttv3.php",
+           "url" :  "https://sportsembed.su/channels/pt/sporttv3.php",
 			 "isHost":"true"
                       },  {
 			"name": "Sport Tv 4 | PT 🇵🇹",
              "image": "https://i.imgur.com/hsFXLeF.png",
-           "url" :  "https://v4.sportsonline.to/channels/pt/sporttv4.php",
+           "url" :  "https://sportsembed.su/channels/pt/sporttv4.php",
 			 "isHost":"true"
                       }, {
 			"name": "Sport Tv 5 | PT 🇵🇹",
              "image": "https://i.imgur.com/PcK7Dub.png",
-           "url" :  "https://v4.sportsonline.to/channels/pt/sporttv5.php",
+           "url" :  "https://sportsembed.su/channels/pt/sporttv5.php",
 			 "isHost":"true"
-                      }, 
-
-              {
+                      },  {
                     "name": "Arena Sport 1 Croatia",
                     "image": "https://i.imgur.com/KH7dVjI.png",
                     "url": "https://livetvon.click/embed/stream-432.php",
@@ -2223,8 +2125,11 @@
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }
+
+      
               
             ]
 	    }            
     ]
 }
+
