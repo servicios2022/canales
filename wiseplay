@@ -213,14 +213,25 @@
 {"name": "DEPORTE LATINO",
 "image": "https://i.imgur.com/AsG6ogs.gif",
 "stations":[
-
- {		
+     {
+         	"name": "Afizzionados (opc.1) | LAT 🇲🇽",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png",
+                 "url": "https://bahiadeportes.com/canales/afizzionados.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {		
 			"name": "Bein Sport Extra Ñ (opc.1) | LAT 🇲🇽",
 			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
 	   	     "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8",
 			"userAgent" : ""
                     },  {
          	"name": "Bein Sport Ñ (opc.1) | LAT 🇲🇽",
+			"image": "https://i.imgur.com/c4gfwhr.png",
+                 "url": "https://bahiadeportes.com/canales/beinsportsn",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+         	"name": "Bein Sport Ñ (opc.2) | LAT 🇲🇽",
 			"image": "https://i.imgur.com/c4gfwhr.png",
                  "url": "https://bahiadeportes.com/canales/beinsportsn-2",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
@@ -622,11 +633,29 @@
         }, {
 			"name": "TUDN USA (opc.3) | MX 🇺🇸",
 			"image": "https://i.imgur.com/hDp5KBz.png",
+			"url": "https://bahiadeportes.com/canales/tudn.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+			"name": "TUDN USA (opc.4) | MX 🇺🇸",
+			"image": "https://i.imgur.com/hDp5KBz.png",
 			"url": "https://bahiadeportes.com/canales/tudnblim.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
-			"name": "TUDN USA (opc.4) | MX 🇺🇸",
+			"name": "TUDN USA (opc.5) | MX 🇺🇸",
+			"image": "https://i.imgur.com/hDp5KBz.png",
+			"url": "https://bahiadeportes.com/canales/tudnusa.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },  {
+			"name": "TUDN USA (opc.6) | MX 🇺🇸",
+			"image": "https://i.imgur.com/hDp5KBz.png",
+			"url": "https://bahiadeportes.com/canales/tudnusa-1.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+			"name": "TUDN USA (opc.7) | MX 🇺🇸",
 			"image": "https://i.imgur.com/hDp5KBz.png",
 			"url": "https://www.tutele.nl/online.php?a=7428",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
