@@ -84,16 +84,6 @@
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
-			"name": "DAZN F1 (opc.2) | ES 🇪🇸",
-			"image": "https://i.imgur.com/U7lLcbT.jpg",
-	        "url": "https://starlive.xyz/embed.php?id=liveDaznF1_ES",
-		"userAgent" : ""
-                    }, {
-			"name": "DAZN F1 (opc.3) | ES 🇪🇸",
-			"image": "https://i.imgur.com/U7lLcbT.jpg",
-	        "url": "https://starlive.xyz/embed.php?id=livexDaznF1_ES",
-		"userAgent" : ""
-                    }, {
               	"name": "DAZN la Liga (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/JLciFmy.jpg",
                  "url": "https://cdix.pages.dev/daznlaliga",
