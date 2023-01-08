@@ -5,9 +5,11 @@
     "info": "Enlaces encontrados en internet",
 "url": "https://raw.githubusercontent.com/servicios2022/canales/main/privada",
 "groups": [
+
 {"name": "españa",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/Tv%20(1).gif",
 "stations":[
+
 { "name": "La 1",
 "image": "https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg",
  "url": "https://rtvelivestreamv3.akamaized.net/rtvesec/la1_bkp_dvr.m3u8"
@@ -25,6 +27,7 @@
 {"name": "latinos",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/bf15463024fb8d338a159a4d53f8eef0.gif",
 "stations":[
+
 {"name": "EVENTOS DEPORTIVOS",
 "image":"https://librosaguilar.com/wp-content/uploads/2021/08/eventos-deportivos-1.jpg",   
 "url": "http://www.malacitana-onlines.mire.tv/p/channel1.html",
