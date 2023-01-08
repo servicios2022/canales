@@ -7,7 +7,7 @@
  "image": "",
     "info": "Enlaces encontrados en internet",
 "url": "https://raw.githubusercontent.com/servicios2022/canales/main/privada",
-	
+	 "groups": [{
                 {
                 "name":"ESPAÑA",
                 "image": "https://i.imgur.com/lYTE7Uw.gif",
