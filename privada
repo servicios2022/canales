@@ -7,21 +7,344 @@
 "groups": [
 
 {"name": "DEPORTE ESPAÑOL",
-"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/Tv%20(1).gif",
+"image": "https://i.imgur.com/lYTE7Uw.gif",
 "stations":[
 
-{ "name": "La 1",
-"image": "https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg",
- "url": "https://rtvelivestreamv3.akamaized.net/rtvesec/la1_bkp_dvr.m3u8"
-},
-{"name": "Serie Barbie",
-"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/dibus-peli.jpg",
-"url": "https://www.dailymotion.com/embed/video/x3lkeab",
-"embed": "true"
+ {
+                    "name": "Barça TV | ES 🇪🇸",
+                    "image": "https://i.imgur.com/EKHFZDU.png",
+                    "url": "https://livetvon.click/embed/stream-522.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+         		 "name": "DAZN 1 (opc.1) | ES 🇪🇸",
+			"image": "https://i.imgur.com/NcXEpiv.png",
+                 "url": "https://cdix.pages.dev/dazn1",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+			"name": "DAZN 1 (opc.2) | ES 🇪🇸",
+			"image": "https://i.imgur.com/NcXEpiv.png",
+	        "url": "https://starlive.xyz/embed.php?id=liveDazn1_ES",
+		"userAgent" : ""
+                    }, {
+			"name": "DAZN 1 (opc.3) | ES 🇪🇸",
+			"image": "https://i.imgur.com/NcXEpiv.png",
+	        "url": "https://starlive.xyz/embed.php?id=livexDazn1_ES",
+		"userAgent" : ""
+                    }, {
+             "name": "DAZN 1 (opc.4) | ES 🇪🇸",
+			"image": "https://i.imgur.com/NcXEpiv.png",
+                              "url" : "https://deliriousholistic.net/embed/tm0reet5y6nl3fi",
+			 "referer" : "https://bahiadeportes.com/",
+                    "isHost" : "true"
+                       },  {
+                  "name": "DAZN 1 (opc.5) | ES 🇪🇸",
+			"image": "https://i.imgur.com/NcXEpiv.png",
+			  "url": "https://maxsport.one/dazn1.php",
+			"isHost": "true"
+			}, {
+                 "name": "DAZN 1 (opc.6) | ES 🇪🇸",
+			"image": "https://i.imgur.com/NcXEpiv.png",
+                    "url": "https://livetvon.click/embed/stream-445.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+                  	"name": "DAZN la Liga (opc.4) | ES 🇪🇸",
+			"image": "https://i.imgur.com/JLciFmy.jpg",
+			   "url": "https://strayindicate.net/embed/wwcujo0oiatyw93",
+              "referer": "https://1rowsportz.info/",
+             "isHost": "true"
+               }, {
+         		"name": "DAZN 2 (opc.1) | ES 🇪🇸",
+			"image": "https://i.imgur.com/N5mzib9.png",
+                 "url": "https://cdix.pages.dev/dazn2",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+			"name": "DAZN 2 (opc.2) | ES 🇪🇸",
+			"image": "https://i.imgur.com/N5mzib9.png",
+	        "url": "https://starlive.xyz/embed.php?id=liveDazn2_ES",
+		"userAgent" : ""
+                    }, {
+			"name": "DAZN 2 (opc.3) | ES 🇪🇸",
+			"image": "https://i.imgur.com/N5mzib9.png",
+	        "url": "https://starlive.xyz/embed.php?id=livexDazn2_ES",
+		"userAgent" : ""
+                    }, { 
+                "name": "DAZN 2 (opc.4) | ES 🇪🇸",
+			"image": "https://i.imgur.com/N5mzib9.png",
+                   "url": "https://maxsport.one/dazn2.php",
+             "isHost": "true"
+	           }, { 
+                 "name": "DAZN 2 (opc.5) | ES 🇪🇸",
+			"image": "https://i.imgur.com/N5mzib9.png",
+                   "url" : "https://deliriousholistic.net/embed/lup8x",
+			 "referer": "https://bahiadeportes.com/",
+             "isHost": "true"
+                    },  {
+               "name": "DAZN 2 (opc.6) | ES 🇪🇸",
+			"image": "https://i.imgur.com/N5mzib9.png",
+                    "url": "https://livetvon.click/embed/stream-446.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+			"name": "DAZN 3 (opc.1) | ES 🇪🇸",
+			"image": "https://i.imgur.com/uiwiHzs.png",
+	        "url": "https://starlive.xyz/embed.php?id=liveDazn3_ES",
+		"userAgent" : ""
+                    }, {
+			"name": "DAZN 3 (opc.2) | ES 🇪🇸",
+			"image": "https://i.imgur.com/uiwiHzs.png",
+	        "url": "https://starlive.xyz/embed.php?id=livexDazn3_ES",
+		"userAgent" : ""
+                    }, { 
+            "name": "DAZN 3 (opc.3) | ES 🇪🇸",
+			"image": "https://i.imgur.com/uiwiHzs.png",
+                  "url": "https://livetvon.click/stream/stream-447.php",
+            "isHost":"true"
+	           },{ 
+               "name": "DAZN 3 (opc.4) | ES 🇪🇸",
+			"image": "https://i.imgur.com/uiwiHzs.png",
+                     "url": "https://maxsport.one/dazn3.php",
+            "isHost":"true"
+                    }, {
+                      "name": "DAZN 4 (opc.1) | ES 🇪🇸",
+			"image": "https://i.imgur.com/oXdLRf4.png",
+                    "url": "https://livetvon.click/embed/stream-448.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+         		"name": "DAZN F1 (opc.1) | ES 🇪🇸",
+			"image": "https://i.imgur.com/U7lLcbT.jpg",
+                 "url": "https://cdix.pages.dev/daznf1",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+			"name": "DAZN F1 (opc.2) | ES 🇪🇸",
+			"image": "https://i.imgur.com/U7lLcbT.jpg",
+	        "url": "https://starlive.xyz/embed.php?id=liveDaznF1_ES",
+		"userAgent" : ""
+                    }, {
+			"name": "DAZN F1 (opc.3) | ES 🇪🇸",
+			"image": "https://i.imgur.com/U7lLcbT.jpg",
+	        "url": "https://starlive.xyz/embed.php?id=livexDaznF1_ES",
+		"userAgent" : ""
+                    }, {
+           "name": "DAZN F1 (opc.4) | ES 🇪🇸",
+			"image": "https://i.imgur.com/U7lLcbT.jpg",
+                    "url": "https://livetvon.click/embed/stream-537.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+              	"name": "DAZN la Liga (opc.1) | ES 🇪🇸",
+			"image": "https://i.imgur.com/JLciFmy.jpg",
+                 "url": "https://cdix.pages.dev/daznlaliga",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+			"name": "DAZN la Liga (opc.2) | ES 🇪🇸",
+			"image": "https://i.imgur.com/JLciFmy.jpg",
+	        "url": "https://starlive.xyz/embed.php?id=liveLigaDazn",
+		"userAgent" : ""
+                    }, {
+				"name": "DAZN la Liga (opc.3) | ES 🇪🇸",
+			"image": "https://i.imgur.com/JLciFmy.jpg",
+			"url" : "http://stream.jokerstreampage.xyz/?player=%3Ciframe%20src%3D%22https%3A%2F%2Fwww.jokersplayer.xyz%2Fembedssl.php%3Fu%3Ddaznlaliga%26amp%3Bvw%3D100percent%26vh%3D360%22%20width%3D%22640%22%20height%3D%22360%22%20scrolling%3D%22no%22%20frameborder%3D%220%22%20allowtransparency%3D%22true%22%20marginheight%3D%220%22%20marginwidth%3D%220%22%20allowfullscreen%3D%22allowfullscreen%22%3E%3C%2Fiframe%3E&homeTeamName=Valencia&homeTeamLogo=/participants/2828.png&guestTeamName=Barcelona&guestTeamLogo=/participants/2817.png&matchStartTime=1667070000&matchEndTime=1667077200&gameType=football&leagueUrl=laliga&leagueName=LaLiga&leagueLogo=/league/8.png&leagueId=90bdf1bd&title=Valencia%20vs%20Barcelona%20Live%20Stream%20-%20on%20Saturday,%2029%20October%2019:00%20UTC",
+                        "isHost": "true"
+			 }, {
+			"name": "DAZN la Liga (opc.4) | ES 🇪🇸",
+			"image": "https://i.imgur.com/JLciFmy.jpg",
+			 "url": "https://fullhdmatch.biz/vplayer.php?stream=daznlaliga",
+			"referer": "https://fullhdmatch.biz/ch/daznlaliga.php",
+			"isHost" : "true" 
+                 }, {
+			"name": "DAZN la Liga (opc.5) | ES 🇪🇸",
+			"image": "https://i.imgur.com/JLciFmy.jpg",
+	        "url": "https://sportsembed.su/channels/hd/hd6.php",
+		"userAgent" : ""
+                    },  {
+                    "name": "DAZN la Liga (opc.6) | ES 🇪🇸",
+			"image": "https://i.imgur.com/JLciFmy.jpg",
+			  "url" : "https://warnforlese.net/embed/zbz7klq",
+			 "referer": "https://macron.xyz/",
+             "isHost": "true"
+                 }, {  
+			"name": "Deportes por M+ (opc.1) | ES 🇪🇸",
+			"image": "https://i.imgur.com/OJqxHKo.png",
+			 "url": "https://livetvon.click/stream/stream-436.php",
+                         "isHost" : "true"
+        }, {
+			"name": "Deportes por M+ (opc.2) | ES 🇪🇸",
+			"image": "https://i.imgur.com/OJqxHKo.png",
+			 "url": "https://wecast.to/sabri.php?stream=sabrouch39",
+			"referer": "https://wizhdlive.xyz/",
+			"isHost": "true"
+         }, {
+                       	"name": "Deportes por M+ (opc.3) | ES 🇪🇸",
+			"image": "https://i.imgur.com/OJqxHKo.png",
+                        "url": "https://freelive365.nl/player2.php?id=33&code=177&evento=espa%C3%91a"
+                        },  {
+                  	"name": "Deportes por M+ (opc.4) | ES 🇪🇸",
+               "image": "https://i.imgur.com/OJqxHKo.png",
+                    "url": "https://livetvon.click/embed/stream-436.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+                   	"name": "Deportes por M+ 1 | ES 🇪🇸",
+			"image": "https://i.imgur.com/OJqxHKo.png",
+                    "url": "https://livetvon.click/embed/stream-437.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+ 	"name": "Deportes por M+ 2 | ES 🇪🇸",
+			"image": "https://i.imgur.com/OJqxHKo.png",
+                    "url": "https://livetvon.click/embed/stream-438.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+     	"name": "Deportes por M+ 3 | ES 🇪🇸",
+			"image": "https://i.imgur.com/OJqxHKo.png",
+                    "url": "https://livetvon.click/embed/stream-526.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+                {
+            	"name": "Deportes por M+ 4 | ES 🇪🇸",
+			"image": "https://i.imgur.com/OJqxHKo.png",
+                    "url": "https://livetvon.click/embed/stream-527.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },  {
+                    "name": "EuroSport 1 | ES 🇪🇸",
+                    "image": "https://i.imgur.com/F82rsYt.png",
+                    "url": "https://livetvon.click/embed/stream-524.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+                    "name": "EuroSport 2 | ES 🇪🇸",
+                    "image": "https://i.imgur.com/0M7GKai.png",
+                    "url": "https://livetvon.click/embed/stream-525.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+                    "name": "Movistar Golf Spain | ES 🇪🇸",
+                    "image": "https://i.imgur.com/4arV1NW.png",
+                    "url": "https://livetvon.click/embed/stream-528.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },  {
+			"name": "La Liga Tv por M+ (opc.1) | ES 🇪🇸",
+			"image": "https://i.imgur.com/K1p7zVZ.png",
+	        "url": "https://starlive.xyz/embed.php?id=liveLiga",
+		"userAgent" : ""
+                    }, {
+			"name": "La Liga Tv por M+ (opc.2) | ES 🇪🇸",
+			"image": "https://i.imgur.com/K1p7zVZ.png",
+	        "url": "https://sportsembed.su/channels/hd/hd6.php",
+		"userAgent" : ""
+                    }, {
+		  "name": "La Liga Tv por M+ (opc.3) | ES 🇪🇸",
+			"image": "https://i.imgur.com/K1p7zVZ.png",
+			 "url": "https://parsimoniousinvincible.net/embed/6na79kddf",
+			"referer": "https://leet365.cc/",
+			"isHost" : "true"
+			  }, {
+			  "name": "La Liga Tv por M+ (opc.4) | ES 🇪🇸",
+			"image": "https://i.imgur.com/K1p7zVZ.png",
+			 "url": "https://strayindicate.net/embed/2twhx",
+			"referer": "https://1rowsportz.info/",
+			"isHost" : "true" 
+                   }, {
+		  "name": "La Liga Tv por M+ (opc.5) | ES 🇪🇸",
+			"image": "https://i.imgur.com/K1p7zVZ.png",
+        			"url" : "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
+            "referer": "https://buzztv.futbol/",
+			"isHost": "true"  
+                 },  {
+		 "name": "La Liga Tv por M+ (opc.6) | ES 🇪🇸",
+			"image": "https://i.imgur.com/K1p7zVZ.png",
+        		 "url" : "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
+            "referer": "https://buzztv.futbol/",
+			"isHost": "true"
+	              }, {
+			 "name": "La Liga Tv por M+ (opc.7) | ES 🇪🇸",
+			"image": "https://i.imgur.com/K1p7zVZ.png",
+		        "url": "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
+			"referer": "https://elixx.xyz/",
+			"isHost": "true"
+                    }, {
+			 "name": "La Liga Tv por M+ (opc.8) | ES 🇪🇸",
+			"image": "https://i.imgur.com/K1p7zVZ.png",
+			 "url": "https://strayindicate.net/embed/2twhx",
+			"referer": "https://1rowsportz.info/",
+			"isHost" : "true" 
+                   }, {
+			  "name": "Liga de Campeones por M+ (opc.1) | ES 🇪🇸",
+                "image": "https://i.imgur.com/wiLQCUD.png",
+        "url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
+			"referer": "https://leet365.cc/",
+             "isHost": "true"
+		}, {
+			  "name": "Liga de Campeones por M+ (opc.2) | ES 🇪🇸",
+                "image": "https://i.imgur.com/wiLQCUD.png",
+			"url": "https://utopianwilderness.com/embed/datzi6",
+			  "referer" : "https://starlive.xyz/",
+			"isHost" : "true"
+			 }, {
+			  "name": "Liga de Campeones por M+ (opc.3) | ES 🇪🇸",
+                "image": "https://i.imgur.com/wiLQCUD.png",
+			 "url": "https://livetvon.click/stream/stream-435.php",
+			"isHost" : "true"
+                    },  {
+                   		  "name": "Liga de Campeones por M+ (opc.4) | ES 🇪🇸",
+                "image": "https://i.imgur.com/wiLQCUD.png",
+                        "url": "https://freelive365.nl/player2.php?id=33&code=172&evento=espa%C3%91a"
+                        },  {
+                  "name": "Real Madrid Tv | ES 🇪🇸",
+			"image": "http://meteoalcorcon.es/12_real_madrid_tv.png",
+                    "url": "https://livetvon.click/embed/stream-523.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+                    "name": "Teledeporte TDP (opc.1) | ES 🇪🇸",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png",
+                    "url": "https://livetvon.click/embed/stream-529.php",
+                    "isHost": "true"
+                },  { 
+                "name": "#Vamos por M+ (opc.1) | ES 🇪🇸",
+			"image": "https://i.imgur.com/ZYXUy5I.png",
+               "url" : "https://utopianwilderness.com/embed/fhc0cutcd",
+	        "referer" : "https://starlive.xyz/",
+            "isHost":"true"
+                    }, { 
+              "name": "#Vamos por M+ (opc.2) | ES 🇪🇸",
+			"image": "https://i.imgur.com/ZYXUy5I.png",
+                 "url": "https://tvhd.capshd.xyz/online/canal488.php",
+                  "referer" : "https://www.daddylive.pro/",
+			 "isHost": "true"
+                      }, {
+			  "name": "#Vamos por M+ (opc.3) | ES 🇪🇸",
+			"image": "https://i.imgur.com/ZYXUy5I.png",
+			   "url": "https://parsimoniousinvincible.net/embed/rq4g6",
+			 "referer":"https://leet365.cc/",
+                    "isHost":"true"
+            }, {
+		  "name": "#Vamos por M+ (opc.4) | ES 🇪🇸",
+			"image": "https://i.imgur.com/ZYXUy5I.png",
+			   "url" : "https://livetvon.click/stream/stream-521.php",
+            "isHost":"true"
+            }, {
+                     	  "name": "#Vamos por M+ (opc.5) | ES 🇪🇸",
+			"image": "https://i.imgur.com/ZYXUy5I.png",
+                        "url": "https://freelive365.nl/player2.php?id=33&code=173&evento=espa%C3%91a"
+                       
 },]},
 
 {"name": "DEPORTE LATINO",
-"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/Tv%20(1).gif",
+"image": "https://i.imgur.com/lYTE7Uw.gif",
 "stations":[
 
 { "name": "La 1",
@@ -35,7 +358,7 @@
 },]},
 
 {"name": "DEPORTE MUNDIAL",
-"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/bf15463024fb8d338a159a4d53f8eef0.gif",
+"image": "https://i.imgur.com/lYTE7Uw.gif",
 "stations":[
 
 {"name": "EVENTOS DEPORTIVOS",
