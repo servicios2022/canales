@@ -1,22 +1,14 @@
 
-
-
-
 {	"name": "DEPORTE MUNDIAL",
  "author": "📺Si vives en España necesitas VPN para ver algunos canales!!📺",
  "image": "https://i.imgur.com/UeLUsrq.gif",
     "info": "Enlaces encontrados en internet",
 "url": "https://raw.githubusercontent.com/servicios2022/canales/main/wiseplay",
-	"groups":[
-	    {
-        "name":"DEPORTE EN ESPAÑOL",
-        "image": "https://thumbs.gfycat.com/ForsakenClearGoldfish-max-1mb.gif",
-        "groups":[
-                {
-                "name":"ESPAÑA",
-                "image": "https://i.imgur.com/lYTE7Uw.gif",
-                "stations":[
-                       {
+"groups": [
+{"name": "DEPORTE ESPAÑOL",
+"image": "https://tenor.com/es-419/view/football-gif-26197373",
+"stations":[
+ {
                     "name": "Barça TV | ES 🇪🇸",
                     "image": "https://i.imgur.com/EKHFZDU.png",
                     "url": "https://livetvon.click/embed/stream-522.php",
@@ -346,17 +338,13 @@
                      	  "name": "#Vamos por M+ (opc.5) | ES 🇪🇸",
 			"image": "https://i.imgur.com/ZYXUy5I.png",
                         "url": "https://freelive365.nl/player2.php?id=33&code=173&evento=espa%C3%91a"
-                        }
+                       
+},]},
+{"name": "DEPORTE LATINO",
+"image": "https://tenor.com/es-419/view/game-football-soccer-fan-playmobil-gif-17125357",
+"stations":[
 
-                     
-                    ]
-                },
-               
-                {
-                "name":"LATINOS",
-                "image": "https://i.imgur.com/lYTE7Uw.gif",
-                "stations":[
-                      {		
+ {		
 			"name": "Bein Sport Extra Ñ (opc.1) | LAT 🇲🇽",
 			"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
 	   	     "url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8",
@@ -959,22 +947,12 @@
 			"image": "https://i.imgur.com/NwKPC6B.png",
 			   "url" : "https://livetvon.click/embed/stream-392.php",
             "isHost":"true"
-            }
-		    
-		    
-		    
-		    
-		    
-                    ]
-                }
-            ]
-	    },
-	    {
-        "name":"DEPORTE MUNDIAL",
-        "image": "https://www.gifss.com/deportes/futbol/images/jugadora-02.gif",
-        "stations":[
-	
-	 {
+           
+},]},
+{"name": "DEPORTE MUNDIAL",
+"image": "https://tenor.com/es-419/view/game-football-soccer-fan-playmobil-gif-17125405",
+"stations":[
+ {
 			"name": "Sport Tv 1 | PT 🇵🇹",
              "image": "https://i.imgur.com/uHkR0lP.png",
            "url" :  "https://sportsembed.su/channels/pt/sporttv1.php",
@@ -2126,10 +2104,5 @@
                     "isHost": "true"
                 }
 
-      
-              
-            ]
-	    }            
-    ]
-}
-
+]},
+]}
