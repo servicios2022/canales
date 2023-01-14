@@ -457,20 +457,32 @@
                  "url": "https://bahiadeportes.com/canales/espn2-3.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true" },  {
+"embed": "true" }, {
                          "name": "ESPN 3 Mexico (opc.1) | LAT 🇲🇽",
              "image": "https://i.imgur.com/iFqCpKj.png",
-                      "url": "https://cablegratishd.online/ver/espn-3-mexico-en-vivo/",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
-                         "name": "ESPN 3 Mexico (opc.2) | LAT 🇲🇽",
-             "image": "https://i.imgur.com/iFqCpKj.png",
-                      "url": "https://bahiadeportes.com/canales/espn3-2.php",
+                      "url": "https://bahiadeportes.com/canales/espn3.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
 			   "name": "ESPN Deportes Mexico (opc.1) | LAT 🇲🇽",
+                        "image": "https://i.imgur.com/cYvji3A.png",
+			  "url": "https://bahiadeportes.com/canales/espndeportes",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+			   "name": "ESPN Deportes Mexico (opc.2) | LAT 🇲🇽",
+                        "image": "https://i.imgur.com/cYvji3A.png",
+			  "url": "https://bahiadeportes.com/canales/espndeportes-1",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+			   "name": "ESPN Deportes Mexico (opc.3) | LAT 🇲🇽",
+                        "image": "https://i.imgur.com/cYvji3A.png",
+			  "url": "https://bahiadeportes.com/canales/espndeportes-2",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+			   "name": "ESPN Deportes Mexico (opc.4) | LAT 🇲🇽",
                         "image": "https://i.imgur.com/cYvji3A.png",
 			"url" : "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i",
 			 "referer": "https://l1l1.to/",
