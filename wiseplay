@@ -620,7 +620,25 @@
 			"image": "https://i.imgur.com/TTaCeXw.png",
 		"url": "https://la10.net/player2.php?id=10&code=126&evento=chile",
 		"embed": "true"
-}, {
+},  {
+			"name": "TNT Sports Chile (opc.6) | CL 🇨🇱",
+			"image": "https://i.imgur.com/TTaCeXw.png",
+		"url": "https://www.capoplay.net/play/tntsportschile.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+			"name": "TNT Sports Chile (opc.7) | CL 🇨🇱",
+			"image": "https://i.imgur.com/TTaCeXw.png",
+		"url": "https://www.capoplay.net/play/canal11.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+			"name": "TNT Sports Chile (opc.8) | CL 🇨🇱",
+			"image": "https://i.imgur.com/TTaCeXw.png",
+		"url": "https://www.capoplay.net/play/canal12.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" },{
 			        "name": "TNT Sports Argentina (opc.1) | AR 🇦🇷",
             	 "image": "https://i.imgur.com/TTaCeXw.png",
 			"url": "https://bahiadeportes.com/canales/tntsportsarg.php",
