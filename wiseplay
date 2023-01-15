@@ -615,6 +615,7 @@
 			"url": "https://www.tutelehd.net/online.php?a=4",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
+		"embed": "true" },  {
 			"name": "TNT Sports Chile (opc.5) | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 		"url": "https://la10.net/player2.php?id=10&code=126&evento=chile",
