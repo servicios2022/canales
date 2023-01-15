@@ -751,6 +751,21 @@
              "image": "https://i.imgur.com/PcK7Dub.png",
            "url" :  "https://sportsembed.su/channels/pt/sporttv5.php",
 			 "isHost":"true"
+                      }, {
+			"name": Eleven Sports 1 | PT 🇵🇹",
+             "image": "https://i.imgur.com/6bGEQ2j.png",
+           "url" :  "https://sportsembed.su/channels/pt/eleven1.php",
+			 "isHost":"true"
+                      }, {
+			"name": Eleven Sports 2 | PT 🇵🇹",
+             "image": "https://i.imgur.com/rLipbjo.png",
+           "url" :  "https://sportsembed.su/channels/pt/eleven2.php",
+			 "isHost":"true"
+                      }, {
+			"name": Eleven Sports 3 | PT 🇵🇹",
+             "image": "https://i.imgur.com/R8t0cH7.png",
+           "url" :  "https://sportsembed.su/channels/pt/eleven3.php",
+			 "isHost":"true"
                       }
 
 ]},
