@@ -638,7 +638,25 @@
 		"url": "https://www.capoplay.net/play/canal12.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
-		"embed": "true" },{
+		"embed": "true" },  {
+			"name": "TNT Sports Chile (opc.9) | CL 🇨🇱",
+			"image": "https://i.imgur.com/TTaCeXw.png",
+		"url": "https://stream.rodrixtv.info/tv/cdf.html",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" },  {
+			"name": "TNT Sports Chile (opc.10) | CL 🇨🇱",
+			"image": "https://i.imgur.com/TTaCeXw.png",
+		"url": "https://stream.rodrixtv.info/tv/canal41.html",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" },  {
+			"name": "TNT Sports Chile (opc.12) | CL 🇨🇱",
+			"image": "https://i.imgur.com/TTaCeXw.png",
+		"url": "https://stream.rodrixtv.info/tv/canal42.html",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
 			        "name": "TNT Sports Argentina (opc.1) | AR 🇦🇷",
             	 "image": "https://i.imgur.com/TTaCeXw.png",
 			"url": "https://bahiadeportes.com/canales/tntsportsarg.php",
