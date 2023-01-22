@@ -599,38 +599,33 @@
 		}, {
 			"name": "TNT Sports Chile (opc.2) | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
-		"url": "https://stream.rodrixtv.info/tv/cdf.html",
-		"isHost": "true"
-			}, {
-			"name": "TNT Sports Chile (opc.32) | CL 🇨🇱",
-			"image": "https://i.imgur.com/TTaCeXw.png",
 		"url": "https://stream.rodrixtv.info/tv/canal32.html",
 		"isHost": "true"
 			}, {
-			"name": "TNT Sports Chile (opc.33) | CL 🇨🇱",
+			"name": "TNT Sports Chile (opc.3) | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 		"url": "https://stream.rodrixtv.info/tv/canal33.html",
 		"isHost": "true"
 			}, {
-			"name": "TNT Sports Chile (opc.3) | CL 🇨🇱",
+			"name": "TNT Sports Chile (opc.4) | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url": "https://facecamp.co.in/dtvpl2.html?id=1232",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
 		"embed": "true" }, {
-			"name": "TNT Sports Chile (opc.4) | CL 🇨🇱",
+			"name": "TNT Sports Chile (opc.5) | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url": "https://usermarket.bond/dtvpl2.html?id=1232",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
 		"embed": "true" },  {
-			"name": "TNT Sports Chile (opc.5) | CL 🇨🇱",
+			"name": "TNT Sports Chile (opc.6) | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url": "https://futbol-tv.online/ver/tnt-sports-chile",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
 		"embed": "true" }, {
-			"name": "TNT Sports Chile (opc.6) | CL 🇨🇱",
+			"name": "TNT Sports Chile (opc.7) | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url": "https://www.tutelehd.net/online.php?a=4",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
