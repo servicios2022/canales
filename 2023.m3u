@@ -3778,42 +3778,101 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 #EXTINF:-1 tvg-logo="https://files.purestreams.io/logo/tv/3ABN-Latino_5f72da6911836e85ac3d913d.png" group-title="RELIGIOSOS",3ABN Latino | ES
 http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="805" tvg-name="Radio Unido Al Cielo" tvg-logo="https://lh3.googleusercontent.com/-K58P9VOeL1M/YH3I4wI5eDI/AAAAAAABBuk/m1cDE2y7aaks-dqEPEL2BhYUc6HrvwgEwCK8BGAsYHg/s512/2021-04-19.webp" group-title="RELIGIOSOS", Radio Unido Al Cielo * | CL
+https://stmv3.voxtvhd.com.br/unido2022777/unido2022777/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="170" tvg-name="Unidad Evangelica TV" tvg-logo="https://lh3.googleusercontent.com/-0tqSzwPEvSc/X7PH803XliI/AAAAAAAA7aQ/4JNA77aFp8gLDSf-RMXP1Ej7gSyKjrKrACK8BGAsYHg/s0/2020-11-17.png" group-title="RELIGIOSOS", Unidad Evangelica TV * | CL
+https://v2.tustreaming.cl/unidadevangelica/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="161" tvg-name="Vida TV" tvg-logo="https://lh3.googleusercontent.com/-M6IkTdk74v8/YEDQ8Yaj8sI/AAAAAAABAg0/0AX-YP_ERfco4p51TJDf3a0-cmAFLb6rgCK8BGAsYHg/s512/2021-03-04.png" group-title="RELIGIOSOS", Vida TV * | CL
+http://181.224.64.2:89/vidatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="950" tvg-name="MCRT Cristiana" tvg-logo="https://i2.paste.pics/843283aea869f8124ab8ceec08c7fa68.png" group-title="RELIGIOSOS", MCRT Cristiana | CA
+https://stmv.negotv.com/religion2021/religion2021/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="690" tvg-name="JN19" tvg-logo="https://lh3.googleusercontent.com/-mZYPPkr3lEM/Xz8nJ5U-KDI/AAAAAAAA4tY/eHsF8i1WgCUkVCYv0uwTns3hLJJBKA2vwCK8BGAsYHg/s0/2020-08-20.png" group-title="RELIGIOSOS", JN19 | PE
 https://servilive.com:3149/live/jn19tvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1384" tvg-name="Metanoia TV" tvg-logo="https://i.paste.pics/151c6df5f012237e0a664508de84db1e.png" group-title="RELIGIOSOS", Metanoia TV | CL
+https://6362ca6f1fc28.streamlock.net/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="174" tvg-name="VP Televisión" tvg-logo="https://i2.paste.pics/454ab39041c8b5867f7d4707ebd6c54f.png" group-title="RELIGIOSOS", VP Televisión | CL
 https://v1.tustreaming.cl:19360/vozdepoder/vozdepoder.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="865" tvg-name="Alcance TV" tvg-logo="https://i2.paste.pics/b4363fe68e2cea79e69ccfb224ed725e.png" group-title="RELIGIOSOS", Alcance TV | MX
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="189" tvg-name="Aleluya TV" tvg-logo="https://lh3.googleusercontent.com/-60jvszxy5cw/YE1I0gSnj7I/AAAAAAABAlo/4pHLnI7N5WQtl10RrEwHjWKT9RB34_lkQCK8BGAsYHg/s512/2021-03-13.png" group-title="RELIGIOSOS", Aleluya TV | US
+https://tv.aleluya.cloud/web720/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="864" tvg-name="Alerta TV" tvg-logo="https://lh3.googleusercontent.com/-rEvnvXsMnew/YKQpF7fAMwI/AAAAAAABCY0/PMYiNZACA8ge6nNvb_5vBSnjV7QmOQ9cACK8BGAsYHg/s512/2021-05-18.png" group-title="RELIGIOSOS", Alerta TV | US
+https://5b3050bb1b2d8.streamlock.net:443/alertatv/alertatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="176" tvg-name="Asomavision" tvg-logo="https://lh3.googleusercontent.com/-h-YYBHHx46A/YE1JNraXFOI/AAAAAAABAlw/bmdy27BUz_8JWSGqh2HoKHF7G-Xez5_zQCK8BGAsYHg/s512/2021-03-13.png" group-title="RELIGIOSOS", Asomavision | EC
+https://asomastream.duckdns.org/livestream/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="825" tvg-name="Avivame TV" tvg-logo="https://lh3.googleusercontent.com/-TUbJ4gIjWKw/YH9Yj-suRtI/AAAAAAABBzQ/n_s57vY-_p0SeocAf_IFxgNyLIdBrhmJwCK8BGAsYHg/s512/2021-04-20.jpg" group-title="RELIGIOSOS", Avivame TV | US
+http://wow.adonainy.com:1935/vod/mp4:OCT23_AVIVAME_INTRO.mp4/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="157" tvg-name="Canal 33" tvg-logo="https://lh3.googleusercontent.com/-SM266zq0954/XbJE8J3rspI/AAAAAAAArrY/ul2hiTKcHyUNayzFG1NbGTN11yRpb4oEACK8BGAsYHg/s0/2019-10-24.png" group-title="RELIGIOSOS", Canal 33 | CL
+https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1078" tvg-name="Canal 6 - Viento Recio Internacional" tvg-logo="https://i2.paste.pics/62ae685f1d5790b8bf030f4350c70574.png" group-title="RELIGIOSOS", Canal 6 - Viento Recio Internacional | AR
-https://mediacp.hostradios.com.ar:19360/8092/8092.m3u8?PlaylistM3UCL
+https://stmvideo2.livecastv.com/vientorecio/vientorecio/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="158" tvg-name="Canal Dios Te Ve" tvg-logo="https://lh3.googleusercontent.com/-6tQjdX3egVE/X1BUs8EdjII/AAAAAAAA5MI/MQ4mGLIIwF4MiheZiu3zQxUPWnQ1NdnlwCK8BGAsYHg/s0/2020-09-02.jpg" group-title="RELIGIOSOS", Canal Dios Te Ve | HN
 https://emisoras.hn:8081/diostevetv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="159" tvg-name="Canal ISB" tvg-logo="https://lh3.googleusercontent.com/-BAGm0_jccnk/Xpz6lms-rHI/AAAAAAAAyBk/Mbk9tiXSZPMBkW90NGR8LEG7OR1mmb2sQCK8BGAsYHg/s0/2020-04-19.png" group-title="RELIGIOSOS", Canal ISB | CL
 https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1186" tvg-name="Casa Sobre La Roca TV" tvg-logo="https://i2.paste.pics/fabed3217697cbd31cbd240376b2dfdb.png" group-title="RELIGIOSOS", Casa Sobre La Roca TV | CL
+https://vdohd.cl:1936/8080/8080/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="185" tvg-name="CCI Channel" tvg-logo="https://lh3.googleusercontent.com/-yJ-NXG-VzHU/YE1JkKHGjdI/AAAAAAABAl4/dt2wneikp_Q6NY8riYkTC5vQUnXuwhZigCK8BGAsYHg/s512/2021-03-13.png" group-title="RELIGIOSOS", CCI Channel | HN
+https://5d597bfcee285.streamlock.net/cci/cci/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="861" tvg-name="Cielo TV Cristiana" tvg-logo="https://lh3.googleusercontent.com/-a5cwU0NIxD8/YKQgDxkVNSI/AAAAAAABCYM/CqXw5vG-lMotnKhF3FL_hCLGDaj3xTe8ACK8BGAsYHg/s512/2021-05-18.png" group-title="RELIGIOSOS", Cielo TV Cristiana | DO
+https://5e149b9159444.streamlock.net/cielotv/smil:cielotv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="851" tvg-name="Conectados Con Dios TV" tvg-logo="https://lh3.googleusercontent.com/-hbz1RQGuaAw/YI81xi627NI/AAAAAAABCJQ/KKWVAb_hb344B1tqgWvJnw4N47-QS5zswCK8BGAsYHg/s512/2021-05-02.png" group-title="RELIGIOSOS", Conectados Con Dios TV | GT
+http://51.161.12.229:1935/AntiguaSports/myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="196" tvg-name="Cristiana TV" tvg-logo="https://lh3.googleusercontent.com/-CVm245eZ890/YE6U9N6yZSI/AAAAAAABAuE/9Auajk4UAtM5WfqNd3bWvPawI9cGHvc2ACK8BGAsYHg/s512/2021-03-14.png" group-title="RELIGIOSOS", Cristiana TV | ES
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="822" tvg-name="Cristo Libera" tvg-logo="https://lh3.googleusercontent.com/-oEiOuuoK8cA/YH9VJmAn-eI/AAAAAAABBys/zJGPS2eEDv0ob-N-0HQOmzgqcY9buQLuQCK8BGAsYHg/s512/2021-04-20.jpg" group-title="RELIGIOSOS", Cristo Libera | US
+https://583ed2f226ac2.streamlock.net:443/1708/stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="874" tvg-name="Cristovision" tvg-logo="https://lh3.googleusercontent.com/-gpKijegYRPI/YKpgguJ8gjI/AAAAAAABCfo/BpPbiSUg42ExGT6OjGzvpJYl9HZ8fjxWQCK8BGAsYHg/s512/2021-05-23.jpg" group-title="RELIGIOSOS", Cristovision | CO
+https://liveingesta118.cdnmedia.tv/cristovisionlive/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="160" tvg-name="Dios Te Ve Kids" tvg-logo="https://lh3.googleusercontent.com/-5ca98mWuI48/X1BU1VE-fFI/AAAAAAAA5MM/DPmAa2uFmTIH4MOJAVpjUCCClixnPOP7QCK8BGAsYHg/s0/2020-09-02.png" group-title="RELIGIOSOS", Dios Te Ve Kids | HN
 https://emisoras.hn:8081/diostevekids/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="852" tvg-name="Ebenezer TV" tvg-logo="" group-title="RELIGIOSOS", Ebenezer TV | HN
+https://5b50404ec5e4c.streamlock.net/ebenezertv2/smil:ebenezertv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="179" tvg-name="El Viviente TV" tvg-logo="https://lh3.googleusercontent.com/-LXyeFlBrSIo/YE1J4NYme8I/AAAAAAABAmA/B4zOjVgZuUA5DsHRc6RkMkhQw7af05G8wCK8BGAsYHg/s512/2021-03-13.png" group-title="RELIGIOSOS", El Viviente TV | US
+https://cloudflare.streamgato.us:3006/live/elvivientetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="173" tvg-name="Escuchame Radio" tvg-logo="https://lh3.googleusercontent.com/-eQd-W5mPTuw/YDwxJZOsNSI/AAAAAAABAcs/0mAPdTthnzsqYh3wSG0soki-xF-As78UQCK8BGAsYHg/s512/2021-02-28.png" group-title="RELIGIOSOS", Escuchame Radio | CL
 https://stmv1.voxtvhd.com.br/escuchame/escuchame/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="872" tvg-name="ESNE" tvg-logo="https://lh3.googleusercontent.com/-bJEYMF74CW0/YKpY70K868I/AAAAAAABCfM/tRjLNZmN37YmoyZBdEri-vTwxwzHnSYRgCK8BGAsYHg/s512/2021-05-23.jpg" group-title="RELIGIOSOS", ESNE | US
+https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://lh3.googleusercontent.com/-3lr3InkQOSY/YKpaD_5GcMI/AAAAAAABCfU/W-_bV-aXlw0GngiTAXR6qo7WBBRxMuTzwCK8BGAsYHg/s512/2021-05-23.jpg" group-title="RELIGIOSOS", EWTN | US
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="162" tvg-name="Extrema TV" tvg-logo="https://lh3.googleusercontent.com/-YvhgR9bWwEk/XqeKc33JN4I/AAAAAAAAySs/RsIopL6SbT42YZrOwRYaWYx0EztbDMSkQCK8BGAsYHg/s0/2020-04-27.png" group-title="RELIGIOSOS", Extrema TV | CR
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="824" tvg-name="Faro de Santidad TV" tvg-logo="https://lh3.googleusercontent.com/-BF4ZUEJvSq4/YH9XWmX0pCI/AAAAAAABBzE/OjA76SsZzrgS7nhWBVUpFUUMPZgE02i_ACK8BGAsYHg/s512/2021-04-20.jpg" group-title="RELIGIOSOS", Faro de Santidad TV | PR
 https://5dbcd1053301e.streamlock.net:4443/farotv/farotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="540" tvg-name="Gospel Movies Television" tvg-logo="https://lh3.googleusercontent.com/-DulmOzoMbM0/X0KNTFSwCrI/AAAAAAAA44k/EaA9B2IST6UTcLsKGK70zYROAh9EnPL-QCK8BGAsYHg/s0/2020-08-23.jpg" group-title="RELIGIOSOS", Gospel Movies Television | BR
 https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="163" tvg-name="Gracia TV" tvg-logo="https://lh3.googleusercontent.com/-SWtsCllpbio/Xpz5oNEdmDI/AAAAAAAAyBc/fsfhz_a0y9I-6v8vfM0zUc_9C_xG3DgagCK8BGAsYHg/s0/2020-04-19.png" group-title="RELIGIOSOS", Gracia TV | CL
+https://v4.tustreaming.cl/graciatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="840" tvg-name="JBN Internacional" tvg-logo="https://lh3.googleusercontent.com/-BIk2lXR_rs0/YIIRe88AduI/AAAAAAABB44/0oNlLjQeNggj39kaXRFcY7SFJf8slw1FwCK8BGAsYHg/s512/2021-04-22.jpg" group-title="RELIGIOSOS", JBN Internacional | HN
 https://emisoras.hn:8081/jbn/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="177" tvg-name="Jehova TV" tvg-logo="https://lh3.googleusercontent.com/-83xVlCKhy9M/YE1Kbugpn9I/AAAAAAABAmI/rTOM58rOAXoDAXekm3foJINYew4SZ4xcgCK8BGAsYHg/s512/2021-03-13.png" group-title="RELIGIOSOS", Jehova TV | HN
 https://video.misistemareseller.com:443/jehovatelevision/jehovatelevision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="182" tvg-name="Jesus TV" tvg-logo="https://lh3.googleusercontent.com/-NTtT2RbfKa8/YE1K8bQxldI/AAAAAAABAmU/cvVo2mpWCjg8AJBq5TnVliWbXUIWWfwxwCK8BGAsYHg/s512/2021-03-13.png" group-title="RELIGIOSOS", Jesus TV | DO
+https://cloudflare.streamgato.us:3037/live/jesustvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="853" tvg-name="La Fe Mueve Montanas" tvg-logo="https://lh3.googleusercontent.com/-kl7V7U5q7f0/YI830_FLyoI/AAAAAAABCJg/VWmNBlxJKzYppBYkN1vC4Rz9WjB7jBrfQCK8BGAsYHg/s512/2021-05-02.png" group-title="RELIGIOSOS", La Fe Mueve Montanas | DO
 https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="192" tvg-name="Luz Naciente TV" tvg-logo="https://lh3.googleusercontent.com/-TkocLRjb3Kk/YE1LWyaocRI/AAAAAAABAmc/_HK4XABBOKg9ybKErozOO7NCL2GMe9RDQCK8BGAsYHg/s512/2021-03-13.png" group-title="RELIGIOSOS", Luz Naciente TV | CR
+https://cloudflare.streamgato.us:3399/live/luznacientetvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="186" tvg-name="Mana del Cielo TV" tvg-logo="https://lh3.googleusercontent.com/-xDuKnu-26T4/YE1IU7_yxYI/AAAAAAABAlg/cV1Z9QG3WqwBXg7t22JkJ0bK9XVe9Q7JACK8BGAsYHg/s512/2021-03-13.png" group-title="RELIGIOSOS", Mana del Cielo TV | US
+http://cvip.smhcdn.com/10671-live/manatvdelcielo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="866" tvg-name="Manantial de Adoración TV" tvg-logo="https://i2.paste.pics/14dfe90b2eca7a9eccb2cb7fab88286f.png" group-title="RELIGIOSOS", Manantial de Adoración TV | US
+https://livemediacp.com:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="821" tvg-name="Master Video Pro" tvg-logo="https://lh3.googleusercontent.com/-Amd7Ilz-8I0/YH9URW7BZJI/AAAAAAABByk/YVbITMA-SRMyoTUOcSlIcTp9iCsJ3Ms-ACK8BGAsYHg/s512/2021-04-20.png" group-title="RELIGIOSOS", Master Video Pro | PR
+https://584097344c1f0.streamlock.net:443/222/stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1202" tvg-name="MC Radio" tvg-logo="https://i2.paste.pics/7070d20a86a32c32e668f538bac42bdf.png" group-title="RELIGIOSOS", MC Radio | CL
 https://live.tvcontrolcp.com:1936/manten/manten/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="183" tvg-name="MCN Television" tvg-logo="https://lh3.googleusercontent.com/-YGpaUHYjQDo/YE1MOLAUaHI/AAAAAAABAms/ebRxo7O9qJoXjY-CMX-aqm0UOCv0nod_ACK8BGAsYHg/s512/2021-03-13.jpg" group-title="RELIGIOSOS", MCN Television | GT
+https://cp.sradiotv.com:1936/8026/8026/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="823" tvg-name="Mision TV" tvg-logo="https://lh3.googleusercontent.com/-kYhIouLpRVY/YH9WBpmzfvI/AAAAAAABBy4/WLAY9I0GnEMJN2d0XsuM-3JnaavbSRtLwCK8BGAsYHg/s512/2021-04-20.jpg" group-title="RELIGIOSOS", Mision TV | HN
+https://5d597bfcee285.streamlock.net/cec/cec/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="928" tvg-name="MovieFE" tvg-logo="https://i2.paste.pics/f13ba72f2517c25f7dc57a9171a7c8a0.png" group-title="RELIGIOSOS", MovieFE | VE
 https://vcp.myplaytv.com:443/moviefe/ngrp:moviefe_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1165" tvg-name="MVT TV" tvg-logo="https://i2.paste.pics/7daced6121ffeb1fb3a547c87a1c0a25.png" group-title="RELIGIOSOS", MVT TV | CO
 http://streaminginfotecsa.com:8080/hls/mvt/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="197" tvg-name="Nacion TV Internacional" tvg-logo="https://lh3.googleusercontent.com/-SrBTvX2nj_s/YE6W4esdV0I/AAAAAAABAuY/mne5yEh0y0stJ1JHpzugwYc40C6yr9dIwCK8BGAsYHg/s512/2021-03-14.png" group-title="RELIGIOSOS", Nacion TV Internacional | US
+https://4k-server-mia.2cdn.eu/NacionTVINT/ngrp:myStream_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="855" tvg-name="Natanael TV" tvg-logo="https://lh3.googleusercontent.com/-deFb75UFktE/YKwi66hjaNI/AAAAAAABCho/NMTn7zkpR34vtSQ_nLQDfznppbQGXpTmACK8BGAsYHg/s512/2021-05-24.png" group-title="RELIGIOSOS", Natanael TV | PA
 https://stmv1.voxhdnet.com/natanael040322/natanael040322/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="164" tvg-name="NCTV" tvg-logo="https://i2.paste.pics/4a59ad761b7b6578b320729cb230f778.png" group-title="RELIGIOSOS", NCTV | CL
@@ -3824,6 +3883,10 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8?Playl
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="207" tvg-name="Orbe 21" tvg-logo="https://lh3.googleusercontent.com/-nkPrJQvytG4/YFtHEDqc8EI/AAAAAAABA3Q/ug1dmoP1_Qcd5lOSH4Kgxf_E0UBedCuCgCK8BGAsYHg/s512/2021-03-24.jpg" group-title="RELIGIOSOS", Orbe 21 | AR
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="166" tvg-name="Presencia Television" tvg-logo="https://lh3.googleusercontent.com/-7jsWnWabgL0/X5LJGwrSD0I/AAAAAAAA6qc/KggtBZyA5vwfmgYV-LRzWWMl187f4CfXgCK8BGAsYHg/s0/2020-10-23.png" group-title="RELIGIOSOS", Presencia Television | GT
+https://sm.redconnections.net:1936/presenciatv/presenciatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="826" tvg-name="Radio TV Cristo Viene" tvg-logo="https://lh3.googleusercontent.com/-R-JjBAg0EfA/YH9Zvh8M3MI/AAAAAAABBzY/0aY1L3140EYiIj8XsqjcE5oBvPPYc7ArACK8BGAsYHg/s512/2021-04-20.jpg" group-title="RELIGIOSOS", Radio TV Cristo Viene | US
+https://584097344c1f0.streamlock.net:443/1599/stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="167" tvg-name="Radio Vida Curico" tvg-logo="https://i2.paste.pics/b5b7b96e2769867a92c9a32dee7cfba9.png" group-title="RELIGIOSOS", Radio Vida Curico | CL
 https://v2.tustreaming.cl/radiovidacurico/rewind-999999.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="571" tvg-name="Rede Vida" tvg-logo="https://lh3.googleusercontent.com/-V7hpVeg_ZAg/X0EUI0OqF2I/AAAAAAAA4zM/A6tXRvQc8tgvVE4msM-3EhmVuFWbLdR8gCK8BGAsYHg/s0/2020-08-22.jpg" group-title="RELIGIOSOS", Rede Vida | BR
@@ -3833,19 +3896,27 @@ https://5bff1bf18a887.streamlock.net/rtvla/rtvla/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="863" tvg-name="Restauracion TV Houston" tvg-logo="https://lh3.googleusercontent.com/-fs-FQm_FyH8/YKQjLF8QCcI/AAAAAAABCYg/sfSInvnSgogPL-o9Bu71aw6ohWXdCohhQCK8BGAsYHg/s512/2021-05-18.png" group-title="RELIGIOSOS", Restauracion TV Houston | US
 https://2-fss-2.themediacdn.com/pl_138/amlst:200836-1357134/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="351" tvg-name="Restaurando Vidas TV" tvg-logo="https://i2.paste.pics/bda4dda4f3d61d88354e6d64a8fdbc44.png" group-title="RELIGIOSOS", Restaurando Vidas TV | CL
-http://v2.tustreaming.cl/restaurandovidastv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="971" tvg-name="Restaurando Vidas TV Internacional" tvg-logo="https://i2.paste.pics/bda4dda4f3d61d88354e6d64a8fdbc44.png" group-title="RELIGIOSOS", Restaurando Vidas TV Internacional | CL
-https://patagoniaip.trapemn.tv:1936/cristianos/restaurandovidatv1.stream/playlist.m3u8?PlaylistM3UCL
+https://v4.tustreaming.cl/restaurandovida/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="194" tvg-name="Rhema TV" tvg-logo="https://lh3.googleusercontent.com/-MKmkQ-qNnWY/YE6T4V4PwPI/AAAAAAABAt0/apsnMAEV6H40bl72zwsNBNxRfTXT2FSsACK8BGAsYHg/s512/2021-03-14.png" group-title="RELIGIOSOS", Rhema TV | GT
+http://ministerios-ebenezer.com:1935/live/RTV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="180" tvg-name="RVida TV" tvg-logo="https://lh3.googleusercontent.com/-KPTLLv1OcWA/YE1NaFb6S-I/AAAAAAABAm8/Kpbp9gx0m8wvFaeCpa-e5QjivRb3u6zdwCK8BGAsYHg/s512/2021-03-13.png" group-title="RELIGIOSOS", RVida TV | DO
 https://ss2.domint.net:3206/rv_str/rvida/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="178" tvg-name="Salvacion TV" tvg-logo="https://lh3.googleusercontent.com/-F6e4MwEoRJg/YE1N1N7_6BI/AAAAAAABAnE/VsRsdPKtisMgGhXLM7pEMrgS0D_KdlRZgCK8BGAsYHg/s512/2021-03-13.png" group-title="RELIGIOSOS", Salvacion TV | PR
 https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1308" tvg-name="Sonido Nazaret" tvg-logo="https://i.paste.pics/b1c8b206c4cfc580d74e9d865957ff17.png" group-title="RELIGIOSOS", Sonido Nazaret | CL
+https://live.tvcontrolcp.com:1936/sonidonazaret/sonidonazaret/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1003" tvg-name="Sublime Gracia TV" tvg-logo="https://i2.paste.pics/a5fb78f573ba79d41017820f70d975e9.png" group-title="RELIGIOSOS", Sublime Gracia TV | AR
 https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="198" tvg-name="TBN España" tvg-logo="https://lh3.googleusercontent.com/-0AQtIirU_U8/YE6XVkPwAyI/AAAAAAABAug/QzlNRBfxJwkEv05y1nkrfTo-MvYXI0e1ACK8BGAsYHg/s512/2021-03-14.png" group-title="RELIGIOSOS", TBN España | ES
+https://5e4e2e0bb2914.streamlock.net/live/ngrp:tbnlive_srt.stream_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="187" tvg-name="Tele Familia" tvg-logo="https://lh3.googleusercontent.com/-g_dUHOwBNAM/YE1OKFJDbwI/AAAAAAABAnM/iSrlgpU84ho1Sh6R_8hKrN9DaJFg043NQCK8BGAsYHg/s512/2021-03-13.png" group-title="RELIGIOSOS", Tele Familia | CO
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="169" tvg-name="Televida HD" tvg-logo="https://i2.paste.pics/a33717fb4cfdc7ac0983ec9b03947e7e.png" group-title="RELIGIOSOS", Televida HD | CL
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="184" tvg-name="Television Celestial" tvg-logo="https://lh3.googleusercontent.com/-WQZBXFnmdbY/YE1OtXwbsrI/AAAAAAABAnU/ZtSJZdIgInwIVcCMRt8vyInZyMp9sleewCK8BGAsYHg/s512/2021-03-13.png" group-title="RELIGIOSOS", Television Celestial | AR
+https://vsrv1.az-streamingserver.com:3356/live/televisioncelestiallive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1306" tvg-name="Telezion" tvg-logo="https://i.paste.pics/744c8dc0a1dfd1f42f8a6facae3333c2.png" group-title="RELIGIOSOS", Telezion | CL
+https://paneltv.net:3751/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="168" tvg-name="TNE" tvg-logo="https://i2.paste.pics/12d449b496fcb00dc23612da150e3fd6.png" group-title="RELIGIOSOS", TNE | CL
 https://v2.tustreaming.cl/tnetv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="570" tvg-name="TV Aparecida" tvg-logo="https://lh3.googleusercontent.com/-yaPOFswHRfY/X0ET4M0BkKI/AAAAAAAA4zE/ih6EqEifDLcpfiIfe6pFFunsbNnfXUgsgCK8BGAsYHg/s0/2020-08-22.jpg" group-title="RELIGIOSOS", TV Aparecida | BR
@@ -3870,8 +3941,12 @@ https://5790d294af2dc.streamlock.net:443/8090/8090/playlist.m3u8?PlaylistM3UCL
 https://videohd.live:19360/8062/8062.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="843" tvg-name="Vida Television" tvg-logo="https://lh3.googleusercontent.com/-K4ag8sRdrns/YIik0Pa60XI/AAAAAAABCA8/euopjhB8XgUJyrD4gShP_8tZBSQVx12ygCK8BGAsYHg/s512/2021-04-27.png" group-title="RELIGIOSOS", Vida Television | US
 https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1449024/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="195" tvg-name="Viva Cristo TV" tvg-logo="https://lh3.googleusercontent.com/-ZgXag0zLi4E/YE6UgdbLqtI/AAAAAAABAt8/peibJF6lLwQUefeWOzGNBPSSqnV79Yh-ACK8BGAsYHg/s512/2021-03-14.png" group-title="RELIGIOSOS", Viva Cristo TV | US
+http://ss6.domint.net:1946/vct_str/vctv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="846" tvg-name="XTO TV" tvg-logo="https://lh3.googleusercontent.com/-7SXvBoxEU7U/YIoR7EX9WEI/AAAAAAABCCM/vilu9iV1RDcjDOT5ksg9xvMyyjceKWRowCK8BGAsYHg/s512/2021-04-28.png" group-title="RELIGIOSOS", XTO TV | BO
 https://614013e273786.streamlock.net:443/XtoTv/XtoTv/playlist.m3u8?PlaylistM3UCL
+
+
 
 
 
