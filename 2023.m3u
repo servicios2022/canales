@@ -2898,6 +2898,8 @@ https://master.tucableip.com/pat/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="93" tvg-name="RTP" tvg-logo="https://www.m3u.cl/logo/93_RTP.png"  group-title="BOLIVIA", RTP | BO
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="88" tvg-name="ATB" tvg-logo="https://lh3.googleusercontent.com/-pYhQxm-nnSI/XoKCElwsqbI/AAAAAAAAxU0/lZ6MJIwK9X4HJoXLxT7LEx80maBf7VfEgCK8BGAsYHg/s0/2020-03-30.png" group-title="BOLIVIA", ATB | BO
+https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="981" tvg-name="Bolivia TV 7.2" tvg-logo="https://i2.paste.pics/20600a504d12eb0b41587fbc1b700289.png" group-title="BOLIVIA", Bolivia TV 7.2 | BO
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1194" tvg-name="Bolivision" tvg-logo="https://i2.paste.pics/4dc5de183727a12e5701c57cddac2f28.png" group-title="BOLIVIA", Bolivision | BO
