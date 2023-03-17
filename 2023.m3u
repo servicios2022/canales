@@ -3072,7 +3072,7 @@ https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
 
 #EXTINF:1,-PARAGUAY-
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/diarioasuncion.com/wp-content/uploads/2017/12/concepcion-paraguay.png?fit=800%2C800&ssl=1" " group-title="PARAGUAY",•●★-- 📺 PARAGUAY 📺 --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mjydrxE.png" group-title="PARAGUAY",•●★-- 📺 PARAGUAY 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
 #EXTINF:-1 tvg-id="807" tvg-name="LIM TV" tvg-logo="https://i.paste.pics/ac5034d49e28ab82a3372ff08c6b9573.png" group-title="PARAGUAY", LIM TV * | PY
@@ -3119,7 +3119,7 @@ https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8?Playlis
 
 #EXTINF:1,-PERU-
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QiZ2whP.png" " group-title="PERU",•●★-- 📺 PERU 📺 --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QiZ2whP.png" group-title="PERU",•●★-- 📺 PERU 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/1200px-Panamericana-tv.svg.png"  group-title="PERU",PANAMERICANA| PE
 https://sv.spliktv.xyz/live/caster/PE/PANAMERICANA.m3u8
