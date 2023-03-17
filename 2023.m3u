@@ -3322,6 +3322,21 @@ https://vcp.myplaytv.com/sunacrip/sunacrip/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uan9R5X.png" group-title="MUSICA",•●★-- 📺 MUSICA 📺 --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="MUSICA", +MIX CLASICOS
+https://tv.streaming-chile.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="MUSICA", +MIX ROCK&POP
+https://tv.streaming-chile.com:1936/8006/8006/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="MUSICA", +MIX LIVE
+https://tv.streaming-chile.com:1936/8128/8128/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="MUSICA", +MIX CHILE
+https://tv.streaming-chile.com:1936/8124/8124/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="MUSICA", +MIX LATINO
+https://tv.streaming-chile.com:1936/8126/8126/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="MUSICA", +MIX BAILABLES
+https://tv.streaming-chile.com:1936/8010/8010/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="MUSICA", +MIX URBANO 
+https://tv.streaming-chile.com:1936/8016/8016/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UX6IHNl.png" group-title="MUSICA",VEVO REGGAETÓN & TRAP
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UX6IHNl.png" group-title="MUSICA",VEVO LATINO
