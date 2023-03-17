@@ -566,22 +566,6 @@ https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png",Real Madrid TV | US
 https://bit.ly/RealMadridtv?/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="DEPORTE INTERNACIONAL", Bein Sports 1
-http://185.152.66.132/BEINSPORT1/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="DEPORTE INTERNACIONAL", Bein Sports 2
-http://185.152.66.132/BEINSPORT2/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="DEPORTE INTERNACIONAL", Bein Sports 3
-http://185.152.66.132/BEINSPORT3/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="DEPORTE INTERNACIONAL", Bein Sports 4
-http://185.152.66.132/BEINSPORT4/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="DEPORTE INTERNACIONAL", Bein Sports 5
-http://185.152.66.132/BEINSPORT5/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="DEPORTE INTERNACIONAL",Bein Sports 6
-http://185.152.66.132/BEINSPORT6/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="DEPORTE INTERNACIONAL", Bein Sports 7
-http://185.152.66.132/BEINSPORT7/tracks-v1a1/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VKvGgYT.png" group-title="DEPORTE INTERNACIONAL",TNT SPORTS 1 | BR
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VKvGgYT.png" group-title="DEPORTE INTERNACIONAL",TNT SPORTS 2 | BR
@@ -3454,12 +3438,8 @@ https://hostv7.tvestacion7.com:3222/hybrid/play.m3u8?PlaylistM3UCL
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="887" tvg-name="Hits 360" tvg-logo="https://lh3.googleusercontent.com/-5-1IsAfHulw/YLY20QswyOI/AAAAAAABCnU/3HTzC_ryaZc_tkdFb_MZGFH05anhfxPGgCJEEGAsYHg/s512/2021-06-01.png" group-title="MUSICA", Hits 360 | DO
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="889" tvg-name="La Sabrosura TV" tvg-logo="https://lh3.googleusercontent.com/-8b7QS_hJZdY/YLu9e1SGFLI/AAAAAAABCrk/aO5qeFONSokBmWT8vsROhr1uigX0FizcQCJEEGAsYHg/s512/2021-06-05.png" group-title="MUSICA", La Sabrosura TV | CL
-https://tv.streaming-chile.com:1936/radiosabrosura/radiosabrosura/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="904" tvg-name="Latin Zone TV" tvg-logo="https://i2.paste.pics/80e0212c6d6715e2ebdda69e5f2a6c61.png" group-title="MUSICA", Latin Zone TV | US
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="911" tvg-name="Tele Clasicos" tvg-logo="https://i2.paste.pics/379d8ce5893c94a972cd1ec9f5a13149.png" group-title="MUSICA", Tele Clasicos | CR
-https://tvdatta.com:3574/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="925" tvg-name="Nubeh TV" tvg-logo="https://i2.paste.pics/82dcfd31aad429ffee4c8edc9afa7624.png" group-title="MUSICA", Nubeh TV | VE
 https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="926" tvg-name="Oxigeno Network" tvg-logo="https://i2.paste.pics/ef1ca23d4134cf47e55c3092fae7e513.png" group-title="MUSICA", Oxigeno Network | VE
@@ -3468,22 +3448,6 @@ https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="929" tvg-name="Italianissimo" tvg-logo="https://i2.paste.pics/f98ee219e6d74ae697f46761bfc763c3.png" group-title="MUSICA", Italianissimo | VE
 https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="955" tvg-name="MCRT 80s" tvg-logo="https://i2.paste.pics/843283aea869f8124ab8ceec08c7fa68.png" group-title="MUSICA", MCRT 80s | CA
-https://stmv.negotv.com/80s2021/80s2021/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="949" tvg-name="MCRT Banda" tvg-logo="https://i2.paste.pics/843283aea869f8124ab8ceec08c7fa68.png" group-title="MUSICA", MCRT Banda | CA
-https://stmv.negotv.com/bandamx/bandamx/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="950" tvg-name="MCRT Cristiana" tvg-logo="https://i2.paste.pics/843283aea869f8124ab8ceec08c7fa68.png" group-title="MUSICA", MCRT Cristiana | CA
-https://stmv.negotv.com/religion2021/religion2021/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="952" tvg-name="MCRT En Español" tvg-logo="https://i2.paste.pics/843283aea869f8124ab8ceec08c7fa68.png" group-title="MUSICA", MCRT En Español | CA
-https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="951" tvg-name="MCRT GYM" tvg-logo="https://i2.paste.pics/843283aea869f8124ab8ceec08c7fa68.png" group-title="MUSICA", MCRT GYM | CA
-https://stmv.negotv.com/gym2021/gym2021/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="953" tvg-name="MCRT Reggaeton" tvg-logo="https://i2.paste.pics/843283aea869f8124ab8ceec08c7fa68.png" group-title="MUSICA", MCRT Reggaeton | CA
-https://stmv.negotv.com/regueton2021/regueton2021/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="954" tvg-name="MCRT Top Hits" tvg-logo="https://i2.paste.pics/843283aea869f8124ab8ceec08c7fa68.png" group-title="MUSICA", MCRT Top Hits | CA
-https://stmv.negotv.com/top2021/top2021/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1009" tvg-name="Radiomania" tvg-logo="https://i2.paste.pics/23bcb93c2d0cdd0163f92bffdb001898.png" group-title="MUSICA", Radiomania | CL
-https://6362ca6f1fc28.streamlock.net:443/8000/8000/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1014" tvg-name="PlanetaTV Music" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="MUSICA", PlanetaTV Music | CL
 https://scl.edge.grupoz.cl/music/live/music.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1029" tvg-name="Evavisión Pachanga" tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png" group-title="MUSICA", Evavisión Pachanga | CL
@@ -3506,12 +3470,6 @@ http://ventdelnord.tv:8080/mola/directe.m3u8?PlaylistM3UCL
 https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="546" tvg-name="Top TV" tvg-logo="https://lh3.googleusercontent.com/-UXc734ztZfU/X0KOOvmuZAI/AAAAAAAA440/6ngQMIIe7Ukh8ugZlXJwxSnlbiiVz-bZQCK8BGAsYHg/s0/2020-08-23.png" group-title="MUSICA", Top TV | BR
 https://cast.cdnseguro.com:19360/8092/8092.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="561" tvg-name="TV Uniao" tvg-logo="https://i2.paste.pics/92b2a8a3fdeb9191df67c2d4c681f106.png" group-title="MUSICA", TV Uniao | BR
-https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="324" tvg-name="El Galpon 80" tvg-logo="https://i2.paste.pics/f1bc9762fc091f72206cac3d4d4111da.png" group-title="MUSICA", El Galpon 80 | CL
-https://stmv2.zcasthn.com.br/ferchile/ferchile/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="845" tvg-name="Tu Musica HD" tvg-logo="https://i2.paste.pics/125ce9f4e1e661f94fb7c6dce4224485.png" group-title="MUSICA", Tu Musica HD | DO
-https://cloudflare.streamgato.us:3618/live/tumusicahdlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1127" tvg-name="Carolina TV 2" tvg-logo="https://i2.paste.pics/a1f3645efd9dcde7f2c90bc14f24ddc1.png" group-title="MUSICA", Carolina TV 2 | CL
 https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1128" tvg-name="Solobailalo TV" tvg-logo="https://i2.paste.pics/d96b857f73a9ce281cdef4e11766eddd.png" group-title="MUSICA", Solobailalo TV | CL
