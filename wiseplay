@@ -8,7 +8,13 @@
 {"name": "DEPORTE ESPAÑOL",
 "image": "https://i.imgur.com/qUhP3dH.gif",
 "stations":[
-  {
+   {
+         	"name": "Agenda diaria de Star+ (exclusivo) | AR 🇦🇷",
+			"image": "https://lumiere-a.akamaihd.net/v1/images/logo-star-blanco_2a7b49de.png",
+                 "url": "https://futboltvhd.live/star-plus",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
          		 "name": "DAZN 1 (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/NcXEpiv.png",
                  "url": "https://cdix.pages.dev/dazn1",
