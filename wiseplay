@@ -1,4 +1,7 @@
 
+ 
+
+
 {	"name": "TODO DEPORTE",
  "author": "📺Si vives en España necesitas VPN para ver algunos canales!!📺",
  "image": "https://i.imgur.com/UeLUsrq.gif",
@@ -114,7 +117,7 @@
                  }, {
 			"name": "DAZN la Liga (opc.5) | ES 🇪🇸",
 			"image": "https://i.imgur.com/JLciFmy.jpg",
-	        "url": "https://sportsembed.su/channels/hd/hd6.php",
+	        "url": "https://v3.sportsonline.sx/channels/hd/hd6.php",
 		"userAgent" : ""
                     },  {
                     "name": "DAZN la Liga (opc.6) | ES 🇪🇸",
@@ -187,7 +190,7 @@
                     }, {
 			"name": "La Liga Tv por M+ (opc.8) | ES 🇪🇸",
 			"image": "https://i.imgur.com/K1p7zVZ.png",
-	        "url": "https://sportsembed.su/channels/hd/hd6.php",
+	        "url": "https://v3.sportsonline.sx/channels/hd/hd6.php",
 		"userAgent" : ""
                     }, {
 			  "name": "Liga de Campeones por M+ (opc.1) | ES 🇪🇸",
@@ -662,3 +665,4 @@
 
 ]},
 ]}
+
