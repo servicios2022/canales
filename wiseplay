@@ -545,35 +545,12 @@
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
-				"name": "TUDN USA (opc.2) | MX 🇺🇸",
-			"image": "https://i.imgur.com/hDp5KBz.png",
-			"url":"https://watchtvchh.xyz/channel/ch07006.php",
-	                "isHost": "true"
-        }, {
-			"name": "TUDN USA (opc.3) | MX 🇺🇸",
-			"image": "https://i.imgur.com/hDp5KBz.png",
-			"url": "https://bahiadeportes.com/canales/tudn.php",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
-			"name": "TUDN USA (opc.4) | MX 🇺🇸",
-			"image": "https://i.imgur.com/hDp5KBz.png",
-			"url": "https://bahiadeportes.com/canales/tudnblim.php",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" },  {
-			"name": "TUDN USA (opc.5) | MX 🇺🇸",
+			"name": "TUDN USA (opc.2) | MX 🇺🇸",
 			"image": "https://i.imgur.com/hDp5KBz.png",
 			"url": "https://bahiadeportes.com/canales/tudnusa.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
-			"name": "TUDN USA (opc.6) | MX 🇺🇸",
-			"image": "https://i.imgur.com/hDp5KBz.png",
-			"url": "https://bahiadeportes.com/canales/tudnusa-1.php",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
 		  "name": "TYC Sports (opc.1) | AR 🇦🇷",
 			"image": "https://i.imgur.com/I7Lhgej.png",
 			"url": "https://bahiadeportes.com/canales/tycsports.php",
@@ -604,7 +581,7 @@
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
-			"name": "Win Sports Plus (opc.3) | CO 🇨🇴",
+			"name": "Win Sports Plus (opc.2) | CO 🇨🇴",
 			"image": "https://i.imgur.com/NwKPC6B.png",
 			"url": "https://tucanaldeportivo.com/winmas.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
