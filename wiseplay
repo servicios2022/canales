@@ -9,13 +9,13 @@
 "image": "https://i.imgur.com/qUhP3dH.gif",
 "stations":[
    {
-         	"name": "Agenda diaria de Star+ (exclusivo) | AR 🇦🇷",
+         	"name": "Agenda deportiva Star+ (opc.1) | AR 🇦🇷",
 			"image": "https://lumiere-a.akamaihd.net/v1/images/logo-star-blanco_2a7b49de.png",
                  "url": "https://futboltvhd.live/star-plus",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
-         	"name": "Agenda diaria de Star+ (exclusivo) | AR 🇦🇷",
+         	"name": "Agenda deportiva Star+ (opc.2) | AR 🇦🇷",
 			"image": "https://lumiere-a.akamaihd.net/v1/images/logo-star-blanco_2a7b49de.png",
                  "url": "https://pelotalibre.com/star-plus/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
@@ -226,13 +226,13 @@
 "image": "https://i.imgur.com/AsG6ogs.gif",
 "stations":[
       {
-         	"name": "Agenda diaria de Star+ (exclusivo) | AR 🇦🇷",
+         	"name": "Agenda deportiva Star+ (opc.1) | AR 🇦🇷",
 			"image": "https://lumiere-a.akamaihd.net/v1/images/logo-star-blanco_2a7b49de.png",
                  "url": "https://futboltvhd.live/star-plus",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
-         	"name": "Agenda diaria de Star+ (exclusivo) | AR 🇦🇷",
+         	"name": "Agenda deportiva Star+ (opc.2) | AR 🇦🇷",
 			"image": "https://lumiere-a.akamaihd.net/v1/images/logo-star-blanco_2a7b49de.png",
                  "url": "https://pelotalibre.com/star-plus/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
@@ -246,15 +246,15 @@
 "embed": "true" }, {
          	"name": "Bein Sport Ñ (opc.1) | LAT 🇲🇽",
 			"image": "https://i.imgur.com/c4gfwhr.png",
-                 "url": "https://v3.sportsonline.sx/channels/hd/hd6.php",
-		"userAgent" : ""
-                    }, {
-         	"name": "Bein Sport Ñ (opc.2) | LAT 🇲🇽",
-			"image": "https://i.imgur.com/c4gfwhr.png",
                  "url": "https://futbolfullenvivo.com/canales/bein-es/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
+         	"name": "Bein Sport Ñ (opc.2) | LAT 🇲🇽",
+			"image": "https://i.imgur.com/c4gfwhr.png",
+                 "url": "https://v3.sportsonline.sx/channels/hd/hd6.php",
+		"userAgent" : ""
+                    }, {
                  "name": "Deport Tv (opc.1) | AR 🇦🇷",
           	   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/1200px-DeporTV_%282020_Logo_oficial%29.png",
                  "url": "https://usermarket.bond/dtvpl2.html?id=1056",
