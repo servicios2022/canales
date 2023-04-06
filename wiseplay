@@ -250,11 +250,6 @@
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
-         	"name": "Bein Sport Ñ (opc.1p) | LAT 🇲🇽",
-			"image": "https://i.imgur.com/c4gfwhr.png",
-                 "url": "https://futbolfullenvivo.com/canales/bein-es/",
-		"userAgent" : ""
-                    }, {
          	"name": "Bein Sport Ñ (opc.2) | LAT 🇲🇽",
 			"image": "https://i.imgur.com/c4gfwhr.png",
                  "url": "https://v3.sportsonline.sx/channels/hd/hd6.php",
