@@ -302,22 +302,10 @@
                  "url": "https://usermarket.bond/dtvpl2.html?id=1063",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true" },  {
-                           "name": "Direct Tv Sports 2 (opc.2) | AR 🇦🇷",
-             "image": "https://i.imgur.com/bWw9A7h.png",
-                 "url": "https://www.tutele.nl/online.php?a=7",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" },  {
+"embed": "true" }, {
                               "name": "Direct Tv Sports Plus (opc.1) | AR 🇦🇷",
             	 "image": "https://i.imgur.com/ztxH679.png",
                  "url": "https://usermarket.bond/dtvpl2.html?id=1071",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" },  {
-                              "name": "Direct Tv Sports Plus (opc.2) | AR 🇦🇷",
-            	 "image": "https://i.imgur.com/ztxH679.png",
-                 "url": "https://www.tutele.nl/online.php?a=8",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
@@ -345,21 +333,6 @@
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
-                       "name": "ESPN Argentina (opc.5) | AR 🇦🇷",
-			"image": "https://i.imgur.com/MFhpD4D.png",
-                        "url": "https://freelive365.nl/player2.php?id=8&code=114&evento=Argentina"
-                        }, {
-                    "name": "ESPN Argentina (opc.6) | AR 🇦🇷",
-			"image": "https://i.imgur.com/MFhpD4D.png",
-                  "url": "https://sportkart1.xyz/tv/scplayer-149.php",
-                    "referer" : "https://maxsport.one/",
-                     "isHost" : "true"
-                    }, {
-                   "name": "ESPN Argentina (opc.7) | AR 🇦🇷",
-			"image": "https://i.imgur.com/MFhpD4D.png",
-                    "url":"https://egrc.tarjetarojatv.site/webplayer.php?ifr=70&lang=en&lid=70&ci=37&si=1",
-            "isHost" : "true"
-                  }, {
 			   "name": "ESPN 2 Argentina (opc.1) | AR 🇦🇷",
              "image": "https://i.imgur.com/jq1s4to.png",
 			"url": "https://usermarket.bond/dtvpl2.html?id=1099",
@@ -372,22 +345,12 @@
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
-			   "name": "ESPN 2 Argentina (opc.3) | AR 🇦🇷",
-             "image": "https://i.imgur.com/jq1s4to.png",
-			"url": "https://www.tutele.nl/online.php?a=2",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
-                   "name": "ESPN 2 Argentina (opc.4) | AR 🇦🇷",
+                   "name": "ESPN 2 Argentina (opc.3) | AR 🇦🇷",
              "image": "https://i.imgur.com/jq1s4to.png",
                     "url": "https://sportkart1.xyz/tv/scplayer-150.php",
                     "referer" : "https://maxsport.one/",
                      "isHost" : "true"
                  },  {
-                          "name": "ESPN 2 Argentina (opc.5) | AR 🇦🇷",
-             "image": "https://i.imgur.com/jq1s4to.png",
-                        "url": "https://freelive365.nl/player2.php?id=8&code=115&evento=Argentina"
-                        }, {
                   "name": "ESPN 3 Argentina (opc.1) | AR 🇦🇷",
              "image": "https://i.imgur.com/iFqCpKj.png",
                  "url": "https://embed2.promedios.futbol/dtvpl2.html?id=1103",
@@ -405,17 +368,7 @@
                  "url": "https://tucanaldeportivo.com/espn3hd.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true" }, {
-                  "name": "ESPN 3 Argentina (opc.4) | AR 🇦🇷",
-             "image": "https://i.imgur.com/iFqCpKj.png",
-                  "url": "https://warnforlese.net/embed/qwzyeiwqzd",
-                    "referer" : "https://casadelfutbol.net/",
-                     "isHost" : "true"
-                  },  {
-                         "name": "ESPN 3 Argentina (opc.5) | AR 🇦🇷",
-             "image": "https://i.imgur.com/iFqCpKj.png",
-                        "url": "https://freelive365.nl/player2.php?id=8&code=116&evento=Argentina"
-                        }, {
+"embed": "true" },  {
                   "name": "ESPN 4 Argentina (opc.1) | AR 🇦🇷",
              "image": "https://i.imgur.com/G9nJy7y.png",
                  "url": "https://bahiadeportes.com/canales/espn4.php",
@@ -425,12 +378,6 @@
                   "name": "ESPN Premium Argentina (opc.1) | AR 🇦🇷",
              "image": "https://i.imgur.com/KvY0uqu.png",
                  "url": "https://embed2.promedios.futbol/dtvpl2.html?id=1125",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" },  {
-                  "name": "ESPN Premium Argentina (opc.2) | AR 🇦🇷",
-             "image": "https://i.imgur.com/KvY0uqu.png",
-                 "url": "https://www.tutele.nl/online.php?a=5",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
@@ -511,28 +458,13 @@
                  "url": "https://tucanaldeportivo.com/foxsportshd.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true" }, {
-                       "name": "Fox Sports Argentina (opc.4) | AR 🇦🇷",
-			"image": "https://i.imgur.com/CF5il5c.png",
-                        "url": "https://freelive365.nl/player2.php?id=8&code=123&evento=Argentina"
-                        }, {
+"embed": "true" },  {
               "name": "Fox Sports 2 Argentina (opc.1) | AR 🇦🇷",
-			"image": "https://i.imgur.com/t2Wn2rO.png",
-                 "url": "https://www.tutele.nl/online.php?a=133",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
-              "name": "Fox Sports 2 Argentina (opc.2) | AR 🇦🇷",
 			"image": "https://i.imgur.com/t2Wn2rO.png",
                  "url": "https://bahiadeportes.com/canales/foxsports2arg-2.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true" },
-                        {
-                       "name": "Fox Sports 2 Argentina (opc.3) | AR 🇦🇷",
-			"image": "https://i.imgur.com/t2Wn2rO.png",
-                        "url": "https://freelive365.nl/player2.php?id=8&code=124&evento=Argentina"
-                        }, {
+"embed": "true" }, {
               "name": "Fox Sports 3 Argentina (opc.1) | AR 🇦🇷",
 			"image": "https://i.imgur.com/VxIZXH9.png",
                  "url": "https://bahiadeportes.com/canales/foxsports3arg.php",
@@ -544,18 +476,7 @@
                  "url": "https://usermarket.bond/dtvpl2.html?id=1123",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true" }, {
-              "name": "Fox Sports 3 Argentina (opc.3) | AR 🇦🇷",
-			"image": "https://i.imgur.com/VxIZXH9.png",
-                 "url": "https://www.tutele.nl/online.php?a=4673",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" },
-                        {
-                       "name": "Fox Sports 3 Argentina (opc.4) | AR 🇦🇷",
-			"image": "https://i.imgur.com/VxIZXH9.png",
-                        "url": "https://freelive365.nl/player2.php?id=8&code=125&evento=Argentina"
-                        },  {
+"embed": "true" },  {
 			"name": "Fox Sports Mexico (opc.1) | MX 🇲🇽",
 			"image": "https://i.imgur.com/CF5il5c.png",
 	         "url": "https://bahiadeportes.com/canales/foxsportsdtv.php",
@@ -582,11 +503,7 @@
 			"image": "https://i.imgur.com/VxIZXH9.png",
 	        "url": "https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd",
 		"userAgent" : ""
-                    },    {
-                        "name": "Fox Deportes Mexico (opc.1) | MX 🇲🇽",
-			"image": "https://cdn.tvpassport.com/image/station/240x135/v2/s15377_h15_ab.png",
-                        "url": "https://freelive365.nl/player2.php?id=11&code=131&evento=Mexico"
-                        }, {
+                    },  {
       		     "name": "Gol  Peru (opc.1) | PE 🇵🇪",
             	    "image": "https://i.imgur.com/xvHtnbT.jpg",
 		    "url": "https://golperu.futboltvhd.repl.co/",
@@ -595,12 +512,6 @@
 			"name": "Gol Tv (opc.1) | ",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
 			"url": "https://embed2.promedios.futbol/dtvpl2.html?id=1134",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
-			"name": "Gol Tv (opc.2) | ",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",
-			"url": "https://www.tutele.nl/online.php?a=4702",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
@@ -636,13 +547,7 @@
 			"url": "https://futbol-tv.online/ver/tnt-sports-chile",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
-		"embed": "true" }, {
-			"name": "TNT Sports Chile (opc.7) | CL 🇨🇱",
-			"image": "https://i.imgur.com/TTaCeXw.png",
-			"url": "https://www.tutelehd.net/online.php?a=4",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-		"playInNatPlayer": "true",
-		"embed": "true" }, 
+		"embed": "true" },
 	
 		{
 			        "name": "TNT Sports Argentina (opc.1) | AR 🇦🇷",
@@ -654,12 +559,6 @@
 			        "name": "TNT Sports Argentina (opc.2) | AR 🇦🇷",
             	 "image": "https://i.imgur.com/TTaCeXw.png",
 			"url": "https://usermarket.bond/dtvpl2.html?id=1233",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
-			        "name": "TNT Sports Argentina (opc.3) | AR 🇦🇷",
-            	 "image": "https://i.imgur.com/TTaCeXw.png",
-			"url": "https://www.tutele.nl/online.php?a=149",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
@@ -698,12 +597,6 @@
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
-			"name": "TUDN USA (opc.7) | MX 🇺🇸",
-			"image": "https://i.imgur.com/hDp5KBz.png",
-			"url": "https://www.tutele.nl/online.php?a=7428",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" },  {
 		  "name": "TYC Sports (opc.1) | AR 🇦🇷",
 			"image": "https://i.imgur.com/I7Lhgej.png",
 			"url": "https://bahiadeportes.com/canales/tycsports.php",
@@ -731,12 +624,6 @@
 			"name": "Win Sports Plus (opc.1) | CO 🇨🇴",
 			"image": "https://i.imgur.com/NwKPC6B.png",
 			"url": "https://usermarket.bond/dtvpl2.html?id=1251",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, {
-			"name": "Win Sports Plus (opc.2) | CO 🇨🇴",
-			"image": "https://i.imgur.com/NwKPC6B.png",
-			"url": "https://www.tutele.nl/online.php?a=3305",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
