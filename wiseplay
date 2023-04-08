@@ -29,13 +29,7 @@
                  "url": "https://sfntv.xyz/starplus",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true" },  {
-         	"name": "Eventos Star+ (opc.4) | AR 🇦🇷",
-			"image": "https://lumiere-a.akamaihd.net/v1/images/logo-star-blanco_2a7b49de.png",
-                 "url": "https://sfntv.xyz/deportes",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" },  {
+"embed": "true" }, {
          		 "name": "DAZN 1 (opc.1) | ES 🇪🇸",
 			"image": "https://i.imgur.com/NcXEpiv.png",
                  "url": "https://cdix.pages.dev/dazn1",
@@ -246,6 +240,12 @@
          	"name": "Eventos Star+ (opc.2) | AR 🇦🇷",
 			"image": "https://lumiere-a.akamaihd.net/v1/images/logo-star-blanco_2a7b49de.png",
                  "url": "https://librefutboltv.com/star-plus",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },  {
+         	"name": "Eventos Star+ (opc.3) | AR 🇦🇷",
+			"image": "https://lumiere-a.akamaihd.net/v1/images/logo-star-blanco_2a7b49de.png",
+                 "url": "https://sfntv.xyz/starplus",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
