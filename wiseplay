@@ -440,6 +440,12 @@
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
+                         "name": "ESPN Deportes (opc.2) | LAT 🇲🇽",
+             "image": "https://i.imgur.com/cYvji3A.png",
+                      "url": "https://www.tvplusgratis.com/espn-deportes-en-vivo.html",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
                 "name": "Fox Sports Argentina (opc.1) | AR 🇦🇷",
 			"image": "https://i.imgur.com/CF5il5c.png",
                  "url": "https://bahiadeportes.com/canales/foxsportsarg.php",
