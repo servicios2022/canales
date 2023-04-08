@@ -379,6 +379,12 @@
                  "url": "https://bahiadeportes.com/canales/espn4.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
+"embed": "true" },  {
+                  "name": "ESPN 4 Argentina (opc.1) | AR 🇦🇷",
+             "image": "https://i.imgur.com/G9nJy7y.png",
+                 "url": "https://embed2.promedios.futbol/dtvpl2.html?id=1119",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
 "embed": "true" }, {
                   "name": "ESPN Premium Argentina (opc.1) | AR 🇦🇷",
              "image": "https://i.imgur.com/KvY0uqu.png",
@@ -534,6 +540,18 @@
 			"name": "TNT Sports Chile (opc.4) | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url": "https://futbol-tv.online/ver/tnt-sports-chile",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" },   {
+			"name": "TNT Sports Chile 2 (opc.1) | CL 🇨🇱",
+			"image": "https://i.imgur.com/Xb4D6QL.png",
+			"url": "https://usermarket.bond/dtvpl2.html?id=1230",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+			"name": "TNT Sports Chile 3 (opc.1) | CL 🇨🇱",
+			"image": "https://i.imgur.com/ap027lf.png",
+			"url": "https://usermarket.bond/dtvpl2.html?id=1231",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
 		"embed": "true" },
