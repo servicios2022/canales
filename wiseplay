@@ -38,12 +38,6 @@
                  "url": "https://futbollibre.futbol/tv8/star-plus/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true" },  {
-         	"name": "Eventos Star+ (opc.3) | AR 🇦🇷",
-			"image": "https://lumiere-a.akamaihd.net/v1/images/logo-star-blanco_2a7b49de.png",
-                 "url": "https://www.portalbarranca.com/2022/11/eventos-star.html",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
 "embed": "true" }, {
 			"name": "TNT Sports Chile (opc.1) | CL 🇨🇱",
                     "image": "https://i.imgur.com/TTaCeXw.png",
@@ -71,7 +65,7 @@
 		"embed": "true" }, {
 			"name": "Win Sports Plus (opc.2) | CO 🇨🇴",
 			"image": "https://i.imgur.com/NwKPC6B.png",
-			"url": "https://tucanaldeportivo.com/winmas.php",
+			"url": "https://futbolfullenvivo.nl/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" 
