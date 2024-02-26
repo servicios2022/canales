@@ -63,9 +63,27 @@
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
 		"embed": "true" }, {
-			"name": "Win Sports Plus (opc.2) | CO 🇨🇴",
+			"name": "Deporte Libre | CL 🇨🇱",
+			"image": "https://i.imgur.com/TTaCeXw.png",
+			"url": "https://deporte-libre.net/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+			"name": "Futbol Libre | CL 🇨🇱",
+			"image": "https://i.imgur.com/TTaCeXw.png",
+			"url": "https://futbollibre.futbol/tv8/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+			"name": "Futbol en Vivo | CL 🇨🇱",
+			"image": "https://i.imgur.com/TTaCeXw.png",
+			"url": "https://futbolfullenvivo.nl/canales-deportivos/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+			"name": "Roja Directa | CO 🇨🇴",
 			"image": "https://i.imgur.com/NwKPC6B.png",
-			"url": "https://futbolfullenvivo.nl/",
+			"url": "https://www.rojadirectaenvivo.pl/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" 
