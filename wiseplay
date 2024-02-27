@@ -3,30 +3,15 @@
 
 
 {	"name": "TODO DEPORTE",
- "author": "📺Si vives en España necesitas VPN para ver algunos canales!!📺",
+ "author": "📺Lista Gratuita📺",
  "image": "https://i.imgur.com/UeLUsrq.gif",
     "info": "Enlaces encontrados en internet",
 "url": "https://raw.githubusercontent.com/servicios2022/canales/main/wiseplay",
 "groups": [
-{"name": "DEPORTE ESPAÑOL",
+{"name": "EVENTOS DE STAR+",
 "image": "https://i.imgur.com/qUhP3dH.gif",
 "stations":[
    {
-         	"name": "Eventos Star+ | AR 🇦🇷",
-			"image": "https://lumiere-a.akamaihd.net/v1/images/logo-star-blanco_2a7b49de.png",
-                 "url": "https://deportestvhd.com/star-plus.html",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" },  {
-                     	  "name": "#Vamos por M+ (opc.3) | ES 🇪🇸",
-			"image": "https://i.imgur.com/ZYXUy5I.png",
-                        "url": "https://freelive365.nl/player2.php?id=33&code=173&evento=espa%C3%91a"
-                       
-},]},
-{"name": "DEPORTE LATINO",
-"image": "https://i.imgur.com/AsG6ogs.gif",
-"stations":[
-      {
          	"name": "Eventos Star+ (opc.1) | AR 🇦🇷",
 			"image": "https://lumiere-a.akamaihd.net/v1/images/logo-star-blanco_2a7b49de.png",
                  "url": "https://deportestvhd2.com/agenda-star-plus.html",
@@ -38,7 +23,13 @@
                  "url": "https://futbollibre.futbol/tv8/star-plus/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true" }, {
+"embed": "true" 
+                       
+},]},
+{"name": "AGENDAS DEPORTIVAS",
+"image": "https://i.imgur.com/AsG6ogs.gif",
+"stations":[
+     {
 			"name": "TNT Sports Chile (opc.1) | CL 🇨🇱",
                     "image": "https://i.imgur.com/TTaCeXw.png",
                     "url": "https://dlhd.sx/embed/stream-642.php",
@@ -95,7 +86,7 @@
 "embed": "true" 
          
 },]},
-{"name": "DEPORTE MUNDIAL",
+{"name": TNT SPORTS CHILE",
 "image": "https://i.imgur.com/b1Y28KK.gif",
 "stations":[
  {
