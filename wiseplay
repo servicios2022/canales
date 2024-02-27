@@ -28,19 +28,19 @@
 "image": "https://mcworld.atwebpages.com/wp-content/uploads/2021/04/sports-pixaby.gif",
 "stations":[
      {
-			"name": "Futbol Libre | AR 🇦🇷",
+			"name": "Futbol Libre TV | AR 🇦🇷",
 			"image": "https://static.vecteezy.com/system/resources/previews/023/477/419/non_2x/ai-generative-collection-of-sports-equipment-commonly-sold-at-a-supermarket-circle-label-for-a-sports-goods-free-png.png",
 			"url": "https://futbollibre.futbol/tv8/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
 		"embed": "true" }, {
-			"name": "Deportes Libre HD | AR 🇦🇷",
+			"name": "Deportes TV HD | AR 🇦🇷",
 			"image": "https://static.vecteezy.com/system/resources/previews/023/477/419/non_2x/ai-generative-collection-of-sports-equipment-commonly-sold-at-a-supermarket-circle-label-for-a-sports-goods-free-png.png",
 			"url": "https://deportestvhd2.com/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
 		"embed": "true" }, {
-			"name": "Futbol en Vivo | AR 🇦🇷",
+			"name": "Deportes en Vivo | AR 🇦🇷",
 			"image": "https://static.vecteezy.com/system/resources/previews/023/477/419/non_2x/ai-generative-collection-of-sports-equipment-commonly-sold-at-a-supermarket-circle-label-for-a-sports-goods-free-png.png",
 			"url": "https://futbolfullenvivo.nl/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
