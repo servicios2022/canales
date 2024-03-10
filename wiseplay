@@ -75,12 +75,40 @@
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" },  {
-                               "name": "ESPN 2 Argentina (opc.7) | AR 🇦🇷",
+                               "name": "ESPN 2 Argentina | AR 🇦🇷",
              "image": "https://i.imgur.com/jq1s4to.png",
                     "url": "https://livetvon.click/embed/stream-150.php",
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
+                },  {
+                  "name": "ESPN 3 Argentina | AR 🇦🇷",
+             "image": "https://i.imgur.com/iFqCpKj.png",
+                 "url": "https://tucanaldeportivo.com/espn3hd.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+                     "name": "ESPN Premium Argentina | AR 🇦🇷",
+             "image": "https://i.imgur.com/KvY0uqu.png",
+                    "url": "https://livetvon.click/embed/stream-387.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
                 }, {
+                "name": "Fox Sports Argentina | AR 🇦🇷",
+			"image": "https://i.imgur.com/CF5il5c.png",
+                 "url": "https://tucanaldeportivo.com/foxsportshd.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+			"name": "Fox Sports Mexico | MX 🇲🇽",
+			"image": "https://i.imgur.com/CF5il5c.png",
+	        "url": "https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd",
+		"userAgent" : ""
+                    },  {
+			"name": "Fox Sports 2 Mexico | MX 🇲🇽",
+			"image": "https://i.imgur.com/t2Wn2rO.png",
+	        "url": "https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd",
+		"userAgent" : ""
+                    }, {
 			"name": "TNT Sports Chile (opc.1) | CL 🇨🇱",
                     "image": "https://i.imgur.com/TTaCeXw.png",
                     "url": "https://dlhd.sx/embed/stream-642.php",
