@@ -67,8 +67,9 @@
       		    "name": "Bein Sport Ñ | LAT 🇲🇽",
             	    "image": "https://i.imgur.com/c4gfwhr.png",
 		    "url": "https://livetvon.click/embed/stream-372.php",
-                    "isHost": "true"
-                },  {
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },  {
 			    "name": "ESPN Argentina | CO 🇦🇷",
 			"image": "https://i.imgur.com/MFhpD4D.png",
 			"url": "https://tucanaldeportivo.com/espnhd.php",
