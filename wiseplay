@@ -66,31 +66,31 @@
                 },  {
 			"name": "TNT Sports Chile (opc.2) | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
-			"url": "https://tucanaldeportivo.com/cdf.php",
+			"url": "https://www.capofut.net/play/canal43.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
 		"embed": "true" },  {
 			"name": "TNT Sports Chile (opc.3) | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
-			"url": "https://1.deporte-libre.org/en-vivo-online/tnt-sports-chile/embed.php",
+			"url": "https://tucanaldeportivo.com/cdf.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
-		"embed": "true" }, {
+		"embed": "true" },  {
 			"name": "TNT Sports Chile (opc.4) | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
-			"url": "https://fk9.pw/tob.php?file=cc",
+			"url": "https://1.deporte-libre.org/en-vivo-online/tnt-sports-chile/embed.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
 		"embed": "true" }, {
 			"name": "TNT Sports Chile (opc.5) | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
-			"url": "https://directatvhd.me/canal-cdf-premium.php",
+			"url": "https://fk9.pw/tob.php?file=cc",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
-		"embed": "true" },  {
+		"embed": "true" }, {
 			"name": "TNT Sports Chile (opc.6) | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
-			"url": "https://www.capofut.net/play/canal43.php",
+			"url": "https://directatvhd.me/canal-cdf-premium.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
 		"embed": "true" }, {
