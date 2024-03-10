@@ -54,10 +54,16 @@
 "embed": "true" 
          
 },]},
-{"name": "CHILE",
-"image": "https://www.colegiossq.cl/wp-content/uploads/2018/09/Bandera.gif",
+{"name": "FUTBOL EN VIVO",
+"image": "https://cdn.pixabay.com/animation/2023/05/25/21/10/21-10-50-_512.gif",
 "stations":[
-  {
+   {
+			"name": "INTER MIAMI MLS PASS HD | CL 🇨🇱",
+                    "image": "https://is1-ssl.mzstatic.com/image/thumb/vyELzQJnxOc3Y8NciMSJxA/1x40at.png",
+                    "url": "https://www.capofut.net/play/mlspass.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": true
+                }, {
 			"name": "TNT Sports Chile (opc.1) | CL 🇨🇱",
                     "image": "https://i.imgur.com/TTaCeXw.png",
                     "url": "https://dlhd.sx/embed/stream-642.php",
