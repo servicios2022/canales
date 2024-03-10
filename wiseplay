@@ -75,10 +75,10 @@
 			"url": "https://tucanaldeportivo.com/cdf.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
-		"embed": "true" },  {
+		"embed": "true" }, {
 			"name": "TNT Sports Chile (opc.4) | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
-			"url": "https://1.deporte-libre.org/en-vivo-online/tnt-sports-chile/embed.php",
+			"url": "https://directatvhd.me/canal-cdf-premium.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
 		"embed": "true" }, {
@@ -89,12 +89,6 @@
 		"playInNatPlayer": "true",
 		"embed": "true" }, {
 			"name": "TNT Sports Chile (opc.6) | CL 🇨🇱",
-			"image": "https://i.imgur.com/TTaCeXw.png",
-			"url": "https://directatvhd.me/canal-cdf-premium.php",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-		"playInNatPlayer": "true",
-		"embed": "true" }, {
-			"name": "TNT Sports Chile (opc.7) | CL 🇨🇱",
 			"image": "https://i.imgur.com/TTaCeXw.png",
 			"url": "https://deporte-libre.net/en-vivo-online/tnt-sports-chile",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
