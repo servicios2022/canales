@@ -106,6 +106,24 @@
                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
+      		    "name": "Bein Sport Ñ | LAT 🇲🇽",
+            	    "image": "https://i.imgur.com/c4gfwhr.png",
+		    "url": "https://1.deporte-libre.org/en-vivo-online/bein-%C3%B1/embed.php",
+                   "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+      		    "name": "Bein Sport Ñ | LAT 🇲🇽",
+            	    "image": "https://i.imgur.com/c4gfwhr.png",
+		    "url": "https://1.deporte-libre.org/en-vivo-online/bein-%C3%B1/embed2.php",
+                   "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+      		    "name": "Bein Sport Ñ | LAT 🇲🇽",
+            	    "image": "https://i.imgur.com/c4gfwhr.png",
+		    "url": "https://1.deporte-libre.org/en-vivo-online/bein-%C3%B1/embed3.php",
+                   "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
 			    "name": "ESPN Argentina | AR 🇦🇷",
 			"image": "https://i.imgur.com/MFhpD4D.png",
 			"url": "https://tucanaldeportivo.com/espnhd.php",
@@ -280,9 +298,45 @@
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
+                     "name": "ESPN Deportes | MX 🇦🇷",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png",
+                    "url": "https://1.deporte-libre.org/en-vivo-online/espn-deportes/embed.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+                     "name": "ESPN Deportes | MX 🇦🇷",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png",
+                    "url": "https://1.deporte-libre.org/en-vivo-online/espn-deportes/embed2.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+                     "name": "ESPN Deportes | MX 🇦🇷",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png",
+                    "url": "https://1.deporte-libre.org/en-vivo-online/espn-deportes/embed3.php",
+                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
                 "name": "Fox Sports Argentina | AR 🇦🇷",
 			"image": "https://i.imgur.com/CF5il5c.png",
                  "url": "https://tucanaldeportivo.com/foxsportshd.php",
+		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+                "name": "Fox Deportes | MX 🇦🇷",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/fox-deportes/embed.php",
+		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+                "name": "Fox Deportes | MX 🇦🇷",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/fox-deportes/embed2.php",
+		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+                "name": "Fox Deportes | MX 🇦🇷",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/fox-deportes/embed3.php",
 		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
 		"embed": "true" },
