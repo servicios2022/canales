@@ -123,7 +123,61 @@
 		    "url": "https://1.deporte-libre.org/en-vivo-online/bein-%C3%B1/embed3.php",
                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                }, {
+                },  {
+                 "name": "Direct Tv Sports (opc.1) | CL 🇦🇷",
+          	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/dsports/embed.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+                 "name": "Direct Tv Sports (opc.2) | CL 🇦🇷",
+          	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/dsports/embed2.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+                 "name": "Direct Tv Sports (opc.3) | CL 🇦🇷",
+          	   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/dsports/embed3.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },  {
+                           "name": "Direct Tv Sports 2 (opc.1) | AR 🇦🇷",
+             "image": "https://i.imgur.com/bWw9A7h.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/dsports-2/embed.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },  {
+                           "name": "Direct Tv Sports 2 (opc.2) | AR 🇦🇷",
+             "image": "https://i.imgur.com/bWw9A7h.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/dsports-2/embed2.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },  {
+                           "name": "Direct Tv Sports 2 (opc.3) | AR 🇦🇷",
+             "image": "https://i.imgur.com/bWw9A7h.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/dsports-2/embed3.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+                              "name": "Direct Tv Sports Plus (opc.1) | AR 🇦🇷",
+            	 "image": "https://i.imgur.com/ztxH679.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/dsports-plus/embed.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+                              "name": "Direct Tv Sports Plus (opc.2) | AR 🇦🇷",
+            	 "image": "https://i.imgur.com/ztxH679.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/dsports-plus/embed2.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },  {
+                              "name": "Direct Tv Sports Plus (opc.3) | AR 🇦🇷",
+            	 "image": "https://i.imgur.com/ztxH679.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/dsports-plus/embed3.php",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
 			    "name": "ESPN Argentina | AR 🇦🇷",
 			"image": "https://i.imgur.com/MFhpD4D.png",
 			"url": "https://tucanaldeportivo.com/espnhd.php",
