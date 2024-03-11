@@ -317,8 +317,62 @@
                     "isHost": "true"
                 }, {
                 "name": "Fox Sports Argentina | AR 🇦🇷",
-			"image": "https://i.imgur.com/CF5il5c.png",
+			"image": "https://i.imgur.com/nX9GsSh.png",
                  "url": "https://tucanaldeportivo.com/foxsportshd.php",
+		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+                "name": "Fox Sports Argentina | AR 🇦🇷",
+			"image": "https://i.imgur.com/nX9GsSh.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/fox-sports/embed.php",
+		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+                "name": "Fox Sports Argentina | AR 🇦🇷",
+			"image": "https://i.imgur.com/nX9GsSh.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/fox-sports/embed2.php",
+		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+                "name": "Fox Sports Argentina | AR 🇦🇷",
+			"image": "https://i.imgur.com/nX9GsSh.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/fox-sports/embed3.php",
+		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+                "name": "Fox Sports 2 Argentina | AR 🇦🇷",
+			"image": "https://i.imgur.com/KhwRTx4.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/fox-sports-2/embed.php",
+		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+                "name": "Fox Sports 2 Argentina | AR 🇦🇷",
+			"image": "https://i.imgur.com/KhwRTx4.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/fox-sports-2/embed2.php",
+		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+                "name": "Fox Sports 2 Argentina | AR 🇦🇷",
+			"image": "https://i.imgur.com/KhwRTx4.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/fox-sports-2/embed3.php",
+		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+                "name": "Fox Sports 3 Argentina | AR 🇦🇷",
+			"image": "https://i.imgur.com/xbeQUV3.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/fox-sports-3/embed.php",
+		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+                "name": "Fox Sports 3 Argentina | AR 🇦🇷",
+			"image": "https://i.imgur.com/xbeQUV3.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/fox-sports-3/embed2.php",
+		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+                "name": "Fox Sports 3 Argentina | AR 🇦🇷",
+			"image": "https://i.imgur.com/xbeQUV3.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/fox-sports-3/embed3.php",
 		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
 		"embed": "true" }, {
