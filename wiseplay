@@ -430,6 +430,24 @@
 		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
 		"embed": "true" }, {
+                "name": "Fox Sports Premium | AR 🇦🇷",
+			"image": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_01/401954722_FOXSportsPremium2019.png.449925ebe62b906ea607038699429c8f.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/fox-sports-premium/embed.php",
+		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+                "name": "Fox Sports Premium | AR 🇦🇷",
+			"image": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_01/401954722_FOXSportsPremium2019.png.449925ebe62b906ea607038699429c8f.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/fox-sports-premium/embed2.php",
+		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+                "name": "Fox Sports Premium | AR 🇦🇷",
+			"image": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_01/401954722_FOXSportsPremium2019.png.449925ebe62b906ea607038699429c8f.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/fox-sports-premium/embed3.php",
+		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
                 "name": "Fox Deportes | MX 🇦🇷",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png",
                  "url": "https://1.deporte-libre.org/en-vivo-online/fox-deportes/embed.php",
