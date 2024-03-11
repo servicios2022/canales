@@ -214,21 +214,39 @@
 		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
 		"embed": "true" },  {
-                  "name": "ESPN 4 Argentina | MX 🇦🇷",
+                  "name": "ESPN 4 Argentina | AR 🇦🇷",
              "image": "https://i.imgur.com/G9nJy7y.png",
                  "url": "https://1.deporte-libre.org/en-vivo-online/espn-4/embed.php",
 		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
 		"embed": "true" }, {
-                  "name": "ESPN 4 Argentina | MX 🇦🇷",
+                  "name": "ESPN 4 Argentina | PE 🇦🇷",
              "image": "https://i.imgur.com/G9nJy7y.png",
                  "url": "https://1.deporte-libre.org/en-vivo-online/espn-4/embed2.php",
 		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
 		"embed": "true" },   {
-                  "name": "ESPN 4 Argentina | MX 🇦🇷",
+                  "name": "ESPN 4 Argentina | CO 🇦🇷",
              "image": "https://i.imgur.com/G9nJy7y.png",
-                 "url": "https://1.deporte-libre.org/en-vivo-online/espn-4/embed.php",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/espn-4/embed3.php",
+		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" },  {
+                  "name": "ESPN 4 Argentina | 5 🇦🇷",
+             "image": "https://i.imgur.com/G9nJy7y.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/espn-4/embed4.php",
+		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" },  {
+                  "name": "ESPN 4 Argentina | 6 🇦🇷",
+             "image": "https://i.imgur.com/G9nJy7y.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/espn-4/embed5.php",
+		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" },  {
+                  "name": "ESPN 4 Argentina | 7 🇦🇷",
+             "image": "https://i.imgur.com/G9nJy7y.png",
+                 "url": "https://1.deporte-libre.org/en-vivo-online/espn-4/embed6.php",
 		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
 		"embed": "true" }, {
