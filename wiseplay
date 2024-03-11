@@ -70,7 +70,7 @@
                    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
-			    "name": "ESPN Argentina | CO 🇦🇷",
+			    "name": "ESPN Argentina | AR 🇦🇷",
 			"image": "https://i.imgur.com/MFhpD4D.png",
 			"url": "https://tucanaldeportivo.com/espnhd.php",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
@@ -85,9 +85,9 @@
                   "name": "ESPN 3 Argentina | AR 🇦🇷",
              "image": "https://i.imgur.com/iFqCpKj.png",
                  "url": "https://tucanaldeportivo.com/espn3hd.php",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
+		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
                      "name": "ESPN Premium Argentina | AR 🇦🇷",
              "image": "https://i.imgur.com/KvY0uqu.png",
                     "url": "https://livetvon.click/embed/stream-387.php",
@@ -97,9 +97,9 @@
                 "name": "Fox Sports Argentina | AR 🇦🇷",
 			"image": "https://i.imgur.com/CF5il5c.png",
                  "url": "https://tucanaldeportivo.com/foxsportshd.php",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
+		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" },
 
 
 {
