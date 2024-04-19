@@ -469,39 +469,39 @@
 
 
 {
-			"name": "TNT Sports Chile (opc.1) | CL 🇨🇱",
+			"name": "TNT Sports Chile FHD (opc.1) | CL 🇨🇱",
 			"image": "https://i.imgur.com/PW5w1XN.png",
 			"url": "https://deportestvhd2.com/en-directo/tnt-sports-premium.html",
 		  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
 		"embed": "true" }, {
-			"name": "TNT Sports Chile (opc.2) | CL 🇨🇱",
-			"image": "https://i.imgur.com/PW5w1XN.png",
-			"url": "https://www.capofut.net/play/canal43.php",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": true
-                },  {
-			"name": "TNT Sports Chile (opc.3) | CL 🇨🇱",
+			"name": "TNT Sports Chile HD (opc.2) | CL 🇨🇱",
 			"image": "https://i.imgur.com/PW5w1XN.png",
 			"url": "https://tucanaldeportivo.com/cdf.php",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true
                 }, {
-			"name": "TNT Sports Chile (opc.4) | CL 🇨🇱",
+			"name": "TNT Sports Chile HD (opc.3) | CL 🇨🇱",
+			"image": "https://i.imgur.com/PW5w1XN.png",
+			"url": "https://directatvhd.me/canal-cdf-premium.php",
+		"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": true
+                }, {
+			"name": "TNT Sports Chile HD (opc.4) | CL 🇨🇱",
+			"image": "https://i.imgur.com/PW5w1XN.png",
+			"url": "https://www.capofut.net/play/canal43.php",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": true
+                },   {
+			"name": "TNT Sports Chile (opc.5) | CL 🇨🇱",
                     "image": "https://i.imgur.com/PW5w1XN.png",
                     "url": "https://dlhd.sx/embed/stream-642.php",
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true
                 }, {
-			"name": "TNT Sports Chile (opc.5) | CL 🇨🇱",
-			"image": "https://i.imgur.com/PW5w1XN.png",
-			"url": "https://www.capofut.net/play/tntchile.php",
-		"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": true
-                }, {
 			"name": "TNT Sports Chile (opc.6) | CL 🇨🇱",
 			"image": "https://i.imgur.com/PW5w1XN.png",
-			"url": "https://directatvhd.me/canal-cdf-premium.php",
+			"url": "https://www.capofut.net/play/tntchile.php",
 		"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true
                 }, {
