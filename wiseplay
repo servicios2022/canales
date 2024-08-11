@@ -9,14 +9,8 @@
 {"name": "EVENTOS DE STAR+",
 "image": "https://media.tenor.com/1cmqJxg9hMIAAAAM/star-plus-star-premium.gif",
 "stations":[
-   {
-         	"name": "Eventos Star+ (opc.1) | AR 🇦🇷",
-			"image": "https://lumiere-a.akamaihd.net/v1/images/logo-star-blanco_2a7b49de.png",
-                 "url": "https://deportestvhd2.com/agenda-star-plus.html",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" },  {
-         	"name": "Eventos Star+ (opc.2) | AR 🇦🇷",
+    {
+         	"name": "Eventos Star+ | AR 🇦🇷",
 			"image": "https://lumiere-a.akamaihd.net/v1/images/logo-star-blanco_2a7b49de.png",
                  "url": "https://futbollibre.futbol/tv8/star-plus/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
