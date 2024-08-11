@@ -90,7 +90,12 @@
 			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
 			"url": "https://mdstrm.com/live-stream-playlist/5ef5fb3025c9a6086c457c55.m3u8",
 		  "userAgent" : ""
-			},  {
+			}, {
+			"name": "Carolina TV | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/27_Carolina_TV.png",
+			"url": "https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8",
+		  "userAgent" : ""
+			}, {
 			"name": "VClassicTV Tropical | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png",
 			"url": "https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8",
@@ -104,6 +109,21 @@
 			"name": "Sabrosona TV | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/1541_Sabrosona_TV.png",
 			"url": "https://samson.streamerr.co:8081/sabrosonavideo/index.m3u8",
+		  "userAgent" : ""
+			},  {
+			"name": "ClickTv | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/350_ClickTv.png",
+			"url": "https://v2.tustreaming.cl/clicktv/index.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "Canal 2 Quellon | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/86_Canal_2_Quellon.png",
+			"url": "https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
+		  "userAgent" : ""
+			},   {
+			"name": "Hito Cero TV | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/856_Hito_Cero_TV.png",
+			"url": "https://5e3483cba9114.streamlock.net:443/kbwqdhjxtz/kbwqdhjxtz/playlist.m3u8",
 		  "userAgent" : ""
 			}, {
 			"name": "TNT Sports Chile HD (opc.1) | CL 🇨🇱",
