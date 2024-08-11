@@ -61,8 +61,8 @@
 			},  {
 			"name": "Canal 13 | CL 🇨🇱",
 			"image": "https://w7.pngwing.com/pngs/566/327/png-transparent-canal-13-logo-chile-television-front-and-back-covers-television-text-trademark.png",
-			"url": "https://m3u.cl/channel/c13.php?"
-		  
+			"url": "https://m3u.cl/channel/c13.php?",
+		  "userAgent" : ""
 			}, {
 			"name": "Mega | CL 🇨🇱",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
@@ -72,8 +72,8 @@
 			},  {
 			"name": "Mega 2 | CL 🇨🇱",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
-			"url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8"
-		  
+			"url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
+		  "userAgent" : ""
 			}, {
 			"name": "Chilevision | CL 🇨🇱",
 			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
@@ -83,8 +83,8 @@
 			}, {
 			"name": "Chilevision 2 | CL 🇨🇱",
 			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-			"url": "https://mdstrm.com/live-stream-playlist/5ef5fb3025c9a6086c457c55.m3u8"
-		  
+			"url": "https://mdstrm.com/live-stream-playlist/5ef5fb3025c9a6086c457c55.m3u8",
+		  "userAgent" : ""
 			},  {
 			"name": "TNT Sports Chile HD (opc.1) | CL 🇨🇱",
 			"image": "https://i.imgur.com/PW5w1XN.png",
