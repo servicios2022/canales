@@ -71,7 +71,7 @@
 		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true 
 			},  {
-			"name": "Mega 2 | CL 🇨🇱",
+			"name": "Mega | CL 🇨🇱",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
 			"url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
 		  "userAgent" : ""
@@ -82,7 +82,7 @@
 		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true 
 			}, {
-			"name": "Chilevision 2 | CL 🇨🇱",
+			"name": "Chilevision | CL 🇨🇱",
 			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
 			"url": "https://mdstrm.com/live-stream-playlist/5ef5fb3025c9a6086c457c55.m3u8",
 		  "userAgent" : ""
