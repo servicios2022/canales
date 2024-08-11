@@ -110,7 +110,12 @@
 			"image": "https://cdn.m3u.cl/logo/1564_Ritmo_Top_Latino.png",
 			"url": "https://panel.tvstream.cl:1936/8048/8048/playlist.m3u8",
 		  "userAgent" : ""
-			},  {
+			}, {
+			"name": "Latinos Radio | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/996_Latinos_Radio.png",
+			"url": "https://stmv5.voxtvhd.com.br/latinosmedia/latinosmedia/playlist.m3u8",
+		  "userAgent" : ""
+			}, {
 			"name": "Sabrosona TV | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/1541_Sabrosona_TV.png",
 			"url": "https://samson.streamerr.co:8081/sabrosonavideo/index.m3u8",
