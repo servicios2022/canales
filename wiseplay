@@ -52,7 +52,13 @@
 "image": "https://static.wixstatic.com/media/603da4_cff0a56da59a43ba88f862dbee0ae230~mv2.gif",
 "stations":[
   
- {
+  {
+			"name": "Canal 13 | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png",
+			"url": "https://www.13.cl/en-vivo",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": true
+                }, {
 			"name": "Canal 13 | CL 🇨🇱",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png",
 			"url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
@@ -62,13 +68,7 @@
 			"image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png",
 			"url": "https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8",
 		 "userAgent" : ""
-			},  {
-			"name": "Canal 13 | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png",
-			"url": "https://www.13.cl/en-vivo",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": true
-                }, {
+			}, {
 			"name": "Mega | CL 🇨🇱",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
 			"url": "https://www.mega.cl/senal-en-vivo/",
@@ -90,7 +90,13 @@
 			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
 			"url": "https://mdstrm.com/live-stream-playlist/5ef5fb3025c9a6086c457c55.m3u8",
 		  "userAgent" : ""
-			},  {
+			}, {
+			"name": "TVN | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Logotipo_de_Televisi%C3%B3n_Nacional_de_Chile_%282004-2016%29.png",
+			"url": "https://www.tvn.cl/en-vivo",
+		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": true 
+			}, {
 			"name": "Bio Bio TV | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/421_Bio_Bio_TV.png",
 			"url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8",
