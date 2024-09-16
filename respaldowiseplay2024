@@ -1,0 +1,246 @@
+
+
+{	"name": "TODO DEPORTE",
+ "author": "📺Lista Gratuita📺",
+ "image": "https://i.imgur.com/UeLUsrq.gif",
+    "info": "Enlaces encontrados en internet",
+"url": "https://raw.githubusercontent.com/servicios2022/canales/main/wiseplay",
+"groups": [
+{"name": "EVENTOS DE STAR+",
+"image": "https://media.tenor.com/1cmqJxg9hMIAAAAM/star-plus-star-premium.gif",
+"stations":[
+    {
+         	"name": "Eventos Star+ | AR 🇦🇷",
+			"image": "https://lumiere-a.akamaihd.net/v1/images/logo-star-blanco_2a7b49de.png",
+                 "url": "https://futbollibre.futbol/tv8/star-plus/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" 
+                       
+},]},
+{"name": "AGENDAS DEPORTIVAS",
+"image": "https://mcworld.atwebpages.com/wp-content/uploads/2021/04/sports-pixaby.gif",
+"stations":[
+     {
+			"name": "Deportes TV HD | AR 🇦🇷",
+			"image": "https://static.vecteezy.com/system/resources/previews/023/477/419/non_2x/ai-generative-collection-of-sports-equipment-commonly-sold-at-a-supermarket-circle-label-for-a-sports-goods-free-png.png",
+			"url": "https://deportestvhd3.com/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+			"name": "Futbol Libre TV | AR 🇦🇷",
+			"image": "https://static.vecteezy.com/system/resources/previews/023/477/419/non_2x/ai-generative-collection-of-sports-equipment-commonly-sold-at-a-supermarket-circle-label-for-a-sports-goods-free-png.png",
+			"url": "https://futbollibre.futbol/tv9/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+			"name": "Deportes en Vivo | AR 🇦🇷",
+			"image": "https://static.vecteezy.com/system/resources/previews/023/477/419/non_2x/ai-generative-collection-of-sports-equipment-commonly-sold-at-a-supermarket-circle-label-for-a-sports-goods-free-png.png",
+			"url": "https://deporte-libre.top/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+			"name": "Roja Directa | AR 🇦🇷",
+			"image": "https://static.vecteezy.com/system/resources/previews/023/477/419/non_2x/ai-generative-collection-of-sports-equipment-commonly-sold-at-a-supermarket-circle-label-for-a-sports-goods-free-png.png",
+			"url": "https://www.rojadirectaenvivo.pl/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" 
+         
+},]},
+{"name": "CANALES EN VIVO",
+"image": "https://static.wixstatic.com/media/603da4_cff0a56da59a43ba88f862dbee0ae230~mv2.gif",
+"stations":[
+  
+  {
+			"name": "Canal 13 | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png",
+			"url": "https://www.13.cl/en-vivo",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": true
+                }, {
+			"name": "Canal 13 | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png",
+			"url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
+		 "userAgent" : ""
+			}, {
+			"name": "Canal 13 | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png",
+			"url": "https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8",
+		 "userAgent" : ""
+			}, {
+			"name": "Mega | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
+			"url": "https://www.mega.cl/senal-en-vivo/",
+		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": true 
+			},  {
+			"name": "Mega | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
+			"url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "Chilevision | CL 🇨🇱",
+			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+			"url": "https://www.chilevision.cl/senal-online",
+		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": true 
+			}, {
+			"name": "Chilevision | CL 🇨🇱",
+			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+			"url": "https://mdstrm.com/live-stream-playlist/5ef5fb3025c9a6086c457c55.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "TVN | CL 🇨🇱",
+			"image": "https://www.tvn.cl/incoming/logotipo2020png-5317342/alternates/BASE_FREE/Logotipo%282020%29.png",
+			"url": "https://www.tvn.cl/en-vivo",
+		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": true 
+			}, {
+			"name": "Bio Bio TV | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/421_Bio_Bio_TV.png",
+			"url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "Carolina TV | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/27_Carolina_TV.png",
+			"url": "https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "VClassicTV Tropical | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png",
+			"url": "https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8",
+		  "userAgent" : ""
+			},  {
+			"name": "Ritmo Top Latino | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1564_Ritmo_Top_Latino.png",
+			"url": "https://panel.tvstream.cl:1936/8048/8048/playlist.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "Latinos Radio | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/996_Latinos_Radio.png",
+			"url": "https://stmv5.voxtvhd.com.br/latinosmedia/latinosmedia/playlist.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "Sabrosona TV | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1541_Sabrosona_TV.png",
+			"url": "https://samson.streamerr.co:8081/sabrosonavideo/index.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "Sabor TV | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/416_Sabor_TV.png",
+			"url": "https://v1.tustreaming.cl/sabortv/index.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "Radio Ritmo FM | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1196_Radio_Ritmo_FM.png",
+			"url": "https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8",
+		  "userAgent" : ""
+			},  {
+			"name": "TVU | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/56_TVU.png",
+			"url": "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8",
+		  "userAgent" : ""
+			},  {
+			"name": "Concepcion TV | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/352_Concepcion_TV.png",
+			"url": "https://stream.blserver.cl/hls/ctv/index.m3u8",
+		  "userAgent" : ""
+			},   {
+			"name": "Canal 9 Bío Bí­o TV | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/353_Canal_9_Bio_Bi­o_TV.png",
+			"url": "https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8",
+		  "userAgent" : ""
+			},   {
+			"name": "ClickTv | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/350_ClickTv.png",
+			"url": "https://v2.tustreaming.cl/clicktv/index.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "Canal 2 Quellon | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/86_Canal_2_Quellon.png",
+			"url": "https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
+		  "userAgent" : ""
+			},   {
+			"name": "Hito Cero TV | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/856_Hito_Cero_TV.png",
+			"url": "https://5e3483cba9114.streamlock.net:443/kbwqdhjxtz/kbwqdhjxtz/playlist.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "TNT Sports Chile FHD (opc.1) | CL 🇨🇱",
+			"image": "https://i.imgur.com/PW5w1XN.png",
+			"url": "https://la10tv.com/vivo/canal.php?stream=tntsportschile",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+			"name": "TNT Sports Chile FHD (opc.2) | CL 🇨🇱",
+			"image": "https://i.imgur.com/PW5w1XN.png",
+			"url": "https://www.capofut.net/play/canal42.php",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+			"name": "TNT Sports Chile FHD (opc.3) | CL 🇨🇱",
+			"image": "https://i.imgur.com/PW5w1XN.png",
+			"url": "https://streamtp.live/global2.php?stream=tnt_chile",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },  {
+			"name": "TNT Sports Chile FHD (opc.4) | CL 🇨🇱",
+			"image": "https://i.imgur.com/PW5w1XN.png",
+			"url": "https://jac-tv.com/tv/tntspcl.php",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+			"name": "TNT Sports Chile FHD (opc.5) | CL 🇨🇱",
+			"image": "https://i.imgur.com/PW5w1XN.png",
+			"url": "https://tutlehd4.com//online.php?a=13",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },  {
+			"name": "TNT Sports Chile HD (opc.6) | CL 🇨🇱",
+			"image": "https://i.imgur.com/PW5w1XN.png",
+			"url": "https://deportestvhd3.com/repro.html?r=Ly90dXRsZWhkNC5jb20vL29ubGluZS5waHA/YT01Mw==",
+		"isHost" : "true" 
+                 }, {
+			"name": "TNT Sports Chile HD (opc.7) | CL 🇨🇱",
+			"image": "https://i.imgur.com/PW5w1XN.png",
+			"url": "https://miztv.shop/tele/stream-642.php",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },  {
+			"name": "TNT Sports Chile HD (opc.8) | CL 🇨🇱",
+			"image": "https://i.imgur.com/PW5w1XN.png",
+			"url": "https://tutlehd4.com//online.php?a=53",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+			"name": "TNT Sports Chile HD (opc.9) | CL 🇨🇱",
+			"image": "https://i.imgur.com/PW5w1XN.png",
+			"url": "https://dlhd.sx/embed/stream-642.php",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },
+
+
+{
+			"name": "TNT Sports Chile FHD (opc.1) | CL 🇨🇱",
+			"image": "https://i.imgur.com/PW5w1XN.png",
+			"url": "https://deporte-libre.top/en-vivo-online/tnt-sports-chile/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },  {
+			"name": "TNT Sports Chile FHD (opc.2) | CL 🇨🇱",
+			"image": "https://i.imgur.com/PW5w1XN.png",
+			"url": "https://futbollibrehd.cl/en-vivo/tnt-sports-chile/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
+			"name": "TNT Sports Chile FHD (opc.3) | CL 🇨🇱",
+                    "image": "https://i.imgur.com/PW5w1XN.png",
+                    "url": "https://deportestvhd3.com/en-directo/tnt-sports-premium.html",
+                   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }
+
+]},
+]}
