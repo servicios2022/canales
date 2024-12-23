@@ -6,13 +6,20 @@
     "info": "Enlaces encontrados en internet",
 "url": "https://raw.githubusercontent.com/servicios2022/canales/main/wiseplay",
 "groups": [
-{"name": "EVENTOS DE STAR+",
-"image": "https://media.tenor.com/1cmqJxg9hMIAAAAM/star-plus-star-premium.gif",
+{"name": "CANALES EN VIVO",
+"image": "https://image.jimcdn.com/app/cms/image/transf/none/path/sdc3404aa05b6ec66/image/i776dbe52e3d6ce99/version/1670030634/image.gif",
 "stations":[
     {
-         	"name": "Eventos Star+ | AR 🇦🇷",
+         	"name": "STREAMTP2.COM",
 			"image": "https://lumiere-a.akamaihd.net/v1/images/logo-star-blanco_2a7b49de.png",
-                 "url": "https://futbollibre.futbol/tv8/star-plus/",
+                 "url": "https://streamtp2.com/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true",
+ {
+         	"name": "TU CANAL DEPORTIVO",
+			"image": "https://lumiere-a.akamaihd.net/v1/images/logo-star-blanco_2a7b49de.png",
+                 "url": "https://tucanaldeportivo.org/canales.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" 
