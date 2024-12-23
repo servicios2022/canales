@@ -74,37 +74,17 @@
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true
                 }, {
-			"name": "Canal 13 | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png",
-			"url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
-		 "userAgent" : ""
-			}, {
-			"name": "Canal 13 | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png",
-			"url": "https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8",
-		 "userAgent" : ""
-			}, {
 			"name": "Mega | CL 🇨🇱",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
 			"url": "https://www.mega.cl/senal-en-vivo/",
 		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true 
-			},  {
-			"name": "Mega | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
-			"url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
-		  "userAgent" : ""
 			}, {
 			"name": "Chilevision | CL 🇨🇱",
 			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
 			"url": "https://www.chilevision.cl/senal-online",
 		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true 
-			}, {
-			"name": "Chilevision | CL 🇨🇱",
-			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-			"url": "https://mdstrm.com/live-stream-playlist/5ef5fb3025c9a6086c457c55.m3u8",
-		  "userAgent" : ""
 			}, {
 			"name": "TVN | CL 🇨🇱",
 			"image": "https://www.tvn.cl/incoming/logotipo2020png-5317342/alternates/BASE_FREE/Logotipo%282020%29.png",
