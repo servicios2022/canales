@@ -73,17 +73,17 @@
 			"url": "https://www.13.cl/en-vivo",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true
-                }, {
+                },  {
+			"name": "Mega | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
+		"url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
+		  "userAgent" : ""
+			}, {
 			"name": "Mega | CL 🇨🇱",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
 			"url": "https://www.mega.cl/senal-en-vivo/",
 		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true 
-			}, {
-			"name": "Mega | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
-		"url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
-		  "userAgent" : ""
 			}, {
 			"name": "Chilevision | CL 🇨🇱",
 			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
@@ -100,6 +100,21 @@
 			"name": "Bio Bio TV | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/421_Bio_Bio_TV.png",
 			"url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "VClassicTV | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1160_VClassicTV.png",
+			"url": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "Vintage Music | CR",
+			"image": "https://cdn.m3u.cl/logo/1063_Vintage_Music.png",
+			"url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "Retro Music Television | CZ",
+			"image": "https://cdn.m3u.cl/logo/21_Retro_Music_Television.png",
+			"url": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
 		  "userAgent" : ""
 			}, {
 			"name": "Carolina TV | CL 🇨🇱",
@@ -126,55 +141,20 @@
 			"image": "https://cdn.m3u.cl/logo/1476_Urban_Pro_DJ.png",
 			"url": "https://vdochile.com:3115/hybrid/play.m3u8",
 		  "userAgent" : ""
-			},  {
-			"name": "VClassicTV | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1160_VClassicTV.png",
-			"url": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "Vintage Music | CR",
-			"image": "https://cdn.m3u.cl/logo/1063_Vintage_Music.png",
-			"url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "Retro Music Television | CZ",
-			"image": "https://cdn.m3u.cl/logo/21_Retro_Music_Television.png",
-			"url": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
-		  "userAgent" : ""
 			}, {
 			"name": "Latinos Radio | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/996_Latinos_Radio.png",
 			"url": "https://cloudpro.servidoresdestream.com:8081/8012/index.m3u8",
 		  "userAgent" : ""
 			}, {
-			"name": "VClassicTV Tropical | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png",
-			"url": "https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8",
-		  "userAgent" : ""
-			},  {
 			"name": "Ritmo Top Latino | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/1564_Ritmo_Top_Latino.png",
 			"url": "https://panel.tvstream.cl:1936/8048/8048/playlist.m3u8",
 		  "userAgent" : ""
 			},  {
-			"name": "Tropical Ranchero | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1660_Tropical_Ranchero.png",
-			"url": "https://panel.tvstream.cl:1936/8068/8068/playlist.m3u8",
-		  "userAgent" : ""
-			},  {
-			"name": "Conecta TV | MX",
-			"image": "https://cdn.m3u.cl/logo/16_Conecta_TV.png",
-			"url": "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8",
-		  "userAgent" : ""
-			}, {
 			"name": "TeleZeta Tropical | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/1651_TeleZeta_Tropical.png",
 			"url": "https://fls.zetatv.link/TeleZeta/index.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "Latinos Radio | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/996_Latinos_Radio.png",
-			"url": "https://stmv5.voxtvhd.com.br/latinosmedia/latinosmedia/playlist.m3u8",
 		  "userAgent" : ""
 			}, {
 			"name": "Radio Fiessta | CL 🇨🇱",
@@ -205,6 +185,16 @@
 			"name": "Energia TV | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/386_Energia_TV.png",
 			"url": "https://andromeda2.trapemn.tv:1936/regionales/energia-fm/playlist.m3u8",
+		  "userAgent" : ""
+			},  {
+			"name": "Tropical Ranchero | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1660_Tropical_Ranchero.png",
+			"url": "https://panel.tvstream.cl:1936/8068/8068/playlist.m3u8",
+		  "userAgent" : ""
+			},  {
+			"name": "Conecta TV | MX",
+			"image": "https://cdn.m3u.cl/logo/16_Conecta_TV.png",
+			"url": "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8",
 		  "userAgent" : ""
 			}, {
 			"name": "TVU | CL 🇨🇱",
