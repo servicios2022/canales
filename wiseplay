@@ -102,6 +102,16 @@
 			"url": "https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8",
 		  "userAgent" : ""
 			}, {
+			"name": "Portal FoxMix | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/31_Portal_FoxMix.png",
+			"url": "https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "Latinos Radio | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/996_Latinos_Radio.png",
+			"url": "https://cloudpro.servidoresdestream.com:8081/8012/index.m3u8",
+		  "userAgent" : ""
+			}, {
 			"name": "VClassicTV Tropical | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png",
 			"url": "https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8",
@@ -110,6 +120,11 @@
 			"name": "Ritmo Top Latino | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/1564_Ritmo_Top_Latino.png",
 			"url": "https://panel.tvstream.cl:1936/8048/8048/playlist.m3u8",
+		  "userAgent" : ""
+			},  {
+			"name": "Tropical Ranchero | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1660_Tropical_Ranchero.png",
+			"url": "https://panel.tvstream.cl:1936/8068/8068/playlist.m3u8",
 		  "userAgent" : ""
 			}, {
 			"name": "Latinos Radio | CL 🇨🇱",
