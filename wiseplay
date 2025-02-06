@@ -80,6 +80,11 @@
 		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true 
 			}, {
+			"name": "Mega | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
+		"url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
+		  "userAgent" : ""
+			}, {
 			"name": "Chilevision | CL 🇨🇱",
 			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
 			"url": "https://www.chilevision.cl/senal-online",
@@ -102,9 +107,24 @@
 			"url": "https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8",
 		  "userAgent" : ""
 			}, {
+			"name": "Radioactiva TV | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1301_Radioactiva_TV.png",
+			"url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/playlist.m3u8",
+		  "userAgent" : ""
+			}, {
 			"name": "Portal FoxMix | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/31_Portal_FoxMix.png",
 			"url": "https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "Radio Video Mix | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1623_Radio_Video_Mix.png",
+			"url": "https://radioxxx.ddns.net/hls/stream.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "Urban Pro DJ | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1476_Urban_Pro_DJ.png",
+			"url": "https://vdochile.com:3115/hybrid/play.m3u8",
 		  "userAgent" : ""
 			}, {
 			"name": "Latinos Radio | CL 🇨🇱",
@@ -127,9 +147,24 @@
 			"url": "https://panel.tvstream.cl:1936/8068/8068/playlist.m3u8",
 		  "userAgent" : ""
 			}, {
+			"name": "TeleZeta Tropical | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1651_TeleZeta_Tropical.png",
+			"url": "https://fls.zetatv.link/TeleZeta/index.m3u8",
+		  "userAgent" : ""
+			}, {
 			"name": "Latinos Radio | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/996_Latinos_Radio.png",
 			"url": "https://stmv5.voxtvhd.com.br/latinosmedia/latinosmedia/playlist.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "Radio Fiessta | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/401_Radio_Fiessta.png",
+			"url": "https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "Radio Fantasia TV | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/389_Radio_Fantasia_TV.png",
+			"url": "https://v2.tustreaming.cl/fantasiatv/index.m3u8",
 		  "userAgent" : ""
 			}, {
 			"name": "Sabrosona TV | CL 🇨🇱",
@@ -146,7 +181,12 @@
 			"image": "https://cdn.m3u.cl/logo/1196_Radio_Ritmo_FM.png",
 			"url": "https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8",
 		  "userAgent" : ""
-			},  {
+			}, {
+			"name": "Energia TV | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/386_Energia_TV.png",
+			"url": "https://andromeda2.trapemn.tv:1936/regionales/energia-fm/playlist.m3u8",
+		  "userAgent" : ""
+			}, {
 			"name": "TVU | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/56_TVU.png",
 			"url": "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8",
