@@ -126,6 +126,21 @@
 			"image": "https://cdn.m3u.cl/logo/1476_Urban_Pro_DJ.png",
 			"url": "https://vdochile.com:3115/hybrid/play.m3u8",
 		  "userAgent" : ""
+			},  {
+			"name": "VClassicTV | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1160_VClassicTV.png",
+			"url": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "Vintage Music | CR",
+			"image": "https://cdn.m3u.cl/logo/1063_Vintage_Music.png",
+			"url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "Retro Music Television | CZ",
+			"image": "https://cdn.m3u.cl/logo/21_Retro_Music_Television.png",
+			"url": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
+		  "userAgent" : ""
 			}, {
 			"name": "Latinos Radio | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/996_Latinos_Radio.png",
@@ -145,6 +160,11 @@
 			"name": "Tropical Ranchero | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/1660_Tropical_Ranchero.png",
 			"url": "https://panel.tvstream.cl:1936/8068/8068/playlist.m3u8",
+		  "userAgent" : ""
+			},  {
+			"name": "Conecta TV | MX",
+			"image": "https://cdn.m3u.cl/logo/16_Conecta_TV.png",
+			"url": "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8",
 		  "userAgent" : ""
 			}, {
 			"name": "TeleZeta Tropical | CL 🇨🇱",
