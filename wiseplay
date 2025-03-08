@@ -10,9 +10,15 @@
 "image": "https://i.gifer.com/origin/3c/3cf3bf4222ca02eadf81bf145261bfd0.gif",
 "stations":[
     {
-         	"name": "STREAMTP2.COM",
+         	"name": "STREAMTP2",
 			"image": "https://e7.pngegg.com/pngimages/846/645/png-clipart-sport-management-logo-football-material-sport-happy-birthday-vector-images.png",
                  "url": "https://streamtp3.com/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },  {
+         	"name": "STREAMDZ",
+			"image": "https://e7.pngegg.com/pngimages/846/645/png-clipart-sport-management-logo-football-material-sport-happy-birthday-vector-images.png",
+                 "url": "https://streamdz4.lat",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, 
