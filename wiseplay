@@ -235,9 +235,9 @@
 			}, 
 
 {
-			"name": "America Tv FHD 1080p (Argentina1) | AR 🇦🇷",
+			"name": "America Tv FHD 1080p (Argentina11) | AR 🇦🇷",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
-			"url": "https://vmf.edge-apps.net/embed/live.php?streamname=americahls-100056&autoplay=false",
+			"url": "https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/f28ea8e8-2b00-40f8-bc8c-e5bb6c4b2366:SCL/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
