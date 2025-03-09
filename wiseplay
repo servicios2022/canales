@@ -80,12 +80,11 @@
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true
                 }, {
-			"name": "Canal 13 2 | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png",
-			"url": "https://m3u.cl/channel/c13.php?PlaylistM3UCL",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": true
-                }, {
+			"name": "canal 13 | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
+		"url": "https://m3u.cl/channel/c13.php?PlaylistM3UCL",
+		  "userAgent" : ""
+			}, {
 			"name": "Mega | CL 🇨🇱",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
 		"url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
