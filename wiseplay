@@ -234,25 +234,13 @@
 		  "userAgent" : ""
 			}, 
 
-{
-			"name": "America Tv FHD 1080p (Argentina11) | AR 🇦🇷",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
-			"url": "https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/f28ea8e8-2b00-40f8-bc8c-e5bb6c4b2366:SCL/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "America Tv FHD 1080p (Youtube) | AR 🇦🇷",
+ {
+			"name": "America Tv HD 720p (Youtube) | AR 🇦🇷",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
 			"url": "https://www.youtube.com/watch?v=zcWXboTnous&ab_channel=Am%C3%A9ricaTV",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                }, {
-			"name": "Deportes en Vivo | AR 🇦🇷",
-			"image": "https://static.vecteezy.com/system/resources/previews/023/477/419/non_2x/ai-generative-collection-of-sports-equipment-commonly-sold-at-a-supermarket-circle-label-for-a-sports-goods-free-png.png",
-			"url": "https://www.americatv.com.ar/vivo",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-		"playInNatPlayer": "true",
-		"embed": "true" },
+                }, 
 
 {
 			"name": "TNT Sports Argentina FHD 1080p (Streamtp) | AR 🇦🇷",
