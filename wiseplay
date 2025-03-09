@@ -237,7 +237,7 @@
 {
 			"name": "America Tv FHD 1080p (Argentina1) | AR 🇦🇷",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
-			"url": "https://hoca4u.xyz/player/americatv.php",
+			"url": "https://vmf.edge-apps.net/embed/live.php?streamname=americahls-100056&autoplay=false",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
@@ -246,7 +246,13 @@
 			"url": "https://www.youtube.com/watch?v=zcWXboTnous&ab_channel=Am%C3%A9ricaTV",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                }, 
+                }, {
+			"name": "Deportes en Vivo | AR 🇦🇷",
+			"image": "https://static.vecteezy.com/system/resources/previews/023/477/419/non_2x/ai-generative-collection-of-sports-equipment-commonly-sold-at-a-supermarket-circle-label-for-a-sports-goods-free-png.png",
+			"url": "https://www.americatv.com.ar/vivo",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" },
 
 {
 			"name": "TNT Sports Argentina FHD 1080p (Streamtp) | AR 🇦🇷",
