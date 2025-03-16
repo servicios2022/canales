@@ -308,15 +308,9 @@
 		"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },   {
-			"name": "TNT Sports Chile HD 480p (CapoPlayer) | CL 🇨🇱",
+			"name": "TNT Sports Chile HD (CapoPlayer) | CL 🇨🇱",
 			"image": "https://i.imgur.com/ItEH0oC.png",
 			"url": "https://www.capoplayer.net/play/canal46.php",
-		"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },  {
-			"name": "TNT Sports Chile HD 480p (DeporteLibre) | CL 🇨🇱",
-			"image": "https://i.imgur.com/ItEH0oC.png",
-			"url": "https://deporte-libre.top/en-vivo-online/tnt-sports-chile/embed3.php",
 		"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  
