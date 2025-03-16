@@ -337,6 +337,12 @@
                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
+			"name": "TNT Sports Chile HD (RodrixTv) | CL 🇨🇱",
+                    "image": "https://i.imgur.com/ItEH0oC.png",
+                    "url": "https://rodrixtv.info/tv/canal32.html",
+                   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" }, {
 			"name": "TNT Sports Chile HD (TucanalDeportivo) | CL 🇨🇱",
                     "image": "https://i.imgur.com/ItEH0oC.png",
                     "url": "https://tucanaldeportivo.org/ver/cdfpremium.php",
