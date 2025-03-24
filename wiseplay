@@ -293,19 +293,19 @@
 
 
 		 {
-			"name": "TNT Sports Chile HD (CapoPlayer) | CL 🇨🇱",
+			"name": "TNT Sports Premium Chile HD (CapoPlayer) | CL 🇨🇱",
 			"image": "https://i.imgur.com/ItEH0oC.png",
 			"url": "https://www.capoplayer.net/play/tntchile.php",
 		"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
-			"name": "TNT Sports Chile HD (TarjetaRoja) | CL 🇨🇱",
+			"name": "TNT Sports Premium Chile HD (TarjetaRoja) | CL 🇨🇱",
 			"image": "https://i.imgur.com/ItEH0oC.png",
 			"url": "https://tarjetarojaenvivo.lat/player/1/83",
 		"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
-			"name": "TNT Sports Chile HD (CapoPlayer2) | CL 🇨🇱",
+			"name": "TNT Sports Premium Chile HD (CapoPlayer2) | CL 🇨🇱",
 			"image": "https://i.imgur.com/ItEH0oC.png",
 			"url": "https://www.capoplayer.net/play/canal46.php",
 		"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
@@ -315,19 +315,19 @@
 
 
 		{
-			"name": "TNT Sports Chile HD (TvPlus) | CL 🇨🇱",
+			"name": "TNT Sports Premium Chile HD (TvPlus) | CL 🇨🇱",
                     "image": "https://i.imgur.com/ItEH0oC.png",
                     "url": "https://www.tvplusgratis2.com/tnt-sports-chile-en-vivo.html",
                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
-			"name": "TNT Sports Chile HD (TucanalDeportivo) | CL 🇨🇱",
+			"name": "TNT Sports Premium Chile HD (TucanalDeportivo) | CL 🇨🇱",
                     "image": "https://i.imgur.com/ItEH0oC.png",
                     "url": "https://tucanaldeportivo.org/ver/cdfpremium.php",
                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" }, {
-			"name": "TNT Sports Chile HD (TuTvLive) | CL 🇨🇱",
+			"name": "TNT Sports Premium Chile HD (TuTvLive) | CL 🇨🇱",
                     "image": "https://i.imgur.com/ItEH0oC.png",
                     "url": "https://tutvlive.xyz/tvtodo/canal-220.php",
                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
