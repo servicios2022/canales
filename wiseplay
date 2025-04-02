@@ -91,6 +91,12 @@
 		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true 
 			}, {
+			"name": "Chilevision | CL 🇨🇱",
+			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+			"url": "https://mdstrm.com/live-stream/63ee47e1daeeb80a30d98ef4?jsapi=true&autoplay=true&access_token=VUN9pLWLGPWkhZGB0KjPBEC5H5ojngAVcCRYCw4aI4UMOHjnKNTMcuYFa1gpJHP7m7ATSSzR6DH&custom.categoria_prontus=senal-online&custom.dfpLanguage=es&custom.dfpCountry=cl&custom.dfpShowName=-&custom.dfpVidId=63ee47e1daeeb80a30d98ef4&custom.dfpURLEncoded=https%3A%2F%2Fwww.chilevision.cl%2Fsenal-online&custom.dfpRandomNumber=6433706164&custom.origen=chilevision&custom.iu=%2F1047933%2Fchilevision&custom.app=false&custom.cust_params=sect%253Dlive%2526sub%253Dsenal-online%2526show%253D-%2526videotype%253Dlive%2526cat%253Dlive%2526vidid%253D63ee47e1daeeb80a30d98ef4%2526site%253Dchilevision%2526app%253Dfalse%2526theme%253Dge&custom.amp=false&custom.appname=",
+		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": true 
+			}, {
 			"name": "Canal 13 | CL 🇨🇱",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png",
 			"url": "https://www.13.cl/en-vivo",
