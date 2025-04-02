@@ -105,7 +105,7 @@
                 }, {
 			"name": "Canal 13 | CL 🇨🇱",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png",
-			"url": "https://m3u.cl/channel/c13.php?PlaylistM3UCL",
+			"url": "https://rudo.video/live/c13?c3=13CL&autostart=1&volume=0&tag=eyJwcmUiOiJodHRwczpcL1wvcHViYWRzLmcuZG91YmxlY2xpY2submV0XC9nYW1wYWRcL2Fkcz9pdT1cLzExMjM3MjIwN1wvZW52aXZvLmNsXC9lbnZpdm9cL3ByZXJvbGwmZGVzY3JpcHRpb25fdXJsPWh0dHAlM0ElMkYlMkZ3d3cuMTMuY2wlMkZlbi12aXZvJmVudj12cCZpbXBsPXMmY29ycmVsYXRvcj0mdGZjZD0wJm5wYT0wJmdkZnBfcmVxPTEmb3V0cHV0PXZhc3Qmc3o9NjU2eDM2OCZjaXVfc3pzPTcyOHg5MCw5NzB4OTAsOTcweDI1MCwxOTAweDgyNSwxOTIweDc2OCw0MDB4NjAmdW52aWV3ZWRfcG9zaXRpb25fc3RhcnQ9MSZwbW5kPTAmcG14ZD0xMjAwMDAmcG1hZD0yJnBvZD0xIiwicG9zdCI6IjAiLCJtaWQiOnsidGFnIjoiMCIsInRpbWUiOltdfSwib3ZlciI6eyJ0YWciOiJodHRwczpcL1wvcHViYWRzLmcuZG91YmxlY2xpY2submV0XC9nYW1wYWRcL2Fkcz9pdT1cLzExMjM3MjIwN1wvZW52aXZvLmNsXC9lbnZpdm9cL292ZXJsYXkmZGVzY3JpcHRpb25fdXJsPWh0dHAlM0ElMkYlMkZ3d3cuMTMuY2wlMkZlbi12aXZvJmVudj12cCZpbXBsPXMmY29ycmVsYXRvcj0mdGZjZD0wJm5wYT0wJmdkZnBfcmVxPTEmb3V0cHV0PXZhc3QmdmFkX3R5cGU9bm9ubGluZWFyJnN6PTQwMHg2MCZtaSIsInRpbWUiOls2MF19fQ==",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
 		"embed": "true" }, {
