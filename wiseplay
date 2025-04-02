@@ -34,13 +34,7 @@
 {"name": "AGENDAS DEPORTIVAS",
 "image": "https://mcworld.atwebpages.com/wp-content/uploads/2021/04/sports-pixaby.gif",
 "stations":[
-     {
-			"name": "Deportes TV HD | AR 🇦🇷",
-			"image": "https://static.vecteezy.com/system/resources/previews/023/477/419/non_2x/ai-generative-collection-of-sports-equipment-commonly-sold-at-a-supermarket-circle-label-for-a-sports-goods-free-png.png",
-			"url": "https://deportestvhdplus1.pro",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-		"playInNatPlayer": "true",
-		"embed": "true" }, 
+    
 {
 			"name": "Futbol Libre TV | AR 🇦🇷",
 			"image": "https://static.vecteezy.com/system/resources/previews/023/477/419/non_2x/ai-generative-collection-of-sports-equipment-commonly-sold-at-a-supermarket-circle-label-for-a-sports-goods-free-png.png",
@@ -58,6 +52,12 @@
 			"name": "Deportes en Vivo | AR 🇦🇷",
 			"image": "https://static.vecteezy.com/system/resources/previews/023/477/419/non_2x/ai-generative-collection-of-sports-equipment-commonly-sold-at-a-supermarket-circle-label-for-a-sports-goods-free-png.png",
 			"url": "https://deporte-libre.top/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" },  {
+			"name": "Deportes TV HD | AR 🇦🇷",
+			"image": "https://static.vecteezy.com/system/resources/previews/023/477/419/non_2x/ai-generative-collection-of-sports-equipment-commonly-sold-at-a-supermarket-circle-label-for-a-sports-goods-free-png.png",
+			"url": "https://deportestvhdplus1.pro",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
 		"embed": "true" }, {
