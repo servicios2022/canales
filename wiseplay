@@ -91,24 +91,12 @@
 		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true 
 			}, {
-			"name": "Chilevision | CL 🇨🇱",
-			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-			"url": "https://mdstrm.com/live-stream/63ee47e1daeeb80a30d98ef4?jsapi=true&autoplay=true&access_token=VUN9pLWLGPWkhZGB0KjPBEC5H5ojngAVcCRYCw4aI4UMOHjnKNTMcuYFa1gpJHP7m7ATSSzR6DH&custom.categoria_prontus=senal-online&custom.dfpLanguage=es&custom.dfpCountry=cl&custom.dfpShowName=-&custom.dfpVidId=63ee47e1daeeb80a30d98ef4&custom.dfpURLEncoded=https%3A%2F%2Fwww.chilevision.cl%2Fsenal-online&custom.dfpRandomNumber=6433706164&custom.origen=chilevision&custom.iu=%2F1047933%2Fchilevision&custom.app=false&custom.cust_params=sect%253Dlive%2526sub%253Dsenal-online%2526show%253D-%2526videotype%253Dlive%2526cat%253Dlive%2526vidid%253D63ee47e1daeeb80a30d98ef4%2526site%253Dchilevision%2526app%253Dfalse%2526theme%253Dge&custom.amp=false&custom.appname=",
-		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": true 
-			}, {
 			"name": "Canal 13 | CL 🇨🇱",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png",
 			"url": "https://www.13.cl/en-vivo",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true
                 }, {
-			"name": "Canal 13 | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png",
-			"url": "https://rudo.video/live/c13?c3=13CL&autostart=1&volume=0&tag=eyJwcmUiOiJodHRwczpcL1wvcHViYWRzLmcuZG91YmxlY2xpY2submV0XC9nYW1wYWRcL2Fkcz9pdT1cLzExMjM3MjIwN1wvZW52aXZvLmNsXC9lbnZpdm9cL3ByZXJvbGwmZGVzY3JpcHRpb25fdXJsPWh0dHAlM0ElMkYlMkZ3d3cuMTMuY2wlMkZlbi12aXZvJmVudj12cCZpbXBsPXMmY29ycmVsYXRvcj0mdGZjZD0wJm5wYT0wJmdkZnBfcmVxPTEmb3V0cHV0PXZhc3Qmc3o9NjU2eDM2OCZjaXVfc3pzPTcyOHg5MCw5NzB4OTAsOTcweDI1MCwxOTAweDgyNSwxOTIweDc2OCw0MDB4NjAmdW52aWV3ZWRfcG9zaXRpb25fc3RhcnQ9MSZwbW5kPTAmcG14ZD0xMjAwMDAmcG1hZD0yJnBvZD0xIiwicG9zdCI6IjAiLCJtaWQiOnsidGFnIjoiMCIsInRpbWUiOltdfSwib3ZlciI6eyJ0YWciOiJodHRwczpcL1wvcHViYWRzLmcuZG91YmxlY2xpY2submV0XC9nYW1wYWRcL2Fkcz9pdT1cLzExMjM3MjIwN1wvZW52aXZvLmNsXC9lbnZpdm9cL292ZXJsYXkmZGVzY3JpcHRpb25fdXJsPWh0dHAlM0ElMkYlMkZ3d3cuMTMuY2wlMkZlbi12aXZvJmVudj12cCZpbXBsPXMmY29ycmVsYXRvcj0mdGZjZD0wJm5wYT0wJmdkZnBfcmVxPTEmb3V0cHV0PXZhc3QmdmFkX3R5cGU9bm9ubGluZWFyJnN6PTQwMHg2MCZtaSIsInRpbWUiOls2MF19fQ==",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-		"playInNatPlayer": "true",
-		"embed": "true" }, {
 			"name": "TVN | CL 🇨🇱",
 			"image": "https://www.tvn.cl/incoming/logotipo2020png-5317342/alternates/BASE_FREE/Logotipo%282020%29.png",
 			"url": "https://www.tvn.cl/en-vivo",
