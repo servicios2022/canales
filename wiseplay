@@ -235,7 +235,13 @@
 			}, 
 
 
-		 {
+		{
+			"name": "TyC Sports | AR 🇦🇷",
+			"image": "https://i.imgur.com/zfkBNdb.png",
+			"url": "https://dpstream1.my/global1.html?channel=tyc",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
 			"name": "TNT Sports Argentina | AR 🇦🇷",
 			"image": "https://i.imgur.com/ItEH0oC.png",
 			"url": "https://dpstream1.my/global1.html?channel=tntar",
@@ -263,12 +269,6 @@
 			"name": "ESPN Premium Argentina | AR 🇦🇷",
 			"image": "https://i.imgur.com/5qTHLGy.png",
 			"url": "https://streamtp4.com/global1.php?stream=espnpremium",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "TyC Sports | AR 🇦🇷",
-			"image": "https://i.imgur.com/zfkBNdb.png",
-			"url": "https://dpstream1.my/global1.html?channel=tyc",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, 
