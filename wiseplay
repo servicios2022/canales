@@ -246,97 +246,12 @@
 			}, 
 
 		{
-			"name": "Direct Tv Sports Argentina | AR 🇦🇷",
-			"image": "https://i.imgur.com/NUGOqdT.png",
-			"url": "https://dpstream2.my/global1.html?channel=dsports",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Direct Tv Sports Argentina | AR 🇦🇷",
-			"image": "https://i.imgur.com/NUGOqdT.png",
-			"url": "https://streamtp4.com/global1.php?stream=dsports",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Direct Tv Sports Argentina | AR 🇦🇷",
-			"image": "https://i.imgur.com/NUGOqdT.png",
-			"url": "https://la12hd.com/vivo/canal.php?stream=dsports",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "TyC Sports | AR 🇦🇷",
-			"image": "https://i.imgur.com/zfkBNdb.png",
-			"url": "https://dpstream1.my/global1.html?channel=tyc",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
 			"name": "TNT Sports Argentina | AR 🇦🇷",
 			"image": "https://i.imgur.com/ItEH0oC.png",
-			"url": "https://dpstream1.my/global1.html?channel=tntar",
+			"url": "https://dpstream2.my/global2.html?channel=tntsports",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                },  {
-			"name": "TNT Sports Argentina | AR 🇦🇷",
-			"image": "https://i.imgur.com/ItEH0oC.png",
-			"url": "https://streamtp4.com/global1.php?stream=tntsports",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "TNT Sports Argentina | AR 🇦🇷",
-			"image": "https://i.imgur.com/ItEH0oC.png",
-			"url": "https://la12hd.com/vivo/canal.php?stream=tntsports",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "ESPN Premium Argentina | AR 🇦🇷",
-			"image": "https://i.imgur.com/5qTHLGy.png",
-			"url": "https://dpstream1.my/global1.html?channel=espnpremium",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "ESPN Premium Argentina | AR 🇦🇷",
-			"image": "https://i.imgur.com/5qTHLGy.png",
-			"url": "https://streamtp4.com/global1.php?stream=espnpremium",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Fox Sports Argentina | AR 🇦🇷",
-			"image": "https://i.imgur.com/nX9GsSh.png",
-			"url": "https://dpstream2.my/global1.html?channel=foxar",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Fox Sports Argentina | AR 🇦🇷",
-			"image": "https://i.imgur.com/nX9GsSh.png",
-			"url": "https://streamtp4.com/global1.php?stream=fox1ar",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Fox Sports Argentina | AR 🇦🇷",
-			"image": "https://i.imgur.com/nX9GsSh.png",
-			"url": "https://la12hd.com/vivo/canal.php?stream=foxsports",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Fox Sports 2 Argentina | AR 🇦🇷",
-			"image": "https://i.imgur.com/KhwRTx4.png",
-			"url": "https://dpstream2.my/global1.html?channel=fox2ar",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Fox Sports 2 Argentina | AR 🇦🇷",
-			"image": "https://i.imgur.com/KhwRTx4.png",
-			"url": "https://streamtp4.com/global1.php?stream=fox2ar",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Fox Sports 2 Argentina | AR 🇦🇷",
-			"image": "https://i.imgur.com/KhwRTx4.png",
-			"url": "https://la12hd.com/vivo/canal.php?stream=foxsports2",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
-
+                },  
 
 
 
