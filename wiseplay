@@ -41,40 +41,10 @@
 			"url": "https://futbollibre.futbol/tv9/agenda/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
-		"embed": "true" }, {
-			"name": "StreamT | AR 🇦🇷",
-			"image": "https://i.imgur.com/ehmvuI6.png",
-			"url": "https://streamtp4.com/eventos.html",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-		"playInNatPlayer": "true",
-		"embed": "true" }, {
-			"name": "DPS Stream | AR 🇦🇷",
-			"image": "https://i.imgur.com/ehmvuI6.png",
-			"url": "https://dpstream1.my/",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-		"playInNatPlayer": "true",
-		"embed": "true" }, {
+		"embed": "true" },  {
 			"name": "Tu Canal Deportivo | AR 🇦🇷",
 			"image": "https://i.imgur.com/ehmvuI6.png",
-			"url": "https://tucanaldeportivo.org/agenda.php",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-		"playInNatPlayer": "true",
-		"embed": "true" }, {
-			"name": "Deportes en Vivo | AR 🇦🇷",
-			"image": "https://i.imgur.com/ehmvuI6.png",
-			"url": "https://deporte-libre.top/",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-		"playInNatPlayer": "true",
-		"embed": "true" }, {
-			"name": "Deportes TV HD | AR 🇦🇷",
-			"image": "https://i.imgur.com/ehmvuI6.png",
-			"url": "https://deportestvhdplus1.pro",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-		"playInNatPlayer": "true",
-		"embed": "true" }, {
-			"name": "Roja Directa | AR 🇦🇷",
-			"image": "https://i.imgur.com/ehmvuI6.png",
-			"url": "https://www.rojadirectaenvivo.pl/",
+			"url": "https://elcanaldeportivo.com/agenda.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" 
