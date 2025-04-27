@@ -376,7 +376,13 @@
                                                  
                        "url" : "https://verfutboltv.net/p14y/r0j4_p14y/event10.php",
   "isHost" : "true"
-          },
+          },  {
+			"name": "TNT Sports Premium C4vo) | CL 🇨🇱",
+                    "image": "https://i.imgur.com/3dcdndh.png",
+                    "url": "https://verfutboltv.net/p14y/r0j4_p14y/event10.php",
+                   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+			"playInNatPlayer": "true",
+			"embed": "true" }, 
 
 		 
 
