@@ -382,7 +382,20 @@
 			"url": "https://miztv.top/total/stream-642.php",
 		 "referer" : "https://xextreamplay.xyz/",
             "isHost": "true" 
+		}, {
+			"name": "TNT Sports Premium Chile HD 4 | CL 🇨🇱",
+                    "image": "https://i.imgur.com/3dcdndh.png",
+			"url": "https://deporte-libre.link/stream/stream-642.php",
+		 "referer" : "https://xextreamplay.xyz/",
+            "isHost": "true" 
+		}, {
+			"name": "TNT Sports Premium Chile HD 5 | CL 🇨🇱",
+                    "image": "https://i.imgur.com/3dcdndh.png",
+			"url": "https://deporte-libre.link/stream/stream-642.php",
+		 "referer" : "https://miztv.top/total/stream-642.php",
+            "isHost": "true" 
 		},
+
 
 
 		{
