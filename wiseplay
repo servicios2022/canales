@@ -360,7 +360,14 @@
                 },
 
 		
-
+		{
+    		  "name": "Moto GP",
+      		"image": "t=630",
+                                                 
+                       "url" : "https://tutvlive.xyz/mpd/tvfhd.php?sTL3?id=642",
+                    "referer" : "https://www.sportsbay.dk/",
+    		  "isHost" : "true"
+          },
 
 
 	
