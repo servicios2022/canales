@@ -359,63 +359,11 @@
                     "isHost": "true"
                 },
 
-		{
-      "name": "Moto GP",
-      "image": "t=630",
-                                                 
-                       "url" : "https://ntv.tutvlive.info/canaltv.php?ch=https://tutvlive.xyz/mpd/tvfhd.php?sTL4?id=cdf",
-                    "referer" : "https://www.sportsbay.dk/",
-      "isHost" : "true"
-          }, {
-      "name": "Moto 2",
-      "image": "t=630",
-                                                 
-                       "url" : "https://ntv.tutvlive.info/canaltv.php?ch=https://tutvlive.xyz/mpd/tvfhd.php?sTL3?id=642",
-                    "referer" : "https://www.sportsbay.dk/",
-      "isHost" : "true"
-          }, {
-      "name": "Moto3",
-      "image": "t=630",
-                                                 
-                       "url" : "https://ntv.tutvlive.info/canaltv.php?ch=https://tutvlive.xyz/mpd/tvfhd.php?sTL4?id=cdf",
-      "isHost" : "true"
-          }, {
-      "name": "Moto 4",
-      "image": "t=630",
-                                                 
-                       "url" : "https://ntv.tutvlive.info/canaltv.php?ch=https://tutvlive.xyz/mpd/tvfhd.php?sTL3?id=642",
-      "isHost" : "true"
-          },  {
-			"name": "MAX5 | CL 🇨🇱",
-			"image": "https://i.imgur.com/lszKlpm.png",
-			"url": "https://ntv.tutvlive.info/canaltv.php?ch=https://tutvlive.xyz/mpd/tvfhd.php?sTL4?id=cdf",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "M6 | CL 🇨🇱",
-			"image": "https://i.imgur.com/lszKlpm.png",
-			"url": "https://ntv.tutvlive.info/canaltv.php?ch=https://tutvlive.xyz/mpd/tvfhd.php?sTL3?id=642",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
+		 
 
 
 	
- 		{
-			"name": "TNT Sports P7 (TucanalDeportivo) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/3dcdndh.png",
-                    "url": "https://ntv.tutvlive.info/canaltv.php?ch=https://tutvlive.xyz/mpd/tvfhd.php?sTL4?id=cdf",
-                   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-			"playInNatPlayer": "true",
-			"embed": "true" 
-			}, {
-			"name": "TNT Sports Pr8(TucanalDeportivo) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/3dcdndh.png",
-                    "url": "https://ntv.tutvlive.info/canaltv.php?ch=https://tutvlive.xyz/mpd/tvfhd.php?sTL3?id=642",
-                   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-			"playInNatPlayer": "true",
-			"embed": "true" 
-			},
+ 	
 
 
 
@@ -424,8 +372,18 @@
                     "image": "https://i.imgur.com/3dcdndh.png",
                     "url": "https://tucanaldeportivo.org/ver/cdfpremium.php",
                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }
+			"playInNatPlayer": "true",
+			"embed": "true" }, 
+
+			{
+			"name": "TNT Sports Premium Chile HD (TuTvLive) | CL 🇨🇱",
+                    "image": "https://i.imgur.com/3dcdndh.png",
+                    "url": "https://ntv.tutvlive.info/canaltv.php?ch=https://tutvlive.xyz/mpd/tvfhd.php?sTL4?id=cdf",
+                   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+			"playInNatPlayer": "true",
+			"embed": "true" 
+			}
+
 
 ]},
 ]}
