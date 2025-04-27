@@ -375,7 +375,21 @@
 			"url": "https://ntv.tutvlive.info/canaltv.php?ch=https://tutvlive.xyz/mpd/tvfhd.php?sTL4?id=cdf",
                   	 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "embed": "true"
-			  }, 
+			  }, {
+      "name": "Moto GP",
+      "image": "t=630",
+                                                 
+                       "url" : "https://ntv.tutvlive.info/canaltv.php?ch=https://tutvlive.xyz/mpd/tvfhd.php?sTL4?id=cdf",
+                    "referer" : "https://www.sportsbay.dk/",
+      "isHost" : "true"
+          }, {
+      "name": "Moto GP",
+      "image": "t=630",
+                                                 
+                       "url" : "https://ntv.tutvlive.info/canaltv.php?ch=https://tutvlive.xyz/mpd/tvfhd.php?sTL4?id=cdf",
+                    "referer" : "https://www.sportsbay.dk/",
+      "embed" : "true"
+          },
 
 	
  	
