@@ -367,6 +367,13 @@
                        "url" : "https://tutvlive.xyz/mpd/tvfhd.php?sTL3?id=642",
                     "referer" : "https://www.sportsbay.dk/",
     		  "isHost" : "true"
+          }, {
+    		  "name": "Moto 2",
+      		"image": "t=630",
+                                                 
+                       "url" : "https://tutvlive.xyz/mpd/tvfhd.php?sTL4?id=cdf",
+                    "referer" : "https://www.sportsbay.dk/",
+    		  "isHost" : "true"
           },
 
 
