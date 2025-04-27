@@ -359,47 +359,32 @@
                     "isHost": "true"
                 },
 
-		
 		{
-    		  "name": "Moto GP",
-      		"image": "t=630",
+      "name": "Moto GP",
+      "image": "t=630",
                                                  
-                       "url" : "https://tutvlive.xyz/mpd/tvfhd.php?sTL3?id=642",
+                       "url" : "https://ntv.tutvlive.info/canaltv.php?ch=https://tutvlive.xyz/mpd/tvfhd.php?sTL4?id=cdf",
                     "referer" : "https://www.sportsbay.dk/",
-    		  "isHost" : "true"
+      "isHost" : "true"
           }, {
-    		  "name": "Moto 2",
-      		"image": "t=630",
+      "name": "Moto 2",
+      "image": "t=630",
                                                  
-                       "url" : "https://tutvlive.xyz/mpd/tvfhd.php?sTL4?id=cdf",
+                       "url" : "https://ntv.tutvlive.info/canaltv.php?ch=https://tutvlive.xyz/mpd/tvfhd.php?sTL3?id=642",
                     "referer" : "https://www.sportsbay.dk/",
-    		  "isHost" : "true"
-          }, {
-    		  "name": "Moto 3",
-      		"image": "t=630",
-                                                 
-                       "url" : "https://tutvlive.xyz/tvtodo/tnt-chile.php",
-                    "referer" : "https://www.sportsbay.dk/",
-    		  "isHost" : "true"
-          },  {
-    		  "name": "Moto 4",
-      		"image": "t=630",
-                                                 
-                       "url" : "https://tutvlive.xyz/tvtodo/tnt-chile.php",
-                    "referer" : "https://tutvlive.xyz/tvtodo/tnt-chile.php",
-    		  "isHost" : "true"
-          },  {
-    		  "name": "Moto 5",
-      		"image": "t=630",
-                                                 
-                       "url" : "https://tutvlive.xyz/tvtodo/tnt-chile.php",
-                    "referer" : "https://tutvlive.xyz/tvtodo/tnt-chile.php",
-    		  "isHost" : "true"
+      "isHost" : "true"
           },
 
 
 	
-
+ 		{
+			"name": "TNT Sports Premium Chile HD (TucanalDeportivo) | CL 🇨🇱",
+                    "image": "https://i.imgur.com/3dcdndh.png",
+                    "url": "https://tutvlive.xyz/tvtodo/tnt-chile.php",
+                   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+			"playInNatPlayer": "true",
+			"embed": "true" 
+			},
 
 
 
