@@ -374,6 +374,27 @@
                        "url" : "https://tutvlive.xyz/mpd/tvfhd.php?sTL4?id=cdf",
                     "referer" : "https://www.sportsbay.dk/",
     		  "isHost" : "true"
+          }, {
+    		  "name": "Moto 3",
+      		"image": "t=630",
+                                                 
+                       "url" : "https://tutvlive.xyz/tvtodo/tnt-chile.php",
+                    "referer" : "https://www.sportsbay.dk/",
+    		  "isHost" : "true"
+          },  {
+    		  "name": "Moto 4",
+      		"image": "t=630",
+                                                 
+                       "url" : "https://tutvlive.xyz/tvtodo/tnt-chile.php",
+                    "referer" : "https://tutvlive.xyz/tvtodo/tnt-chile.php",
+    		  "isHost" : "true"
+          },  {
+    		  "name": "Moto 5",
+      		"image": "t=630",
+                                                 
+                       "url" : "https://tutvlive.xyz/tvtodo/tnt-chile.php",
+                    "referer" : "https://tutvlive.xyz/tvtodo/tnt-chile.php",
+    		  "isHost" : "true"
           },
 
 
