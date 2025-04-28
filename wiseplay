@@ -365,7 +365,7 @@
 
 
 		
-		{
+			{
 			"name": "TNT Sports Premium Chile (TucanalDeportivo) | CL 🇨🇱",
                     "image": "https://i.imgur.com/3dcdndh.png",
                     "url": "https://tucanaldeportivo.org/ver/cdfpremium.php",
@@ -376,12 +376,18 @@
 			{
 			"name": "TNT Sports Premium Chile (TuTvLive) | CL 🇨🇱",
                     "image": "https://i.imgur.com/3dcdndh.png",
+                    "url": "https://ntv.tutvlive.info/canaltv.php?ch=https://tutvlive.xyz/mpd/tvfhd.php?sTL3?id=642",
+                   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+			"playInNatPlayer": "true",
+			"embed": "true" 
+			}, {
+			"name": "TNT Sports Premium Chile (TuTvLive) | CL 🇨🇱",
+                    "image": "https://i.imgur.com/3dcdndh.png",
                     "url": "https://ntv.tutvlive.info/canaltv.php?ch=https://tutvlive.xyz/mpd/tvfhd.php?sTL4?id=cdf",
                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 			"playInNatPlayer": "true",
 			"embed": "true" 
-			}, 
- {
+			}, {
 			"name": "TNT Sports Premium Chile (RojaDirecta) | CL 🇨🇱",
                     "image": "https://i.imgur.com/3dcdndh.png",
                        "url" : "https://tarjetarojaenvivo.lat/player/4/83",
