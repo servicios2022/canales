@@ -126,6 +126,11 @@
 			"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
 		"url": "https://m3u.cl/channel/c13.php?PlaylistM3UCL",
 		  "userAgent" : ""
+			},  {
+			"name": "8 | CL 🇨🇱",
+			"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
+		"url": "https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/542aa47d-a9a2-4fbc-84d7-d7ed11554bc8:SCL/variant/6111ad30657a583ad044dfe707c7e95d/bandwidth/2305600.m3u8",
+		  "userAgent" : ""
 			},
 
 
