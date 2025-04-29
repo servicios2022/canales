@@ -93,7 +93,48 @@
 			"url": "https://www.13.cl/en-vivo",
 		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
+		"embed": "true" }, {
+			"name": "Canal 13 | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png",
+			"url": "https://rudo.video/live/c13?c3=13CL&autostart=1",
+		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+			"name": "Canal 13 | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png",
+			"url": "https://rudo.video/live/c13?c3=13CL&autostart=1",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
 		"embed": "true" },  {
+			"name": "Canal 13 | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png",
+			"url": "https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/542aa47d-a9a2-4fbc-84d7-d7ed11554bc8:SCL/variant/6111ad30657a583ad044dfe707c7e95d/bandwidth/2305600.m3u8",
+		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+			"name": "Canal 13 | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png",
+			"url": "https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/542aa47d-a9a2-4fbc-84d7-d7ed11554bc8:SCL/variant/6111ad30657a583ad044dfe707c7e95d/bandwidth/2305600.m3u8",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+		"embed": "true" }, {
+			"name": "Canal 13 | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png",
+			"url": "https://m3u.cl/channel/c13.php?PlaylistM3UCL",
+		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+			"name": "Canal 13 | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png",
+			"url": "https://m3u.cl/channel/c13.php?PlaylistM3UCL",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+		"embed": "true" }, 
+
+
+
+
+{
 			"name": "Bio Bio TV | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/421_Bio_Bio_TV.png",
 			"url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8",
