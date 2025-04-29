@@ -145,6 +145,11 @@
 			"url": "https://radioxxx.ddns.net/hls/stream.m3u8",
 		  "userAgent" : ""
 			}, {
+			"name": "Chile Remix | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1586_Chile_Remix.png",
+			"url": "https://vdochile.com:3803/live/ckdj2live.m3u8",
+		  "userAgent" : ""
+			}, {
 			"name": "Urban Pro DJ | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/1476_Urban_Pro_DJ.png",
 			"url": "https://vdochile.com:3115/hybrid/play.m3u8",
