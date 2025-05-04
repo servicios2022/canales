@@ -31,7 +31,7 @@
 },
 
 ]},
-{"name": "DEPORTE CHILE ARGENTINA",
+{"name": "FUTBOL ARGENTINA - CHILE",
 "image": "https://mcworld.atwebpages.com/wp-content/uploads/2021/04/sports-pixaby.gif",
 "stations":[
     
@@ -190,9 +190,6 @@
 
 
 
-
-		
-
 		
 			{
 			"name": "TNT Sports Premium Chile (TucanalDeportivo) | CL 🇨🇱",
@@ -218,7 +215,7 @@
 
 
 ]},
-{"name": "DEPORTE CHILE - ARGENTINA",
+{"name": "CANALES CHILENOS",
 "image": "https://static.wixstatic.com/media/603da4_cff0a56da59a43ba88f862dbee0ae230~mv2.gif",
 "stations":[
   
@@ -407,188 +404,9 @@
 			"image": "https://cdn.m3u.cl/logo/856_Hito_Cero_TV.png",
 			"url": "https://5e3483cba9114.streamlock.net:443/kbwqdhjxtz/kbwqdhjxtz/playlist.m3u8",
 		  "userAgent" : ""
-			}, 
-
-		{
-			"name": "TNT Sports Argentina (la12HD) | AR 🇦🇷",
-			"image": "https://i.imgur.com/ItEH0oC.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=tntsports",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },  {
-			"name": "TNT Sports Argentina (Dpstream) | AR 🇦🇷",
-			"image": "https://i.imgur.com/ItEH0oC.png",
-			"url": "https://dpstream2.my/global2.html?channel=tntsports",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },  {
-			"name": "ESPN Premium Argentina (la12HD) | AR 🇦🇷",
-			"image": "https://i.imgur.com/5qTHLGy.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=espnpremium",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },   {
-			"name": "FOX Sports Argentina (la12HD) | AR 🇦🇷",
-			"image": "https://i.imgur.com/nX9GsSh.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=foxsports",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },   {
-			"name": "FOX Sports 2 Argentina (la12HD) | AR 🇦🇷",
-			"image": "https://i.imgur.com/KhwRTx4.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=foxsports2",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },   {
-			"name": "FOX Sports 3 Argentina (la12HD) | AR 🇦🇷",
-			"image": "https://i.imgur.com/xbeQUV3.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=foxsports3",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },   {
-			"name": "TyC Sports Argentina (la12HD) | AR 🇦🇷",
-			"image": "https://i.imgur.com/zfkBNdb.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=tycsports",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },   {
-			"name": "TyC Sports Internacional (la12HD) | AR 🇦🇷",
-			"image": "https://i.imgur.com/zfkBNdb.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=tycinternacional",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },  
-
-
-
-		 {
-			"name": "Eventos DISNEY+ 1 | AR 🇦🇷",
-			"image": "https://i.imgur.com/gw2wQrr.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=disney1",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },  {
-			"name": "Eventos DISNEY+ 2 | AR 🇦🇷",
-			"image": "https://i.imgur.com/gw2wQrr.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=disney2",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },  {
-			"name": "Eventos DISNEY+ 3 | AR 🇦🇷",
-			"image": "https://i.imgur.com/gw2wQrr.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=disney3",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Eventos DISNEY+ 4 | AR 🇦🇷",
-			"image": "https://i.imgur.com/gw2wQrr.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=disney4",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Eventos DISNEY+ 5 | AR 🇦🇷",
-			"image": "https://i.imgur.com/gw2wQrr.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=disney5",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Eventos DISNEY+ 6 | AR 🇦🇷",
-			"image": "https://i.imgur.com/gw2wQrr.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=disney6",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Eventos DISNEY+ 7 | AR 🇦🇷",
-			"image": "https://i.imgur.com/gw2wQrr.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=disney7",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Eventos DISNEY+ 8 | AR 🇦🇷",
-			"image": "https://i.imgur.com/gw2wQrr.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=disney8",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },  {
-			"name": "Eventos DISNEY+ 9 | AR 🇦🇷",
-			"image": "https://i.imgur.com/gw2wQrr.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=disney9",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },  {
-			"name": "Eventos DISNEY+ 10 | AR 🇦🇷",
-			"image": "https://i.imgur.com/gw2wQrr.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=disney10",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, 
-
-
-
-
-
-		 {
-			"name": "Eventos MAX 1 | TNT Sports Chile HD | CL 🇨🇱",
-			"image": "https://i.imgur.com/lszKlpm.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=max1",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Eventos MAX 2 | TNT Sports Chile HD | CL 🇨🇱",
-			"image": "https://i.imgur.com/lszKlpm.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=max2",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Eventos MAX 3 | TNT Sports Chile HD | CL 🇨🇱",
-			"image": "https://i.imgur.com/lszKlpm.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=max3",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Eventos MAX 4 | TNT Sports Chile HD | CL 🇨🇱",
-			"image": "https://i.imgur.com/lszKlpm.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=max4",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },  
-
-
-{
-			"name": "TNT Sports Premium Chile (Rereyano) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/ItEH0oC.png",
-			"url": "https://rereyano.ru/player/3/83",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, 
-
-
-
+			} 
 
 		
-
-		
-			{
-			"name": "TNT Sports Premium Chile (TucanalDeportivo) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/3dcdndh.png",
-                    "url": "https://tucanaldeportivo.org/ver/cdfpremium.php",
-                   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-			"playInNatPlayer": "true",
-			"embed": "true"
-			}, 
-			 {
-			"name": "TNT Sports Premium Chile (TuTvLive) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/3dcdndh.png",
-                    "url": "https://ntv.tutvlive.info/canaltv.php?ch=https://tutvlive.xyz/mpd/tvfhd.php?sTL4?id=cdf",
-                   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-			"playInNatPlayer": "true",
-			"embed": "true" 
-			}, {
-			"name": "TNT Sports Premium Chile (Rereyano) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/3dcdndh.png",
-                       "url" : "https://rereyano.ru/player/4/83",
-     			 "embed" : "true"
-         	 }
 
 
 ]},
