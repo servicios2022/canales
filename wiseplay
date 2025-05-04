@@ -59,7 +59,55 @@
 			"url": "https://sportzonline.si/channels/hd/hd11.php",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                }, {
+                }, 
+
+{
+			"name": "La Liga (Opcion 1) | ES 🇪🇸",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png",
+        		           "url" :  "https://laceaccept.net/embed/8xjdm9xmx8ys",
+		                  "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
+                                                        }, {
+                        "name": "La Liga (Opcion 2) | ES 🇪🇸",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png",
+                                    "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono86/mono.m3u8",
+            "userAgent": ""
+                          }, {
+			"name": "La Liga (Opcion 3) | ES 🇪🇸",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png",
+			  "url" :  "https://jointexploit.net/embed/x2qidlx7",
+		"referer" : "https://buzztv.futbol/",
+			 "isHost":"true" 
+                         }, {
+                       "name": "La Liga (Opcion 4) | ES 🇪🇸",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png",
+                                                       "url" :  "https://letcast.pro/steam.php?stream=4eLyr2RZq7v",
+		                  "referer" : "https://hyperstream.click/",
+			 "isHost":"true"
+                          }, {
+			"name": "La Liga (Opcion 5) | ES 🇪🇸",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png",
+		  "url" :  "https://wikihznew.newkso.ru/wikihz/wiki68/mono.m3u8",
+			 "userAgent":""
+                                                       }, {
+			"name": "La Liga (Opcion 6) | ES 🇪🇸",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png",
+			       "url" :  "https://emb.apl375.me/player/live.php?id=236826&w=728&h=480",
+			 "isHost":"true"  
+                                               }, {
+			"name": "La Liga (Opcion 7) | ES 🇪🇸",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png",
+			"url" : "https://smoothindoor.net/embed/orfaxhrsmbdogv?color=45A5F4",
+                      "referer" : "https://powerover.online/",
+             "isHost": "true"
+                                                                              }, {
+			"name": "La Liga (Opcion 8) | ES 🇪🇸",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png",
+			"url" : "https://us.elverruca.io/p/sacr.html",
+             "isHost": "true"
+                                                 }, 
+
+{
 			"name": "TNT Sports Argentina (la12HD) | AR 🇦🇷",
 			"image": "https://i.imgur.com/ItEH0oC.png",
 			"url": "https://la12hd.com/vivo/canales.php?stream=tntsports",
