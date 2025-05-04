@@ -21,7 +21,26 @@
 			"url": "https://la12hd.com/eventos/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
-		"embed": "true" }, {
+		"embed": "true" }, 
+
+			 {
+			"name": "TVN 1| CL 🇨🇱",
+			"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
+		"url": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels.m3u8",
+		  "userAgent" : ""
+			}, 	 {
+			"name": "TVN 2| CL 🇨🇱",
+			"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
+		"url": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels.m3u8",
+		 "embed" : "true"
+			},
+ { "name": "Canali DaddyLive", 
+"image": "https://guruhitech.com/wp-content/uploads/2023/01/daddylive-icon.webp",
+ "url": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels.m3u8", 
+"import": false }, 
+
+
+{
 			"name": "Tu Canal Deportivo | AR 🇦🇷",
 			"image": "https://i.imgur.com/ehmvuI6.png",
 			"url": "https://elcanaldeportivo.com/agenda.php",
