@@ -6,23 +6,29 @@
     "info": "Enlaces encontrados en internet",
 "url": "https://raw.githubusercontent.com/servicios2022/canales/main/wiseplay",
 "groups": [
-{"name": "CANALES MUNDIALES",
+{"name": "AGENDAS DEPORTIVAS",
 "image": "https://i.gifer.com/origin/3c/3cf3bf4222ca02eadf81bf145261bfd0.gif",
 "stations":[
-   {
-         	"name": "La12HD",
-			"image": "https://e7.pngegg.com/pngimages/846/645/png-clipart-sport-management-logo-football-material-sport-happy-birthday-vector-images.png",
-                 "url": "https://la12hd.com/",
+  {
+			"name": "Futbol Libre TV | AR 🇦🇷",
+			"image": "https://i.imgur.com/ehmvuI6.png",
+			"url": "https://futbollibre.futbol/tv9/agenda/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true" }, 
- {
-         	"name": "TU CANAL DEPORTIVO",
-			"image": "https://e7.pngegg.com/pngimages/846/645/png-clipart-sport-management-logo-football-material-sport-happy-birthday-vector-images.png",
-                 "url": "https://tucanaldeportivo.org/canales.php",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+			"name": "La12HD | AR 🇦🇷",
+			"image": "https://i.imgur.com/ehmvuI6.png",
+			"url": "https://la12hd.com/eventos/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+			"name": "Tu Canal Deportivo | AR 🇦🇷",
+			"image": "https://i.imgur.com/ehmvuI6.png",
+			"url": "https://elcanaldeportivo.com/agenda.php",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" 
+         
                        
 },]},
 {"name": "AGENDAS DEPORTIVAS",
@@ -48,8 +54,10 @@
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true" 
-         
-},]},
+         }, 
+
+
+]},
 {"name": "CANALES EN VIVO",
 "image": "https://static.wixstatic.com/media/603da4_cff0a56da59a43ba88f862dbee0ae230~mv2.gif",
 "stations":[
