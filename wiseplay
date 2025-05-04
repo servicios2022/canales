@@ -264,13 +264,12 @@
 		"url": "https://www.13.cl/en-vivo",
 		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true 
-			}, {
-			"name": "Tv+ | CL 🇨🇱",
-			"image": "https://www.tvmas.tv/_templates/desktop/includes/img/tv-mas.svg",
-		"url": "https://rudo.video/live/tvmas",
-		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": true 
-			},
+			},  {
+			"name": "TV+ | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/458_TV_.png",
+		"url": "https://jireh-2-hls-video-cl-mundo.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream2/chunks.m3u8",
+		  "userAgent" : ""
+			}, 
 
 
 
