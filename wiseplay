@@ -261,8 +261,13 @@
 		"embed": "true" }, {
 			"name": "Canal 13 | CL 🇨🇱",
 			"image": "https://i.imgur.com/RazPUFz.png",
-			"url": "https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/542aa47d-a9a2-4fbc-84d7-d7ed11554bc8:SCL/variant/6111ad30657a583ad044dfe707c7e95d/bandwidth/2305600.m3u8",
 		"url": "https://www.13.cl/en-vivo",
+		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": true 
+			}, {
+			"name": "Tv+ | CL 🇨🇱",
+			"image": "https://www.tvmas.tv/_templates/desktop/includes/img/tv-mas.svg",
+		"url": "https://www.tvmas.tv/page/en-vivo/",
 		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true 
 			},
