@@ -117,7 +117,19 @@
 			"url": "https://la12hd.com/vivo/canales.php?stream=dazn_laliga",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                }, 
+                }, {
+                   "name": "ESPN (Laceaccept) | AR 🇦🇷",
+			"image": "https://i.imgur.com/MFhpD4D.png",
+                            "url" : "https://laceaccept.net/embed/aiif5sr0kjzo8qe",
+                   "referer" : "https://tarjetarojaenvivo.lat/",
+					"isHost":"true"
+                  }, {
+                    "name": "ESPN 2 (Catercollege) | AR 🇦🇷",
+			"image": "https://i.imgur.com/jq1s4to.png",
+                  "url" : "https://catercollege.net/embed/ke1144883x9k0n",
+                                 "referer" : "https://tarjetarojaenvivo.lat/",
+			"isHost": "true"
+                },
 
 		{
 			"name": "DirecTv Sports (la12HD) | AR 🇦🇷",
