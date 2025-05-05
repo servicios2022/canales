@@ -337,12 +337,18 @@
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-			"name": "TUDN | MX 🇲🇽",
+			"name": "TUDN (LA12HD) | MX 🇲🇽",
 			"image": "https://i.imgur.com/U6DKWV0.png",
 			"url": "https://la12hd.com/vivo/canales.php?stream=tudn_mx",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                },   {
+                },  {
+			"name": "TUDN (Jointexploit) | MX 🇲🇽",
+			"image": "https://i.imgur.com/U6DKWV0.png",
+		                     "url" :  "https://jointexploit.net/embed/k13h15p8ue",
+		                   "referer" : "https://buzztv.futbol/",
+			 "isHost":"true" 
+                          }, {
 			"name": "FOX Sports Premium (Ddy6new) | MX 🇲🇽",
 			"image": "https://i.imgur.com/oi7DwAj.png",
 			"url": "https://ddy6new.newkso.ru/ddy6/premium830/mono.m3u8",
