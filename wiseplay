@@ -59,7 +59,93 @@
 			"url": "https://sportzonline.si/channels/hd/hd11.php",
 			 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
+                },  {
+			"name": "Eventos MAX 1 | TNT Sports Chile HD | CL 🇨🇱",
+			"image": "https://i.imgur.com/lszKlpm.png",
+			"url": "https://la12hd.com/vivo/canales.php?stream=max1",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+			"name": "Eventos MAX 2 | TNT Sports Chile HD | CL 🇨🇱",
+			"image": "https://i.imgur.com/lszKlpm.png",
+			"url": "https://la12hd.com/vivo/canales.php?stream=max2",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+			"name": "Eventos MAX 3 | TNT Sports Chile HD | CL 🇨🇱",
+			"image": "https://i.imgur.com/lszKlpm.png",
+			"url": "https://la12hd.com/vivo/canales.php?stream=max3",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+			"name": "Eventos MAX 4 | TNT Sports Chile HD | CL 🇨🇱",
+			"image": "https://i.imgur.com/lszKlpm.png",
+			"url": "https://la12hd.com/vivo/canales.php?stream=max4",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },   {
+			"name": "Eventos DISNEY+ 1 | AR 🇦🇷",
+			"image": "https://i.imgur.com/gw2wQrr.png",
+			"url": "https://la12hd.com/vivo/canales.php?stream=disney1",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },  {
+			"name": "Eventos DISNEY+ 2 | AR 🇦🇷",
+			"image": "https://i.imgur.com/gw2wQrr.png",
+			"url": "https://la12hd.com/vivo/canales.php?stream=disney2",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },  {
+			"name": "Eventos DISNEY+ 3 | AR 🇦🇷",
+			"image": "https://i.imgur.com/gw2wQrr.png",
+			"url": "https://la12hd.com/vivo/canales.php?stream=disney3",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+			"name": "Eventos DISNEY+ 4 | AR 🇦🇷",
+			"image": "https://i.imgur.com/gw2wQrr.png",
+			"url": "https://la12hd.com/vivo/canales.php?stream=disney4",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+			"name": "Eventos DISNEY+ 5 | AR 🇦🇷",
+			"image": "https://i.imgur.com/gw2wQrr.png",
+			"url": "https://la12hd.com/vivo/canales.php?stream=disney5",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+			"name": "Eventos DISNEY+ 6 | AR 🇦🇷",
+			"image": "https://i.imgur.com/gw2wQrr.png",
+			"url": "https://la12hd.com/vivo/canales.php?stream=disney6",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+			"name": "Eventos DISNEY+ 7 | AR 🇦🇷",
+			"image": "https://i.imgur.com/gw2wQrr.png",
+			"url": "https://la12hd.com/vivo/canales.php?stream=disney7",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+			"name": "Eventos DISNEY+ 8 | AR 🇦🇷",
+			"image": "https://i.imgur.com/gw2wQrr.png",
+			"url": "https://la12hd.com/vivo/canales.php?stream=disney8",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },  {
+			"name": "Eventos DISNEY+ 9 | AR 🇦🇷",
+			"image": "https://i.imgur.com/gw2wQrr.png",
+			"url": "https://la12hd.com/vivo/canales.php?stream=disney9",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },  {
+			"name": "Eventos DISNEY+ 10 | AR 🇦🇷",
+			"image": "https://i.imgur.com/gw2wQrr.png",
+			"url": "https://la12hd.com/vivo/canales.php?stream=disney10",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
                 }, 
+
+
 
 		 {
                       "name": "Movistar La Liga 1080 (Windnew) | ES 🇪🇸",
@@ -72,15 +158,15 @@
 		 "url" : "https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
-			"name": "La Liga (La12HD) | ES 🇪🇸",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=laligatvbar",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
 			"name": "DAZN La Liga (La12HD) | ES 🇪🇸",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png",
 			"url": "https://la12hd.com/vivo/canales.php?stream=dazn_laliga",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },  {
+			"name": "La Liga (La12HD) | ES 🇪🇸",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png",
+			"url": "https://la12hd.com/vivo/canales.php?stream=laligatvbar",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
@@ -251,67 +337,7 @@
 
 
 
-		 {
-			"name": "Eventos DISNEY+ 1 | AR 🇦🇷",
-			"image": "https://i.imgur.com/gw2wQrr.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=disney1",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },  {
-			"name": "Eventos DISNEY+ 2 | AR 🇦🇷",
-			"image": "https://i.imgur.com/gw2wQrr.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=disney2",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },  {
-			"name": "Eventos DISNEY+ 3 | AR 🇦🇷",
-			"image": "https://i.imgur.com/gw2wQrr.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=disney3",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Eventos DISNEY+ 4 | AR 🇦🇷",
-			"image": "https://i.imgur.com/gw2wQrr.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=disney4",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Eventos DISNEY+ 5 | AR 🇦🇷",
-			"image": "https://i.imgur.com/gw2wQrr.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=disney5",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Eventos DISNEY+ 6 | AR 🇦🇷",
-			"image": "https://i.imgur.com/gw2wQrr.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=disney6",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Eventos DISNEY+ 7 | AR 🇦🇷",
-			"image": "https://i.imgur.com/gw2wQrr.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=disney7",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Eventos DISNEY+ 8 | AR 🇦🇷",
-			"image": "https://i.imgur.com/gw2wQrr.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=disney8",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },  {
-			"name": "Eventos DISNEY+ 9 | AR 🇦🇷",
-			"image": "https://i.imgur.com/gw2wQrr.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=disney9",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },  {
-			"name": "Eventos DISNEY+ 10 | AR 🇦🇷",
-			"image": "https://i.imgur.com/gw2wQrr.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=disney10",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, 
+		
 
 
 		   {
@@ -349,18 +375,18 @@
 		                   "referer" : "https://buzztv.futbol/",
 			 "isHost":"true" 
                           }, {
-			"name": "ESPPN Deportes (Zekonew) | MX 🇲🇽",
+			"name": "ESPN Deportes (Zekonew) | MX 🇲🇽",
 			"image": "https://i.imgur.com/cYvji3A.png",
 			"url": "https://zekonew.newkso.ru/zeko/premium375/mono.m3u8",
 		  "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
-			"name": "ESPPN Deportes (Freckledine) | MX 🇲🇽",
+			"name": "ESPN Deportes (Freckledine) | MX 🇲🇽",
 			"image": "https://i.imgur.com/cYvji3A.png",
 		      	 "url" :  "https://freckledine.net/embed/x2qidlx7",
 		                   "referer" : "https://www.elixx.xyz/",
 			 "isHost":"true"
                        }, {
-			"name": "ESPPN Deportes (Jointexploit) | MX 🇲🇽",
+			"name": "ESPN Deportes (Jointexploit) | MX 🇲🇽",
 			"image": "https://i.imgur.com/cYvji3A.png",
 	                                    "url" :  "https://jointexploit.net/embed/x2qidlx7",
 		                   "referer" : "https://buzztv.futbol/",
@@ -397,31 +423,7 @@
 
 
 
-		 {
-			"name": "Eventos MAX 1 | TNT Sports Chile HD | CL 🇨🇱",
-			"image": "https://i.imgur.com/lszKlpm.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=max1",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Eventos MAX 2 | TNT Sports Chile HD | CL 🇨🇱",
-			"image": "https://i.imgur.com/lszKlpm.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=max2",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Eventos MAX 3 | TNT Sports Chile HD | CL 🇨🇱",
-			"image": "https://i.imgur.com/lszKlpm.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=max3",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Eventos MAX 4 | TNT Sports Chile HD | CL 🇨🇱",
-			"image": "https://i.imgur.com/lszKlpm.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=max4",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },  
+		
 
 
 		 {
