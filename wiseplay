@@ -443,21 +443,7 @@
 			"referer": "https://www.tvplusgratis2.com/",
 				"url": "https://www.tvplusgratis2.com/tnt-sports-chile-en-vivo.html",
 			"isHost": "true"
-				},  {
-				"name": "TNT Sports Premium Chile (3333) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/ItEH0oC.png",
-			"online": "true",
-			"referer": "https://elcanaldeportivo.com",
-				"url": "https://tucanaldeportivo.org/ver/cdfpremium.php",
-			"isHost": "true"
-				},  {
-				"name": "TNT Sports Premium Chile (44444) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/ItEH0oC.png",
-			"online": "true",
-			"referer": "https://tucanaldeportivo.org",
-				"url": "https://tucanaldeportivo.org/ver/cdfpremium.php",
-			"isHost": "true"
-				},
+				}, 
 
 
 
