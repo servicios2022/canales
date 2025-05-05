@@ -197,6 +197,13 @@
                         "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono86/mono.m3u8",
            		 "userAgent": ""
                           }, {
+				"name": "Movistar Liga de Campeones (Streamingon) | ES 🇪🇸",
+			"image": "https://i.imgur.com/wiLQCUD.png",
+				"online":"true",
+			"referer": "https://streamingon.org/",
+				"url":"https://streamingon.org/embed/hd-1.php",
+				"isHost": "true"
+				}, {
                         "name": "Movistar Liga de Campeones (Zekonew) | ES 🇪🇸",
 			"image": "https://i.imgur.com/wiLQCUD.png",
 		 "url" : "https://zekonew.newkso.ru/zeko/premium435/mono.m3u8",
@@ -393,7 +400,14 @@
 			"url": "https://la12hd.com/vivo/canales.php?stream=tudn",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                },  {
+                }, {
+"name": "TUDN USA (La12HD) | US 🇺🇸",
+			"image": "https://i.imgur.com/U6DKWV0.png",
+"online": "true",
+"referer": "https://mihd.tv/",
+"url": "https://mihd.tv/tudn-usa-en-vivo-por-internet.html",
+"isHost": "true"
+}, {
                      "name": "TUDN USA (Windnew) | US 🇺🇸",
 			"image": "https://i.imgur.com/U6DKWV0.png",
 		 "url" : "https://windnew.newkso.ru/wind/premium66/mono.m3u8",
