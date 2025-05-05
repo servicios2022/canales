@@ -152,68 +152,52 @@
 			"image": "https://i.imgur.com/HnhngqP.png",
 		 "url" : "https://windnew.newkso.ru/wind/premium84/mono.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },  {
+                                         }, {
+                       "name": "Movistar La Liga (Letcast) | ES 🇪🇸",
+			"image": "https://i.imgur.com/HnhngqP.png",
+                        "url" :  "https://letcast.pro/steam.php?stream=4eLyr2RZq7v",
+		         "referer" : "https://hyperstream.click/",
+			 "isHost":"true"
+                          },  "isHost": "true"
+                },  {
+			  "name": "Movistar La Liga (Wikihznew) | ES 🇪🇸",
+			"image": "https://i.imgur.com/HnhngqP.png",
+		  "url" :  "https://wikihznew.newkso.ru/wikihz/wiki68/mono.m3u8",
+			 "userAgent":""
+                                                       }, {
                       "name": "DAZN La Liga 1080 (Dokko1new) | ES 🇪🇸",
 			"image": "https://i.imgur.com/Mql5aBD.png",
 		 "url" : "https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
-			"name": "DAZN La Liga (La12HD) | ES 🇪🇸",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png",
+			  "name": "DAZN La Liga (La12HD) | ES 🇪🇸",
+			"image": "https://i.imgur.com/Mql5aBD.png",
 			"url": "https://la12hd.com/vivo/canales.php?stream=dazn_laliga",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-			"name": "La Liga (La12HD) | ES 🇪🇸",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=laligatvbar",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "La Liga (Laceaccept) | ES 🇪🇸",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png",
-        		 "url" :  "https://laceaccept.net/embed/8xjdm9xmx8ys",
-		         "referer" : "https://tarjetarojaenvivo.lat/",
+			"name": "ESPN Deportes (Zekonew) | MX 🇲🇽",
+			"image": "https://i.imgur.com/cYvji3A.png",
+			"url": "https://zekonew.newkso.ru/zeko/premium375/mono.m3u8",
+		  "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
+			"name": "ESPN Deportes (Freckledine) | MX 🇲🇽",
+			"image": "https://i.imgur.com/cYvji3A.png",
+		      	 "url" :  "https://freckledine.net/embed/x2qidlx7",
+		                   "referer" : "https://www.elixx.xyz/",
 			 "isHost":"true"
-                                                        }, {
-                        "name": "La Liga (Cdnnew) | ES 🇪🇸",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png",
+                       }, {
+			"name": "ESPN Deportes (Jointexploit) | MX 🇲🇽",
+			"image": "https://i.imgur.com/cYvji3A.png",
+	                                    "url" :  "https://jointexploit.net/embed/x2qidlx7",
+		                   "referer" : "https://buzztv.futbol/",
+			 "isHost":"true" 
+                        },  {
+                      "name": "ESPN Deportes (Cdnnew) | MX 🇲🇽",
+			"image": "https://i.imgur.com/cYvji3A.png",
                         "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono86/mono.m3u8",
            		 "userAgent": ""
                           }, {
-			"name": "La Liga (Jointexploit) | ES 🇪🇸",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png",
-			  "url" :  "https://jointexploit.net/embed/x2qidlx7",
-			"referer" : "https://buzztv.futbol/",
-			 "isHost":"true" 
-                         }, {
-                       "name": "La Liga (Letcast) | ES 🇪🇸",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png",
-                        "url" :  "https://letcast.pro/steam.php?stream=4eLyr2RZq7v",
-		         "referer" : "https://hyperstream.click/",
-			 "isHost":"true"
-                          }, {
-			"name": "La Liga (Wikihznew) | ES 🇪🇸",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png",
-		  "url" :  "https://wikihznew.newkso.ru/wikihz/wiki68/mono.m3u8",
-			 "userAgent":""
-                                                       }, {
-			"name": "La Liga (Emb) | ES 🇪🇸",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png",
-			       "url" :  "https://emb.apl375.me/player/live.php?id=236826&w=728&h=480",
-			 "isHost":"true"  
-                                               }, {
-			"name": "La Liga (Smoothindoor) | ES 🇪🇸",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png",
-			"url" : "https://smoothindoor.net/embed/orfaxhrsmbdogv?color=45A5F4",
-                      "referer" : "https://powerover.online/",
-             "isHost": "true"
-                                          }, {
-			"name": "La Liga (Elverruca) | ES 🇪🇸",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/2048px-LaLiga_logo_2023.svg.png",
-			"url" : "https://us.elverruca.io/p/sacr.html",
-             "isHost": "true"
-                                                 }, {
                         "name": "Movistar Liga de Campeones (Zekonew) | ES 🇪🇸",
 			"image": "https://i.imgur.com/wiLQCUD.png",
 		 "url" : "https://zekonew.newkso.ru/zeko/premium435/mono.m3u8",
@@ -375,23 +359,6 @@
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-			"name": "ESPN Deportes (Zekonew) | MX 🇲🇽",
-			"image": "https://i.imgur.com/cYvji3A.png",
-			"url": "https://zekonew.newkso.ru/zeko/premium375/mono.m3u8",
-		  "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-			"name": "ESPN Deportes (Freckledine) | MX 🇲🇽",
-			"image": "https://i.imgur.com/cYvji3A.png",
-		      	 "url" :  "https://freckledine.net/embed/x2qidlx7",
-		                   "referer" : "https://www.elixx.xyz/",
-			 "isHost":"true"
-                       }, {
-			"name": "ESPN Deportes (Jointexploit) | MX 🇲🇽",
-			"image": "https://i.imgur.com/cYvji3A.png",
-	                                    "url" :  "https://jointexploit.net/embed/x2qidlx7",
-		                   "referer" : "https://buzztv.futbol/",
-			 "isHost":"true" 
-                        }, {
 			"name": "FOX Sports Premium (Ddy6new) | MX 🇲🇽",
 			"image": "https://i.imgur.com/oi7DwAj.png",
 			"url": "https://ddy6new.newkso.ru/ddy6/premium830/mono.m3u8",
