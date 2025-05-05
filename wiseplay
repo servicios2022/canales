@@ -349,6 +349,11 @@
 		                   "referer" : "https://buzztv.futbol/",
 			 "isHost":"true" 
                           }, {
+			"name": "ESPPN Deportes (Zekonew) | MX 🇲🇽",
+			"image": "https://i.imgur.com/cYvji3A.png",
+			"url": "https://zekonew.newkso.ru/zeko/premium375/mono.m3u8",
+		  "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
 			"name": "FOX Sports Premium (Ddy6new) | MX 🇲🇽",
 			"image": "https://i.imgur.com/oi7DwAj.png",
 			"url": "https://ddy6new.newkso.ru/ddy6/premium830/mono.m3u8",
