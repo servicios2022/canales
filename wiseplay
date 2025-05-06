@@ -148,7 +148,7 @@
 
 
 		 {
-                      "name": "Movistar La Liga 1080 (Windnew) | ES 🇪🇸",
+                      "name": "Movistar La Liga (Windnew) | ES 🇪🇸",
 			"image": "https://i.imgur.com/HnhngqP.png",
 		 "url" : "https://windnew.newkso.ru/wind/premium84/mono.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
@@ -163,26 +163,7 @@
 			"image": "https://i.imgur.com/HnhngqP.png",
 		  "url" :  "https://wikihznew.newkso.ru/wikihz/wiki68/mono.m3u8",
 			 "userAgent":""
-                                                       }, {
-                      "name": "DAZN La Liga (Dokko1new) | ES 🇪🇸",
-			"image": "https://i.imgur.com/Mql5aBD.png",
-		 "url" : "https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-			  "name": "DAZN La Liga (La12HD) | ES 🇪🇸",
-			"image": "https://i.imgur.com/Mql5aBD.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=dazn_laliga",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "DAZN La Liga (Fuelcarrer) | ES 🇪🇸",
-			"image": "https://i.imgur.com/Mql5aBD.png",
-			"online":"true",
-			"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-			"referer": "https://tarjetarojaenvivo.lat/",
-			"url":"https://fuelcareer.net/embed/5k7zb7n",
-			"isHost": "true"
-			},   {
+                                                       },   {
          "name": "DAZN La Liga (Welivesport) | ES 🇪🇸",
 			"image": "https://i.imgur.com/Mql5aBD.png",
         "url": "https://welivesport.shop/embed/daznlaliga.php",
@@ -190,18 +171,20 @@
         "referer" : "",
         "online":"true",
         "isHost":"true"
-        },
-{
-       "name": "DAZN La Liga (Nuskt) | ES 🇪🇸",
+        }, {
+                      "name": "DAZN La Liga (Dokko1new) | ES 🇪🇸",
 			"image": "https://i.imgur.com/Mql5aBD.png",
-        "url": "https://nuskt.directory/mpdk/?get=aHR0cHM6Ly9vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvZHViLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy93amdrbGJ0dmhoL291dC92MS82NTk3MzZhMWUyNGM0MGU0ODY1YTgwZmZkNzVlN2RlNy9jZW5jLm1wZA==&key=NDNkMWMzYjI1MjA3ZmYzOGIyMmNjZmUxN2QzMDIzNjc=&key2=N2IxZjg1ZjZlODEwNTk0NzNiMTE0YzE2YTI1YzgyOWE=",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "embed": "true",
-        "online":"true",
-        "isHost":""
-        },
-{
+		 "url" : "https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
+			"name": "DAZN La Liga (Fuelcarrer) | ES 🇪🇸",
+			"image": "https://i.imgur.com/Mql5aBD.png",
+			"online":"true",
+			"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+			"referer": "https://tarjetarojaenvivo.lat/",
+			"url":"https://fuelcareer.net/embed/5k7zb7n",
+			"isHost": "true"
+			}, {
 		"name": "DAZN La Liga (Laceaccept) | ES 🇪🇸",
 			"image": "https://i.imgur.com/Mql5aBD.png",
 		"online":"true",
@@ -210,6 +193,15 @@
 		"url":"https://laceaccept.net/embed/w2iuo",
 		"isHost": "true"
 		}, {
+       "name": "DAZN La Liga (Nuskt) | ES 🇪🇸",
+			"image": "https://i.imgur.com/Mql5aBD.png",
+        "url": "https://nuskt.directory/mpdk/?get=aHR0cHM6Ly9vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvZHViLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy93amdrbGJ0dmhoL291dC92MS82NTk3MzZhMWUyNGM0MGU0ODY1YTgwZmZkNzVlN2RlNy9jZW5jLm1wZA==&key=NDNkMWMzYjI1MjA3ZmYzOGIyMmNjZmUxN2QzMDIzNjc=&key2=N2IxZjg1ZjZlODEwNTk0NzNiMTE0YzE2YTI1YzgyOWE=",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "embed": "true",
+        "online":"true",
+        "isHost":""
+        }, {
   			"name": "ESPN Deportes (abbasport) | MX 🇲🇽",
 			"image": "https://i.imgur.com/cYvji3A.png",
 			"online":"true",
@@ -265,7 +257,15 @@
            		 "userAgent": ""
                           }, 
 
-{
+		{
+                        "name": "Movistar Liga de Campeones (freckledine) | ES 🇪🇸",
+			"image": "https://i.imgur.com/wiLQCUD.png",
+				"online":"true",
+			"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+			"referer": "https://www.elixx.xyz/",
+				"url":"https://freckledine.net/embed/x2qidlx7",
+				"isHost": "true"
+			}, {
 				"name": "Movistar Liga de Campeones (Streamingon) | ES 🇪🇸",
 			"image": "https://i.imgur.com/wiLQCUD.png",
 				"online":"true",
@@ -277,30 +277,22 @@
 			"image": "https://i.imgur.com/wiLQCUD.png",
 		 "url" : "https://zekonew.newkso.ru/zeko/premium435/mono.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-                        "name": "Movistar Liga de Campeones (freckledine) | ES 🇪🇸",
-			"image": "https://i.imgur.com/wiLQCUD.png",
-				"online":"true",
-			"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-			"referer": "https://www.elixx.xyz/",
-				"url":"https://freckledine.net/embed/x2qidlx7",
-				"isHost": "true"
-			}, {
+                                         },  {
                         "name": "Bein Sports Ñ (Zekonew) | ES 🇪🇸",
 			"image": "https://i.imgur.com/c4gfwhr.png",
 		 "url" : "https://zekonew.newkso.ru/zeko/premium372/mono.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
-			"name": "Bein Sports Extra Ñ (Cloudfront) | ES 🇪🇸",
-			"image": "https://i.imgur.com/R8c4qIq.png",
-		"url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
-		  "userAgent" : ""
-			}, {
 			"name": "Bein Sports Extra Ñ (Xumo) | ES 🇪🇸",
 			"image": "https://i.imgur.com/R8c4qIq.png",
 		"url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
 		  "userAgent" : ""
-			},
+			}, {
+			"name": "Bein Sports Extra Ñ (Cloudfront) | ES 🇪🇸",
+			"image": "https://i.imgur.com/R8c4qIq.png",
+		"url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
+		  "userAgent" : ""
+			}, 
 
 		
 
@@ -348,12 +340,6 @@
 
 
 {
-			"name": "TNT Sports Argentina (la12HD) | AR 🇦🇷",
-			"image": "https://i.imgur.com/ItEH0oC.png",
-			"url": "https://la12hd.com/vivo/canales.php?stream=tntsports",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
                    "name": "TNT Sports Argentina (Ddy6new) | AR 🇦🇷",
 			"image": "https://i.imgur.com/ItEH0oC.png",
 		 "url" : "https://ddy6new.newkso.ru/ddy6/premium388/mono.m3u8",
@@ -365,6 +351,12 @@
                                                       "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                }, {
+			"name": "TNT Sports Argentina (la12HD) | AR 🇦🇷",
+			"image": "https://i.imgur.com/ItEH0oC.png",
+			"url": "https://la12hd.com/vivo/canales.php?stream=tntsports",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },  {
                      "name": "ESPN Premium Argentina (Windnew) | AR 🇦🇷",
 			"image": "https://i.imgur.com/5qTHLGy.png",
 		 "url" : "https://windnew.newkso.ru/wind/premium387/mono.m3u8",
