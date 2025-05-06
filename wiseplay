@@ -211,7 +211,7 @@
 				"referer": "https://tarjetarojaenvivo.lat/",
 				"url":"https://fuelcareer.net/embed/lf445b",
 				"isHost": "true"
-				},{
+				}, {
 			"name": "ESPN Deportes (Freckledine) | MX 🇲🇽",
 			"image": "https://i.imgur.com/cYvji3A.png",
 		      	 "url" :  "https://freckledine.net/embed/x2qidlx7",
@@ -259,7 +259,6 @@
 		 "url" : "https://zekonew.newkso.ru/zeko/premium435/mono.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
-			{
                         "name": "Movistar Liga de Campeones (freckledine) | ES 🇪🇸",
 			"image": "https://i.imgur.com/wiLQCUD.png",
 				"online":"true",
