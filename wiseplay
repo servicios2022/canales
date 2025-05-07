@@ -454,15 +454,21 @@
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-			"name": "TUDN (Streamdp1) | MX 🇲🇽",
-			"image": "https://i.imgur.com/U6DKWV0.png",
-			"url": "https://streamdp1.xyz/global1.php?channel=tudn",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+			"name": "ESPN (Streamdp1) | MX 🇲🇽",
+			"image": "https://i.imgur.com/MFhpD4D.png",
+			"url": "https://streamdp1.xyz/global1.php?channel=espnmx",
+		   "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                }, {
+                                         },  {
 			"name": "ESPN 2 (Streamdp1) | MX 🇲🇽",
 			"image": "https://i.imgur.com/jq1s4to.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=espn2mx",
+		   "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                                         },  {
+			"name": "ESPN 3 (Streamdp1) | MX 🇲🇽",
+			"image": "https://i.imgur.com/y3VGGV0.png",
+			"url": "https://streamdp1.xyz/global1.php?channel=espn3mx",
 		   "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                                          }, 
