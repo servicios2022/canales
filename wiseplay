@@ -450,7 +450,7 @@
                           }, {
 			"name": "TUDN (Streamdp1) | MX 🇲🇽",
 			"image": "https://i.imgur.com/U6DKWV0.png",
-			"url": "https://streamdp1.xyz/global1.php?channel=tudn_mx",
+			"url": "https://streamdp1.xyz/global1.php?channel=tudnmx",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
@@ -465,13 +465,7 @@
 			"url": "https://streamdp1.xyz/global1.php?channel=espn2mx",
 		   "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                                         },  {
-			"name": "TUDN (Streamdp1) | MX 🇲🇽",
-			"image": "https://i.imgur.com/U6DKWV0.png",
-			"url": "https://streamdp1.xyz/global1.php?channel=tudn",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },
+                                         }, 
 
 {
                      "name": "TUDN USA 720 (Windnew) | US 🇺🇸",
