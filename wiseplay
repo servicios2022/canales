@@ -381,9 +381,9 @@
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },   {
-			"name": "FOX Sports Argentina (Streamdp1) | AR 🇦🇷",
+			"name": "FOX Sports Argentina (La12HD) | AR 🇦🇷",
 			"image": "https://i.imgur.com/nX9GsSh.png",
-			"url": "https://streamdp1.xyz/global1.php?channel=foxar",
+			"url": "https://la12hd.com/vivo/canales.php?stream=foxsports",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
@@ -509,6 +509,12 @@
 		 "url" : "https://zekonew.newkso.ru/zeko/premium372/mono.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
+			  "name": "Bein Sports Extra 720 (La12HD) | US 🇺🇸",
+			"image": "https://i.imgur.com/0Ye57XY.png",
+			"url": "https://la12hd.com/vivo/canales.php?stream=beinsportsxtra",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },  {
 			"name": "Bein Sports Extra Ñ 1080 (Xumo) | US 🇺🇸",
 			"image": "https://i.imgur.com/R8c4qIq.png",
 		"url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
