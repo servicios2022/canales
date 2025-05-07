@@ -496,13 +496,6 @@
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-				"name": "TNT S1 | CL 🇨🇱",
-                    "image": "https://i.imgur.com/ItEH0oC.png",
-			"online": "true",
-			"referer": "https://elcanaldeportivo.com",
-				"url": "https://elcanaldeportivo.com/ver/tudn.php",
-			"isHost": "true"
-				}, {
                         "name": "Bein Sports Ñ 720 (Zekonew) | US 🇺🇸",
 			"image": "https://i.imgur.com/c4gfwhr.png",
 		 "url" : "https://zekonew.newkso.ru/zeko/premium372/mono.m3u8",
