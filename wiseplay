@@ -318,6 +318,13 @@
                    "referer" : "https://tarjetarojaenvivo.lat/",
 					"isHost":"true"
                   },  {
+		   "name": "ESPN Chile (MiHD) | AR 🇦🇷",
+			"image": "https://i.imgur.com/MFhpD4D.png",
+			"online": "true",
+			"referer": "https://mihd.tv/",
+				"url": "https://mihd.tv/espn-premium-en-vivo-por-internet.html",
+			"isHost": "true"
+				},  {
                         "name": "ESPN 2 (Windnew) | AR 🇦🇷",
 			"image": "https://i.imgur.com/jq1s4to.png",
 		 "url" : "https://windnew.newkso.ru/wind/premium150/mono.m3u8",
