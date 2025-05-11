@@ -74,6 +74,12 @@
         "online":"true",
         "isHost":"true"
         },  {
+		  "name": "DAZN La Liga (Letscast) | ES 🇪🇸",
+			"image": "https://i.imgur.com/Mql5aBD.png",
+			"url" : "https://letscast.pro/steam.php?stream=YJ8krnYwZrR",
+                              "referer" : "https://livestreams.click/",
+             "isHost": "true"   
+                                     },{
   			"name": "ESPN Deportes 720 (abbasport) | MX 🇲🇽",
 			"image": "https://i.imgur.com/cYvji3A.png",
 			"online":"true",
@@ -144,6 +150,18 @@
 		  "url" :  "https://wikihznew.newkso.ru/wikihz/wiki68/mono.m3u8",
 			 "userAgent":""
                                                        }, {
+                                     "name": "Movistar La Liga (Laceaccept) | ES 🇪🇸",
+			"image": "https://i.imgur.com/5lNTjn0.png",
+        		           "url" :  "https://laceaccept.net/embed/8xjdm9xmx8ys",
+		                  "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
+                                                        }, {
+			   "name": "Movistar La Liga (Bleedfilter) | ES 🇪🇸",
+			"image": "https://i.imgur.com/5lNTjn0.png",
+			"url" : "https://bleedfilter.net/embed/orfaxhrsmbdogv?color=45A5F4",
+                              "referer" : "https://powerover.online/",
+             "isHost": "true"   
+                                    }, {
                         "name": "Movistar Liga de Campeones 720 (freckledine) | ES 🇪🇸",
 			"image": "https://i.imgur.com/3PsaCB9.png",
 				"online":"true",
