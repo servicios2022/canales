@@ -391,6 +391,20 @@
 
 
 		{
+"name": "DirecTv Sports (Fuelcarrer) | AR 🇦🇷",
+			"image": "https://i.imgur.com/NUGOqdT.png",
+"online":"true",
+"referer": "https://tarjetarojaenvivo.lat/",
+"url":"https://fuelcareer.net/embed/4jva7tj642f9b",
+"isHost": "true"
+}, {
+"name": "DirecTv Sports (Laceaccept) | AR 🇦🇷",
+			"image": "https://i.imgur.com/NUGOqdT.png",
+"online":"true",
+"referer": "https://tarjetarojaenvivo.lat/",
+"url":"https://laceaccept.net/embed/ehf5qe1r",
+"isHost": "true"
+}, {
 			"name": "DirecTv Sports (Streamdp1) | AR 🇦🇷",
 			"image": "https://i.imgur.com/NUGOqdT.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=dsports",
