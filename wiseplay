@@ -204,7 +204,36 @@
 			"url" : "https://bleedfilter.net/embed/orfaxhrsmbdogv?color=45A5F4",
                               "referer" : "https://powerover.online/",
              "isHost": "true"   
-                                    }, {
+                                    }, 
+
+
+ {
+    "name": "Movistar Liga de Campeones 1080 (freckledine) | ES 🇪🇸",
+			"image": "https://i.imgur.com/3PsaCB9.png",
+"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4320",
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
+},
+{
+    "name": "Movistar Liga de Campeones 1080 (freckledine) | ES 🇪🇸",
+			"image": "https://i.imgur.com/3PsaCB9.png",
+"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4321",
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
+},
+{
+    "name": "Movistar Liga de Campeones 1080 (freckledine) | ES 🇪🇸",
+			"image": "https://i.imgur.com/3PsaCB9.png",
+"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4322",
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
+}, {
                         "name": "Movistar Liga de Campeones 720 (freckledine) | ES 🇪🇸",
 			"image": "https://i.imgur.com/3PsaCB9.png",
 				"online":"true",
