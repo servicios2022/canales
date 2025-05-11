@@ -35,7 +35,45 @@
 "image": "https://static.wixstatic.com/media/603da4_cff0a56da59a43ba88f862dbee0ae230~mv2.gif",
 "stations":[
     
-		{
+		 {
+       "name": "DAZN La Liga 1080 (Nuskt) | ES 🇪🇸",
+			"image": "https://i.imgur.com/Mql5aBD.png",
+        "url": "https://nuskt.directory/mpdk/?get=aHR0cHM6Ly9vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvZHViLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy93amdrbGJ0dmhoL291dC92MS82NTk3MzZhMWUyNGM0MGU0ODY1YTgwZmZkNzVlN2RlNy9jZW5jLm1wZA==&key=NDNkMWMzYjI1MjA3ZmYzOGIyMmNjZmUxN2QzMDIzNjc=&key2=N2IxZjg1ZjZlODEwNTk0NzNiMTE0YzE2YTI1YzgyOWE=",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "embed": "true",
+        "online":"true",
+        "isHost":""
+        }, {
+                      "name": "DAZN La Liga 1080 (Dokko1new) | ES 🇪🇸",
+			"image": "https://i.imgur.com/Mql5aBD.png",
+		 "url" : "https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
+			"name": "DAZN La Liga (Fuelcarrer) | ES 🇪🇸",
+			"image": "https://i.imgur.com/Mql5aBD.png",
+			"online":"true",
+			"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+			"referer": "https://tarjetarojaenvivo.lat/",
+			"url":"https://fuelcareer.net/embed/5k7zb7n",
+			"isHost": "true"
+			},  {
+		"name": "DAZN La Liga (Laceaccept) | ES 🇪🇸",
+			"image": "https://i.imgur.com/Mql5aBD.png",
+		"online":"true",
+		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "https://tarjetarojaenvivo.lat/",
+		"url":"https://laceaccept.net/embed/w2iuo",
+		"isHost": "true"
+		}, {
+         "name": "DAZN La Liga (Welivesport) | ES 🇪🇸",
+			"image": "https://i.imgur.com/Mql5aBD.png",
+        "url": "https://welivesport.shop/embed/daznlaliga.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },  {
   			"name": "ESPN Deportes 720 (abbasport) | MX 🇲🇽",
 			"image": "https://i.imgur.com/cYvji3A.png",
 			"online":"true",
@@ -90,44 +128,6 @@
                         "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono86/mono.m3u8",
            		 "userAgent": ""
                           },   {
-       "name": "DAZN La Liga 1080 (Nuskt) | ES 🇪🇸",
-			"image": "https://i.imgur.com/Mql5aBD.png",
-        "url": "https://nuskt.directory/mpdk/?get=aHR0cHM6Ly9vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvZHViLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy93amdrbGJ0dmhoL291dC92MS82NTk3MzZhMWUyNGM0MGU0ODY1YTgwZmZkNzVlN2RlNy9jZW5jLm1wZA==&key=NDNkMWMzYjI1MjA3ZmYzOGIyMmNjZmUxN2QzMDIzNjc=&key2=N2IxZjg1ZjZlODEwNTk0NzNiMTE0YzE2YTI1YzgyOWE=",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "embed": "true",
-        "online":"true",
-        "isHost":""
-        }, {
-                      "name": "DAZN La Liga 1080 (Dokko1new) | ES 🇪🇸",
-			"image": "https://i.imgur.com/Mql5aBD.png",
-		 "url" : "https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-			"name": "DAZN La Liga (Fuelcarrer) | ES 🇪🇸",
-			"image": "https://i.imgur.com/Mql5aBD.png",
-			"online":"true",
-			"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-			"referer": "https://tarjetarojaenvivo.lat/",
-			"url":"https://fuelcareer.net/embed/5k7zb7n",
-			"isHost": "true"
-			},  {
-		"name": "DAZN La Liga (Laceaccept) | ES 🇪🇸",
-			"image": "https://i.imgur.com/Mql5aBD.png",
-		"online":"true",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-		"referer": "https://tarjetarojaenvivo.lat/",
-		"url":"https://laceaccept.net/embed/w2iuo",
-		"isHost": "true"
-		}, {
-         "name": "DAZN La Liga (Welivesport) | ES 🇪🇸",
-			"image": "https://i.imgur.com/Mql5aBD.png",
-        "url": "https://welivesport.shop/embed/daznlaliga.php",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
-        },   {
                       "name": "Movistar La Liga (Windnew) | ES 🇪🇸",
 			"image": "https://i.imgur.com/5lNTjn0.png",
 		 "url" : "https://windnew.newkso.ru/wind/premium84/mono.m3u8",
@@ -143,9 +143,7 @@
 			"image": "https://i.imgur.com/5lNTjn0.png",
 		  "url" :  "https://wikihznew.newkso.ru/wikihz/wiki68/mono.m3u8",
 			 "userAgent":""
-                                                       },
-
-		{
+                                                       }, {
                         "name": "Movistar Liga de Campeones 720 (freckledine) | ES 🇪🇸",
 			"image": "https://i.imgur.com/3PsaCB9.png",
 				"online":"true",
