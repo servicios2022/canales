@@ -672,7 +672,23 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "isHost": ""
-}, {
+},  {
+ "name": "FOX Sports Venezuela (Xyz) | AR 🇦🇷",
+			"image": "https://i.imgur.com/nX9GsSh.png",
+"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/151660",
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
+},  {
+ "name": "FOX Sports Chile (Xyz) | AR 🇦🇷",
+			"image": "https://i.imgur.com/nX9GsSh.png",
+"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/220882",
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
+},   {
 			"name": "FOX Sports Argentina (Streamdp1) | AR 🇦🇷",
 			"image": "https://i.imgur.com/nX9GsSh.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=foxar",
@@ -700,10 +716,26 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "isHost": ""
-},{
+},  {
  "name": "FOX Sports 2 Argentina (Xyz) | AR 🇦🇷",
 			"image": "https://i.imgur.com/KhwRTx4.png",
 "url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/135646",
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
+},  {
+ "name": "FOX Sports 2 Colombia (Xyz) | AR 🇦🇷",
+			"image": "https://i.imgur.com/KhwRTx4.png",
+"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/145407",
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
+}, {
+ "name": "FOX Sports 2 Chile (Xyz) | AR 🇦🇷",
+			"image": "https://i.imgur.com/KhwRTx4.png",
+"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/3313",
 "embed": "",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
@@ -725,7 +757,15 @@
 			"url": "https://la12hd.com/vivo/canales.php?stream=foxsports2",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                },    {
+                },  {
+ "name": "FOX Sports 2 Chile (Xyz) | AR 🇦🇷",
+			"image": "https://i.imgur.com/KhwRTx4.png",
+"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/3313",
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
+},  {
                "name": "FOX Sports 3 Argentina (Nfsnew) | AR 🇦🇷",
 			"image": "https://i.imgur.com/xbeQUV3.png",
 		 "url" : "https://nfsnew.newkso.ru/nfs/premium789/mono.m3u8",
