@@ -1248,7 +1248,7 @@
 		                     "url" :  "https://elcanaldeportivo.com/ver/cdfpremium.php",
 		                   "referer" : "https://elcanaldeportivo.com/",
 			 "isHost":"true" 
-                          },{
+                          }, {
 				"name": "TU3 | MX 🇲🇽",
 			"image": "https://i.imgur.com/U6DKWV0.png",
 			"online": "true",
@@ -1259,6 +1259,19 @@
 			"name": "4 (Jointexploit) | MX 🇲🇽",
 			"image": "https://i.imgur.com/U6DKWV0.png",
 		                     "url" :  "https://elcanaldeportivo.com/cdf.php",
+		                   "referer" : "https://elcanaldeportivo.com/",
+			 "isHost":"true" 
+                          }, {
+				"name": "T5 | MX 🇲🇽",
+			"image": "https://i.imgur.com/U6DKWV0.png",
+			"online": "true",
+			"referer": "https://elcanaldeportivo.com/",
+				"url": "https://vodkapr3mium.com/deportivo.php?player=desktop&live=chiletv",
+			"isHost": "true"
+				}, {
+			"name": "6 (Jointexploit) | MX 🇲🇽",
+			"image": "https://i.imgur.com/U6DKWV0.png",
+		                     "url" :  "https://vodkapr3mium.com/deportivo.php?player=desktop&live=chiletv",
 		                   "referer" : "https://elcanaldeportivo.com/",
 			 "isHost":"true" 
                           }, {
