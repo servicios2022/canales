@@ -926,15 +926,33 @@
 
 
 		
-
+{
+			"name": "Gol Peru (Streamdp) | PE 🇨🇴",
+			"image": "https://i.imgur.com/xl7Sf50.png",
+			"url": "https://streamtp4.com/global1.php?stream=golperu",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+			"name": "Gol Tv (Streamdp1) | PE 🇨🇴",
+			"image": "https://i.imgur.com/Pry7jUx.png",
+			"url": "https://streamtp4.com/global1.php?stream=goltv",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+			"name": "Liga 1 Max (Streamdp1) | PE 🇨🇴",
+			"image": "https://i.imgur.com/Wdtecos.png",
+			"url": "https://streamtp4.com/global1.php?stream=liga1max",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, 
 
 		   {
-			"name": "Win Sports + (Dokko) | CO 🇨🇴",
+			"name": "Win Sports+ (Dokko) | CO 🇨🇴",
 			"image": "https://i.imgur.com/rzpcdnf.png",
 			"url": "https://dokko1new.newkso.ru/dokko1/premium392/mono.m3u8",
 		  "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
-			"name": "Win Sports + (Streamdp1) | CO 🇨🇴",
+			"name": "Win Sports+ (Streamdp1) | CO 🇨🇴",
 			"image": "https://i.imgur.com/rzpcdnf.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=winplus",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
