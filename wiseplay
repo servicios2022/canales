@@ -1203,46 +1203,11 @@
 "referer": "",
 "isHost": ""
 }, {
-				"name": "TNT Sports Premium Chile 1(TvPlus) | CL 🇨🇱",
+				"name": "TNT Sports Premium Chile (TvPlus) | CL 🇨🇱",
                     "image": "https://i.imgur.com/ItEH0oC.png",
 			"online": "true",
 			"referer": "https://www.tvplusgratis2.com/",
 				"url": "https://www.tvplusgratis2.com/tnt-sports-chile-en-vivo.html",
-			"isHost": "true"
-				},  {
-				"name": "TNT Sports Premium Chile2 (TvPlus) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/ItEH0oC.png",
-			"online": "true",
-			"referer": "https://www.cablevisionhd.com/",
-				"url": "https://www.tvplusgratis2.com/tnt-sports-chile-en-vivo.html",
-			"isHost": "true"
-				}, {
-				"name": "TNT Sports Premium Chile 3(TvPlus) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/ItEH0oC.png",
-			"online": "true",
-			"referer": "https://mihd.tv/",
-				"url": "https://www.tvplusgratis2.com/tnt-sports-chile-en-vivo.html",
-			"isHost": "true"
-				},  {
-				"name": "TNT Sports Premium Chile 4(TvPlus) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/ItEH0oC.png",
-			"online": "true",
-			"referer": "https://rereyano.ru/",
-				"url": "https://rereyano.ru/player/4/83",
-			"isHost": "true"
-				},  {
-				"name": "TNT Sports Premium Chile5 (TvPlus) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/ItEH0oC.png",
-			"online": "true",
-			"referer": "https://rereyano.ru/",
-				"url": "https://rereyano.ru/player/4/83",
-			"isHost": "true"
-				}, {
-				"name": "TNT Sports Premium Chile6(TvPlus) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/ItEH0oC.png",
-			"online": "true",
-			"referer": "https://rereyano.ru/",
-				"url": "https://rereyano.ru/player/4/83",
 			"isHost": "true"
 				},  {
                      	"name": "TNT Sports Premium Chile 720 (Dokko1new) | CL 🇨🇱",
@@ -1250,6 +1215,32 @@
 		 "url" : "https://dokko1new.newkso.ru/dokko1/premium642/mono.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, 
+  {
+ 	"name": "TNT Sports Chile 1 (Xyz) | CL 🇨🇱",
+                    "image": "https://i.imgur.com/3dcdndh.png",
+"url": "https://rereyano.ru/player/4/83",
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
+},  {
+			"name": "Eventos MAX 2 | TNT Sports Chile HD (La12HD) | CL 🇨🇱",
+			"image": "https://i.imgur.com/lszKlpm.png",
+			"url": "https://rereyano.ru/player/4/83",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+                     "name": "Univision 3 (Nfsnew) | US 🇺🇸",
+			"image": "https://i.imgur.com/b5III2Y.png",
+		 "url" : "https://rereyano.ru/player/4/83",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
+                    "name": "ESPN 4 (Catercollege) | AR 🇦🇷",
+			"image": "https://i.imgur.com/jq1s4to.png",
+                  "url" : "https://rereyano.ru/player/4/83",
+                                 "referer" : "https://tarjetarojaenvivo.lat/",
+			"isHost": "true"
+                },
 					
 			
 		
