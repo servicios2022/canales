@@ -12,13 +12,25 @@
   {
 			"name": "Futbol Libre TV | AR 🇦🇷",
 			"image": "https://i.imgur.com/ehmvuI6.png",
-			"url": "https://futbollibre.futbol/tv9/agenda/",
+			"url": "https://television.libre.futbol/tv3/agenda.html?v=1748099110152",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" },  {
+			"name": "Libre Futbol TV | AR 🇦🇷",
+			"image": "https://i.imgur.com/ehmvuI6.png",
+			"url": "https://librefutboltv.su/agenda/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
 		"embed": "true" }, {
-			"name": "Streamdp1 | AR 🇦🇷",
+			"name": "Streamdp | AR 🇦🇷",
 			"image": "https://i.imgur.com/ehmvuI6.png",
 			"url": "https://streamdp1.xyz/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+		"playInNatPlayer": "true",
+		"embed": "true" }, {
+			"name": "Streamtp | AR 🇦🇷",
+			"image": "https://i.imgur.com/ehmvuI6.png",
+			"url": "https://streamtp4.com/",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
 		"embed": "true" }, {
