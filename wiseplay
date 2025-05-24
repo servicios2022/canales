@@ -36,6 +36,12 @@
 "stations":[
     
 		{
+			"name": "DAZN La Liga (Wagontorch) | ES 🇪🇸",
+			"image": "https://i.imgur.com/Mql5aBD.png",
+			  "url" :  "https://wagontorch.net/embed/x2qidlx7",
+		"referer" : "https://buzztv.futbol/",
+			 "isHost":"true" 
+                         }, {
 			"name": "DAZN La Liga (Freckledine) | ES 🇪🇸",
 			"image": "https://i.imgur.com/Mql5aBD.png",
 		      	 "url" :  "https://freckledine.net/embed/x2qidlx7",
