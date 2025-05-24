@@ -35,7 +35,19 @@
 "image": "https://static.wixstatic.com/media/603da4_cff0a56da59a43ba88f862dbee0ae230~mv2.gif",
 "stations":[
     
-		 {
+		{
+			"name": "DAZN La Liga (Freckledine) | ES 🇪🇸",
+			"image": "https://i.imgur.com/Mql5aBD.png",
+		      	 "url" :  "https://freckledine.net/embed/x2qidlx7",
+		                   "referer" : "https://www.elixx.xyz/",
+			 "isHost":"true"
+                       }, {
+			"name": "DAZN La Liga (Jointexploit) | ES 🇪🇸",
+			"image": "https://i.imgur.com/Mql5aBD.png",
+	                                    "url" :  "https://jointexploit.net/embed/x2qidlx7",
+		                   "referer" : "https://buzztv.futbol/",
+			 "isHost":"true" 
+                        },  {
                       "name": "DAZN La Liga 1080 (Dokko1new) | ES 🇪🇸",
 			"image": "https://i.imgur.com/Mql5aBD.png",
 		 "url" : "https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8",
@@ -84,18 +96,6 @@
 			"url": "https://zekonew.newkso.ru/zeko/premium375/mono.m3u8",
 		  "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
-			"name": "ESPN Deportes 720 (Freckledine) | MX 🇲🇽",
-			"image": "https://i.imgur.com/cYvji3A.png",
-		      	 "url" :  "https://freckledine.net/embed/x2qidlx7",
-		                   "referer" : "https://www.elixx.xyz/",
-			 "isHost":"true"
-                       }, {
-			"name": "ESPN Deportes 720 (Jointexploit) | MX 🇲🇽",
-			"image": "https://i.imgur.com/cYvji3A.png",
-	                                    "url" :  "https://jointexploit.net/embed/x2qidlx7",
-		                   "referer" : "https://buzztv.futbol/",
-			 "isHost":"true" 
-                        }, {
 		"name": "ESPN Deportes 720 (Topembed) | MX 🇲🇽",
 			"image": "https://i.imgur.com/cYvji3A.png",
 		"online":"true",
