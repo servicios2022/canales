@@ -36,19 +36,19 @@
 "stations":[
     
 		{
-			"name": "DAZN La Liga (Wagontorch) | ES 🇪🇸",
+			"name": "DAZN La Liga 720 (Wagontorch) | ES 🇪🇸",
 			"image": "https://i.imgur.com/Mql5aBD.png",
 			  "url" :  "https://wagontorch.net/embed/x2qidlx7",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true" 
                          }, {
-			"name": "DAZN La Liga (Freckledine) | ES 🇪🇸",
+			"name": "DAZN La Liga 720 (Freckledine) | ES 🇪🇸",
 			"image": "https://i.imgur.com/Mql5aBD.png",
 		      	 "url" :  "https://freckledine.net/embed/x2qidlx7",
 		                   "referer" : "https://www.elixx.xyz/",
 			 "isHost":"true"
                        }, {
-			"name": "DAZN La Liga (Jointexploit) | ES 🇪🇸",
+			"name": "DAZN La Liga 720 (Jointexploit) | ES 🇪🇸",
 			"image": "https://i.imgur.com/Mql5aBD.png",
 	                                    "url" :  "https://jointexploit.net/embed/x2qidlx7",
 		                   "referer" : "https://buzztv.futbol/",
