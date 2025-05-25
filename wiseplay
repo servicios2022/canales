@@ -1026,6 +1026,22 @@
 		   "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                                          }, {
+     "name": "Canal 5 (Xyz) | MX 🇲🇽",
+			"image": "https://i.imgur.com/ys8lTQ6.png",
+"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/3719",
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
+}, {
+    "name": "Azteca 7 (Xyz) | MX 🇲🇽",
+			"image": "https://i.imgur.com/vcv8H63.png",
+"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/129033",
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
+}, {
                      "name": "Azteca 7 (Windnew) | MX 🇲🇽",
 			"image": "https://i.imgur.com/vcv8H63.png",
 		 "url" : "https://windnew.newkso.ru/wind/premium844/mono.m3u8",
