@@ -118,7 +118,12 @@
 			"url" : "https://bleedfilter.net/embed/orfaxhrsmbdogv?color=45A5F4",
                               "referer" : "https://powerover.online/",
              "isHost": "true"   
-                                    }, {
+                                    },  {
+		 "name": "Movistar La Liga (Gdplayer) | ES 🇪🇸",
+			"image": "https://i.imgur.com/5lNTjn0.png",
+                       "url" : "https://enz.gdplayertv.to/live-tv/movistar-laliga/?embed=1",
+     			 "embed" : "true"
+         	 }, {
 "name": "DAZN La Liga 1080 (Xyz) | ES 🇪🇸",
 			"image": "https://i.imgur.com/Mql5aBD.png",
 "url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/200995",
@@ -727,7 +732,12 @@
 			"url": "https://la12hd.com/vivo/canales.php?stream=tntsports",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                }, {
+                },  {
+		"name": "TNT Sports Argentina (La12HD) | AR 🇦🇷",
+			"image": "https://i.imgur.com/ItEH0oC.png",
+                       "url" : "https://enz.gdplayertv.to/live-tv/tnt-sports-ag/?embed=1",
+     			 "embed" : "true"
+         	 }, {
    "name": "ESPN Premium Argentina (Xyz) | AR 🇦🇷",
 			"image": "https://i.imgur.com/5qTHLGy.png",
 "url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4938",
@@ -784,7 +794,13 @@
 			"url": "https://la12hd.com/vivo/canales.php?stream=espnpremium",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                }, {
+                }, 
+		  {
+		"name": "ESPN Premium Argentina (Gdplayer) | AR 🇦🇷",
+			"image": "https://i.imgur.com/5qTHLGy.png",
+                       "url" : "https://enz.gdplayertv.to/live-tv/espn-premium/?embed=1",
+     			 "embed" : "true"
+         	 }, {
  "name": "FOX Sports Argentina (Xyz) | AR 🇦🇷",
 			"image": "https://i.imgur.com/nX9GsSh.png",
 "url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/220882",
@@ -978,7 +994,12 @@
 			"image": "https://i.imgur.com/TyfMsBw.png",
 			"url": "https://nfsnew.newkso.ru/nfs/premium391/mono.m3u8",
 		  "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, 
+                                         },  {
+		"name": "VTV Plus (Gdplayer) | UY 🇺🇾",
+			"image": "https://i.imgur.com/TyfMsBw.png",
+                       "url" : "https://enz.gdplayertv.to/live-tv/vtv-plus/?embed=1",
+     			 "embed" : "true"
+         	 },
 
 			  {
 				"name": "TUDN (MiHD) | MX 🇲🇽",
