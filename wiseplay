@@ -1395,6 +1395,36 @@
                     "isHost": true 
 			},  
 
+ {
+				"name": "1) | CL 🇨🇱",
+                    "image": "https://i.imgur.com/ItEH0oC.png",
+			"online": "true",
+			"referer": "https://www.mega.cl/",
+				"url": "https://www.mega.cl/senal-en-vivo/",
+			"isHost": "true"
+				},  {
+				"name": "2 | CL 🇨🇱",
+                    "image": "https://i.imgur.com/ItEH0oC.png",
+			"online": "true",
+			"referer": "https://www.tvn.cl/",
+				"url": "https://www.tvn.cl/en-vivo",
+			"isHost": "true"
+				},  {
+				"name": "3) | CL 🇨🇱",
+                    "image": "https://i.imgur.com/ItEH0oC.png",
+			"online": "true",
+			"referer": "https://www.chilevision.cl/",
+				"url": "https://www.chilevision.cl/senal-online",
+			"isHost": "true"
+				},  {
+				"name": "4 | CL 🇨🇱",
+                    "image": "https://i.imgur.com/ItEH0oC.png",
+			"online": "true",
+			"referer": "https://www.13.cl/",
+				"url": "https://www.13.cl/en-vivo",
+			"isHost": "true"
+				}, 
+
 
 
 {
