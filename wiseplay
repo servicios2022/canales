@@ -1405,6 +1405,11 @@
 			"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
 		"url": "https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8",
 		  "userAgent" : ""
+			},  {
+			"name": "TVN | CL 🇨🇱",
+			"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
+		"url": "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8",
+		  "userAgent" : ""
 			},   {
 			"name": "TVN | CL 🇨🇱",
 			"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
@@ -1477,6 +1482,16 @@
 			"name": "TV+ | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/458_TV_.png",
 		"url": "https://jireh-2-hls-video-cl-mundo.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream2/chunks.m3u8",
+		  "userAgent" : ""
+			},  {
+			"name": "CNN Chile | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/250px-CNN_Chile_logo_2017.svg.png",
+		"url": "https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR",
+		  "userAgent" : ""
+			},  {
+			"name": "CNN Chile | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/250px-CNN_Chile_logo_2017.svg.png",
+		"url": "https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8",
 		  "userAgent" : ""
 			}, 
 
