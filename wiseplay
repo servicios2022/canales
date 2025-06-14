@@ -1287,15 +1287,15 @@
 "referer": "",
 "isHost": ""
 }, {
-			"name": "TNT Sports Premium Chile 720 (Streamtp) | CL 🇨🇱",
+			"name": "TNT Sports Premium Chile 1080 (Streamtp) | CL 🇨🇱",
                     "image": "https://i.imgur.com/ItEH0oC.png",
 			"url": "https://stream196tp.com/global1.php?stream=mls1es",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-			"name": "TNT Sports Premium Chile 720 (Streamdp) | CL 🇨🇱",
+			"name": "TNT Sports Premium Chile 1080 (Streamdp) | CL 🇨🇱",
                     "image": "https://i.imgur.com/ItEH0oC.png",
-			"url": "//streamdp1.xyz/global1.php?channel=mls1es",
+			"url": "https://streamdp1.xyz/global1.php?channel=mls1es",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
