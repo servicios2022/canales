@@ -1209,7 +1209,7 @@
 			}, 
 
  {
-			   "name": "Telemundo (MiHD) | US 🇺🇸",
+			   "name": "Telemundo 1080 (MiHD) | US 🇺🇸",
 			"image": "https://i.imgur.com/9piuN0T.png",
 			"online": "true",
 			"referer": "https://mihd.tv/",
@@ -1220,7 +1220,14 @@
 			"image": "https://i.imgur.com/9piuN0T.png",
 		 "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
 		  "userAgent" : ""
-			}, {
+			},  {
+			  "name": "Univision (MiHD) | US 🇺🇸",
+			"image": "https://i.imgur.com/b5III2Y.png",
+			"online": "true",
+			"referer": "https://mihd.tv/",
+				"url": "https://mihd.tv/univision-en-vivo-por-internet.html",
+			"isHost": "true"
+				}, {
 			  "name": "Univision 1080 (Topembed) | US 🇺🇸",
 			"image": "https://i.imgur.com/b5III2Y.png",
 		"online":"true",
@@ -1228,14 +1235,7 @@
 		"referer": "https://topembed.pw/",
 		"url":"https://topembed.pw/channel/Univision[USA]",
 		"isHost": "true"
-		},  {
-			  "name": "Univision (MiHD) | US 🇺🇸",
-			"image": "https://i.imgur.com/b5III2Y.png",
-			"online": "true",
-			"referer": "https://mihd.tv/",
-				"url": "https://mihd.tv/univision-en-vivo-por-internet.html",
-			"isHost": "true"
-				}, 
+		}, 
 
 
 
