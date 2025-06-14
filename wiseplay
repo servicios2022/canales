@@ -1354,6 +1354,13 @@
 		"url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
 		  "userAgent" : ""
 			}, {
+					"name": "Mega | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
+			"online": "true",
+			"referer": "https://www.mega.cl/",
+				"url": "https://www.mega.cl/senal-en-vivo/",
+			"isHost": "true"
+				}, {
 			"name": "Mega | CL 🇨🇱",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
 			"url": "https://www.mega.cl/senal-en-vivo/",
@@ -1364,7 +1371,14 @@
 			"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
 		"url": "https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8",
 		  "userAgent" : ""
-			}, {
+			},   {
+			"name": "TVN | CL 🇨🇱",
+			"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
+			"online": "true",
+			"referer": "https://www.tvn.cl/",
+				"url": "https://www.tvn.cl/en-vivo",
+			"isHost": "true"
+				}, {
 			"name": "TVN | CL 🇨🇱",
 			"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
 			"url": "https://www.tvn.cl/en-vivo",
@@ -1375,7 +1389,14 @@
 			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
 		"url": "https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8",
 		  "userAgent" : ""
-			}, {
+			},  {
+			"name": "Chilevision | CL 🇨🇱",
+			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+			"online": "true",
+			"referer": "https://www.chilevision.cl/",
+				"url": "https://www.chilevision.cl/senal-online",
+			"isHost": "true"
+				}, {
 			"name": "Chilevision | CL 🇨🇱",
 			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
 			"url": "https://www.chilevision.cl/senal-online",
@@ -1387,7 +1408,14 @@
 			"url": "https://m3u.cl/channel/c13.php?",
 		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
-		"embed": "true" }, {
+		"embed": "true" },   {
+			"name": "Canal 13 | CL 🇨🇱",
+			"image": "https://i.imgur.com/RazPUFz.png",
+			"online": "true",
+			"referer": "https://www.13.cl/",
+				"url": "https://www.13.cl/en-vivo",
+			"isHost": "true"
+				}, {
 			"name": "Canal 13 | CL 🇨🇱",
 			"image": "https://i.imgur.com/RazPUFz.png",
 		"url": "https://www.13.cl/en-vivo",
@@ -1395,35 +1423,7 @@
                     "isHost": true 
 			},  
 
- {
-				"name": "1) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/ItEH0oC.png",
-			"online": "true",
-			"referer": "https://www.mega.cl/",
-				"url": "https://www.mega.cl/senal-en-vivo/",
-			"isHost": "true"
-				},  {
-				"name": "2 | CL 🇨🇱",
-                    "image": "https://i.imgur.com/ItEH0oC.png",
-			"online": "true",
-			"referer": "https://www.tvn.cl/",
-				"url": "https://www.tvn.cl/en-vivo",
-			"isHost": "true"
-				},  {
-				"name": "3) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/ItEH0oC.png",
-			"online": "true",
-			"referer": "https://www.chilevision.cl/",
-				"url": "https://www.chilevision.cl/senal-online",
-			"isHost": "true"
-				},  {
-				"name": "4 | CL 🇨🇱",
-                    "image": "https://i.imgur.com/ItEH0oC.png",
-			"online": "true",
-			"referer": "https://www.13.cl/",
-				"url": "https://www.13.cl/en-vivo",
-			"isHost": "true"
-				}, 
+
 
 
 
