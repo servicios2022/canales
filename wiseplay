@@ -1083,7 +1083,12 @@
 			"url": "https://streamdp1.xyz/global1.php?channel=espn3mx",
 		   "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                                         },  {
+                                         }, {
+			"name": "Fox Sports Mexico (Tubi) | MX 🇲🇽",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png",
+			"url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8",
+		  "userAgent" : ""
+			}, {
     "name": "Azteca 7 (Xyz) | MX 🇲🇽",
 			"image": "https://i.imgur.com/vcv8H63.png",
 "url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/129033",
@@ -1147,7 +1152,7 @@
 			"url": "https://la12hd.com/vivo/canal.php?stream=tudn",
 			 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                }, {
+                },  {
    "name": "Bein Sports Ñ (Xyz) | US 🇺🇸",
 			"image": "https://i.imgur.com/c4gfwhr.png",
 "url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126452",
