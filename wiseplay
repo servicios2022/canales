@@ -1215,6 +1215,13 @@
 			"referer": "https://mihd.tv/",
 				"url": "https://mihd.tv/telemundo-51-en-vivo-por-internet.html",
 			"isHost": "true"
+				},  {
+			   "name": "Telemundo 1080 (Miztv) | US 🇺🇸",
+			"image": "https://i.imgur.com/9piuN0T.png",
+			"online": "true",
+			"referer": "https://miztv.top/",
+				"url": "https://miztv.top/stream/stream-131.php",
+			"isHost": "true"
 				}, {
                      "name": "Telemundo Puerto Rico (Nbc) | US 🇺🇸",
 			"image": "https://i.imgur.com/9piuN0T.png",
