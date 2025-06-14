@@ -1421,32 +1421,7 @@
 		"url": "https://www.13.cl/en-vivo",
 		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true 
-			},  {
-			"name": "Canal 13 | CL 🇨🇱",
-			"image": "https://i.imgur.com/RazPUFz.png",
-		"url": "https://m3u.cl/channel/c13.php",
-		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": true 
-			},    {
-			"name": "Canal 13 | CL 🇨🇱",
-			"image": "https://i.imgur.com/RazPUFz.png",
-			"online": "true",
-			"referer": "https://dai.google.com/",
-				"url": "https://m3u.cl/channel/c13.php",
-			"isHost": "true"
-				}, {
-			"name": "Canal 13 | CL 🇨🇱",
-			"image": "https://i.imgur.com/RazPUFz.png",
-			"online": "true",
-			"referer": "https://www.13.cl/",
-				"url": "https://m3u.cl/channel/c13.php",
-			"isHost": "true"
-				}, {
-        	"name": "TNT Sports Premium Chile 720 (TutvLive) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/ItEH0oC.png",
-		 "url" : "https://m3u.cl/channel/c13.php",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, 
+			}, 
 
 
 
