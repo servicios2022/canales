@@ -1208,17 +1208,14 @@
 		  "userAgent" : ""
 			}, 
 
-{
-                     "name": "Telemundo (Windnew) | US 🇺🇸",
+ {
+			   "name": "Telemundo (MiHD) | US 🇺🇸",
 			"image": "https://i.imgur.com/9piuN0T.png",
-		 "url" : "https://windnew.newkso.ru/wind/premium131/mono.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },  {
-                       "name": "Telemundo (190) | US 🇺🇸",
-			"image": "https://i.imgur.com/9piuN0T.png",
-                        "url" : "http://190.92.10.66:4000/play/a004/index.m3u8",
-           		 "userAgent": ""
-                          }, {
+			"online": "true",
+			"referer": "https://mihd.tv/",
+				"url": "https://mihd.tv/telemundo-51-en-vivo-por-internet.html",
+			"isHost": "true"
+				}, {
                      "name": "Telemundo Puerto Rico (Nbc) | US 🇺🇸",
 			"image": "https://i.imgur.com/9piuN0T.png",
 		 "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
@@ -1231,12 +1228,14 @@
 		"referer": "https://topembed.pw/",
 		"url":"https://topembed.pw/channel/Univision[USA]",
 		"isHost": "true"
-		}, {
-                     "name": "Univision 1080 (Nfsnew) | US 🇺🇸",
+		},  {
+			  "name": "Univision (MiHD) | US 🇺🇸",
 			"image": "https://i.imgur.com/b5III2Y.png",
-		 "url" : "https://nfsnew.newkso.ru/nfs/premium132/mono.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, 
+			"online": "true",
+			"referer": "https://mihd.tv/",
+				"url": "https://mihd.tv/univision-en-vivo-por-internet.html",
+			"isHost": "true"
+				}, 
 
 
 
