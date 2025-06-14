@@ -1118,11 +1118,19 @@
 		 "url" : "http://190.92.10.66:4000/play/a002/index.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
-                     "name": "TUDN USA 1080 (p) | US 🇺🇸",
+                     "name": "TUDN USA 1080 (Plus) | US 🇺🇸",
 			"image": "https://i.imgur.com/U6DKWV0.png",
 		 "url" : "http://190.92.10.66:4000/play/a002/index.m3u8",
              "userAgent":"PlusMediaPlayer/0.0.9"
-                                         }, {
+                                         },  {
+			   "name": "TUDN USA 1080 (Topembed) | US 🇺🇸",
+			"image": "https://i.imgur.com/U6DKWV0.png",
+		"online":"true",
+		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "https://topembed.pw/",
+		"url":"https://topembed.pw/channel/TUDN[USA]",
+		"isHost": "true"
+		}, {
                      "name": "TUDN USA 720 (Tinworld) | US 🇺🇸",
 			"image": "https://i.imgur.com/U6DKWV0.png",
 		 "url" : "https://tinworld-myproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02Ni9tb25vLm0zdTg=.m3u8",
@@ -1142,15 +1150,6 @@
 				"url":"https://streamingon.org/embed/hd-1.php",
 				"isHost": "true"
 				}, {
-		
-			   "name": "TUDN USA 720 (Topembed) | US 🇺🇸",
-			"image": "https://i.imgur.com/U6DKWV0.png",
-		"online":"true",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-		"referer": "https://topembed.pw/",
-		"url":"https://topembed.pw/channel/TUDN[USA]",
-		"isHost": "true"
-		}, {
 			"name": "TUDN USA (Streamdp1) | US 🇺🇸",
 			"image": "https://i.imgur.com/U6DKWV0.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=tudn_usa",
