@@ -47,7 +47,17 @@
 "image": "https://static.wixstatic.com/media/603da4_cff0a56da59a43ba88f862dbee0ae230~mv2.gif",
 "stations":[
     
-		{
+		 {
+                       "name": "Sky La Liga (190) | US 🇺🇸",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Sky_Sports_UK_logo_2020.png",
+                        "url" : "http://190.92.10.66:4000/play/a001/index.m3u8",
+           		 "userAgent": ""
+                          },  {
+                       "name": "Sky Bundesliga (190) | US 🇺🇸",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Sky_Sports_UK_logo_2020.png",
+                        "url" : "http://190.92.10.66:4000/play/a006/index.m3u8",
+           		 "userAgent": ""
+                          }, {
  "name": "Movistar La Liga 1080 (Xyz) | ES 🇪🇸",
 			"image": "https://i.imgur.com/5lNTjn0.png",
 "url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4297",
@@ -213,7 +223,12 @@
 			"referer": "https://tarjetarojaenvivo.lat/",
 				"url":"https://laceaccept.net/embed/rq4g6",
 			"isHost": "true"
-				},   {
+				},  {
+                      "name": "ESPN Deportes (190) | MX 🇲🇽",
+			"image": "https://i.imgur.com/cYvji3A.png",
+                        "url" : "http://190.92.10.66:4000/play/a003/index.m3u8",
+           		 "userAgent": ""
+                          },   {
                       "name": "ESPN Deportes (Cdnnew) | MX 🇲🇽",
 			"image": "https://i.imgur.com/cYvji3A.png",
                         "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono86/mono.m3u8",
@@ -1084,7 +1099,7 @@
 		   "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                                          }, {
-			"name": "Fox Sports Mexico (Tubi) | MX 🇲🇽",
+			"name": "Fox Deportes Mexico (Tubi) | MX 🇲🇽",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png",
 			"url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8",
 		  "userAgent" : ""
@@ -1097,6 +1112,11 @@
 "referer": "",
 "isHost": ""
 }, {
+                      "name": "Azteca 7 (190) | MX 🇲🇽",
+			"image": "https://i.imgur.com/vcv8H63.png",
+                        "url" : "http://190.92.10.66:4000/play/a007/index.m3u8",
+           		 "userAgent": ""
+                          }, {
                      "name": "Azteca 7 (Windnew) | MX 🇲🇽",
 			"image": "https://i.imgur.com/vcv8H63.png",
 		 "url" : "https://windnew.newkso.ru/wind/premium844/mono.m3u8",
@@ -1204,7 +1224,12 @@
 			"image": "https://i.imgur.com/9piuN0T.png",
 		 "url" : "https://windnew.newkso.ru/wind/premium131/mono.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
+                                         },  {
+                       "name": "Telemundo (190) | US 🇺🇸",
+			"image": "https://i.imgur.com/9piuN0T.png",
+                        "url" : "http://190.92.10.66:4000/play/a004/index.m3u8",
+           		 "userAgent": ""
+                          }, {
                      "name": "Telemundo Puerto Rico (Nbc) | US 🇺🇸",
 			"image": "https://i.imgur.com/9piuN0T.png",
 		 "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
