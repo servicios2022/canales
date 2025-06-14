@@ -47,7 +47,12 @@
 "image": "https://static.wixstatic.com/media/603da4_cff0a56da59a43ba88f862dbee0ae230~mv2.gif",
 "stations":[
     
-		 {
+		{
+                     "name": "TUDN USA 1080 (190) | US 🇺🇸",
+			"image": "https://i.imgur.com/U6DKWV0.png",
+		 "url" : "http://185.56.180.254:54543/udp/234.5.2.25:20000",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
  "name": "Movistar La Liga 1080 (Xyz) | ES 🇪🇸",
 			"image": "https://i.imgur.com/5lNTjn0.png",
 "url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4297",
