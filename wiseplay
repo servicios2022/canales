@@ -1246,57 +1246,7 @@
 			"referer": "https://mihd.tv/",
 				"url": "https://mihd.tv/espn-premium-en-vivo-por-internet.html",
 			"isHost": "true"
-				}, 
-		 {
-			"name": "Eventos MAX 1 | TNT Sports Chile HD (Streamdp) | CL 🇨🇱",
-			"image": "https://i.imgur.com/lszKlpm.png",
-			"url": "https://streamdp1.xyz/global1.php?channel=max1",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },  {
-			"name": "Eventos MAX 1 | TNT Sports Chile HD (La12HD) | CL 🇨🇱",
-			"image": "https://i.imgur.com/lszKlpm.png",
-			"url": "https://la12hd.com/vivo/canal.php?stream=max1",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Eventos MAX 2 | TNT Sports Chile HD (Streamdp) | CL 🇨🇱",
-			"image": "https://i.imgur.com/lszKlpm.png",
-			"url": "https://streamdp1.xyz/global1.php?channel=max2",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Eventos MAX 2 | TNT Sports Chile HD (La12HD) | CL 🇨🇱",
-			"image": "https://i.imgur.com/lszKlpm.png",
-			"url": "https://la12hd.com/vivo/canal.php?stream=max2",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Eventos MAX 3 | TNT Sports Chile HD (Streamdp) | CL 🇨🇱",
-			"image": "https://i.imgur.com/lszKlpm.png",
-			"url": "https://streamdp1.xyz/global1.php?channel=max3",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Eventos MAX 3 | TNT Sports Chile HD (La12HD) | CL 🇨🇱",
-			"image": "https://i.imgur.com/lszKlpm.png",
-			"url": "https://la12hd.com/vivo/canal.php?stream=max3",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			"name": "Eventos MAX 4 | TNT Sports Chile HD (Streamdp) | CL 🇨🇱",
-			"image": "https://i.imgur.com/lszKlpm.png",
-			"url": "https://streamdp1.xyz/global1.php?channel=max4",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },  {
-			"name": "Eventos MAX 4 | TNT Sports Chile HD (La12HD) | CL 🇨🇱",
-			"image": "https://i.imgur.com/lszKlpm.png",
-			"url": "https://la12hd.com/vivo/canal.php?stream=max4",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },  
-			{
+				}, {
  	"name": "TNT Sports Premium Chile 1080 e (Xyz) | CL 🇨🇱",
                     "image": "https://i.imgur.com/YTaeyss.png",
 "url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/151833",
