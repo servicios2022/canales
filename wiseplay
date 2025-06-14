@@ -1405,7 +1405,7 @@
 			},   {
 			"name": "Canal 13 | CL 🇨🇱",
 			"image": "https://i.imgur.com/RazPUFz.png",
-			"url": "https://m3u.cl/channel/c13.php?",
+			"url": "https://m3u.cl/channel/c13.php",
 		 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 		"playInNatPlayer": "true",
 		"embed": "true" },   {
