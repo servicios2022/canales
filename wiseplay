@@ -58,6 +58,20 @@
 		 "url" : "http://190.92.10.66:4000/play/a001/index.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          },  {
+	"name": "TNT Sports Premium Chile 720 (Alldown) | CL 🇨🇱",
+                    "image": "https://i.imgur.com/ItEH0oC.png",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://alldownplay.xyz",
+        "url": "http://190.92.10.66:4000/play/a001/index.m3u8",
+        "isHost":""
+        },  {
+	"name": "TNT Sports Premium Chile 720 (Alldown) | CL 🇨🇱",
+                    "image": "https://i.imgur.com/ItEH0oC.png",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+
+        "url": "http://190.92.10.66:4000/play/a001/index.m3u8",
+        "isHost":""
+        }, {
                        "name": "Sky Bundesliga (190) | US 🇺🇸",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Sky_Sports_UK_logo_2020.png",
                         "url" : "http://190.92.10.66:4000/play/a006/index.m3u8",
