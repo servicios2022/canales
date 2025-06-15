@@ -1327,9 +1327,14 @@
 		 "url" : "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?PlaylistM3UCL",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
+                     "name": "Tv Peru | PE 🇵🇪",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/2560px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",
+		 "url" : "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
                      "name": "Tv Peru Noticias | PE 🇵🇪",
 			"image": "https://cdn.m3u.cl/logo/705_TV_Peru_Noticias.png",
-		 "url" : "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8?PlaylistM3UCL",
+		 "url" : "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          },  {
 				   "name": "Caracol | CO 🇨🇴",
@@ -1339,6 +1344,11 @@
 				"url": "https://mihd.tv/caracol-en-vivo-por-internet.html",
 			"isHost": "true"
 				}, {
+                     "name": "Noticias Caracol | CO 🇨🇴",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/NOTICIAS_CARACOL.svg/1922px-NOTICIAS_CARACOL.svg.png",
+		 "url" : "https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
                      "name": "RCN | CO 🇨🇴",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/288px-Canal_RCN_logo.svg.png",
 		 "url" : "http://179.51.136.19:8000/play/a1ao/index.m3u8",
@@ -1352,6 +1362,11 @@
                      "name": "Ecuavisa | EC 🇪🇨",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png",
 		 "url" : "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
+                     "name": "ADN40 | MX 🇲🇽",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Adn40_2022.png",
+		 "url" : "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
                      "name": "Las Estrellas | MX 🇲🇽",
