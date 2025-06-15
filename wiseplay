@@ -46,27 +46,7 @@
 {"name": "DEPORTES",
 "image": "https://static.wixstatic.com/media/603da4_cff0a56da59a43ba88f862dbee0ae230~mv2.gif",
 "stations":[
-    
-{
- "name": "Mov235Xyz) | ES 🇪🇸",
-			"image": "https://i.imgur.com/5lNTjn0.png",
-"url": "https://embed.ksdjugfsddeports.fun/embed/fmhotkids.html",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-},  {
-				   "name": "Discovery Turbo",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png",
-			"online": "true",
-			"referer": "https://embed.ksdjugfsddeports.fun/",
-				"url": "https://embed.ksdjugfsddeports.fun/embed/discoveryturbo.html",
-			"isHost": "true"
-				},  
-
-
-
-
+ 
 {
  "name": "Movistar La Liga 1080 (Xyz) | ES 🇪🇸",
 			"image": "https://i.imgur.com/5lNTjn0.png",
@@ -1321,14 +1301,7 @@
 			"image": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png",
 		 "url" : "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },  {
-				   "name": "C1l | CO 🇨🇴",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
-			"online": "true",
-			"referer": "https://www.americatv.com.ar/",
-				"url": "https://www.americatv.com.ar/vivo",
-			"isHost": "true"
-				}, {
+                                         }, {
                      "name": "El Trece | AR 🇦🇷",
 			"image": "https://cdn.m3u.cl/logo/1358_El_Trece.png",
 		 "url" : "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL",
