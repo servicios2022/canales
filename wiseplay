@@ -294,15 +294,7 @@
 			"url": "https://sportzonline.si/channels/hd/hd6.php",
 			 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                }, {
-		"name": "DAZN 1 (Topembed) | ES 🇪🇸",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/1280px-DAZN_1.svg.png",
-		"online":"true",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-		"referer": "https://topembed.pw/",
-		"url":"https://topembed.pw/channel/DAZN1[Spain]",
-		"isHost": "true"
-		}, 
+                },
 
 		
 		 {
@@ -1097,28 +1089,10 @@
                     "isHost": "true"
                                          }, {
 			"name": "Fox Deportes Mexico (Tubi) | MX 🇲🇽",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png",
 			"url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8",
 		  "userAgent" : ""
-			}, {
-    "name": "Azteca 7 (Xyz) | MX 🇲🇽",
-			"image": "https://i.imgur.com/vcv8H63.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/129033",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
-                      "name": "Azteca 7 (190) | MX 🇲🇽",
-			"image": "https://i.imgur.com/vcv8H63.png",
-                        "url" : "http://190.92.10.66:4000/play/a007/index.m3u8",
-           		 "userAgent": ""
-                          }, {
-                     "name": "Azteca 7 (Windnew) | MX 🇲🇽",
-			"image": "https://i.imgur.com/vcv8H63.png",
-		 "url" : "https://windnew.newkso.ru/wind/premium844/mono.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },
+			}, 
 {
                      "name": "TUDN USA 1080 (190) | US 🇺🇸",
 			"image": "https://i.imgur.com/U6DKWV0.png",
@@ -1213,51 +1187,7 @@
 			"image": "https://i.imgur.com/R8c4qIq.png",
 		"url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
 		  "userAgent" : ""
-			}, 
-
- {
-			   "name": "Telemundo 1080 (MiHD) | US 🇺🇸",
-			"image": "https://i.imgur.com/9piuN0T.png",
-			"online": "true",
-			"referer": "https://mihd.tv/",
-				"url": "https://mihd.tv/telemundo-51-en-vivo-por-internet.html",
-			"isHost": "true"
-				},  {
-                "name": "Telemundo 720 (Miztv) | US 🇺🇸",
-			"image": "https://i.imgur.com/9piuN0T.png",
-		 "url" : "https://miztv.top/total/stream-131.php",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-        	 "name": "Telemundo 720 (TuTvLive) | US 🇺🇸",
-			"image": "https://i.imgur.com/9piuN0T.png",
-		 "url" : "https://tutvlive.xyz/tvtodo/telemundo.php",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-                     "name": "Telemundo Puerto Rico (Nbc) | US 🇺🇸",
-			"image": "https://i.imgur.com/9piuN0T.png",
-		 "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
-		  "userAgent" : ""
-			},  {
-			  "name": "Univision (MiHD) | US 🇺🇸",
-			"image": "https://i.imgur.com/b5III2Y.png",
-			"online": "true",
-			"referer": "https://mihd.tv/",
-				"url": "https://mihd.tv/univision-en-vivo-por-internet.html",
-			"isHost": "true"
-				}, {
-			  "name": "Univision 1080 (Topembed) | US 🇺🇸",
-			"image": "https://i.imgur.com/b5III2Y.png",
-		"online":"true",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-		"referer": "https://topembed.pw/",
-		"url":"https://topembed.pw/channel/Univision[USA]",
-		"isHost": "true"
-		}, 
-
-
-
-
-			 {
+			}, 		 {
 		   "name": "ESPN Chile (MiHD) | CL 🇨🇱",
 			"image": "https://i.imgur.com/MFhpD4D.png",
 			"online": "true",
@@ -1381,6 +1311,61 @@
 		 "url" : "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
+    "name": "Azteca 7 (Xyz) | MX 🇲🇽",
+			"image": "https://i.imgur.com/vcv8H63.png",
+"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/129033",
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
+}, {
+                      "name": "Azteca 7 (190) | MX 🇲🇽",
+			"image": "https://i.imgur.com/vcv8H63.png",
+                        "url" : "http://190.92.10.66:4000/play/a007/index.m3u8",
+           		 "userAgent": ""
+                          }, {
+                     "name": "Azteca 7 (Windnew) | MX 🇲🇽",
+			"image": "https://i.imgur.com/vcv8H63.png",
+		 "url" : "https://windnew.newkso.ru/wind/premium844/mono.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         },  {
+			   "name": "Telemundo 1080 (MiHD) | US 🇺🇸",
+			"image": "https://i.imgur.com/9piuN0T.png",
+			"online": "true",
+			"referer": "https://mihd.tv/",
+				"url": "https://mihd.tv/telemundo-51-en-vivo-por-internet.html",
+			"isHost": "true"
+				},  {
+                "name": "Telemundo 720 (Miztv) | US 🇺🇸",
+			"image": "https://i.imgur.com/9piuN0T.png",
+		 "url" : "https://miztv.top/total/stream-131.php",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
+        	 "name": "Telemundo 720 (TuTvLive) | US 🇺🇸",
+			"image": "https://i.imgur.com/9piuN0T.png",
+		 "url" : "https://tutvlive.xyz/tvtodo/telemundo.php",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
+                     "name": "Telemundo Puerto Rico (Nbc) | US 🇺🇸",
+			"image": "https://i.imgur.com/9piuN0T.png",
+		 "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
+		  "userAgent" : ""
+			},  {
+			  "name": "Univision (MiHD) | US 🇺🇸",
+			"image": "https://i.imgur.com/b5III2Y.png",
+			"online": "true",
+			"referer": "https://mihd.tv/",
+				"url": "https://mihd.tv/univision-en-vivo-por-internet.html",
+			"isHost": "true"
+				}, {
+			  "name": "Univision 1080 (Topembed) | US 🇺🇸",
+			"image": "https://i.imgur.com/b5III2Y.png",
+		"online":"true",
+		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "https://topembed.pw/",
+		"url":"https://topembed.pw/channel/Univision[USA]",
+		"isHost": "true"
+		}, {
 					"name": "Mega 1080 | CL 🇨🇱",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
 			"online": "true",
