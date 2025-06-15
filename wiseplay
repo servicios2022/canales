@@ -1,12 +1,12 @@
 
 
-{	"name": "TODO DEPORTE",
+{	"name": "TV GRATIS",
  "author": "📺Lista Gratuita📺",
- "image": "https://i.imgur.com/UeLUsrq.gif",
+ "image": "https://i.pinimg.com/originals/5d/ea/a7/5deaa7bbf3cba51ed0f8b628c80393fc.gif",
     "info": "Enlaces encontrados en internet",
 "url": "https://raw.githubusercontent.com/servicios2022/canales/main/wiseplay",
 "groups": [
-{"name": "AGENDA",
+{"name": "AGENDAS",
 "image": "https://i.gifer.com/origin/3c/3cf3bf4222ca02eadf81bf145261bfd0.gif",
 "stations":[
   {
@@ -43,7 +43,7 @@
 },
 
 ]},
-{"name": "DEPORTE",
+{"name": "DEPORTES",
 "image": "https://static.wixstatic.com/media/603da4_cff0a56da59a43ba88f862dbee0ae230~mv2.gif",
 "stations":[
     
@@ -1378,8 +1378,8 @@
 
 
 ]},
-{"name": "CANALES EN VIVO",
-"image": "https://i.pinimg.com/originals/5d/ea/a7/5deaa7bbf3cba51ed0f8b628c80393fc.gif",
+{"name": "CANALES",
+"image": "https://heraldosdelevangelio.cl/wp/wp-content/uploads/2020/05/misa-en-vivo.gif",
 "stations":[
   
    {
