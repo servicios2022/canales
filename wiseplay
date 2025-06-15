@@ -1291,6 +1291,11 @@
 		 "url" : "http://185.56.180.254:54543/udp/234.5.2.25:20000",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          },  {
+                     "name": "La 1 | ES 🇪🇸",
+			"image": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png",
+		 "url" : "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
                      "name": "Telefe | AR 🇦🇷",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
 		 "url" : "http://187.190.55.136:5501/udp/225.1.1.240:5240",
@@ -1304,6 +1309,26 @@
                      "name": "ATV | PE 🇵🇪",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ATV_Peru_2025.svg/2560px-ATV_Peru_2025.svg.png",
 		 "url" : "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         },  {
+                     "name": "RCN | CO 🇨🇴",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/288px-Canal_RCN_logo.svg.png",
+		 "url" : "http://179.51.136.19:8000/play/a1ao/index.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         },  {
+                     "name": "RCN Mas | CO 🇨🇴",
+			"image": "https://i.imgur.com/MJzuRAN.png",
+		 "url" : "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
+                     "name": "Ecuavisa | EC 🇪🇨",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png",
+		 "url" : "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
+                     "name": "Las Estrellas | MX 🇲🇽",
+			"image": "https://i.imgur.com/g5ShxZ7.png",
+		 "url" : "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
     "name": "Azteca 7 (Xyz) | MX 🇲🇽",
