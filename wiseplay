@@ -423,9 +423,15 @@
 
 
  {
-			"name": "DirecTv Sports 2 (Streamdp1) | AR 🇦🇷",
+			"name": "DirecTv Sports 2 (Streamdp) | AR 🇦🇷",
 			"image": "https://i.imgur.com/HI0yGFW.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=dsports2",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },  {
+			"name": "DirecTv Sports 2 (Streamtp) | AR 🇦🇷",
+			"image": "https://i.imgur.com/HI0yGFW.png",
+			"url": "https://stream196tp.com/global1.php?stream=dsports2",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, 
@@ -443,13 +449,13 @@
                                                       "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                }, {
-			"name": "TNT Sports Argentina (Streamdp1) | AR 🇦🇷",
+			"name": "TNT Sports Argentina (Streamdp) | AR 🇦🇷",
 			"image": "https://i.imgur.com/ItEH0oC.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=tntsports",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
-			"name": "TNT Sports Argentina (La12HD) | AR 🇦🇷",
+			"name": "TNT Sports Argentina (Streamtp) | AR 🇦🇷",
 			"image": "https://i.imgur.com/ItEH0oC.png",
 			"url": "https://stream196tp.com/global1.php?stream=tntsports",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
@@ -471,13 +477,13 @@
 		 "url" : "https://windnew.newkso.ru/wind/premium387/mono.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
-			"name": "ESPN Premium Argentina (Streamdp1) | AR 🇦🇷",
+			"name": "ESPN Premium Argentina (Streamdp) | AR 🇦🇷",
 			"image": "https://i.imgur.com/5qTHLGy.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=espnpremium",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-			"name": "ESPN Premium Argentina (La12HD) | AR 🇦🇷",
+			"name": "ESPN Premium Argentina (Streamtp) | AR 🇦🇷",
 			"image": "https://i.imgur.com/5qTHLGy.png",
 			"url": "https://stream196tp.com/global1.php?stream=espnpremium",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
@@ -489,13 +495,13 @@
                        "url" : "https://enz.gdplayertv.to/live-tv/espn-premium/?embed=1",
      			 "embed" : "true"
          	 },  {
-			"name": "FOX Sports Argentina (Streamdp1) | AR 🇦🇷",
+			"name": "FOX Sports Argentina (Streamdp) | AR 🇦🇷",
 			"image": "https://i.imgur.com/nX9GsSh.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=foxar",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-			"name": "FOX Sports Argentina (La12HD) | AR 🇦🇷",
+			"name": "FOX Sports Argentina (Streamtp) | AR 🇦🇷",
 			"image": "https://i.imgur.com/nX9GsSh.png",
 			"url": "https://stream196tp.com/global1.php?stream=foxsports",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
@@ -506,13 +512,13 @@
 		 "url" : "https://windnew.newkso.ru/wind/premium788/mono.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
-			"name": "FOX Sports 2 Argentina (Streamdp1) | AR 🇦🇷",
+			"name": "FOX Sports 2 Argentina (Streamdp) | AR 🇦🇷",
 			"image": "https://i.imgur.com/KhwRTx4.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=fox2ar",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
-			"name": "FOX Sports 2 Argentina (La12HD) | AR 🇦🇷",
+			"name": "FOX Sports 2 Argentina (Streamtp) | AR 🇦🇷",
 			"image": "https://i.imgur.com/KhwRTx4.png",
 			"url": "https://stream196tp.com/global1.php?stream=foxsports2",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
@@ -523,27 +529,33 @@
 		 "url" : "https://tinworld-myproxy.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium789/mono.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
-			"name": "FOX Sports 3 Argentina (Streamdp1) | AR 🇦🇷",
+			"name": "FOX Sports 3 Argentina (Streamdp) | AR 🇦🇷",
 			"image": "https://i.imgur.com/xbeQUV3.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=fox3ar",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },   {
-			"name": "FOX Sports 3 Argentina (La12) | AR 🇦🇷",
+			"name": "FOX Sports 3 Argentina (Streamtp) | AR 🇦🇷",
 			"image": "https://i.imgur.com/xbeQUV3.png",
 			"url": "https://stream196tp.com/global1.php?stream=foxsports3",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-			"name": "TyC Sports Internacional (Streamdp1) | AR 🇦🇷",
+			"name": "TyC Sports Internacional (Streamdp) | AR 🇦🇷",
 			"image": "https://i.imgur.com/zfkBNdb.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=tycinternacional",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },   {
-			"name": "TyC Sports Argentina (Streamdp1) | AR 🇦🇷",
+			"name": "TyC Sports Argentina (Streamdp) | AR 🇦🇷",
 			"image": "https://i.imgur.com/zfkBNdb.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=tycsports",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },   {
+			"name": "TyC Sports Argentina (Streamtp) | AR 🇦🇷",
+			"image": "https://i.imgur.com/zfkBNdb.png",
+			"url": "https://stream196tp.com/global1.php?stream=tycsports",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },   {
@@ -557,21 +569,21 @@
 
 		
 {
-			"name": "Gol Peru (Streamdp) | PE 🇵🇪",
+			"name": "Gol Peru (Streamtp) | PE 🇵🇪",
 			"image": "https://i.imgur.com/xl7Sf50.png",
-			"url": "https://streamtp4.com/global1.php?stream=golperu",
+			"url": "https://stream196tp.com/global1.php?stream=golperu",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
-			"name": "Gol Tv (Streamdp1) | PE 🇵🇪",
+			"name": "Gol Tv (Streamtp) | PE 🇵🇪",
 			"image": "https://i.imgur.com/Pry7jUx.png",
-			"url": "https://streamtp4.com/global1.php?stream=goltv",
+			"url": "https://stream196tp.com/global1.php?stream=goltv",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
-			"name": "Liga 1 Max (Streamdp1) | PE 🇵🇪",
+			"name": "Liga 1 Max (Streamtp) | PE 🇵🇪",
 			"image": "https://i.imgur.com/Wdtecos.png",
-			"url": "https://streamtp4.com/global1.php?stream=liga1max",
+			"url": "https://stream196tp.com/global1.php?stream=liga1max",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, 
@@ -582,7 +594,7 @@
 			"url": "https://dokko1new.newkso.ru/dokko1/premium392/mono.m3u8",
 		  "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
-			"name": "Win Sports+ (Streamdp1) | CO 🇨🇴",
+			"name": "Win Sports+ (Streamdp) | CO 🇨🇴",
 			"image": "https://i.imgur.com/rzpcdnf.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=winplus",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
@@ -613,25 +625,25 @@
 		                   "referer" : "https://buzztv.futbol/",
 			 "isHost":"true" 
                           }, {
-			"name": "TUDN (Streamdp1) | MX 🇲🇽",
+			"name": "TUDN (Streamdp) | MX 🇲🇽",
 			"image": "https://i.imgur.com/U6DKWV0.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=tudnmx",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
-			"name": "ESPN (Streamdp1) | MX 🇲🇽",
+			"name": "ESPN (Streamdp) | MX 🇲🇽",
 			"image": "https://i.imgur.com/MFhpD4D.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=espnmx",
 		   "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                                          },  {
-			"name": "ESPN 2 (Streamdp1) | MX 🇲🇽",
+			"name": "ESPN 2 (Streamdp) | MX 🇲🇽",
 			"image": "https://i.imgur.com/jq1s4to.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=espn2mx",
 		   "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                                          },  {
-			"name": "ESPN 3 (Streamdp1) | MX 🇲🇽",
+			"name": "ESPN 3 (Streamdp) | MX 🇲🇽",
 			"image": "https://i.imgur.com/y3VGGV0.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=espn3mx",
 		   "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
@@ -680,15 +692,15 @@
 				"url":"https://streamingon.org/embed/hd-1.php",
 				"isHost": "true"
 				}, {
-			"name": "TUDN USA (Streamdp1) | US 🇺🇸",
+			"name": "TUDN USA (Streamdp) | US 🇺🇸",
 			"image": "https://i.imgur.com/U6DKWV0.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=tudn_usa",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-			"name": "TUDN USA (La12HD) | US 🇺🇸",
+			"name": "TUDN USA (Streamtp) | US 🇺🇸",
 			"image": "https://i.imgur.com/U6DKWV0.png",
-			"url": "https://la12hd.com/vivo/canal.php?stream=tudn",
+			"url": "https://stream196tp.com/global1.php?stream=tudn_usa",
 			 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
@@ -697,12 +709,6 @@
 		 "url" : "https://zekonew.newkso.ru/zeko/premium372/mono.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          },  {
-			  "name": "Bein Sports Ñ (Sportzonline) | US 🇺🇸",
-			"image": "https://i.imgur.com/c4gfwhr.png",
-			"url": "https://sportzonline.si/channels/hd/hd9.php",
-			 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
 			"name": "Bein Sports Extra Ñ 1080 (Xumo) | US 🇺🇸",
 			"image": "https://i.imgur.com/R8c4qIq.png",
 		"url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
