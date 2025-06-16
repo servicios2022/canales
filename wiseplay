@@ -202,7 +202,12 @@
 			"image": "https://i.imgur.com/3PsaCB9.png",
 		                    "url" :  "https://supertipzz.online/tip/6.php",
 			 "isHost":"true"
-                            }, 
+                            }, {
+                     "name": "Real Madrid Tv | ES 🇪🇸",
+			"image": "https://graph.facebook.com/RealMadrid/picture?width=200&height=200",
+		 "url" : "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         },
 
 		
 		 {
@@ -833,11 +838,6 @@
                      "name": "24 Horas | ES 🇪🇸",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/2084px-Logo_Canal_24_horas.svg.png",
 		 "url" : "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },  {
-                     "name": "Real Madrid Tv | ES 🇪🇸",
-			"image": "https://graph.facebook.com/RealMadrid/picture?width=200&height=200",
-		 "url" : "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
                      "name": "Clan | ES 🇪🇸",
