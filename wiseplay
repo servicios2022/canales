@@ -48,6 +48,12 @@
 "stations":[
  
 {
+			   "name": "Movistar La Liga (Bleedfilter) | ES 🇪🇸",
+			"image": "https://i.imgur.com/5lNTjn0.png",
+			"url" : "https://bleedfilter.net/embed/orfaxhrsmbdogv?color=45A5F4",
+                              "referer" : "https://powerover.online/",
+             "isHost": "true"   
+                                    }, {
                        "name": "Movistar La Liga (Letcast) | ES 🇪🇸",
 			"image": "https://i.imgur.com/5lNTjn0.png",
                         "url" :  "https://letcast.pro/steam.php?stream=4eLyr2RZq7v",
@@ -64,13 +70,7 @@
         		           "url" :  "https://laceaccept.net/embed/8xjdm9xmx8ys",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
-                                                        }, {
-			   "name": "Movistar La Liga (Bleedfilter) | ES 🇪🇸",
-			"image": "https://i.imgur.com/5lNTjn0.png",
-			"url" : "https://bleedfilter.net/embed/orfaxhrsmbdogv?color=45A5F4",
-                              "referer" : "https://powerover.online/",
-             "isHost": "true"   
-                                    },  {
+                                                        },  {
 		 "name": "Movistar La Liga (Gdplayer) | ES 🇪🇸",
 			"image": "https://i.imgur.com/5lNTjn0.png",
                        "url" : "https://enz.gdplayertv.to/live-tv/movistar-laliga/?embed=1",
