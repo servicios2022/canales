@@ -1717,6 +1717,13 @@
 		"url": "https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8",
 		  "userAgent" : ""
 			}, {
+			"name": "NTV | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Logotipo_de_NTV.svg",
+			"online": "true",
+			"referer": "https://www.tvn.cl/",
+				"url": "https://www.tvn.cl/ntv",
+			"isHost": "true"
+				},{
 			"name": "TVN 3 | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/1437_TVN3.png",
 		"url": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8",
