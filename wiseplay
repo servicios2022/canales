@@ -1420,9 +1420,35 @@
 		 "url" : "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
+                     "name": "TeleAntioquia | CO 🇨🇴",
+			"image": "https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200",
+"referer": "https://player.instantvideocloud.net/",
+		 "url" : "https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
                      "name": "Ecuavisa | EC 🇪🇨",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png",
 		 "url" : "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
+                     "name": "Oromar | EC 🇪🇨",
+			"image": "https://graph.facebook.com/oromartv/picture?width=200&height=200",
+		 "url" : "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
+                     "name": "Telesur | VE 🇻🇪",
+			"image": "https://graph.facebook.com/teleSUR/picture?width=200&height=200",
+		 "url" : "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
+                     "name": "VPI Tv | VE 🇻🇪",
+			"image": "https://graph.facebook.com/vpitv/picture?width=200&height=200",
+		 "url" : "https://ott.streann.com/loadbalancer/services/public/channels-secure/5d23d5882cdce61dae029fd8/playlist.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
+                     "name": "ABC Tv | PY 🇵🇾",
+			"image": "https://graph.facebook.com/ABCTVpy/picture?width=200&height=200",
+		 "url" : "https://livecdn.use1-0004.jwplive.com/live/sites/rmOO40BU/media/N4AiIwBJ/live.isml/.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
                      "name": "ADN40 | MX 🇲🇽",
@@ -1433,6 +1459,16 @@
                      "name": "Las Estrellas | MX 🇲🇽",
 			"image": "https://i.imgur.com/g5ShxZ7.png",
 		 "url" : "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
+                     "name": "Canal 6 Multimedios | MX 🇲🇽",
+			"image": "https://graph.facebook.com/multimediostv/picture?width=200&height=200",
+		 "url" : "https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
+                     "name": "Estrella Tv | MX 🇲🇽",
+			"image": "https://graph.facebook.com/EstrellaTVNetwork/picture?width=200&height=200",
+		 "url" : "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
     "name": "Azteca 7 (Xyz) | MX 🇲🇽",
@@ -1490,9 +1526,14 @@
 		"url":"https://topembed.pw/channel/Univision[USA]",
 		"isHost": "true"
 		}, {
-                     "name": "unimas | US 🇺🇸",
+                     "name": "Unimas | US 🇺🇸",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png",
 		 "url" : "http://187.190.55.136:5501/udp/225.1.10.133:15133",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         },  {
+                     "name": "America Tv | US 🇺🇸",
+			"image": "https://graph.facebook.com/americateve/picture?width=200&height=200",
+		 "url" : "https://live.gideo.video/americateve2/master.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
 					"name": "Mega 1080 | CL 🇨🇱",
