@@ -1398,6 +1398,11 @@
 		 "url" : "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          },  {
+                     "name": "Canal IPE | PE 🇵🇪",
+			"image": "https://graph.facebook.com/canalipe/picture?width=200&height=200",
+		 "url" : "https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
 				   "name": "Caracol | CO 🇨🇴",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
 			"online": "true",
@@ -1467,6 +1472,11 @@
 		 "url" : "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
+                     "name": "Azteca Internacional | MX 🇲🇽",
+			"image": "https://media.tvup.cloud/canales/color_lg_6523ab28416c1045648ebdcc.png",
+		 "url" : "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
                      "name": "Canal 6 Multimedios | MX 🇲🇽",
 			"image": "https://graph.facebook.com/multimediostv/picture?width=200&height=200",
 		 "url" : "https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8",
@@ -1516,7 +1526,12 @@
 			"image": "https://i.imgur.com/9piuN0T.png",
 		 "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
 		  "userAgent" : ""
-			},  {
+			}, {
+                   "name": "Univision 1080 (45) | US 🇺🇸",
+			"image": "https://i.imgur.com/b5III2Y.png",
+		 "url" : "http://45.161.24.2:4025/udp/224.32.32.32:1088",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         },  {
 			  "name": "Univision (MiHD) | US 🇺🇸",
 			"image": "https://i.imgur.com/b5III2Y.png",
 			"online": "true",
