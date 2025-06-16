@@ -1717,13 +1717,27 @@
 		"url": "https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8",
 		  "userAgent" : ""
 			}, {
+			"name": "MegaNoticias | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/1200px-Meganoticias2019.png",
+			"online": "true",
+			"referer": "https://www.meganoticias.cl/",
+				"url": "https://www.meganoticias.cl/senal-en-vivo/meganoticias/",
+			"isHost": "true"
+				}, {
+			"name": "MegaTiempo | CL 🇨🇱",
+			"image": "https://i.imgur.com/8C4ba8G.png",
+			"online": "true",
+			"referer": "https://www.mega.cl/",
+				"url": "https://www.mega.cl/senal-en-vivo/megatiempo/",
+			"isHost": "true"
+				},  {
 			"name": "NTV | CL 🇨🇱",
 			"image": "https://i.imgur.com/9vNwkYb.png",
 			"online": "true",
 			"referer": "https://www.tvn.cl/",
 				"url": "https://www.tvn.cl/ntv",
 			"isHost": "true"
-				},{
+				}, {
 			"name": "TVN 3 | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/1437_TVN3.png",
 		"url": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8",
