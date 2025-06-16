@@ -1335,7 +1335,7 @@
                                          },  {
                      "name": "La 2 | ES 🇪🇸",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1900px-Logo_La_2.svg.png",
-		 "url" : "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8",
+		 "url" : "https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          },  {
                      "name": "24 Horas | ES 🇪🇸",
@@ -1343,11 +1343,6 @@
 		 "url" : "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          },  {
-                     "name": "TeleDeporte | ES 🇪🇸",
-			"image": "https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200",
-		 "url" : "https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
                      "name": "Real Madrid Tv | ES 🇪🇸",
 			"image": "https://graph.facebook.com/RealMadrid/picture?width=200&height=200",
 		 "url" : "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
@@ -1372,12 +1367,14 @@
 			"image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
 		 "url" : "http://187.190.55.136:5501/udp/225.1.1.240:5240",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },  {
-                     "name": "America Tv | PE 🇵🇪",
+                                         }, {
+				   "name": "America Tv | PE 🇵🇪",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png",
-		 "url" : "https://live-evg1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },  {
+			"online": "true",
+			"referer": "https://mihd.tv/",
+				"url": "https://mihd.tv/america-tv-en-vivo-por-internet.html",
+			"isHost": "true"
+				}, {
                      "name": "ATV | PE 🇵🇪",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ATV_Peru_2025.svg/2560px-ATV_Peru_2025.svg.png",
 		 "url" : "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
@@ -1432,7 +1429,7 @@
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
                      "name": "Canal TRO | CO 🇨🇴",
-			"image": "https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canal_tro_logo.PNG/640px-Canal_tro_logo.PNG",
 "referer": "https://player.instantvideocloud.net/",
 		 "url" : "https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
