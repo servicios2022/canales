@@ -48,54 +48,6 @@
 "stations":[
  
 {
- "name": "Movistar La Liga 1080 (Xyz) | ES 🇪🇸",
-			"image": "https://i.imgur.com/5lNTjn0.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4297",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
- "name": "Movistar La Liga 1080 (Xyz) | ES 🇪🇸",
-			"image": "https://i.imgur.com/5lNTjn0.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/200994",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
- "name": "Movistar La Liga 720 (Xyz) | ES 🇪🇸",
-			"image": "https://i.imgur.com/5lNTjn0.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4298",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
- "name": "Movistar La Liga 720 (Xyz) | ES 🇪🇸",
-			"image": "https://i.imgur.com/5lNTjn0.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4299",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
- "name": "Movistar La Liga (Xyz) | ES 🇪🇸",
-			"image": "https://i.imgur.com/5lNTjn0.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4300",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
- "name": "Movistar La Liga (Xyz) | ES 🇪🇸",
-			"image": "https://i.imgur.com/5lNTjn0.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4303",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-},{
                        "name": "Movistar La Liga (Letcast) | ES 🇪🇸",
 			"image": "https://i.imgur.com/5lNTjn0.png",
                         "url" :  "https://letcast.pro/steam.php?stream=4eLyr2RZq7v",
@@ -124,14 +76,6 @@
                        "url" : "https://enz.gdplayertv.to/live-tv/movistar-laliga/?embed=1",
      			 "embed" : "true"
          	 }, {
-"name": "DAZN La Liga 1080 (Xyz) | ES 🇪🇸",
-			"image": "https://i.imgur.com/Mql5aBD.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/200995",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
 			"name": "DAZN La Liga 720 (Wagontorch) | ES 🇪🇸",
 			"image": "https://i.imgur.com/Mql5aBD.png",
 			  "url" :  "https://wagontorch.net/embed/x2qidlx7",
@@ -226,36 +170,7 @@
                           },  
 
 
-			
-
-
- {
-    "name": "Movistar Liga de Campeones 1080 (Xyz) | ES 🇪🇸",
-			"image": "https://i.imgur.com/3PsaCB9.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4320",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-},
-{
-    "name": "Movistar Liga de Campeones 1080 (Xyz) | ES 🇪🇸",
-			"image": "https://i.imgur.com/3PsaCB9.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4321",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-},
-{
-    "name": "Movistar Liga de Campeones 1080 (Xyz) | ES 🇪🇸",
-			"image": "https://i.imgur.com/3PsaCB9.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4322",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
+			 {
                         "name": "Movistar Liga de Campeones 720 (freckledine) | ES 🇪🇸",
 			"image": "https://i.imgur.com/3PsaCB9.png",
 				"online":"true",
@@ -358,39 +273,7 @@
                     "isHost": "true"
                 }, 
 
- 		{
-  "name": "ESPN Argentina (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/MFhpD4D.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/151113",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
-  "name": "ESPN Chile (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/MFhpD4D.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/151114",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
-  "name": "ESPN Chile (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/MFhpD4D.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/3527",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
-  "name": "ESPN Colombia (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/MFhpD4D.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/145423",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
+ 		 {
                        "name": "ESPN Argentina (Ddy6new) | AR 🇦🇷",
 			"image": "https://i.imgur.com/MFhpD4D.png",
 		 "url" : "https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8",
@@ -414,38 +297,6 @@
                    "referer" : "https://tarjetarojaenvivo.lat/",
 					"isHost":"true"
                   },  {
-   "name": "ESPN 2 Argentina (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/jq1s4to.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/145418",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
-   "name": "ESPN 2 Argentina (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/jq1s4to.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/151114",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
-   "name": "ESPN 2 Argentina (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/jq1s4to.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4794",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-},  {
-   "name": "ESPN 2 Colombia (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/jq1s4to.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/145424",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
                         "name": "ESPN 2 (Windnew) | AR 🇦🇷",
 			"image": "https://i.imgur.com/jq1s4to.png",
 		 "url" : "https://windnew.newkso.ru/wind/premium150/mono.m3u8",
@@ -481,14 +332,6 @@
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-  "name": "ESPN 4 (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/yxAlH81.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/145420",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
 			   "name": "ESPN 4 (Streamdp1) | AR 🇦🇷",
 			"image": "https://i.imgur.com/yxAlH81.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=espn4",
@@ -500,15 +343,7 @@
 			"url": "https://la12hd.com/vivo/canales.php?stream=espn4",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                },   {
-   "name": "ESPN 5 (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/D65r7VG.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/215029",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
+                },  {
 			   "name": "ESPN 5 (Streamdp1) | AR 🇦🇷",
 			"image": "https://i.imgur.com/D65r7VG.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=espn5",
@@ -521,14 +356,6 @@
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-    "name": "ESPN 6 (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/Y5ERC73.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/215030",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
 			   "name": "ESPN 6 (Streamdp1) | AR 🇦🇷",
 			"image": "https://i.imgur.com/Y5ERC73.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=espn6",
@@ -540,15 +367,7 @@
 			"url": "https://la12hd.com/vivo/canales.php?stream=espn6",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                },  {
-   "name": "ESPN 7 (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/YrVUJmp.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/215031",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
+                }, {
 			   "name": "ESPN 7 (Streamdp1) | AR 🇦🇷",
 			"image": "https://i.imgur.com/YrVUJmp.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=espn7",
@@ -564,48 +383,7 @@
 
 
 
-		{
-"name": "DirecTv Sports Argentina (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/NUGOqdT.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/135642",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, 
-		{
-"name": "DirecTv Sports Argentina (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/NUGOqdT.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/145400",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
-"name": "DirecTv Sports Chile (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/NUGOqdT.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/3309",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-},  {
-"name": "DirecTv Sports Uruguay (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/NUGOqdT.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/3827",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-},  {
-"name": "DirecTv Sports Colombia (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/NUGOqdT.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/132282",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-},  {
+		 {
 		"name": "DirecTv Sports 720p Argentina (Topembed) | AR 🇦🇷",
 			"image": "https://i.imgur.com/NUGOqdT.png",
 		"online":"true",
@@ -644,35 +422,7 @@
                 }, 
 
 
-
-
-
-
-{
-"name": "DirecTv Sports 2 Argentina (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/HI0yGFW.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/135643",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
-"name": "DirecTv Sports 2 Uruguay (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/HI0yGFW.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/132283",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-},{
-"name": "DirecTv Sports 2 Colombia (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/HI0yGFW.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/132283",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-},  {
+ {
 			"name": "DirecTv Sports 2 (Streamdp1) | AR 🇦🇷",
 			"image": "https://i.imgur.com/HI0yGFW.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=dsports2",
@@ -681,63 +431,7 @@
                 }, 
 
 
-		{
-   "name": "TNT Sports Argentina (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/ItEH0oC.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/2688",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
-   "name": "TNT Sports Argentina (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/ItEH0oC.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/133843",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-},  {
-   "name": "TNT Sports Argentina (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/ItEH0oC.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/148458",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
-   "name": "TNT Sports Argentina (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/ItEH0oC.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/148459",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
-   "name": "TNT Sports Argentina (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/ItEH0oC.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/131980",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
-   "name": "TNT Sports Argentina (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/ItEH0oC.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/132285",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
-   "name": "TNT Sports Argentina (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/ItEH0oC.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/145442",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
+		 {
                    "name": "TNT Sports Argentina (Ddy6new) | AR 🇦🇷",
 			"image": "https://i.imgur.com/ItEH0oC.png",
 		 "url" : "https://ddy6new.newkso.ru/ddy6/premium388/mono.m3u8",
@@ -766,46 +460,6 @@
                        "url" : "https://enz.gdplayertv.to/live-tv/tnt-sports-ag/?embed=1",
      			 "embed" : "true"
          	 }, {
-   "name": "ESPN Premium Argentina (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/5qTHLGy.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4938",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
-   "name": "ESPN Premium Argentina (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/5qTHLGy.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/148461",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
-   "name": "ESPN Premium Argentina (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/5qTHLGy.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/145417",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
-   "name": "ESPN Premium Argentina (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/5qTHLGy.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/145421",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
-   "name": "ESPN Premium Argentina (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/5qTHLGy.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4951",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
                   "name": "ESPN Premium Argentina 1080 (190) | AR 🇦🇷",
 			"image": "https://i.imgur.com/5qTHLGy.png",
 		 "url" : "http://190.102.246.93:9005/play/a00x",
@@ -834,55 +488,7 @@
 			"image": "https://i.imgur.com/5qTHLGy.png",
                        "url" : "https://enz.gdplayertv.to/live-tv/espn-premium/?embed=1",
      			 "embed" : "true"
-         	 }, {
- "name": "FOX Sports Argentina (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/nX9GsSh.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/220882",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
- "name": "FOX Sports Argentina (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/nX9GsSh.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/132268",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
- "name": "FOX Sports Argentina (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/nX9GsSh.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/135645",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-},  {
- "name": "FOX Sports Argentina (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/nX9GsSh.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/3861",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-},  {
- "name": "FOX Sports Venezuela (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/nX9GsSh.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/151660",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-},  {
- "name": "FOX Sports Chile (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/nX9GsSh.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/220882",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-},   {
+         	 },  {
 			"name": "FOX Sports Argentina (Streamdp1) | AR 🇦🇷",
 			"image": "https://i.imgur.com/nX9GsSh.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=foxar",
@@ -895,46 +501,6 @@
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
- "name": "FOX Sports 2 Argentina (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/KhwRTx4.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/145431",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
- "name": "FOX Sports 2 Argentina (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/KhwRTx4.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/132270",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-},  {
- "name": "FOX Sports 2 Argentina (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/KhwRTx4.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/135646",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-},  {
- "name": "FOX Sports 2 Colombia (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/KhwRTx4.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/145407",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
- "name": "FOX Sports 2 Chile (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/KhwRTx4.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/3313",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
                 "name": "FOX Sports 2 Argentina (Zekonew) | AR 🇦🇷",
 			"image": "https://i.imgur.com/KhwRTx4.png",
 		 "url" : "https://windnew.newkso.ru/wind/premium788/mono.m3u8",
@@ -952,14 +518,6 @@
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
- "name": "FOX Sports 2 Chile (Xyz) | AR 🇦🇷",
-			"image": "https://i.imgur.com/KhwRTx4.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/3313",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-},  {
                "name": "FOX Sports 3 Argentina (Nfsnew) | AR 🇦🇷",
 			"image": "https://i.imgur.com/xbeQUV3.png",
 		 "url" : "https://tinworld-myproxy.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium789/mono.m3u8",
@@ -1060,15 +618,7 @@
 			"url": "https://streamdp1.xyz/global1.php?channel=tudnmx",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                },  {
-"name": "ESPN (Xyz) | MX 🇲🇽",
-			"image": "https://i.imgur.com/MFhpD4D.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/132278",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
+                }, {
 			"name": "ESPN (Streamdp1) | MX 🇲🇽",
 			"image": "https://i.imgur.com/MFhpD4D.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=espnmx",
@@ -1141,31 +691,7 @@
 			"url": "https://la12hd.com/vivo/canal.php?stream=tudn",
 			 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                },  {
-   "name": "Bein Sports Ñ (Xyz) | US 🇺🇸",
-			"image": "https://i.imgur.com/c4gfwhr.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126452",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
-   "name": "Bein Sports Ñ (Xyz) | US 🇺🇸",
-			"image": "https://i.imgur.com/c4gfwhr.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/131357",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
-   "name": "Bein Sports Ñ (Xyz) | US 🇺🇸",
-			"image": "https://i.imgur.com/c4gfwhr.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/145408",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
+                }, {
                         "name": "Bein Sports Ñ (Zekonew) | US 🇺🇸",
 			"image": "https://i.imgur.com/c4gfwhr.png",
 		 "url" : "https://zekonew.newkso.ru/zeko/premium372/mono.m3u8",
@@ -1242,46 +768,6 @@
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
- 	"name": "TNT Sports Premium Chile 1080 e (Xyz) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/YTaeyss.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/151833",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
- 	"name": "TNT Sports Premium Chile 1080 (Xyz) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/YTaeyss.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/3528",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-},  {
- 	"name": "TNT Sports Premium Chile 1080 (Xyz) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/YTaeyss.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/132285",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-},  {
- 	"name": "TNT Sports Chile 1080 (Xyz) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/3dcdndh.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/230748",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-},    {
- 	"name": "TNT Sports Chile 1080 (Xyz) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/3dcdndh.png",
-"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/145443",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-},  {
         	"name": "TNT Sports Premium Chile 720 (TutvLive) | CL 🇨🇱",
                     "image": "https://i.imgur.com/ItEH0oC.png",
 		 "url" : "https://tutvlive.xyz/tvtodo/tnt-chile.php",
