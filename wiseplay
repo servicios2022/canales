@@ -1427,6 +1427,18 @@
 "referer": "https://player.instantvideocloud.net/",
 		 "url" : "https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         },  {
+                     "name": "TeleCAribe 1 | CO 🇨🇴",
+			"image": "https://graph.facebook.com/telecaribeEnvivo/picture?width=200&height=200",
+"referer": "https://player.instantvideocloud.net/",
+		 "url" : "https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         },  {
+                     "name": "TeleCAribe 2 | CO 🇨🇴",
+			"image": "https://graph.facebook.com/telecaribeEnvivo/picture?width=200&height=200",
+"referer": "https://player.instantvideocloud.net/",
+		 "url" : "https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
                      "name": "Canal TRO | CO 🇨🇴",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canal_tro_logo.PNG/640px-Canal_tro_logo.PNG",
