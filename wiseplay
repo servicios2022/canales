@@ -1589,6 +1589,96 @@
 			"image": "https://cdn.m3u.cl/logo/421_Bio_Bio_TV.png",
 			"url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8",
 		  "userAgent" : ""
+			},  {
+			"name": "La Red | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/790_La_Red.png",
+		"url": "https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "TVN 3 | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1437_TVN3.png",
+		"url": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "24 Horas | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/448_TVN_24_Horas.png",
+		"url": "https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "CHV Deportes | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1569_CHV_Deportes.png",
+		"url": "https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "T13 | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1054_T13.png",
+		"url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "T13 Radio | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1198_T13_Radio.png",
+		"url": "https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "TVMas 2 | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1243_TVMas2.png",
+		"url": "https://marine2.miplay.cl/tateti/playlist.m3u8",
+		  "userAgent" : ""
+			}, {
+			"name": "13 Cultura | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1193_13_Cultura.png",
+		"url": "https://redirector.dps.live/hls/13cultura/playlist.m3u8?PlaylistM3UCL",
+		  "userAgent" : ""
+			}, {
+			"name": "!3 Cocina | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1683_13_Cocina.png",
+		"url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL",
+		  "userAgent" : ""
+			}, {
+			"name": "13 Pop | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1033_13_Pop.png",
+		"url": "https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UCL",
+		  "userAgent" : ""
+			}, {
+			"name": "!3 Teleseries | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1032_13_Teleseries.png",
+		"url": "https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL",
+		  "userAgent" : ""
+			}, {
+			"name": "13 Festival | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1446_13_Festival.png",
+		"url": "https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL",
+		  "userAgent" : ""
+			}, {
+			"name": "13 Realities | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1448_13_Realities.png",
+		"url": "https://redirector.dps.live/hls/13realities/playlist.m3u8?PlaylistM3UCL",
+		  "userAgent" : ""
+			}, {
+			"name": "13 Viajes | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1684_13_Viajes.png",
+		"url": "https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL",
+		  "userAgent" : ""
+			}, {
+			"name": "13 Internacional | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1685_13_Internacional.png",
+		"url": "https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL",
+		  "userAgent" : ""
+			}, {
+			"name": "Camara de Diputados | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/445_Camara_de_Diputados.png",
+		"url": "https://camara.03.wl.cdnz.cl/camara19/live/playlist.m3u8?PlaylistM3UCL",
+		  "userAgent" : ""
+			}, {
+			"name": "Tv Senado | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/444_TV_Senado.png",
+		"url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL",
+		  "userAgent" : ""
+			}, {
+			"name": "D13 | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1199_D13.png",
+		"url": "https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL",
+		  "userAgent" : ""
 			}, {
 			"name": "VClassicTV | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/1160_VClassicTV.png",
