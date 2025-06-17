@@ -54,6 +54,19 @@
                               "referer" : "https://powerover.online/",
              "isHost": "true"   
                                     }, {
+       "name": "Movistar La Liga (Topembed) | ES 🇪🇸",
+			"image": "https://i.imgur.com/5lNTjn0.png",
+    "online":"true",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://topembed.pw/",
+    "url":"https://topembed.pw/channel/MLaliga[Spain]",
+    "isHost": "true"
+    }, {
+            "name": "Movistar La Liga (Miztv) | ES 🇪🇸",
+			"image": "https://i.imgur.com/5lNTjn0.png",
+     "url" : "https://miztv.top/stream/stream-84.php",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
                        "name": "Movistar La Liga (Letcast) | ES 🇪🇸",
 			"image": "https://i.imgur.com/5lNTjn0.png",
                         "url" :  "https://letcast.pro/steam.php?stream=4eLyr2RZq7v",
@@ -76,6 +89,14 @@
                        "url" : "https://enz.gdplayertv.to/live-tv/movistar-laliga/?embed=1",
      			 "embed" : "true"
          	 }, {
+       "name": "DAZN La Liga 720 (Topembed) | ES 🇪🇸",
+			"image": "https://i.imgur.com/Mql5aBD.png",
+    "online":"true",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://topembed.pw/",
+    "url":"https://topembed.pw/channel/DAZNLaliga[Spain]",
+    "isHost": "true"
+    },{
 			"name": "DAZN La Liga 720 (Wagontorch) | ES 🇪🇸",
 			"image": "https://i.imgur.com/Mql5aBD.png",
 			  "url" :  "https://wagontorch.net/embed/x2qidlx7",
@@ -139,6 +160,16 @@
 		"url":"https://topembed.pw/channel/ESPNDeportes[USA]",
 		"isHost": "true"
 		}, {
+              "name": "ESPN Deportes 720 (Miztv) | MX 🇲🇽",
+			"image": "https://i.imgur.com/cYvji3A.png",
+     "url" : "https://miztv.top/stream/stream-375.php",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
+       "name": "ESPN Deportes 720 (abbasport) | MX 🇲🇽",
+			"image": "https://i.imgur.com/cYvji3A.png",
+     "url" : "https://tutvlive.xyz/tvtodo/espn-deportes.php",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
   			"name": "ESPN Deportes 720 (abbasport) | MX 🇲🇽",
 			"image": "https://i.imgur.com/cYvji3A.png",
 			"online":"true",
@@ -178,7 +209,26 @@
 			"referer": "https://www.elixx.xyz/",
 				"url":"https://freckledine.net/embed/x2qidlx7",
 				"isHost": "true"
-			}, {
+			}, 
+      
+				"name": "Movistar Liga de Campeones 720 (Topembed) | ES 🇪🇸",
+			"image": "https://i.imgur.com/3PsaCB9.png",
+    "online":"true",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://topembed.pw/",
+    "url":"https://topembed.pw/channel/MovistarLigadeCampeones1[Spain]",
+    "isHost": "true"
+    }, {
+               	"name": "Movistar Liga de Campeones 720 (Miztv) | ES 🇪🇸",
+			"image": "https://i.imgur.com/3PsaCB9.png",
+     "url" : "https://miztv.top/stream/stream-435.php",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
+       "name": "Movistar Liga de Campeones 720 (Tutvlive) | ES 🇪🇸",
+			"image": "https://i.imgur.com/3PsaCB9.png",
+     "url" : "https://tutvlive.xyz/tvtodo/mligacampeones.php",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
 				"name": "Movistar Liga de Campeones 720 (Streamingon) | ES 🇪🇸",
 			"image": "https://i.imgur.com/3PsaCB9.png",
 				"online":"true",
