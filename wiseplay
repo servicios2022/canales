@@ -195,19 +195,12 @@
 			"referer": "https://www.tvplusgratis2.com/",
 				"url": "https://www.tvplusgratis2.com/tnt-sports-chile-en-vivo.html",
 			"isHost": "true"
-				}, 
-
-		  {
+				},  {
 		"name": "TNT Sports Premium Chile (GDPlayer) | CL 🇨🇱",
                     "image": "https://i.imgur.com/f2glGr9.png",
                        "url" : "https://enz.gdplayertv.to/live-tv/tnt-sports-cl/?embed=1",
      			 "embed" : "true"
-         	 }, {
-		"name": "TNT Sports Premium Chile (ElCanalDeportivo) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/ItEH0oC.png",
-                       "url" : "https://elcanaldeportivo.com/cdf.php",
-     			 "embed" : "true"
-         	 }, {
+         	 },  {
         "name": "DirecTv Sports 720p (Tutvlive) | AR 🇦🇷",
 			"image": "https://i.imgur.com/NUGOqdT.png",
      "url" : "https://tutvlive.xyz/tvtodo/dsports.php",
