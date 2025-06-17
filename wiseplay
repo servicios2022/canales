@@ -170,15 +170,7 @@
 			"url": "https://streamdp1.xyz/global1.php?channel=tntsportschile",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                },   {
-			"name": "TNT Sports Chile 720 (1111) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/f2glGr9.png",
-		"online":"true",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-		"referer": "https://elcanaldeportivo.com",
-		"url":"https://elcanaldeportivo.com/cdf.php",
-		"isHost": "true"
-		}, {
+                }, {
 			"name": "TNT Sports Chile 720 (Miztv) | CL 🇨🇱",
                     "image": "https://i.imgur.com/f2glGr9.png",
 		"online":"true",
@@ -214,6 +206,11 @@
 		"name": "TNT Sports Premium Chile (Link) | CL 🇨🇱",
                     "image": "https://i.imgur.com/ItEH0oC.png",
                        "url" : "https://deporte-libre.link/en-vivo-online/tnt-sports-chile/embed3.php",
+     			 "embed" : "true"
+         	 },  {
+		"name": "TNT Sports Premium Chile (ElCanalDeportivo) | CL 🇨🇱",
+                    "image": "https://i.imgur.com/ItEH0oC.png",
+                       "url" : "https://elcanaldeportivo.com/cdf.php",
      			 "embed" : "true"
          	 }, {
         "name": "DirecTv Sports 720p (Tutvlive) | AR 🇦🇷",
