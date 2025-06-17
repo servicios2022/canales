@@ -984,13 +984,6 @@
 		"url":"https://telegratuita.com/en-vivo/americatv.php",
 		"isHost": "true"
 		}, {
-				   "name": "America Tv | PE 🇵🇪",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png",
-			"online": "true",
-			"referer": "https://mihd.tv/",
-				"url": "https://mihd.tv/america-tv-en-vivo-por-internet.html",
-			"isHost": "true"
-				}, {
                      "name": "ATV | PE 🇵🇪",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ATV_Peru_2025.svg/2560px-ATV_Peru_2025.svg.png",
 		 "url" : "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
@@ -1001,6 +994,13 @@
 		 "url" : "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?PlaylistM3UCL",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
+				   "name": "America Tv | PE 🇵🇪",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png",
+			"online": "true",
+			"referer": "https://mihd.tv/",
+				"url": "https://mihd.tv/america-tv-en-vivo-por-internet.html",
+			"isHost": "true"
+				}, {
                      "name": "Tv Peru | PE 🇵🇪",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/2560px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",
 		 "url" : "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8",
