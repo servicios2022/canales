@@ -47,216 +47,7 @@
 "image": "https://static.wixstatic.com/media/603da4_cff0a56da59a43ba88f862dbee0ae230~mv2.gif",
 "stations":[
  
-{
-			   "name": "Movistar La Liga (Bleedfilter) | ES 🇪🇸",
-			"image": "https://i.imgur.com/5lNTjn0.png",
-			"url" : "https://bleedfilter.net/embed/orfaxhrsmbdogv?color=45A5F4",
-                              "referer" : "https://powerover.online/",
-             "isHost": "true"   
-                                    }, {
-            "name": "Movistar La Liga (Miztv) | ES 🇪🇸",
-			"image": "https://i.imgur.com/5lNTjn0.png",
-     "url" : "https://miztv.top/stream/stream-84.php",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-       "name": "Movistar La Liga (Topembed) | ES 🇪🇸",
-			"image": "https://i.imgur.com/5lNTjn0.png",
-    "online":"true",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-    "referer": "https://topembed.pw/",
-    "url":"https://topembed.pw/channel/MLaliga[Spain]",
-    "isHost": "true"
-    },  {
-                       "name": "Movistar La Liga (Letcast) | ES 🇪🇸",
-			"image": "https://i.imgur.com/5lNTjn0.png",
-                        "url" :  "https://letcast.pro/steam.php?stream=4eLyr2RZq7v",
-		         "referer" : "https://hyperstream.click/",
-			 "isHost":"true"
-                },  {
-			  "name": "Movistar La Liga (Wikihznew) | ES 🇪🇸",
-			"image": "https://i.imgur.com/5lNTjn0.png",
-		  "url" :  "https://wikihznew.newkso.ru/wikihz/wiki68/mono.m3u8",
-			 "userAgent":""
-                                                       }, {
-                                     "name": "Movistar La Liga (Laceaccept) | ES 🇪🇸",
-			"image": "https://i.imgur.com/5lNTjn0.png",
-        		           "url" :  "https://laceaccept.net/embed/8xjdm9xmx8ys",
-		                  "referer" : "https://tarjetarojaenvivo.lat/",
-			 "isHost":"true"
-                                                        },  {
-		 "name": "Movistar La Liga (Gdplayer) | ES 🇪🇸",
-			"image": "https://i.imgur.com/5lNTjn0.png",
-                       "url" : "https://enz.gdplayertv.to/live-tv/movistar-laliga/?embed=1",
-     			 "embed" : "true"
-         	 }, {
-       "name": "DAZN La Liga 720 (Topembed) | ES 🇪🇸",
-			"image": "https://i.imgur.com/Mql5aBD.png",
-    "online":"true",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-    "referer": "https://topembed.pw/",
-    "url":"https://topembed.pw/channel/DAZNLaliga[Spain]",
-    "isHost": "true"
-    }, {
-			"name": "DAZN La Liga 720 (Wagontorch) | ES 🇪🇸",
-			"image": "https://i.imgur.com/Mql5aBD.png",
-			  "url" :  "https://wagontorch.net/embed/x2qidlx7",
-		"referer" : "https://buzztv.futbol/",
-			 "isHost":"true" 
-                         }, {
-			"name": "DAZN La Liga 720 (Freckledine) | ES 🇪🇸",
-			"image": "https://i.imgur.com/Mql5aBD.png",
-		      	 "url" :  "https://freckledine.net/embed/x2qidlx7",
-		                   "referer" : "https://www.elixx.xyz/",
-			 "isHost":"true"
-                       }, {
-			"name": "DAZN La Liga 720 (Jointexploit) | ES 🇪🇸",
-			"image": "https://i.imgur.com/Mql5aBD.png",
-	                                    "url" :  "https://jointexploit.net/embed/x2qidlx7",
-		                   "referer" : "https://buzztv.futbol/",
-			 "isHost":"true" 
-                        }, {
-			"name": "DAZN La Liga (Fuelcarrer) | ES 🇪🇸",
-			"image": "https://i.imgur.com/Mql5aBD.png",
-			"online":"true",
-			"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-			"referer": "https://tarjetarojaenvivo.lat/",
-			"url":"https://fuelcareer.net/embed/5k7zb7n",
-			"isHost": "true"
-			},  {
-		"name": "DAZN La Liga (Laceaccept) | ES 🇪🇸",
-			"image": "https://i.imgur.com/Mql5aBD.png",
-		"online":"true",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-		"referer": "https://tarjetarojaenvivo.lat/",
-		"url":"https://laceaccept.net/embed/w2iuo",
-		"isHost": "true"
-		}, {
-         "name": "DAZN La Liga (Welivesport) | ES 🇪🇸",
-			"image": "https://i.imgur.com/Mql5aBD.png",
-        "url": "https://welivesport.shop/embed/daznlaliga.php",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":"true"
-        },  {
-		  "name": "DAZN La Liga (Letscast) | ES 🇪🇸",
-			"image": "https://i.imgur.com/Mql5aBD.png",
-			"url" : "https://letscast.pro/steam.php?stream=YJ8krnYwZrR",
-                              "referer" : "https://livestreams.click/",
-             "isHost": "true"   
-                                     }, 
 
- {
-                      "name": "ESPN Deportes 720 (190) | MX 🇲🇽",
-			"image": "https://i.imgur.com/cYvji3A.png",
-                        "url" : "http://190.92.10.66:4000/play/a003/index.m3u8",
-           		 "userAgent": ""
-                          }, {
-		"name": "ESPN Deportes 720 (Topembed) | MX 🇲🇽",
-			"image": "https://i.imgur.com/cYvji3A.png",
-		"online":"true",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-		"referer": "https://topembed.pw/",
-		"url":"https://topembed.pw/channel/ESPNDeportes[USA]",
-		"isHost": "true"
-		}, {
-              "name": "ESPN Deportes 720 (Miztv) | MX 🇲🇽",
-			"image": "https://i.imgur.com/cYvji3A.png",
-     "url" : "https://miztv.top/stream/stream-375.php",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-       "name": "ESPN Deportes 720 (Tutvlive) | MX 🇲🇽",
-			"image": "https://i.imgur.com/cYvji3A.png",
-     "url" : "https://tutvlive.xyz/tvtodo/espn-deportes.php",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-  			"name": "ESPN Deportes 720 (abbasport) | MX 🇲🇽",
-			"image": "https://i.imgur.com/cYvji3A.png",
-			"online":"true",
-			"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-			"referer": "https://abbasport.site/",
-			"url":"https://abbasport.site/espndeportes.php",
-			"isHost": "true"
-			},  {
-			"name": "ESPN Deportes (Fuelcarrer) | MX 🇲🇽",
-			"image": "https://i.imgur.com/cYvji3A.png",
-			"online":"true",
-				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer": "https://tarjetarojaenvivo.lat/",
-				"url":"https://fuelcareer.net/embed/lf445b",
-				"isHost": "true"
-				}, {
-				"name": "ESPN Deportes (Laceaccept) | MX 🇲🇽",
-			"image": "https://i.imgur.com/cYvji3A.png",
-				"online":"true",
-			"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-			"referer": "https://tarjetarojaenvivo.lat/",
-				"url":"https://laceaccept.net/embed/rq4g6",
-			"isHost": "true"
-				},  {
-                      "name": "ESPN Deportes (Cdnnew) | MX 🇲🇽",
-			"image": "https://i.imgur.com/cYvji3A.png",
-                        "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono86/mono.m3u8",
-           		 "userAgent": ""
-                          },  
-
-
-			{
-               	"name": "Movistar Liga de Campeones 720 (Miztv) | ES 🇪🇸",
-			"image": "https://i.imgur.com/3PsaCB9.png",
-     "url" : "https://miztv.top/stream/stream-435.php",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-       "name": "Movistar Liga de Campeones 720 (Tutvlive) | ES 🇪🇸",
-			"image": "https://i.imgur.com/3PsaCB9.png",
-     "url" : "https://tutvlive.xyz/tvtodo/mligacampeones.php",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-                        "name": "Movistar Liga de Campeones 720 (freckledine) | ES 🇪🇸",
-			"image": "https://i.imgur.com/3PsaCB9.png",
-				"online":"true",
-			"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-			"referer": "https://www.elixx.xyz/",
-				"url":"https://freckledine.net/embed/x2qidlx7",
-				"isHost": "true"
-			}, {
-	"name": "Movistar Liga de Campeones 720 (Topembed) | ES 🇪🇸",
-			"image": "https://i.imgur.com/3PsaCB9.png",
-    "online":"true",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-    "referer": "https://topembed.pw/",
-    "url":"https://topembed.pw/channel/MovistarLigadeCampeones1[Spain]",
-    "isHost": "true"
-    },  {
-				"name": "Movistar Liga de Campeones 720 (Streamingon) | ES 🇪🇸",
-			"image": "https://i.imgur.com/3PsaCB9.png",
-				"online":"true",
-			"referer": "https://streamingon.org/",
-				"url":"https://streamingon.org/embed/hd-1.php",
-				"isHost": "true"
-				},  {
-			   "name": "Movistar Liga de Campeones (Jointexplot) | ES 🇪🇸",
-			"image": "https://i.imgur.com/3PsaCB9.png",
-	                                    "url" :  "https://jointexploit.net/embed/x2qidlx7",
-		                   "referer" : "https://buzztv.futbol/",
-			 "isHost":"true" 
-                        }, {
-                     "name": "Movistar Liga de Campeones (Catchthrust) | ES 🇪🇸",
-			"image": "https://i.imgur.com/3PsaCB9.png",
-			"url" :  "https://catchthrust.net/embed/opthng68di66m",
-		                  "referer" : "https://tarjetarojaenvivo.lat/",
-			 "isHost":"true"
-                                  }, {
-			  "name": "Movistar Liga de Campeones (Supertipzz) | ES 🇪🇸",
-			"image": "https://i.imgur.com/3PsaCB9.png",
-		                    "url" :  "https://supertipzz.online/tip/6.php",
-			 "isHost":"true"
-                            }, {
-                     "name": "Real Madrid Tv | ES 🇪🇸",
-			"image": "https://graph.facebook.com/RealMadrid/picture?width=200&height=200",
-		 "url" : "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },
 
 		
 		 {
@@ -919,7 +710,216 @@
 			"image": "https://i.imgur.com/R8c4qIq.png",
 		"url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
 		  "userAgent" : ""
-			}, 
+			}, {
+			   "name": "Movistar La Liga (Bleedfilter) | ES 🇪🇸",
+			"image": "https://i.imgur.com/5lNTjn0.png",
+			"url" : "https://bleedfilter.net/embed/orfaxhrsmbdogv?color=45A5F4",
+                              "referer" : "https://powerover.online/",
+             "isHost": "true"   
+                                    }, {
+            "name": "Movistar La Liga (Miztv) | ES 🇪🇸",
+			"image": "https://i.imgur.com/5lNTjn0.png",
+     "url" : "https://miztv.top/stream/stream-84.php",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
+       "name": "Movistar La Liga (Topembed) | ES 🇪🇸",
+			"image": "https://i.imgur.com/5lNTjn0.png",
+    "online":"true",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://topembed.pw/",
+    "url":"https://topembed.pw/channel/MLaliga[Spain]",
+    "isHost": "true"
+    },  {
+                       "name": "Movistar La Liga (Letcast) | ES 🇪🇸",
+			"image": "https://i.imgur.com/5lNTjn0.png",
+                        "url" :  "https://letcast.pro/steam.php?stream=4eLyr2RZq7v",
+		         "referer" : "https://hyperstream.click/",
+			 "isHost":"true"
+                },  {
+			  "name": "Movistar La Liga (Wikihznew) | ES 🇪🇸",
+			"image": "https://i.imgur.com/5lNTjn0.png",
+		  "url" :  "https://wikihznew.newkso.ru/wikihz/wiki68/mono.m3u8",
+			 "userAgent":""
+                                                       }, {
+                                     "name": "Movistar La Liga (Laceaccept) | ES 🇪🇸",
+			"image": "https://i.imgur.com/5lNTjn0.png",
+        		           "url" :  "https://laceaccept.net/embed/8xjdm9xmx8ys",
+		                  "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
+                                                        },  {
+		 "name": "Movistar La Liga (Gdplayer) | ES 🇪🇸",
+			"image": "https://i.imgur.com/5lNTjn0.png",
+                       "url" : "https://enz.gdplayertv.to/live-tv/movistar-laliga/?embed=1",
+     			 "embed" : "true"
+         	 }, {
+       "name": "DAZN La Liga 720 (Topembed) | ES 🇪🇸",
+			"image": "https://i.imgur.com/Mql5aBD.png",
+    "online":"true",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://topembed.pw/",
+    "url":"https://topembed.pw/channel/DAZNLaliga[Spain]",
+    "isHost": "true"
+    }, {
+			"name": "DAZN La Liga 720 (Wagontorch) | ES 🇪🇸",
+			"image": "https://i.imgur.com/Mql5aBD.png",
+			  "url" :  "https://wagontorch.net/embed/x2qidlx7",
+		"referer" : "https://buzztv.futbol/",
+			 "isHost":"true" 
+                         }, {
+			"name": "DAZN La Liga 720 (Freckledine) | ES 🇪🇸",
+			"image": "https://i.imgur.com/Mql5aBD.png",
+		      	 "url" :  "https://freckledine.net/embed/x2qidlx7",
+		                   "referer" : "https://www.elixx.xyz/",
+			 "isHost":"true"
+                       }, {
+			"name": "DAZN La Liga 720 (Jointexploit) | ES 🇪🇸",
+			"image": "https://i.imgur.com/Mql5aBD.png",
+	                                    "url" :  "https://jointexploit.net/embed/x2qidlx7",
+		                   "referer" : "https://buzztv.futbol/",
+			 "isHost":"true" 
+                        }, {
+			"name": "DAZN La Liga (Fuelcarrer) | ES 🇪🇸",
+			"image": "https://i.imgur.com/Mql5aBD.png",
+			"online":"true",
+			"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+			"referer": "https://tarjetarojaenvivo.lat/",
+			"url":"https://fuelcareer.net/embed/5k7zb7n",
+			"isHost": "true"
+			},  {
+		"name": "DAZN La Liga (Laceaccept) | ES 🇪🇸",
+			"image": "https://i.imgur.com/Mql5aBD.png",
+		"online":"true",
+		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "https://tarjetarojaenvivo.lat/",
+		"url":"https://laceaccept.net/embed/w2iuo",
+		"isHost": "true"
+		}, {
+         "name": "DAZN La Liga (Welivesport) | ES 🇪🇸",
+			"image": "https://i.imgur.com/Mql5aBD.png",
+        "url": "https://welivesport.shop/embed/daznlaliga.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },  {
+		  "name": "DAZN La Liga (Letscast) | ES 🇪🇸",
+			"image": "https://i.imgur.com/Mql5aBD.png",
+			"url" : "https://letscast.pro/steam.php?stream=YJ8krnYwZrR",
+                              "referer" : "https://livestreams.click/",
+             "isHost": "true"   
+                                     }, 
+
+ {
+                      "name": "ESPN Deportes 720 (190) | MX 🇲🇽",
+			"image": "https://i.imgur.com/cYvji3A.png",
+                        "url" : "http://190.92.10.66:4000/play/a003/index.m3u8",
+           		 "userAgent": ""
+                          }, {
+		"name": "ESPN Deportes 720 (Topembed) | MX 🇲🇽",
+			"image": "https://i.imgur.com/cYvji3A.png",
+		"online":"true",
+		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "https://topembed.pw/",
+		"url":"https://topembed.pw/channel/ESPNDeportes[USA]",
+		"isHost": "true"
+		}, {
+              "name": "ESPN Deportes 720 (Miztv) | MX 🇲🇽",
+			"image": "https://i.imgur.com/cYvji3A.png",
+     "url" : "https://miztv.top/stream/stream-375.php",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
+       "name": "ESPN Deportes 720 (Tutvlive) | MX 🇲🇽",
+			"image": "https://i.imgur.com/cYvji3A.png",
+     "url" : "https://tutvlive.xyz/tvtodo/espn-deportes.php",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
+  			"name": "ESPN Deportes 720 (abbasport) | MX 🇲🇽",
+			"image": "https://i.imgur.com/cYvji3A.png",
+			"online":"true",
+			"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+			"referer": "https://abbasport.site/",
+			"url":"https://abbasport.site/espndeportes.php",
+			"isHost": "true"
+			},  {
+			"name": "ESPN Deportes (Fuelcarrer) | MX 🇲🇽",
+			"image": "https://i.imgur.com/cYvji3A.png",
+			"online":"true",
+				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+				"referer": "https://tarjetarojaenvivo.lat/",
+				"url":"https://fuelcareer.net/embed/lf445b",
+				"isHost": "true"
+				}, {
+				"name": "ESPN Deportes (Laceaccept) | MX 🇲🇽",
+			"image": "https://i.imgur.com/cYvji3A.png",
+				"online":"true",
+			"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+			"referer": "https://tarjetarojaenvivo.lat/",
+				"url":"https://laceaccept.net/embed/rq4g6",
+			"isHost": "true"
+				},  {
+                      "name": "ESPN Deportes (Cdnnew) | MX 🇲🇽",
+			"image": "https://i.imgur.com/cYvji3A.png",
+                        "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono86/mono.m3u8",
+           		 "userAgent": ""
+                          },  
+
+
+			{
+               	"name": "Movistar Liga de Campeones 720 (Miztv) | ES 🇪🇸",
+			"image": "https://i.imgur.com/3PsaCB9.png",
+     "url" : "https://miztv.top/stream/stream-435.php",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
+       "name": "Movistar Liga de Campeones 720 (Tutvlive) | ES 🇪🇸",
+			"image": "https://i.imgur.com/3PsaCB9.png",
+     "url" : "https://tutvlive.xyz/tvtodo/mligacampeones.php",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
+                        "name": "Movistar Liga de Campeones 720 (freckledine) | ES 🇪🇸",
+			"image": "https://i.imgur.com/3PsaCB9.png",
+				"online":"true",
+			"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+			"referer": "https://www.elixx.xyz/",
+				"url":"https://freckledine.net/embed/x2qidlx7",
+				"isHost": "true"
+			}, {
+	"name": "Movistar Liga de Campeones 720 (Topembed) | ES 🇪🇸",
+			"image": "https://i.imgur.com/3PsaCB9.png",
+    "online":"true",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://topembed.pw/",
+    "url":"https://topembed.pw/channel/MovistarLigadeCampeones1[Spain]",
+    "isHost": "true"
+    },  {
+				"name": "Movistar Liga de Campeones 720 (Streamingon) | ES 🇪🇸",
+			"image": "https://i.imgur.com/3PsaCB9.png",
+				"online":"true",
+			"referer": "https://streamingon.org/",
+				"url":"https://streamingon.org/embed/hd-1.php",
+				"isHost": "true"
+				},  {
+			   "name": "Movistar Liga de Campeones (Jointexplot) | ES 🇪🇸",
+			"image": "https://i.imgur.com/3PsaCB9.png",
+	                                    "url" :  "https://jointexploit.net/embed/x2qidlx7",
+		                   "referer" : "https://buzztv.futbol/",
+			 "isHost":"true" 
+                        }, {
+                     "name": "Movistar Liga de Campeones (Catchthrust) | ES 🇪🇸",
+			"image": "https://i.imgur.com/3PsaCB9.png",
+			"url" :  "https://catchthrust.net/embed/opthng68di66m",
+		                  "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
+                                  }, {
+			  "name": "Movistar Liga de Campeones (Supertipzz) | ES 🇪🇸",
+			"image": "https://i.imgur.com/3PsaCB9.png",
+		                    "url" :  "https://supertipzz.online/tip/6.php",
+			 "isHost":"true"
+                            }, {
+                     "name": "Real Madrid Tv | ES 🇪🇸",
+			"image": "https://graph.facebook.com/RealMadrid/picture?width=200&height=200",
+		 "url" : "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         },
 			
 			
 
