@@ -985,15 +985,7 @@
 			"image": "https://cdn.m3u.cl/logo/1657_Latina.png",
 		 "url" : "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?PlaylistM3UCL",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },  {
-		   "name": "America Tv | PE 🇵🇪",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png",
-		"online":"true",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-		"referer": "https://tutvlive.xyz",
-		"url":"https://tutvlive.xyz/tvtodo/america-tv.php",
-		"isHost": "true"
-		}, {
+                                         }, {
 				   "name": "America Tv | PE 🇵🇪",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png",
 			"online": "true",
