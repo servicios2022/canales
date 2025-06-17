@@ -1144,7 +1144,15 @@
 			"image": "https://i.imgur.com/9piuN0T.png",
 		 "url" : "https://tutvlive.xyz/tvtodo/telemundo.php",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },   {
+                                         },  {
+			 "name": "Telemundo 720 (Link) | US 🇺🇸",
+			"image": "https://i.imgur.com/9piuN0T.png",
+		"online":"true",
+		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+		"referer": "https://deporte-libre.link",
+		"url":"https://deporte-libre.link/stream/stream-131.php",
+		"isHost": "true"
+		},  {
 		 "name": "Telemundo (GDPlayer) | US 🇺🇸",
 			"image": "https://i.imgur.com/9piuN0T.png",
                        "url" : "https://idx.gdplayertv.to/live-tv/telemundo/?embed=1",
@@ -1171,13 +1179,13 @@
 			"referer": "https://mihd.tv/",
 				"url": "https://mihd.tv/univision-en-vivo-por-internet.html",
 			"isHost": "true"
-				}, {
-			  "name": "Univision 1080 (Topembed) | US 🇺🇸",
+				},  {
+			  "name": "Univision (Link) | US 🇺🇸",
 			"image": "https://i.imgur.com/b5III2Y.png",
 		"online":"true",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-		"referer": "https://topembed.pw/",
-		"url":"https://topembed.pw/channel/Univision[USA]",
+		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+		"referer": "https://deporte-libre.link",
+		"url":"https://deporte-libre.link/stream/stream-132.php",
 		"isHost": "true"
 		},  {
 		  "name": "Univision 1080 (GDPlayer) | US 🇺🇸",
