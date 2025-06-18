@@ -1367,6 +1367,11 @@
 			"image": "https://cdn.m3u.cl/logo/458_TV_.png",
 		"url": "https://jireh-2-hls-video-cl-mundo.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream2/chunks.m3u8",
 		  "userAgent" : ""
+			}, {
+				"name": "Zona Latina 1080 | CL 🇨🇱",
+			"image": "https://assets.tvdaldia.cl/uploads/img/cartelera/logos/zonalatina.png",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/zonalatinahdchi/vxfmt=dp/h_7fa2599653468527500866b37420e2e8/var5600000/vid/playlist.m3u8?device_profile=hls_hlsdrm_verimatrix",
+		  "userAgent" : ""
 			},  {
 			"name": "CNN Chile | CL 🇨🇱",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/250px-CNN_Chile_logo_2017.svg.png",
