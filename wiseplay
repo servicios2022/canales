@@ -301,6 +301,11 @@
                    "referer" : "https://tarjetarojaenvivo.lat/",
 					"isHost":"true"
                   },  {
+			"name": "ESPN Chile | CL 🇨🇱",
+			"image": "https://i.imgur.com/MFhpD4D.png",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/espn2hdchi/vxfmt=dp/h_d5ce3db706cc0e0a8fa1dadedd7f712c/var5600000/vid/playlist.m3u8?device_profile=hls_hlsdrm_verimatrix",
+		  "userAgent" : ""
+			}, {
 		   "name": "ESPN Chile (MiHD) | CL 🇨🇱",
 			"image": "https://i.imgur.com/MFhpD4D.png",
 			"online": "true",
@@ -446,7 +451,10 @@
 			"image": "https://i.imgur.com/ItEH0oC.png",
                        "url" : "https://enz.gdplayertv.to/live-tv/tnt-sports-ag/?embed=1",
      			 "embed" : "true"
-         	 }, {
+         	 },
+
+
+{
                   "name": "ESPN Premium Argentina 1080 (190) | AR 🇦🇷",
 			"image": "https://i.imgur.com/5qTHLGy.png",
 		 "url" : "http://190.102.246.93:9005/play/a00x",
