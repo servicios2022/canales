@@ -1372,6 +1372,11 @@
 			"image": "https://assets.tvdaldia.cl/uploads/img/cartelera/logos/zonalatina.png",
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/zonalatinahdchi/vxfmt=dp/h_7fa2599653468527500866b37420e2e8/var5600000/vid/playlist.m3u8?device_profile=hls_hlsdrm_verimatrix",
 		  "userAgent" : ""
+			}, {
+				"name": "Via X 1080 | CL 🇨🇱",
+			"image": "https://yt3.googleusercontent.com/FRBaUsCPn6CQdhmR-XxlmdD7JGk8hPZfppkZY2FQS3CC6ZK5AUG6rxPTSk9yi3WDbqbHRTlH=s900-c-k-c0x00ffffff-no-rj",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/viaxhdchi/vxfmt=dp/h_1d0d72a527daaa22c570ddc62c4898fa/var5600000/vid/playlist.m3u8?device_profile=hls_hlsdrm_verimatrix",
+		  "userAgent" : ""
 			},  {
 			"name": "CNN Chile | CL 🇨🇱",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/250px-CNN_Chile_logo_2017.svg.png",
