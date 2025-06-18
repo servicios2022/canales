@@ -1392,7 +1392,12 @@
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/250px-CNN_Chile_logo_2017.svg.png",
 		"url": "https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8",
 		  "userAgent" : ""
-			}, 
+			}, {
+				"name": "24 Horas 1080 | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png",
+		"url": "http://live1.cl.cdn.lla.vtrplay.com/24hhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		  "userAgent" : ""
+			},
 
 
 
