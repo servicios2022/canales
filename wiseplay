@@ -305,6 +305,16 @@
 			"image": "https://i.imgur.com/MFhpD4D.png",
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/espn2hdchi/vxfmt=dp/h_d5ce3db706cc0e0a8fa1dadedd7f712c/var5600000/vid/playlist.m3u8?device_profile=hls_hlsdrm_verimatrix",
 		  "userAgent" : ""
+			},  {
+			"name": "ESPN Latinoamerica | CL 🇨🇱",
+			"image": "https://i.imgur.com/MFhpD4D.png",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/espnhdchi/vxfmt=dp/h_2ac9590682f769b484d22ba80efc660c/var5600000/vid/playlist.m3u8?device_profile=hls_hlsdrm_verimatrix",
+		  "userAgent" : ""
+			},  {
+			"name": "ESPN Latinoamerica | CL 🇨🇱",
+			"image": "https://i.imgur.com/MFhpD4D.png",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/espnhdchi/vxfmt=dp/h_2ac9590682f769b484d22ba80efc660c/var5600000/vid/playlist.m3u8?device_profile=hls_hlsdrm_verimatrix",
+		  "userAgent" : ""
 			}, {
 		   "name": "ESPN Chile (MiHD) | CL 🇨🇱",
 			"image": "https://i.imgur.com/MFhpD4D.png",
