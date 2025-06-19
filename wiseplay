@@ -201,65 +201,6 @@
                        "url" : "https://enz.gdplayertv.to/live-tv/tnt-sports-cl/?embed=1",
      			 "embed" : "true"
          	 },  
-
- {
-		"name": "TNT Sports Pr0000000 (Streamdp) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/YTaeyss.png",
-			"url": "https://www.vertvcable.com/channel.php?id=ch_67fb064818ab3&token=VerTvCable.com",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },  {
-			"name": "TNT Spo222 (Miztv) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/f2glGr9.png",
-		"online":"true",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-		"referer": "https://8895.crackstreamslivehd.com",
-		"url":"https://www.vertvcable.com/channel.php?id=ch_67fb064818ab3&token=VerTvCable.com",
-		"isHost": "true"
-		}, {
-			"name": "TNT3333 (Miztv) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/f2glGr9.png",
-		"online":"true",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-		"referer": "https://8895.crackstreamslivehd.com",
-		"url":"https://www.vertvcable.com/win-sports-plus-en-vivo/",
-		"isHost": "true"
-		},  {
-		"name": "TNT Sport44444 (Streamdp) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/YTaeyss.png",
-			"url": "https://www.vertvcable.com/win-sports-plus-en-vivo/",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-		"name": "D55555(Link) | AR 🇦🇷",
-			"image": "https://i.imgur.com/NUGOqdT.png",
-		"online":"true",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-		"referer": "https://8895.crackstreamslivehd.com",
-		"url":"https://www.vertvcable.com/win-sports-plus-en-vivo/",
-		"isHost": "true"
-		},{
-		"name": "D666666(Link) | AR 🇦🇷",
-			"image": "https://i.imgur.com/NUGOqdT.png",
-		"online":"true",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-		"referer": "https://8895.crackstreamslivehd.com",
-		"url":"https://www.vertvcable.com/win-sports-plus-en-vivo/",
-		"isHost": "true"
-		}, {
-			"name": "77777 | CL 🇨🇱",
-			"image": "https://i.imgur.com/MFhpD4D.png",
-		"url": "https://www.vertvcable.com/win-sports-plus-en-vivo/",
-		  "userAgent" : ""
-			},  {
-			"name": "888888 | CL 🇨🇱",
-			"image": "https://i.imgur.com/MFhpD4D.png",
-		"url": "https://www.vertvcable.com/win-sports-plus-en-vivo/",
-		  "userAgent" : ""
-			}, 
-
-
-
 {
         "name": "DirecTv Sports 720p (Tutvlive) | AR 🇦🇷",
 			"image": "https://i.imgur.com/NUGOqdT.png",
