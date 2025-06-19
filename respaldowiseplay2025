@@ -200,7 +200,8 @@
                     "image": "https://i.imgur.com/f2glGr9.png",
                        "url" : "https://enz.gdplayertv.to/live-tv/tnt-sports-cl/?embed=1",
      			 "embed" : "true"
-         	 },  {
+         	 },  
+{
         "name": "DirecTv Sports 720p (Tutvlive) | AR 🇦🇷",
 			"image": "https://i.imgur.com/NUGOqdT.png",
      "url" : "https://tutvlive.xyz/tvtodo/dsports.php",
@@ -873,6 +874,19 @@
                         "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono86/mono.m3u8",
            		 "userAgent": ""
                           },  
+
+			 
+{ "name": "Liga de Campeones [ES]", 
+"image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
+"url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370" 
+}, { "name": "Liga  [ES]", 
+"image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
+"url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947" 
+},  {
+          "name": "TeleCinco",
+          "image": "https://www.movistarplus.es/recorte/m-NEO/canal/T5.png",
+          "url": "acestream://3d376333ee90d6db3d413fc5764ef635882076f5"
+        },
 
 
 			{
