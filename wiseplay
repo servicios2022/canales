@@ -1026,105 +1026,98 @@
 		  "userAgent" : ""
 			},
 {
-				"name": "Space (V) 1080 | CL 🇨🇱",
+				"name": "Discovery Kids | CL 🇨🇱",
 			"image": "https://i.imgur.com/RazPUFz.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/disckidshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			},
 {
-				"name": "Space (V) 1080 | CL 🇨🇱",
+				"name": "Azteca Cinema | CL 🇨🇱",
 			"image": "https://i.imgur.com/RazPUFz.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/azcinemasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			}, {
-				"name": "Space (V) 1080 | CL 🇨🇱",
+				"name": "FX | CL 🇨🇱",
 			"image": "https://i.imgur.com/RazPUFz.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/fxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			},{
-				"name": "Space (V) 1080 | CL 🇨🇱",
+				"name": "TCM | CL 🇨🇱",
 			"image": "https://i.imgur.com/RazPUFz.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/tcmsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			},{
-				"name": "Space (V) 1080 | CL 🇨🇱",
+				"name": "Studio Universal | CL 🇨🇱",
 			"image": "https://i.imgur.com/RazPUFz.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			},
 {
-				"name": "Space (V) 1080 | CL 🇨🇱",
+				"name": "Cinecanal | CL 🇨🇱",
 			"image": "https://i.imgur.com/RazPUFz.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			},
 {
-				"name": "Space (V) 1080 | CL 🇨🇱",
+				"name": "Cartoncito | CL 🇨🇱",
 			"image": "https://i.imgur.com/RazPUFz.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/boomeranghdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			}, {
-				"name": "Space (V) 1080 | CL 🇨🇱",
+				"name": "Cartoon Network | CL 🇨🇱",
 			"image": "https://i.imgur.com/RazPUFz.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			},{
-				"name": "Space (V) 1080 | CL 🇨🇱",
+				"name": "ESPN 3 | CL 🇨🇱",
 			"image": "https://i.imgur.com/RazPUFz.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/espn3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			},{
-				"name": "Space (V) 1080 | CL 🇨🇱",
+				"name": "ESPN 2 | CL 🇨🇱",
 			"image": "https://i.imgur.com/RazPUFz.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/espnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			},
 {
-				"name": "Space (V) 1080 | CL 🇨🇱",
+				"name": "A3Series | CL 🇨🇱",
 			"image": "https://i.imgur.com/RazPUFz.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			},
 {
-				"name": "Space (V) 1080 | CL 🇨🇱",
+				"name": "La Red | CL 🇨🇱",
 			"image": "https://i.imgur.com/RazPUFz.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/laredhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			}, {
-				"name": "Space (V) 1080 | CL 🇨🇱",
+				"name": "Mega 2 | CL 🇨🇱",
 			"image": "https://i.imgur.com/RazPUFz.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/megaplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			},{
-				"name": "Space (V) 1080 | CL 🇨🇱",
+				"name": "Vive Tv | CL 🇨🇱",
 			"image": "https://i.imgur.com/RazPUFz.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			},{
-				"name": "Space (V) 1080 | CL 🇨🇱",
+				"name": "Via X 2 | CL 🇨🇱",
 			"image": "https://i.imgur.com/RazPUFz.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/viax2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			},
 {
-				"name": "Space (V) 1080 | CL 🇨🇱",
+				"name": "Mega Ficcion | CL 🇨🇱",
 			"image": "https://i.imgur.com/RazPUFz.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/megaficcionhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			},
 {
-			  "name": "Discovery Turbo",
+			  "name": "T13",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/discoveryturbosdchi/vxfmt=dp/h_ec1048670ccf2686e4d6a641116065fd/var3200000/vid/playlist.m3u8?device_profile=hls_hlsdrm_verimatrix",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
-			}, {
-				   "name": "Discovery Turbo",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png",
-			"online": "true",
-			"referer": "https://mihd.tv/",
-				"url": "https://mihd.tv/discovery-turbo-en-vivo-por-internet.html",
-			"isHost": "true"
-				},   {
+			},  {
                      "name": "La 1 | ES 🇪🇸",
 			"image": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png",
 		 "url" : "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8",
