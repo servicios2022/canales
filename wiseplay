@@ -1094,6 +1094,26 @@
 			"image": "https://i.imgur.com/GobaF3p.png",
 		"url": "https://streamlov.alsolnet.com/maxanime/live/chunklist_w2071949212.m3u8",
 		  "userAgent" : ""
+			}, {
+                     "name": "Clan | ES 🇪🇸",
+			"image": "https://graph.facebook.com/clantve/picture?width=200&height=200",
+		 "url" : "https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         },  {
+                     "name": "PequeRadio Tv | ES 🇪🇸",
+			"image": "https://graph.facebook.com/Pequeradio/picture?width=200&height=200",
+		 "url" : "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         }, {
+				"name": "Kanade Tv | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1466_Kanade_TV.png",
+		"url": "https://scl.edge.grupoz.cl/transmision/live/chunklist_w626008328.m3u8",
+		  "userAgent" : ""
+			}, {
+				"name": "Kanade Tv | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1466_Kanade_TV.png",
+		"url": "https://scl.edge.grupoz.cl/transmision/live/chunklist_w626008328.m3u8",
+		  "userAgent" : ""
 			}, 
 
   {
@@ -1111,17 +1131,7 @@
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/2084px-Logo_Canal_24_horas.svg.png",
 		 "url" : "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-                     "name": "Clan | ES 🇪🇸",
-			"image": "https://graph.facebook.com/clantve/picture?width=200&height=200",
-		 "url" : "https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },  {
-                     "name": "PequeRadio Tv | ES 🇪🇸",
-			"image": "https://graph.facebook.com/Pequeradio/picture?width=200&height=200",
-		 "url" : "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },  {
+                                         },   {
                      "name": "Telefe 1080 | AR 🇦🇷",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
 		 "url" : "http://187.190.55.136:5501/udp/225.1.1.240:5240",
