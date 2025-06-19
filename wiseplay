@@ -351,7 +351,12 @@
 			"url": "https://stream196tp.com/global1.php?stream=espn2",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                }, {
+                },  {
+				  "name": "ESPN 3 | | CL 🇨🇱",
+			"image": "https://i.imgur.com/y3VGGV0.png",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/espn3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		  "userAgent" : ""
+			}, {
     	   "name": "ESPN 3 (Tutvlive) | AR 🇦🇷",
 			"image": "https://i.imgur.com/y3VGGV0.png",
      "url" : "https://tutvlive.xyz/tvtodo/espn-3.php",
@@ -723,6 +728,13 @@
 		"url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
 		  "userAgent" : ""
 			}, {
+				"name": "Golf Channel | CL 🇨🇱",
+			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_golfchannel.jpg",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/golfhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		  "userAgent" : ""
+			}, 
+
+{
 			   "name": "Movistar La Liga (Bleedfilter) | ES 🇪🇸",
 			"image": "https://i.imgur.com/5lNTjn0.png",
 			"url" : "https://bleedfilter.net/embed/orfaxhrsmbdogv?color=45A5F4",
@@ -986,17 +998,7 @@
 			"image": "https://i0.wp.com/playtv.cl/wp-content/uploads/2025/01/hboxtreme.jpg",
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/hboxtremehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
-			},{
-				"name": "Disney Junior | CL 🇨🇱",
-			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_disneyjunior.jpg",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},{
-				"name": "Dreamwork | CL 🇨🇱",
-			"image": "https://1000marcas.net/wp-content/uploads/2020/02/Dreamworks-Logo-1.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},
+			}, 
 {
 				"name": "USA Network | CL 🇨🇱",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1200px-USA_Network_logo_%282006%29.svg.png",
@@ -1004,12 +1006,7 @@
 		  "userAgent" : ""
 			},
 
-{
-				"name": "Golf Channel | CL 🇨🇱",
-			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_golfchannel.jpg",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/golfhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
+ {
 				"name": "TLC | CL 🇨🇱",
 			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_tlc.jpg",
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/disctlchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
@@ -1024,17 +1021,16 @@
 			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_discoveryturbo.jpg",
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/discoveryturbosdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
-			},
-{
-				"name": "Discovery Kids | CL 🇨🇱",
-			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_discoverykids.jpg",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/disckidshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},
+			}, 
 {
 				"name": "Azteca Cinema | CL 🇨🇱",
 			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/Cinema_Logo_Black.png",
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/azcinemasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		  "userAgent" : ""
+			}, {
+				"name": "A3Series | CL 🇨🇱",
+			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_a3s.jpg",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			}, {
 				"name": "FX | CL 🇨🇱",
@@ -1057,6 +1053,21 @@
 			"image": "https://i0.wp.com/playtv.cl/wp-content/uploads/2022/09/cinecanal.jpeg",
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
+			},{
+				"name": "Discovery Kids | CL 🇨🇱",
+			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_discoverykids.jpg",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/disckidshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		  "userAgent" : ""
+			}, {
+				"name": "Disney Junior | CL 🇨🇱",
+			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_disneyjunior.jpg",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		  "userAgent" : ""
+			},{
+				"name": "Dreamwork | CL 🇨🇱",
+			"image": "https://1000marcas.net/wp-content/uploads/2020/02/Dreamworks-Logo-1.png",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		  "userAgent" : ""
 			},
 {
 				"name": "Cartoncito | CL 🇨🇱",
@@ -1068,56 +1079,9 @@
 			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_cartoonnetwork.jpg",
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
-			},{
-				"name": "ESPN 3 | CL 🇨🇱",
-			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_espn3.jpg",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/espn3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},{
-				"name": "ESPN 2 | CL 🇨🇱",
-			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_espn2.jpg",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/espnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},
-{
-				"name": "A3Series | CL 🇨🇱",
-			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_a3s.jpg",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},
-{
-				"name": "La Red | CL 🇨🇱",
-			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_lared.jpg",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/laredhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
-				"name": "Mega 2 | CL 🇨🇱",
-			"image": "https://assets.tvdaldia.cl/uploads/img/cartelera/logos/mega2.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/megaplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},{
-				"name": "Vive Tv | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Vivetv.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},{
-				"name": "Via X 2 | CL 🇨🇱",
-			"image": "https://i.imgur.com/LIUoEdJ.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/viax2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},
-{
-				"name": "Mega Ficcion | CL 🇨🇱",
-			"image": "https://assets.tvdaldia.cl/uploads/img/cartelera/logos/megaficcion.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/megaficcionhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},
-{
-			  "name": "T13",
-			"image": "https://assets.tvdaldia.cl/uploads/img/cartelera/logos/t13.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},  {
+			}, 
+
+  {
                      "name": "La 1 | ES 🇪🇸",
 			"image": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png",
 		 "url" : "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8",
@@ -1561,6 +1525,38 @@
 				"name": "24 Horas 1080 | CL 🇨🇱",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png",
 		"url": "http://live1.cl.cdn.lla.vtrplay.com/24hhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		  "userAgent" : ""
+			}, {
+				"name": "La Red | CL 🇨🇱",
+			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_lared.jpg",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/laredhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		  "userAgent" : ""
+			}, {
+				"name": "Mega 2 | CL 🇨🇱",
+			"image": "https://assets.tvdaldia.cl/uploads/img/cartelera/logos/mega2.png",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/megaplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		  "userAgent" : ""
+			},{
+				"name": "Vive Tv | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Vivetv.png",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		  "userAgent" : ""
+			},{
+				"name": "Via X 2 | CL 🇨🇱",
+			"image": "https://i.imgur.com/LIUoEdJ.png",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/viax2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		  "userAgent" : ""
+			},
+{
+				"name": "Mega Ficcion | CL 🇨🇱",
+			"image": "https://assets.tvdaldia.cl/uploads/img/cartelera/logos/megaficcion.png",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/megaficcionhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		  "userAgent" : ""
+			},
+{
+			  "name": "T13",
+			"image": "https://assets.tvdaldia.cl/uploads/img/cartelera/logos/t13.png",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			},
 
