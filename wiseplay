@@ -1114,7 +1114,7 @@
 			},
 {
 			  "name": "T13",
-			"image": https://assets.tvdaldia.cl/uploads/img/cartelera/logos/t13.png",
+			"image": "https://assets.tvdaldia.cl/uploads/img/cartelera/logos/t13.png",
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			},  {
