@@ -1444,14 +1444,14 @@
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			}, {
-					"name": "Mega 1080 | CL 🇨🇱",
+					"name": "Mega (Online) 1080 | CL 🇨🇱",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
 			"online": "true",
 			"referer": "https://www.mega.cl/",
 				"url": "https://www.mega.cl/senal-en-vivo/",
 			"isHost": "true"
 				}, {
-			"name": "Mega 1080 | CL 🇨🇱",
+			"name": "Mega (Online) 1080 | CL 🇨🇱",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
 			"url": "https://www.mega.cl/senal-en-vivo/",
 		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
