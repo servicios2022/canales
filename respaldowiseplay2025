@@ -200,7 +200,8 @@
                     "image": "https://i.imgur.com/f2glGr9.png",
                        "url" : "https://enz.gdplayertv.to/live-tv/tnt-sports-cl/?embed=1",
      			 "embed" : "true"
-         	 },  
+         	 }, 
+
 {
         "name": "DirecTv Sports 720p (Tutvlive) | AR 🇦🇷",
 			"image": "https://i.imgur.com/NUGOqdT.png",
@@ -595,8 +596,12 @@
 			"url": "https://stream196tp.com/global1.php?stream=liga1max",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                }, 
-
+                }, {
+"name": "Liga 1 Max (VerTV) | PE 🇵🇪",
+			"image": "https://i.imgur.com/Wdtecos.png",
+                       "url" : "https://www.vertvcable.com/channel.php?id=ch_67fb0d0aa03d6",
+     			 "embed" : "true"
+         	 },
 		   {
 			"name": "Win Sports+ (Dokko) | CO 🇨🇴",
 			"image": "https://i.imgur.com/rzpcdnf.png",
@@ -608,7 +613,12 @@
 			"url": "https://streamdp1.xyz/global1.php?channel=winplus",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                }, {
+                },  {
+		    "name": "Win Sports+ (Vertv) | CO 🇨🇴",
+			"image": "https://i.imgur.com/rzpcdnf.png",
+                       "url" : "https://www.vertvcable.com/channel.php?id=ch_67fb064818ab3",
+     			 "embed" : "true"
+         	 }, {
 			"name": "VTV Plus (Nsfnew) | UY 🇺🇾",
 			"image": "https://i.imgur.com/TyfMsBw.png",
 			"url": "https://nfsnew.newkso.ru/nfs/premium391/mono.m3u8",
@@ -951,19 +961,13 @@
 }, { "name": "Liga 947 [ES]", 
 "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
 "url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947" 
-},  { "name": "Telecinco New Era 75b [ES]", 
+}, { "name": "Gol Play New Era a3a [ES]", 
+"image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
+"url": "acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a" 
+}, { "name": "Telecinco New Era 75b [ES]", 
 "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
 "url": "acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b" 
-}, { "name": "Telecinco New Era 7bf [ES]", 
-"image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
-"url": "acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf" 
-}, { "name": "Telecinco 333 [ES]", 
-"image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
-"url": "acestream://8670df538a11c6ec97b3f634981ddc4409ca0333" 
-}, { "name": "Telecinco 6f5 [ES]", 
-"image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
-"url": "acestream://3d376333ee90d6db3d413fc5764ef635882076f5" 
-},
+}, 
 			
 			
 
@@ -1158,12 +1162,22 @@
 		"referer": "https://telegratuita.com/",
 		"url":"https://telegratuita.com/en-vivo/telefe.php",
 		"isHost": "true"
-		}, {
+		},  {
+		  "name": "Telefe (VerTv) | AR 🇦🇷",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
+                       "url" : "https://www.vertvcable.com/channel.php?id=ch_67fbfa9f8ca3d",
+     			 "embed" : "true"
+         	 }, {
                      "name": "El Trece | AR 🇦🇷",
 			"image": "https://cdn.m3u.cl/logo/1358_El_Trece.png",
 		 "url" : "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
+		  "name": "Tv Publica (VerTv) | AR 🇦🇷",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",
+                       "url" : "https://www.vertvcable.com/channel.php?id=ch_67fc07e237b05",
+     			 "embed" : "true"
+         	 }, {
                      "name": "ATV | PE 🇵🇪",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ATV_Peru_2025.svg/2560px-ATV_Peru_2025.svg.png",
 		 "url" : "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
@@ -1196,13 +1210,18 @@
 		 "url" : "https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
-				   "name": "Caracol | CO 🇨🇴",
+				   "name": "Caracol (MiHD) | CO 🇨🇴",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
 			"online": "true",
 			"referer": "https://mihd.tv/",
 				"url": "https://mihd.tv/caracol-en-vivo-por-internet.html",
 			"isHost": "true"
-				}, {
+				},  {
+   "name": "Caracol (VerTv) | CO 🇨🇴",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
+                       "url" : "https://www.vertvcable.com/channel.php?id=ch_67fc1f3626ca2",
+     			 "embed" : "true"
+         	 }, {
                      "name": "Noticias Caracol | CO 🇨🇴",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/NOTICIAS_CARACOL.svg/1922px-NOTICIAS_CARACOL.svg.png",
 		 "url" : "https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8",
