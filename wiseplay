@@ -201,18 +201,16 @@
                        "url" : "https://enz.gdplayertv.to/live-tv/tnt-sports-cl/?embed=1",
      			 "embed" : "true"
          	 }, {
-			"name": "DirecTv Sports 720p (104) | AR 🇦🇷",
+		"name": "DirecTv Sports 720p (104) | AR 🇦🇷",
 			"image": "https://i.imgur.com/NUGOqdT.png",
-			"url": "http://104.238.205.28:8989/278758_.m3u8",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                },  {
+		"url": "http://104.238.205.28:8989/278758_.m3u8",
+		  "userAgent" : ""
+			}, {
 			"name": "DirecTv Sports 720p (200) | AR 🇦🇷",
 			"image": "https://i.imgur.com/NUGOqdT.png",
-			"url": "http://200.59.188.3:8000/play/a0xe",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
+		"url": "http://200.59.188.3:8000/play/a0xe",
+		  "userAgent" : ""
+			}, {
 		"name": "DirecTv Sports 720p (Topembed) | AR 🇦🇷",
 			"image": "https://i.imgur.com/NUGOqdT.png",
 		"online":"true",
