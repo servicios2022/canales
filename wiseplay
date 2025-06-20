@@ -239,66 +239,81 @@
                        "url" : "https://enz.gdplayertv.to/live-tv/tnt-sports-cl/?embed=1",
      			 "embed" : "true"
          	 }, {
-		"name": "DirecTv Sports 720p (104) | AR 🇦🇷",
+		"name": "DirecTv Sports 720p | AR 🇦🇷",
+"info":"[104]",
+        "online":"true",
 			"image": "https://i.imgur.com/NUGOqdT.png",
 		"url": "http://104.238.205.28:8989/278758_.m3u8",
 		  "userAgent" : ""
 			}, {
-			"name": "DirecTv Sports 720p (200) | AR 🇦🇷",
+			"name": "DirecTv Sports 720p | AR 🇦🇷",
+"info":"[200]",
+        "online":"true",
 			"image": "https://i.imgur.com/NUGOqdT.png",
 		"url": "http://200.59.188.3:8000/play/a0xe",
 		  "userAgent" : ""
 			}, {
-		"name": "DirecTv Sports 720p (Topembed) | AR 🇦🇷",
+		"name": "DirecTv Sports 720p | AR 🇦🇷",
+"info":"[Topembed]",
+        "online":"true",
 			"image": "https://i.imgur.com/NUGOqdT.png",
-		"online":"true",
 		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"referer": "https://topembed.pw/",
 		"url":"https://topembed.pw/channel/DirecTVSports[Argentina]",
 		"isHost": "true"
 		}, {
-		"name": "DirecTv Sports 720p (Topembed) | AR 🇦🇷",
+		"name": "DirecTv Sports 720p | AR 🇦🇷",
+"info":"[Topembed]",
+        "online":"true",
 			"image": "https://i.imgur.com/NUGOqdT.png",
-		"online":"true",
 		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"referer": "https://topembed.pw/",
 		"url":"https://topembed.pw/channel/DirecTV[Ecuador]",
 		"isHost": "true"
 		},  {
-        "name": "DirecTv Sports (Tutvlive) | AR 🇦🇷",
+        "name": "DirecTv Sports | AR 🇦🇷",
+"info":"[Tutvlive]",
+        "online":"true",
 			"image": "https://i.imgur.com/NUGOqdT.png",
      "url" : "https://tutvlive.xyz/tvtodo/dsports.php",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
-		"name": "DirecTv Sports (Link) | AR 🇦🇷",
+		"name": "DirecTv Sports | AR 🇦🇷",
+"info":"[Link]",
+        "online":"true",
 			"image": "https://i.imgur.com/NUGOqdT.png",
-		"online":"true",
 		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"referer": "https://deporte-libre.link/",
 		"url":"https://deporte-libre.link/en-vivo-online/dsports/embed2.php",
 		"isHost": "true"
 		},  {
-"name": "DirecTv Sports (Fuelcarrer) | AR 🇦🇷",
+"name": "DirecTv Sports | AR 🇦🇷",
+"info":"[Fuelcareer]",
+        "online":"true",
 			"image": "https://i.imgur.com/NUGOqdT.png",
-"online":"true",
 "referer": "https://tarjetarojaenvivo.lat/",
 "url":"https://fuelcareer.net/embed/4jva7tj642f9b",
 "isHost": "true"
 }, {
-"name": "DirecTv Sports (Laceaccept) | AR 🇦🇷",
+"name": "DirecTv Sports | AR 🇦🇷",
+"info":"[Laceaccept]",
+        "online":"true",
 			"image": "https://i.imgur.com/NUGOqdT.png",
-"online":"true",
 "referer": "https://tarjetarojaenvivo.lat/",
 "url":"https://laceaccept.net/embed/ehf5qe1r",
 "isHost": "true"
 }, {
-			"name": "DirecTv Sports (La14HD) | AR 🇦🇷",
+			"name": "DirecTv Sports | AR 🇦🇷",
+"info":"[La14HD]",
+        "online":"true",
 			"image": "https://i.imgur.com/NUGOqdT.png",
 			"url": "https://la14hd.com/vivo/canales.php?stream=dsports",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
-			"name": "DirecTv Sports (Streamdp) | AR 🇦🇷",
+			"name": "DirecTv Sports | AR 🇦🇷",
+"info":"[Streamdp]",
+        "online":"true",
 			"image": "https://i.imgur.com/NUGOqdT.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=dsports",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
@@ -307,13 +322,17 @@
 
 
  {
-			"name": "DirecTv Sports 2 (Streamdp) | AR 🇦🇷",
+			"name": "DirecTv Sports 2 | AR 🇦🇷",
+"info":"[Streamdp]",
+        "online":"true",
 			"image": "https://i.imgur.com/HI0yGFW.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=dsports2",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-			"name": "DirecTv Sports 2 (La14HD) | AR 🇦🇷",
+			"name": "DirecTv Sports 2 | AR 🇦🇷",
+"info":"[La14HD]",
+        "online":"true",
 			"image": "https://i.imgur.com/HI0yGFW.png",
 			"url": "https://la14hd.com/vivo/canales.php?stream=dsports2",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
