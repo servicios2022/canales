@@ -945,12 +945,24 @@
                                          }, 
 
 
-{ "name": "Liga de Campeones [ES]", 
+{ "name": "Liga de Campeones 370 [ES]", 
 "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
 "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370" 
-}, { "name": "Liga  [ES]", 
+}, { "name": "Liga 947 [ES]", 
 "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
 "url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947" 
+},  { "name": "Telecinco New Era 75b [ES]", 
+"image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
+"url": "acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b" 
+}, { "name": "Telecinco New Era 7bf [ES]", 
+"image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
+"url": "acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf" 
+}, { "name": "Telecinco 333 [ES]", 
+"image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
+"url": "acestream://8670df538a11c6ec97b3f634981ddc4409ca0333" 
+}, { "name": "Telecinco 6f5 [ES]", 
+"image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
+"url": "acestream://3d376333ee90d6db3d413fc5764ef635882076f5" 
 },
 			
 			
@@ -967,30 +979,9 @@
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			}, {
-				"name": "TNT Novelas | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/tbshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-",
-		  "userAgent" : ""
-			},{
-				"name": "TNT Series | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/tntserieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},{
 				"name": "TNT | CL 🇨🇱",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png",
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/tnthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
-				"name": "Azteca Cinema | CL 🇨🇱",
-			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/Cinema_Logo_Black.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/azcinemasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
-				"name": "A3Series | CL 🇨🇱",
-			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_a3s.jpg",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			}, {
 				"name": "FX | CL 🇨🇱",
@@ -1034,6 +1025,27 @@
 				"name": "USA Network | CL 🇨🇱",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1200px-USA_Network_logo_%282006%29.svg.png",
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/syfyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		  "userAgent" : ""
+			}, {
+				"name": "Azteca Cinema | CL 🇨🇱",
+			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/Cinema_Logo_Black.png",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/azcinemasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		  "userAgent" : ""
+			}, {
+				"name": "TNT Series | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/tntserieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		  "userAgent" : ""
+			}, {
+				"name": "A3Series | CL 🇨🇱",
+			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_a3s.jpg",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		  "userAgent" : ""
+			}, {
+				"name": "TNT Novelas | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/tbshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+",
 		  "userAgent" : ""
 			},
 
@@ -1095,6 +1107,18 @@
 		"url": "https://streamlov.alsolnet.com/maxanime/live/chunklist_w2071949212.m3u8",
 		  "userAgent" : ""
 			}, {
+				"name": "Z Tv | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1604_ZTV_Anime.png",
+		"url": "https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL",
+		  "userAgent" : ""
+			},  {
+			"name": "NTV | CL 🇨🇱",
+			"image": "https://i.imgur.com/9vNwkYb.png",
+			"online": "true",
+			"referer": "https://www.tvn.cl/",
+				"url": "https://www.tvn.cl/ntv",
+			"isHost": "true"
+				}, {
                      "name": "Clan | ES 🇪🇸",
 			"image": "https://graph.facebook.com/clantve/picture?width=200&height=200",
 		 "url" : "https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8",
@@ -1104,12 +1128,7 @@
 			"image": "https://graph.facebook.com/Pequeradio/picture?width=200&height=200",
 		 "url" : "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-				"name": "Z Tv | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1604_ZTV_Anime.png",
-		"url": "https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL",
-		  "userAgent" : ""
-			},
+                                         }, 
 
   {
                      "name": "La 1 | ES 🇪🇸",
@@ -1505,30 +1524,21 @@
 		"url": "https://www.13.cl/en-vivo",
 		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true 
-			}, {
-				"name": "Zona Latina | CL 🇨🇱",
-			"image": "https://assets.tvdaldia.cl/uploads/img/cartelera/logos/zonalatina.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/zonalatinahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
-				"name": "Via X | CL 🇨🇱",
-			"image": "https://yt3.googleusercontent.com/FRBaUsCPn6CQdhmR-XxlmdD7JGk8hPZfppkZY2FQS3CC6ZK5AUG6rxPTSk9yi3WDbqbHRTlH=s900-c-k-c0x00ffffff-no-rj",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/viaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
-				"name": "Vive Tv | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Vivetv.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
+			}, 
+
+
+
+
+
+{
 			"name": "TV+ | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/458_TV_.png",
 		"url": "https://jireh-2-hls-video-cl-mundo.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream2/chunks.m3u8",
 		  "userAgent" : ""
-			},{
-			"name": "TVR | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/77_TVR.png",
-		"url": "https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL",
+			}, {
+			"name": "TVMas 2 | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1243_TVMas2.png",
+		"url": "https://marine2.miplay.cl/tateti/playlist.m3u8",
 		  "userAgent" : ""
 			}, {
 				"name": "La Red 1080 | CL 🇨🇱",
@@ -1540,7 +1550,38 @@
 			"image": "https://cdn.m3u.cl/logo/790_La_Red.png",
 		"url": "https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8",
 		  "userAgent" : ""
+			},  {
+				"name": "Vive Tv | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Vivetv.png",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		  "userAgent" : ""
 			}, {
+				"name": "Mega Ficcion | CL 🇨🇱",
+			"image": "https://assets.tvdaldia.cl/uploads/img/cartelera/logos/megaficcion.png",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/megaficcionhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		  "userAgent" : ""
+			}, {
+				"name": "Mega 2 | CL 🇨🇱",
+			"image": "https://assets.tvdaldia.cl/uploads/img/cartelera/logos/mega2.png",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/megaplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		  "userAgent" : ""
+			}, {
+				"name": "Zona Latina | CL 🇨🇱",
+			"image": "https://assets.tvdaldia.cl/uploads/img/cartelera/logos/zonalatina.png",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/zonalatinahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		  "userAgent" : ""
+			}, {
+				"name": "Via X | CL 🇨🇱",
+			"image": "https://yt3.googleusercontent.com/FRBaUsCPn6CQdhmR-XxlmdD7JGk8hPZfppkZY2FQS3CC6ZK5AUG6rxPTSk9yi3WDbqbHRTlH=s900-c-k-c0x00ffffff-no-rj",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/viaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		  "userAgent" : ""
+			},  {
+				"name": "Via X 2 | CL 🇨🇱",
+			"image": "https://i.imgur.com/LIUoEdJ.png",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/viax2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		  "userAgent" : ""
+			},
+ {
 				"name": "CNN Chile 1080 | CL 🇨🇱",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/250px-CNN_Chile_logo_2017.svg.png",
 		"url": "http://live1.cl.cdn.lla.vtrplay.com/cnnchilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
@@ -1555,7 +1596,42 @@
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/250px-CNN_Chile_logo_2017.svg.png",
 		"url": "https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8",
 		  "userAgent" : ""
+			}, {
+				"name": "24 Horas 1080 | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png",
+		"url": "http://live1.cl.cdn.lla.vtrplay.com/24hhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		  "userAgent" : ""
 			},  {
+			"name": "24 Horas | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png",
+		"url": "https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8",
+		  "userAgent" : ""
+			}, 
+{
+				"name": "T13 1080 | CL 🇨🇱",
+		"image": "https://cdn.m3u.cl/logo/1054_T13.png",
+		"url": "https://live1.cl.cdn.lla.vtrplay.com/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+		  "userAgent" : ""
+			},{
+			"name": "T13 | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1054_T13.png",
+		"url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
+		  "userAgent" : ""
+			},  {
+			"name": "Chilevision Noticias | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/CHV_Noticias_2018.png/1200px-CHV_Noticias_2018.png",
+		"url": "https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8",
+		  "userAgent" : ""
+			}, 
+
+
+
+{
+			"name": "Bio Bio TV | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/421_Bio_Bio_TV.png",
+			"url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8",
+		  "userAgent" : ""
+			}, {
 			"name": "MegaNoticias | CL 🇨🇱",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/1200px-Meganoticias2019.png",
 			"online": "true",
@@ -1563,42 +1639,6 @@
 				"url": "https://www.meganoticias.cl/senal-en-vivo/meganoticias/",
 			"isHost": "true"
 				}, {
-			  "name": "T13",
-			"image": "https://assets.tvdaldia.cl/uploads/img/cartelera/logos/t13.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
-				"name": "24 Horas | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png",
-		"url": "http://live1.cl.cdn.lla.vtrplay.com/24hhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
-			"name": "Bio Bio TV | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/421_Bio_Bio_TV.png",
-			"url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8",
-		  "userAgent" : ""
-			},  {
-				"name": "Mega 2 | CL 🇨🇱",
-			"image": "https://assets.tvdaldia.cl/uploads/img/cartelera/logos/mega2.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/megaplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
-				"name": "Via X 2 | CL 🇨🇱",
-			"image": "https://i.imgur.com/LIUoEdJ.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/viax2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},
-{
-				"name": "Mega Ficcion | CL 🇨🇱",
-			"image": "https://assets.tvdaldia.cl/uploads/img/cartelera/logos/megaficcion.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/megaficcionhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},
-
-
-
-
- {
 			"name": "MegaTiempo | CL 🇨🇱",
 			"image": "https://i.imgur.com/8C4ba8G.png",
 			"online": "true",
@@ -1606,48 +1646,21 @@
 				"url": "https://www.mega.cl/senal-en-vivo/megatiempo/",
 			"isHost": "true"
 				},   {
-			"name": "Chilevision Noticias | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/CHV_Noticias_2018.png/1200px-CHV_Noticias_2018.png",
-		"url": "https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8",
-		  "userAgent" : ""
-			},  {
-			"name": "NTV | CL 🇨🇱",
-			"image": "https://i.imgur.com/9vNwkYb.png",
-			"online": "true",
-			"referer": "https://www.tvn.cl/",
-				"url": "https://www.tvn.cl/ntv",
-			"isHost": "true"
-				}, {
 			"name": "TVN 3 | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/1437_TVN3.png",
 		"url": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8",
 		  "userAgent" : ""
-			}, {
-			"name": "24 Horas | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/448_TVN_24_Horas.png",
-		"url": "https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8",
-		  "userAgent" : ""
-			}, {
+			},{
 			"name": "CHV Deportes | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/1569_CHV_Deportes.png",
 		"url": "https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8",
 		  "userAgent" : ""
-			}, {
-			"name": "T13 | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1054_T13.png",
-		"url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
-		  "userAgent" : ""
-			}, {
+			},  {
 			"name": "T13 Radio | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/1198_T13_Radio.png",
 		"url": "https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8",
 		  "userAgent" : ""
-			}, {
-			"name": "TVMas 2 | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1243_TVMas2.png",
-		"url": "https://marine2.miplay.cl/tateti/playlist.m3u8",
-		  "userAgent" : ""
-			}, {
+			},  {
 			"name": "13 Cultura | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/1193_13_Cultura.png",
 		"url": "https://redirector.dps.live/hls/13cultura/playlist.m3u8?PlaylistM3UCL",
