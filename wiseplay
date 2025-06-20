@@ -159,44 +159,56 @@
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
-		"name": "TNT Sports Premium Chile 720 (La14HD) | CL 🇨🇱",
+		"name": "TNT Sports Premium Chile 720 | CL 🇨🇱",
+"info":"[La40HD]",
+        "online":"true",
                     "image": "https://i.imgur.com/YTaeyss.png",
 			"url": "https://la14hd.com/vivo/canales.php?stream=tntsportschile",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-		"name": "TNT Sports Premium Chile 720 (Streamdp) | CL 🇨🇱",
+		"name": "TNT Sports Premium Chile 720 | CL 🇨🇱",
+"info":"[Streamdp]",
+        "online":"true",
                     "image": "https://i.imgur.com/YTaeyss.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=tntsportschile",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
-                     	"name": "TNT Sports Chile 720 (Dokko1new) | CL 🇨🇱",
+                     	"name": "TNT Sports Chile 720 | CL 🇨🇱",
+"info":"[Dokko1new]",
+        "online":"true",
                     "image": "https://i.imgur.com/f2glGr9.png",
 		 "url" : "https://dokko1new.newkso.ru/dokko1/premium642/mono.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          },  {
-			"name": "TNT Sports Chile 720 (Miztv) | CL 🇨🇱",
+			"name": "TNT Sports Chile 720 | CL 🇨🇱",
+"info":"[Miztv]",
+        "online":"true",
                     "image": "https://i.imgur.com/f2glGr9.png",
-		"online":"true",
 		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
 		"referer": "https://miztv.top",
 		"url":"https://miztv.top/total/stream-642.php",
 		"isHost": "true"
 		},  {
-        	"name": "TNT Sports Chile 720 (TutvLive) | CL 🇨🇱",
+        	"name": "TNT Sports Chile 720 | CL 🇨🇱",
+"info":"[Tutvlive]",
+        "online":"true",
                     "image": "https://i.imgur.com/f2glGr9.png",
 		 "url" : "https://tutvlive.xyz/tvtodo/tnt-chile.php",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          },  {
-				"name": "TNT Sports Chile (TvPlus) | CL 🇨🇱",
+				"name": "TNT Sports Chile | CL 🇨🇱",
+"info":"[Tvplus]",
+        "online":"true",
                     "image": "https://i.imgur.com/f2glGr9.png",
-			"online": "true",
 			"referer": "https://www.tvplusgratis2.com/",
 				"url": "https://www.tvplusgratis2.com/tnt-sports-chile-en-vivo.html",
 			"isHost": "true"
 				},  {
-		"name": "TNT Sports Premium Chile (GDPlayer) | CL 🇨🇱",
+		"name": "TNT Sports Premium Chile | CL 🇨🇱",
+"info":"[Gdplayer]",
+        "online":"true",
                     "image": "https://i.imgur.com/f2glGr9.png",
                        "url" : "https://enz.gdplayertv.to/live-tv/tnt-sports-cl/?embed=1",
      			 "embed" : "true"
