@@ -1450,7 +1450,6 @@
 "info":"[Online]",
         "online":"true",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
-			"online": "true",
 			"referer": "https://www.mega.cl/",
 				"url": "https://www.mega.cl/senal-en-vivo/",
 			"isHost": "true"
@@ -1467,7 +1466,6 @@
 "info":"[Tele]",
         "online":"true",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
-		"online":"true",
 		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
 		"referer": "https://telegratuita.com/",
 		"url":"https://telegratuita.com/en-vivo/mega-chile.php",
@@ -1487,76 +1485,99 @@
 		"url": "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8",
 		  "userAgent" : ""
 			}, {
-				"name": "TVN (Vtr) 1080 | CL 🇨🇱",
+				"name": "TVN 1080 | CL 🇨🇱",
+"info":"[Vtr]",
+        "online":"true",
 				"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/tvnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			}, {
-			"name": "TVN (Online) 1080 | CL 🇨🇱",
+			"name": "TVN 1080 | CL 🇨🇱",
+"info":"[Online]",
+        "online":"true",
 			"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
-			"online": "true",
 			"referer": "https://www.tvn.cl/",
 				"url": "https://www.tvn.cl/en-vivo",
 			"isHost": "true"
 				}, {
-			"name": "TVN (Online) 1080 | CL 🇨🇱",
+			"name": "TVN 1080 | CL 🇨🇱",
+"info":"[Online]",
+        "online":"true",
 			"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
 			"url": "https://www.tvn.cl/en-vivo",
 		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true 
 			},{
-			"name": "TVN (mds) 720 | CL 🇨🇱",
+			"name": "TVN 720 | CL 🇨🇱",
+"info":"[Mds]",
+        "online":"true",
 			"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
 		"url": "https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8",
 		  "userAgent" : ""
 			},  {
-			"name": "TVN (mds) 720 | CL 🇨🇱",
+			"name": "TVN 720 | CL 🇨🇱",
+"info":"[Mds]",
+        "online":"true",
 			"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
 		"url": "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8",
 		  "userAgent" : ""
 			}, {
-			"name": "Chilevision (Vtr) 1080 | CL 🇨🇱",
+			"name": "Chilevision 1080 | CL 🇨🇱",
+"info":"[Vtr]",
+        "online":"true",
 			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/chvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			}, {
-		"name": "Chilevision (TvSpace) 1080 | CL 🇨🇱",
+		"name": "Chilevision 1080 | CL 🇨🇱",
+"info":"[TvSpace]",
+        "online":"true",
 			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-		"online":"true",
 		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
 		"referer": "https://www.tvspacehd.com/",
 		"url":"https://www.tvspacehd.com/2023/01/chilevision.html",
 		"isHost": "true"
 		}, {
-			"name": "Chilevision (Online) 1080 | CL 🇨🇱",
+			"name": "Chilevision 1080 | CL 🇨🇱",
+"info":"[Online]",
+        "online":"true",
 			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-			"online": "true",
 			"referer": "https://www.chilevision.cl/",
 				"url": "https://www.chilevision.cl/senal-online",
 			"isHost": "true"
 				}, {
-			"name": "Chilevision (Online) 1080 | CL 🇨🇱",
+			"name": "Chilevision 1080 | CL 🇨🇱",
+"info":"[Online]",
+        "online":"true",
 			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
 			"url": "https://www.chilevision.cl/senal-online",
 		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true 
 			}, {
-				"name": "Canal 13 (Vtr) 1080 | CL 🇨🇱",
+				"name": "Canal 13 1080 | CL 🇨🇱",
+"info":"[Vtr]",
+        "online":"true",
 			"image": "https://i.imgur.com/RazPUFz.png",
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/canal13hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			}, {
-			"name": "Canal 13 (Jireh) 720 | CL 🇨🇱",
+			"name": "Canal 13 720 | CL 🇨🇱",
+"info":"[Jireh]",
+        "online":"true",
 			"image": "https://i.imgur.com/RazPUFz.png",
 		"url": "https://jireh-hls-live-video.dpsgo.com/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/playlist.m3u8",
 		  "userAgent" : ""
 			},  {
-			"name": "Canal 13 (Rudo) 720 | CL 🇨🇱",
+			"name": "Canal 13 720 | CL 🇨🇱",
+"info":"[Rudo]",
+        "online":"true",
 			"image": "https://i.imgur.com/RazPUFz.png",
 		"url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/playlist.m3u8",
 		  "userAgent" : ""
 			},  {
- 	"name": "Canal 13 (M3u) 720 | CL 🇨🇱",
+ 	"name": "Canal 13 720 | CL 🇨🇱",
+"info":"[m3u]",
+        "online":"true",
 			"image": "https://i.imgur.com/RazPUFz.png",
 "url": "https://m3u.cl/channel/c13.php",
 "embed": "",
@@ -1565,21 +1586,25 @@
 "isHost": ""
 }, {
 		"name": "Canal 13 (Tele) 720 | CL 🇨🇱",
+"info":"[Tele]",
+        "online":"true",
 			"image": "https://i.imgur.com/RazPUFz.png",
-		"online":"true",
 		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
 		"referer": "https://telegratuita.com/",
 		"url":"https://telegratuita.com/en-vivo/canal-13.php",
 		"isHost": "true"
 		}, {
-			"name": "Canal 13 (Online) 720 | CL 🇨🇱",
+			"name": "Canal 13 720 | CL 🇨🇱",
+"info":"[Online]",
+        "online":"true",
 			"image": "https://i.imgur.com/RazPUFz.png",
-			"online": "true",
 			"referer": "https://www.13.cl/",
 				"url": "https://www.13.cl/en-vivo",
 			"isHost": "true"
 				}, {
-			"name": "Canal 13 (Online) 720 | CL 🇨🇱",
+			"name": "Canal 13 720 | CL 🇨🇱",
+"info":"[Online]",
+        "online":"true",
 			"image": "https://i.imgur.com/RazPUFz.png",
 		"url": "https://www.13.cl/en-vivo",
 		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
