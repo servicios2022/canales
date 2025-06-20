@@ -1480,14 +1480,14 @@
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/tvnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			}, {
-			"name": "TVN 1080 | CL 🇨🇱",
+			"name": "TVN (Online) 1080 | CL 🇨🇱",
 			"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
 			"online": "true",
 			"referer": "https://www.tvn.cl/",
 				"url": "https://www.tvn.cl/en-vivo",
 			"isHost": "true"
 				}, {
-			"name": "TVN 1080 | CL 🇨🇱",
+			"name": "TVN (Online) 1080 | CL 🇨🇱",
 			"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
 			"url": "https://www.tvn.cl/en-vivo",
 		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
@@ -1508,7 +1508,7 @@
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/chvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			}, {
-		"name": "Chilevision 1080 | CL 🇨🇱",
+		"name": "Chilevision (TvSpace) 1080 | CL 🇨🇱",
 			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
 		"online":"true",
 		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
@@ -1516,22 +1516,14 @@
 		"url":"https://www.tvspacehd.com/2023/01/chilevision.html",
 		"isHost": "true"
 		}, {
-		"name": "Chilevision 1080 | CL 🇨🇱",
-			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-		"online":"true",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-		"referer": "https://www.vertvcable.com/",
-		"url":"https://www.vertvcable.com/chilevision-chv-en-vivo/",
-		"isHost": "true"
-		}, {
-			"name": "Chilevision 1080 | CL 🇨🇱",
+			"name": "Chilevision (Online) 1080 | CL 🇨🇱",
 			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
 			"online": "true",
 			"referer": "https://www.chilevision.cl/",
 				"url": "https://www.chilevision.cl/senal-online",
 			"isHost": "true"
 				}, {
-			"name": "Chilevision 1080 | CL 🇨🇱",
+			"name": "Chilevision (Online) 1080 | CL 🇨🇱",
 			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
 			"url": "https://www.chilevision.cl/senal-online",
 		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
