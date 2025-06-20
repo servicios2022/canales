@@ -339,179 +339,240 @@
                     "isHost": "true"
                 }, {
 			"name": "ESPN Chile | CL 🇨🇱",
+"info":"[Vtr]",
+        "online":"true",
 			"image": "https://i.imgur.com/MFhpD4D.png",
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/espn2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			}, {
 		   "name": "ESPN Chile (MiHD) | CL 🇨🇱",
+"info":"[MiHD]",
+        "online":"true",
 			"image": "https://i.imgur.com/MFhpD4D.png",
-			"online": "true",
 			"referer": "https://mihd.tv/",
 				"url": "https://mihd.tv/espn-premium-en-vivo-por-internet.html",
 			"isHost": "true"
 				},  {
-         "name": "ESPN Argentina (Jague) 1080 | AR 🇦🇷",
+         "name": "ESPN Argentina 1080 | AR 🇦🇷",
+"info":"[Jaque]",
+        "online":"true",
 			"image": "https://i.imgur.com/MFhpD4D.png",    
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://alldownplay.xyz",
         "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8",        
         "isHost":""
         }, {
-                       "name": "ESPN Argentina 1080 (Ddy6new) | AR 🇦🇷",
+                       "name": "ESPN Argentina 1080 | AR 🇦🇷",
+"info":"[Dd66new]",
+        "online":"true",
 			"image": "https://i.imgur.com/MFhpD4D.png",
 		 "url" : "https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
-			  "name": "ESPN Argentina (190) | AR 🇦🇷",
+			  "name": "ESPN Argentina | AR 🇦🇷",
+"info":"[190]",
+        "online":"true",
 			"image": "https://i.imgur.com/MFhpD4D.png",
 		"url": "http://190.60.37.118:4000/play/a00g",
 		  "userAgent" : ""
 			},
 
  		{
-         "name": "ESPN Argentina (Tutvlive) | AR 🇦🇷",
+         "name": "ESPN Argentina | AR 🇦🇷",
+"info":"[Tutvlive]",
+        "online":"true",
 			"image": "https://i.imgur.com/MFhpD4D.png",
      "url" : "https://tutvlive.xyz/tvtodo/espn.php",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          },  {
-			   "name": "ESPN Argentina (Streamdp) | AR 🇦🇷",
+			   "name": "ESPN Argentina | AR 🇦🇷",
+"info":"[Streamdp]",
+        "online":"true",
 			"image": "https://i.imgur.com/MFhpD4D.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=espn",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-			   "name": "ESPN Argentina (La14HD) | AR 🇦🇷",
+			   "name": "ESPN Argentina | AR 🇦🇷",
+"info":"[La14HD]",
+        "online":"true",
 			"image": "https://i.imgur.com/MFhpD4D.png",
 			"url": "https://la14hd.com/vivo/canales.php?stream=espn",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
                    "name": "ESPN Argentina (Laceaccept) | AR 🇦🇷",
+"info":"[Laceaccept]",
+        "online":"true",
 			"image": "https://i.imgur.com/MFhpD4D.png",
                             "url" : "https://laceaccept.net/embed/aiif5sr0kjzo8qe",
                    "referer" : "https://tarjetarojaenvivo.lat/",
 					"isHost":"true"
                   },   {
 			    "name": "ESPN 2 | CL 🇨🇱",
+"info":"[Vtr]",
+        "online":"true",
 			"image": "https://i.imgur.com/jq1s4to.png",
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/espnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			},  {
-        "name": "ESPN 2 720 (Jague) | AR 🇦🇷",
+        "name": "ESPN 2 720 | AR 🇦🇷",
+"info":"[Jague]",
+        "online":"true",
 			"image": "https://i.imgur.com/jq1s4to.png",      
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://alldownplay.xyz",
         "url": "https://jaguenk-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium150/mono.m3u8",        
         "isHost":""
         }, {
-			   "name": "ESPN 2 (190) | AR 🇦🇷",
+			   "name": "ESPN 2 | AR 🇦🇷",
+"info":"[190]",
+        "online":"true",
 			"image": "https://i.imgur.com/jq1s4to.png",
 		"url": "http://190.60.37.118:4000/play/a048",
 		  "userAgent" : ""
 			}, {
-        "name": "ESPN 2 (Tutvlive) | AR 🇦🇷",
+        "name": "ESPN 2 | AR 🇦🇷",
+"info":"[Tutvlive]",
+        "online":"true",
 			"image": "https://i.imgur.com/jq1s4to.png",
      "url" : "https://tutvlive.xyz/tvtodo/espn-2.php",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
-                "name": "ESPN 2 (Miztv) | AR 🇦🇷",
+                "name": "ESPN 2 | AR 🇦🇷",
+"info":"[Miztv]",
+        "online":"true",
 			"image": "https://i.imgur.com/jq1s4to.png",
      "url" : "https://miztv.top/stream/stream-150.php",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
-                        "name": "ESPN 2 (Windnew) | AR 🇦🇷",
+                        "name": "ESPN 2 | AR 🇦🇷",
+"info":"[Windnew]",
+        "online":"true",
 			"image": "https://i.imgur.com/jq1s4to.png",
 		 "url" : "https://windnew.newkso.ru/wind/premium150/mono.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
-                    "name": "ESPN 2 (Catercollege) | AR 🇦🇷",
+                    "name": "ESPN 2 | AR 🇦🇷",
+"info":"[Catercollege]",
+        "online":"true",
 			"image": "https://i.imgur.com/jq1s4to.png",
                   "url" : "https://catercollege.net/embed/ke1144883x9k0n",
                                  "referer" : "https://tarjetarojaenvivo.lat/",
 			"isHost": "true"
                 }, {
-			   "name": "ESPN 2 (Streamdp) | AR 🇦🇷",
+			   "name": "ESPN 2  | AR 🇦🇷",
+"info":"[Streamdp]",
+        "online":"true",
 			"image": "https://i.imgur.com/jq1s4to.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=espn2",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-			   "name": "ESPN 2 (La14HD) | AR 🇦🇷",
+			   "name": "ESPN 2 | AR 🇦🇷",
+"info":"[La14HD]",
+        "online":"true",
 			"image": "https://i.imgur.com/jq1s4to.png",
 			"url": "https://la14hd.com/vivo/canales.php?stream=espn2",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
 				  "name": "ESPN 3 | | CL 🇨🇱",
+"info":"[Vtr]",
+        "online":"true",
 			"image": "https://i.imgur.com/y3VGGV0.png",
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/espn3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			}, {
-			   "name": "ESPN 3 (190) | AR 🇦🇷",
+			   "name": "ESPN 3 | AR 🇦🇷",
+"info":"[190]",
+        "online":"true",
 			"image": "https://i.imgur.com/y3VGGV0.png",
 		"url": "http://190.60.37.118:4000/play/a02y",
 		  "userAgent" : ""
 			}, {
-    	   "name": "ESPN 3 (Tutvlive) | AR 🇦🇷",
+    	   "name": "ESPN 3 | AR 🇦🇷",
+"info":"[Tutvlive]",
+        "online":"true",
 			"image": "https://i.imgur.com/y3VGGV0.png",
      "url" : "https://tutvlive.xyz/tvtodo/espn-3.php",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
-			   "name": "ESPN 3 (Streamdp) | AR 🇦🇷",
+			   "name": "ESPN 3 | AR 🇦🇷",
+"info":"[Streamdp]",
+        "online":"true",
 			"image": "https://i.imgur.com/y3VGGV0.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=espn3",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
-			   "name": "ESPN 3 (La14HD) | AR 🇦🇷",
+			   "name": "ESPN 3 | AR 🇦🇷",
+"info":"[La14HD]",
+        "online":"true",
 			"image": "https://i.imgur.com/y3VGGV0.png",
 			"url": "https://la14hd.com/vivo/canales.php?stream=espn3",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-			   "name": "ESPN 4 (Streamdp) | AR 🇦🇷",
+			   "name": "ESPN 4 | AR 🇦🇷",
+"info":"[Streamdp]",
+        "online":"true",
 			"image": "https://i.imgur.com/yxAlH81.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=espn4",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-			   "name": "ESPN 4 (Streampt) | AR 🇦🇷",
+			   "name": "ESPN 4 | AR 🇦🇷",
+"info":"[La14HD]",
+        "online":"true",
 			"image": "https://i.imgur.com/yxAlH81.png",
 			"url": "https://la14hd.com/vivo/canales.php?stream=espn4",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-			   "name": "ESPN 5 (Streamdp) | AR 🇦🇷",
+			   "name": "ESPN 5 | AR 🇦🇷",
+"info":"[Streamdp]",
+        "online":"true",
 			"image": "https://i.imgur.com/D65r7VG.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=espn5",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },   {
-			   "name": "ESPN 5 (La14HD) | AR 🇦🇷",
+			   "name": "ESPN 5 | AR 🇦🇷",
+"info":"[La14HD]",
+        "online":"true",
 			"image": "https://i.imgur.com/D65r7VG.png",
 			"url": "https://la14hd.com/vivo/canales.php?stream=espn5",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-			   "name": "ESPN 6 (Streamdp) | AR 🇦🇷",
+			   "name": "ESPN 6 | AR 🇦🇷",
+"info":"[Streamdp]",
+        "online":"true",
 			"image": "https://i.imgur.com/Y5ERC73.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=espn6",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
-			   "name": "ESPN 6 (La14HD) | AR 🇦🇷",
+			   "name": "ESPN 6 | AR 🇦🇷",
+"info":"[La14HD]",
+        "online":"true",
 			"image": "https://i.imgur.com/Y5ERC73.png",
 			"url": "https://la14hd.com/vivo/canales.php?stream=espn6",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
-			   "name": "ESPN 7 (Streamdp) | AR 🇦🇷",
+			   "name": "ESPN 7 | AR 🇦🇷",
+"info":"[Streamdp]",
+        "online":"true",
 			"image": "https://i.imgur.com/YrVUJmp.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=espn7",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },   {
-			   "name": "ESPN 7 (La14HD) | AR 🇦🇷",
+			   "name": "ESPN 7 | AR 🇦🇷",
+"info":"[La14HD]",
+        "online":"true",
 			"image": "https://i.imgur.com/YrVUJmp.png",
 			"url": "https://la14hd.com/vivo/canales.php?stream=espn7",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
