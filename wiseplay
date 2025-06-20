@@ -1021,7 +1021,7 @@
 		  "userAgent" : ""
 			}, {
 				"name": "TNT | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png",
+			"image": "https://i.imgur.com/U9cxKtY.png",
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/tnthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			}, {
@@ -1036,7 +1036,7 @@
 		  "userAgent" : ""
 			},{
 				"name": "Studio Universal | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png",
+			"image": "https://i.imgur.com/2CfoZjs.png",
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			},
@@ -1069,7 +1069,7 @@
 		  "userAgent" : ""
 			}, {
 				"name": "Azteca Cinema | CL 🇨🇱",
-			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/Cinema_Logo_Black.png",
+			"image": "https://i.imgur.com/DjmMj5c.png",
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/azcinemasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			}, {
@@ -1117,8 +1117,8 @@
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			},{
-				"name": "Dreamwork | CL 🇨🇱",
-			"image": "https://1000marcas.net/wp-content/uploads/2020/02/Dreamworks-Logo-1.png",
+				"name": "Dreamworks | CL 🇨🇱",
+			"image": "https://i.imgur.com/TeBhx0s.png",
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			},
@@ -1605,27 +1605,27 @@
 		  "userAgent" : ""
 			}, {
 				"name": "Mega Ficcion | CL 🇨🇱",
-			"image": "https://assets.tvdaldia.cl/uploads/img/cartelera/logos/megaficcion.png",
+			"image": "https://i.imgur.com/2jQs5jN.png",
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/megaficcionhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			}, {
 				"name": "Mega 2 | CL 🇨🇱",
-			"image": "https://assets.tvdaldia.cl/uploads/img/cartelera/logos/mega2.png",
+			"image": "https://i.imgur.com/h8jqMeL.png",
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/megaplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			}, {
 				"name": "Zona Latina | CL 🇨🇱",
-			"image": "https://assets.tvdaldia.cl/uploads/img/cartelera/logos/zonalatina.png",
+			"image": "https://i.imgur.com/CkgvbMa.png",
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/zonalatinahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			}, {
 				"name": "Via X | CL 🇨🇱",
-			"image": "https://yt3.googleusercontent.com/FRBaUsCPn6CQdhmR-XxlmdD7JGk8hPZfppkZY2FQS3CC6ZK5AUG6rxPTSk9yi3WDbqbHRTlH=s900-c-k-c0x00ffffff-no-rj",
+			"image": "https://i.imgur.com/Sj6zBOS.png",
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/viaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			},  {
 				"name": "Via X 2 | CL 🇨🇱",
-			"image": "https://i.imgur.com/LIUoEdJ.png",
+			"image": "https://i.imgur.com/iNlTb6n.png",
 		"url": "https://live1.cl.cdn.lla.vtrplay.com/viax2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			},
@@ -1695,7 +1695,7 @@
 			"isHost": "true"
 				},   {
 			"name": "TVN 3 | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1437_TVN3.png",
+			"image": "https://i.imgur.com/FLFXy2D.png",
 		"url": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8",
 		  "userAgent" : ""
 			},{
