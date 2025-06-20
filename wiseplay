@@ -121,49 +121,65 @@
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
-			"name": "Eventos MAX 1 TNT Sports Chile 1080 (La14HD) | CL 🇨🇱",
+			"name": "Eventos MAX 1 TNT Sports Chile | CL 🇨🇱",
+"info":"[La14HD]",
+        "online":"true",
                     "image": "https://i.imgur.com/lszKlpm.png",
 			"url": "https://la14hd.com/vivo/canales.php?stream=max1",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-			"name": "Eventos MAX 1 TNT Sports Chile 1080 (Streamdp) | CL 🇨🇱",
+			"name": "Eventos MAX 1 TNT Sports Chile | CL 🇨🇱",
+"info":"[Streamdp]",
+        "online":"true",
                     "image": "https://i.imgur.com/lszKlpm.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=max1",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-			"name": "Eventos MAX 2 TNT Sports Chile 1080 (La14HD) | CL 🇨🇱",
+			"name": "Eventos MAX 2 TNT Sports Chile | CL 🇨🇱",
+"info":"[La14HD]",
+        "online":"true",
                     "image": "https://i.imgur.com/lszKlpm.png",
 			"url": "https://la14hd.com/vivo/canales.php?stream=max2",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-			"name": "Eventos MAX 2 TNT Sports Chile 1080 (Streamdp) | CL 🇨🇱",
+			"name": "Eventos MAX 2 TNT Sports Chile | CL 🇨🇱",
+"info":"[Streamdp]",
+        "online":"true",
                     "image": "https://i.imgur.com/lszKlpm.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=max2",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-			"name": "Eventos MAX 3 TNT Sports Chile 1080 (La14HD) | CL 🇨🇱",
+			"name": "Eventos MAX 3 TNT Sports Chile | CL 🇨🇱",
+"info":"[La14HD]",
+        "online":"true",
                     "image": "https://i.imgur.com/lszKlpm.png",
 			"url": "https://la14hd.com/vivo/canales.php?stream=max3",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-			"name": "Eventos MAX 3 TNT Sports Chile 1080 (Streamdp) | CL 🇨🇱",
+			"name": "Eventos MAX 3 TNT Sports Chile | CL 🇨🇱",
+"info":"[Streamdp]",
+        "online":"true",
                     "image": "https://i.imgur.com/lszKlpm.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=max3",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-			"name": "Eventos MAX 4 TNT Sports Chile 1080 (La14HD) | CL 🇨🇱",
+			"name": "Eventos MAX 4 TNT Sports Chile | CL 🇨🇱",
+"info":"[La14HD]",
+        "online":"true",
                     "image": "https://i.imgur.com/lszKlpm.png",
 			"url": "https://la14hd.com/vivo/canales.php?stream=max4",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
-			"name": "Eventos MAX 4 TNT Sports Chile 1080 (Streamdp) | CL 🇨🇱",
+			"name": "Eventos MAX 4 TNT Sports Chile | CL 🇨🇱",
+"info":"[Streamdp]",
+        "online":"true",
                     "image": "https://i.imgur.com/lszKlpm.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=max4",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
