@@ -201,6 +201,79 @@
                        "url" : "https://enz.gdplayertv.to/live-tv/tnt-sports-cl/?embed=1",
      			 "embed" : "true"
          	 },  
+
+
+{
+		"name": "TNT Sports1111 (Streamdp) | CL 🇨🇱",
+                    "image": "https://i.imgur.com/YTaeyss.png",
+			"url": "https://www.vertvcable.com/channel.php?id=ch_67fb064818ab3",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },  {
+			"name": "TNT Spor22222 (Miztv) | CL 🇨🇱",
+                    "image": "https://i.imgur.com/f2glGr9.png",
+		"online":"true",
+		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+		"referer": "https://www.vertvcable.com/",
+		"url":"https://www.vertvcable.com/channel.php?id=ch_67fb064818ab3",
+		"isHost": "true"
+		},  {
+		"name": "TNT Sports Prem3333ayer) | CL 🇨🇱",
+                    "image": "https://i.imgur.com/f2glGr9.png",
+                       "url" : "https://www.vertvcable.com/channel.php?id=ch_67fb064818ab3",
+     			 "embed" : "true"
+         	 },  {
+		"name": "DirecTv S4444(Link) | AR 🇦🇷",
+			"image": "https://i.imgur.com/NUGOqdT.png",
+		"online":"true",
+		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "https://www.vertvcable.com/",
+		"url":"https://www.vertvcable.com/channel.php?id=ch_67fb064818ab3",
+		"isHost": "true"
+		},  {
+		"name": "TNT Sports55555 (Streamdp) | CL 🇨🇱",
+                    "image": "https://i.imgur.com/YTaeyss.png",
+			"url": "https://www.vertvcable.com/win-sports-plus-en-vivo/",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                },  {
+			"name": "TNT Spor66666 (Miztv) | CL 🇨🇱",
+                    "image": "https://i.imgur.com/f2glGr9.png",
+		"online":"true",
+		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+		"referer": "https://www.vertvcable.com/",
+		"url":"https://www.vertvcable.com/win-sports-plus-en-vivo/",
+		"isHost": "true"
+		},  {
+		"name": "TNT Sports Prem77777ayer) | CL 🇨🇱",
+                    "image": "https://i.imgur.com/f2glGr9.png",
+                       "url" : "https://www.vertvcable.com/win-sports-plus-en-vivo/",
+     			 "embed" : "true"
+         	 },  {
+		"name": "DirecTv 888888Link) | AR 🇦🇷",
+			"image": "https://i.imgur.com/NUGOqdT.png",
+		"online":"true",
+		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "https://www.vertvcable.com/",
+		"url":"https://www.vertvcable.com/win-sports-plus-en-vivo/",
+		"isHost": "true"
+		},  {
+                   "name": "ESPN Argent99999t) | AR 🇦🇷",
+			"image": "https://i.imgur.com/MFhpD4D.png",
+                            "url" : "https://www.vertvcable.com/win-sports-plus-en-vivo/",
+                   "referer" : "https://www.vertvcable.com",
+					"isHost":"true"
+                  },  {
+                   "name": "ESPN A1000009t) | AR 🇦🇷",
+			"image": "https://i.imgur.com/MFhpD4D.png",
+                            "url" : "https://www.vertvcable.com/channel.php?id=ch_67fb064818ab3",
+                   "referer" : "https://www.vertvcable.com",
+					"isHost":"true"
+                  }, 
+
+
+
+
 {
         "name": "DirecTv Sports 720p (Tutvlive) | AR 🇦🇷",
 			"image": "https://i.imgur.com/NUGOqdT.png",
