@@ -58,6 +58,45 @@
 "stations":[
  
 {
+    "name": "CHV | Telegratuita 📺🇨🇱",
+    "info": "[WEB EMBED]",
+    "online": "true",
+    "image": "https://i.ibb.co/dtsrSwX/chilevision.jpg",
+    "referer": "https://telegratuita.com/",
+    "url": "https://telegratuita.com/repro/?r=L21nby9jaHYucGhw",
+    "isHost": "true"
+  },
+  {
+    "name": "Mega | Telegratuita 📺🇨🇱",
+    "info": "[WEB EMBED]",
+    "online": "true",
+    "image": "https://i.imgur.com/4Z1QzYH.png",
+    "referer": "https://telegratuita.com/",
+    "url": "https://telegratuita.com/repro/?r=L21nby9tZWdhLnBocA==",
+    "isHost": "true"
+  },
+  {
+    "name": "Canal 13 | Telegratuita 📺🇨🇱",
+    "info": "[WEB EMBED]",
+    "online": "true",
+    "image": "https://i.imgur.com/2rB6UOm.png",
+    "referer": "https://telegratuita.com/",
+    "url": "https://telegratuita.com/repro/?r=L21nby9jMTMucGhw",
+    "isHost": "true"
+  },
+  {
+    "name": "TVN | Telegratuita 📺🇨🇱",
+    "info": "[WEB EMBED]",
+    "online": "true",
+    "image": "https://i.imgur.com/jn6NL3w.png",
+    "referer": "https://telegratuita.com/",
+    "url": "https://telegratuita.com/repro/?r=L21nby90dm4ucGhw",
+    "isHost": "true"
+  }
+
+
+
+{
 			"name": "Eventos DISNEY+ 1 | AR 🇦🇷",
 			"image": "https://i.imgur.com/gw2wQrr.png",
 			"url": "https://la14hd.com/vivo/canales.php?stream=disney1",
