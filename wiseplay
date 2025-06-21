@@ -1093,66 +1093,68 @@
   },
 
   {
-    "name": "ESPN Deportes 720 (190) | MX 🇲🇽",
+    "name": "ESPN Deportes 720 | MX 🇲🇽",
+    "info": "[190]",
+    "online": "true",
     "image": "https://i.imgur.com/cYvji3A.png",
     "url": "http://190.92.10.66:4000/play/a003/index.m3u8",
     "userAgent": ""
   },
   {
-    "name": "ESPN Deportes 720 (abbasport) | MX 🇲🇽",
-    "image": "https://i.imgur.com/cYvji3A.png",
+    "name": "ESPN Deportes 720 | MX 🇲🇽",
+    "info": "[Abbasport]",
     "online": "true",
+    "image": "https://i.imgur.com/cYvji3A.png",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
     "referer": "https://abbasport.site/",
     "url": "https://abbasport.site/espndeportes.php",
     "isHost": "true"
   },
   {
-    "name": "ESPN Deportes 720 (Miztv) | MX 🇲🇽",
+    "name": "ESPN Deportes 720 | MX 🇲🇽",
+    "info": "[Miztv]",
+    "online": "true",
     "image": "https://i.imgur.com/cYvji3A.png",
     "url": "https://miztv.top/stream/stream-375.php",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
   {
-    "name": "ESPN Deportes 720 (Topembed) | MX 🇲🇽",
-    "image": "https://i.imgur.com/cYvji3A.png",
+    "name": "ESPN Deportes 720 | MX 🇲🇽",
+    "info": "[Topembed]",
     "online": "true",
+    "image": "https://i.imgur.com/cYvji3A.png",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
     "referer": "https://topembed.pw/",
     "url": "https://topembed.pw/channel/ESPNDeportes[USA]",
     "isHost": "true"
   },
   {
-    "name": "ESPN Deportes 720 (Tutvlive) | MX 🇲🇽",
+    "name": "ESPN Deportes 720 | MX 🇲🇽",
+    "info": "[Tutvlive]",
+    "online": "true",
     "image": "https://i.imgur.com/cYvji3A.png",
     "url": "https://tutvlive.xyz/tvtodo/espn-deportes.php",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
   {
-    "name": "ESPN Deportes (Cdnnew) | MX 🇲🇽",
+    "name": "ESPN Deportes | MX 🇲🇽",
+   "info": "[Cdnew]",
+    "online": "true",
     "image": "https://i.imgur.com/cYvji3A.png",
     "url": "https://x4-cdnnew.newkso.ru/x4-cdn/mono86/mono.m3u8",
     "userAgent": ""
   },
   {
-    "name": "ESPN Deportes (Fuelcarrer) | MX 🇲🇽",
-    "image": "https://i.imgur.com/cYvji3A.png",
+    "name": "ESPN Deportes | MX 🇲🇽",
+    "info": "[Fuelcaller]",
     "online": "true",
+    "image": "https://i.imgur.com/cYvji3A.png",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
     "referer": "https://tarjetarojaenvivo.lat/",
     "url": "https://fuelcareer.net/embed/lf445b",
     "isHost": "true"
   },
-  {
-    "name": "ESPN Deportes (Laceaccept) | MX 🇲🇽",
-    "image": "https://i.imgur.com/cYvji3A.png",
-    "online": "true",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-    "referer": "https://tarjetarojaenvivo.lat/",
-    "url": "https://laceaccept.net/embed/rq4g6",
-    "isHost": "true"
-  },
-
+ 
   {
     "name": "Movistar Liga de Campeones 720 (freckledine) | ES 🇪🇸",
     "image": "https://i.imgur.com/3PsaCB9.png",
