@@ -1164,12 +1164,7 @@
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/2084px-Logo_Canal_24_horas.svg.png",
 		 "url" : "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },   {
-                     "name": "Telefe 1080 (187) | AR 🇦🇷",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
-		 "url" : "http://187.190.55.136:5501/udp/225.1.1.240:5240",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
+                                         },  {
 			 "name": "Telefe (Streamdp) | AR 🇦🇷",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
 		"online":"true",
@@ -1506,65 +1501,7 @@
 			"url": "https://www.chilevision.cl/senal-online",
 		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true 
-			},  
-
-
-
-
-
-
-
-{
-			"name": "TNT 33333a (Laceaccept) | AR 🇦🇷",
-			"image": "https://i.imgur.com/ItEH0oC.png",
-			"url" : "https://telegratuita.com/repro/?r=L21nby9jaHYucGhw",
-                                                      "referer" : "https://telegratuita.com",
-			 "isHost":"true"
-               }, {
-			"name": "TNT1111720 | CL 🇨🇱",
-"info":"[Miztv]",
-        "online":"true",
-                    "image": "https://i.imgur.com/f2glGr9.png",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-		"referer": "https://telegratuita.com/",
-		"url":"https://telegratuita.com/repro/?r=L21nby9jaHYucGhw",
-		"isHost": "true"
-		},  {
-				"name": "2222D) | MX 🇲🇽",
-			"image": "https://i.imgur.com/U6DKWV0.png",
-			"online": "true",
-			"referer": "https://telegratuita.com/",
-				"url": "https://telegratuita.com/repro/?r=L21nby9jaHYucGhw",
-			"isHost": "true"
-				},  {
-			"name": "TNT 36666 (Laceaccept) | AR 🇦🇷",
-			"image": "https://i.imgur.com/ItEH0oC.png",
-			"url" : "https://www.chilevision.cl/senal-online",
-                                                      "referer" : "https://www.chilevision.cl",
-			 "isHost":"true"
-               }, {
-			"name": "T4444 | CL 🇨🇱",
-"info":"[Miztv]",
-        "online":"true",
-                    "image": "https://i.imgur.com/f2glGr9.png",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-		"referer": "https://www.chilevision.cl",
-		"url":"https://www.chilevision.cl/senal-online",
-		"isHost": "true"
-		},  {
-				"name": "4444) | MX 🇲🇽",
-			"image": "https://i.imgur.com/U6DKWV0.png",
-			"online": "true",
-			"referer": "https://www.chilevision.cl",
-				"url": "https://www.chilevision.cl/senal-online",
-			"isHost": "true"
-				},
-
-
-
-
-
-{
+			},  {
 			"name": "Canal 13 720 | CL 🇨🇱",
 "info":"[Jireh]",
         "online":"true",
@@ -1595,10 +1532,10 @@
 			"image": "https://cdn.m3u.cl/logo/458_TV_.png",
 		"url": "https://jireh-2-hls-video-cl-mundo.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream2/chunks.m3u8",
 		  "userAgent" : ""
-			}, {
-			"name": "TVMas 2 | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1243_TVMas2.png",
-		"url": "https://marine2.miplay.cl/tateti/playlist.m3u8",
+			},  {
+			"name": "TVR | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVR_Chile_%282025%29.svg/250px-TVR_Chile_%282025%29.svg.png",
+		"url": "https://unlimited2-cl-isp.dps.live/tvr/tvr.smil/tvr/livestream1/chunks.m3u8",
 		  "userAgent" : ""
 			},  {
 			"name": "La Red | CL 🇨🇱",
@@ -1616,6 +1553,13 @@
 		"url": "https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8",
 		  "userAgent" : ""
 			}, {
+			"name": "MegaNoticias | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/1200px-Meganoticias2019.png",
+			"online": "true",
+			"referer": "https://www.meganoticias.cl/",
+				"url": "https://www.meganoticias.cl/senal-en-vivo/meganoticias/",
+			"isHost": "true"
+				}, {
 			"name": "24 Horas | CL 🇨🇱",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png",
 		"url": "https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8",
@@ -1630,28 +1574,24 @@
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/CHV_Noticias_2018.png/1200px-CHV_Noticias_2018.png",
 		"url": "https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8",
 		  "userAgent" : ""
-			}, 
-
-{
+			}, {
 			"name": "Bio Bio TV | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/421_Bio_Bio_TV.png",
 			"url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8",
 		  "userAgent" : ""
 			}, {
-			"name": "MegaNoticias | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/1200px-Meganoticias2019.png",
-			"online": "true",
-			"referer": "https://www.meganoticias.cl/",
-				"url": "https://www.meganoticias.cl/senal-en-vivo/meganoticias/",
-			"isHost": "true"
-				}, {
+			"name": "TVMas 2 | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1243_TVMas2.png",
+		"url": "https://marine2.miplay.cl/tateti/playlist.m3u8",
+		  "userAgent" : ""
+			}, {
 			"name": "MegaTiempo | CL 🇨🇱",
 			"image": "https://i.imgur.com/8C4ba8G.png",
 			"online": "true",
 			"referer": "https://www.mega.cl/",
 				"url": "https://www.mega.cl/senal-en-vivo/megatiempo/",
 			"isHost": "true"
-				},   {
+				}, {
 			"name": "TVN 3 | CL 🇨🇱",
 			"image": "https://i.imgur.com/FLFXy2D.png",
 		"url": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8",
@@ -1662,6 +1602,11 @@
 		"url": "https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8",
 		  "userAgent" : ""
 			},  {
+			"name": "D13 | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1199_D13.png",
+		"url": "https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL",
+		  "userAgent" : ""
+			}, {
 			"name": "T13 Radio | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/1198_T13_Radio.png",
 		"url": "https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8",
@@ -1715,11 +1660,6 @@
 			"name": "Tv Senado | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/444_TV_Senado.png",
 		"url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL",
-		  "userAgent" : ""
-			}, {
-			"name": "D13 | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1199_D13.png",
-		"url": "https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL",
 		  "userAgent" : ""
 			}, {
 			"name": "VClassicTV | CL 🇨🇱",
