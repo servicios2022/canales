@@ -1487,14 +1487,7 @@
 			"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
 		"url": "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8",
 		  "userAgent" : ""
-			}, {
-		"name": "Chilevision 1080 | CL 🇨🇱",
-		"info":"[Tele]",
-      		"online":"true",
-		"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-                       "url" : "https://telegratuita.com/repro/?r=L21nby9jaHYucGhw",
-     			 "embed" : "true"
-         	 },  {
+			},  {
 			"name": "Chilevision 1080 | CL 🇨🇱",
 "info":"[Online]",
         "online":"true",
@@ -1510,7 +1503,24 @@
 			"url": "https://www.chilevision.cl/senal-online",
 		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true 
-			},  {
+			}, {
+		"name": "Chilevision 1080 | CL 🇨🇱",
+		"info":"[Tele]",
+      		"online":"true",
+		"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+                       "url" : "https://telegratuita.com/repro/?r=L21nby9jaHYucGhw",
+     			 "embed" : "true"
+         	 },  {
+ 	"name": "Canal 13 720 | CL 🇨🇱",
+"info":"[m3u]",
+        "online":"true",
+			"image": "https://i.imgur.com/RazPUFz.png",
+"url": "https://m3u.cl/channel/c13.php",
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
+},  {
 			"name": "Canal 13 720 | CL 🇨🇱",
 "info":"[Jireh]",
         "online":"true",
@@ -1524,19 +1534,7 @@
 			"image": "https://i.imgur.com/RazPUFz.png",
 		"url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/playlist.m3u8",
 		  "userAgent" : ""
-			},  {
- 	"name": "Canal 13 720 | CL 🇨🇱",
-"info":"[m3u]",
-        "online":"true",
-			"image": "https://i.imgur.com/RazPUFz.png",
-"url": "https://m3u.cl/channel/c13.php",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, 
-
-{
+			}, {
 			"name": "TV+ | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/458_TV_.png",
 		"url": "https://jireh-2-hls-video-cl-mundo.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream2/chunks.m3u8",
