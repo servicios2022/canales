@@ -3,54 +3,64 @@
 {	"name": "TV GRATIS 2025",
  "author": "📺Lista Gratuita📺",
  "image": "https://i.pinimg.com/originals/5d/ea/a7/5deaa7bbf3cba51ed0f8b628c80393fc.gif",
-    "info": "Enlaces encontrados en internet",
+"info": "Enlaces encontrados en internet",
 "url": "https://raw.githubusercontent.com/servicios2022/canales/main/wiseplay",
 "groups": [
 {"name": "AGENDA DEPORTIVA",
 "image": "https://i.gifer.com/origin/3c/3cf3bf4222ca02eadf81bf145261bfd0.gif",
 "stations":[
+ 
+
   {
-			"name": "Futbol Libre TV | AR 🇦🇷",
-"info":"[Online]",
-        "online":"true",
-			"image": "https://i.imgur.com/ehmvuI6.png",
-			"url": "https://tufutbollibre.com/agenda.html?v=1749905954927",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-		"playInNatPlayer": "true",
-		"embed": "true" },  {
-			"name": "Libre Futbol TV | AR 🇦🇷",
-"info":"[Online]",
-        "online":"true",
-			"image": "https://i.imgur.com/ehmvuI6.png",
-			"url": "https://librefutboltv.su/agenda/",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-		"playInNatPlayer": "true",
-		"embed": "true" }, {
-			"name": "Streamdp | AR 🇦🇷",
-"info":"[Online]",
-        "online":"true",
-			"image": "https://i.imgur.com/ehmvuI6.png",
-			"url": "https://streamdp1.xyz/",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-		"playInNatPlayer": "true",
-		"embed": "true" }, {
-			"name": "La14HD | AR 🇦🇷",
-"info":"[Online]",
-        "online":"true",
-			"image": "https://i.imgur.com/ehmvuI6.png",
-			"url": "https://la14hd.com/eventos/",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-		"playInNatPlayer": "true",
-		"embed": "true" }, {
-			"name": "Tu Canal Deportivo | AR 🇦🇷",
-"info":"[Online]",
-        "online":"true",
-			"image": "https://i.imgur.com/ehmvuI6.png",
-			"url": "https://elcanaldeportivo.com/agenda.php",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true"                        
-},
+    "name": "Futbol Libre TV 11 | AR 🇦🇷",
+    "info": "[Online]",
+    "online": "true",
+    "image": "https://i.imgur.com/ehmvuI6.png",
+    "url": "https://tufutbollibre.com/agenda.html?v=1749905954927",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+    "playInNatPlayer": "true",
+    "embed": "true"
+  },
+  {
+    "name": "La14HD | AR 🇦🇷",
+    "info": "[Online]",
+    "online": "true",
+    "image": "https://i.imgur.com/ehmvuI6.png",
+    "url": "https://la14hd.com/eventos/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+    "playInNatPlayer": "true",
+    "embed": "true"
+  },
+  {
+    "name": "Libre Futbol TV | AR 🇦🇷",
+    "info": "[Online]",
+    "online": "true",
+    "image": "https://i.imgur.com/ehmvuI6.png",
+    "url": "https://librefutboltv.su/agenda/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+    "playInNatPlayer": "true",
+    "embed": "true"
+  },
+  {
+    "name": "Streamdp | AR 🇦🇷",
+    "info": "[Online]",
+    "online": "true",
+    "image": "https://i.imgur.com/ehmvuI6.png",
+    "url": "https://streamdp1.xyz/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+    "playInNatPlayer": "true",
+    "embed": "true"
+  },
+  {
+    "name": "Tu Canal Deportivo | AR 🇦🇷",
+    "info": "[Online]",
+    "online": "true",
+    "image": "https://i.imgur.com/ehmvuI6.png",
+    "url": "https://elcanaldeportivo.com/agenda.php",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+    "playInNatPlayer": "true",
+    "embed": "true"
+  },
 
 ]},
 {"name": "DEPORTES",
