@@ -869,11 +869,6 @@
 			"image": "https://i.imgur.com/R8c4qIq.png",
 		"url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
 		  "userAgent" : ""
-			}, {
-				"name": "Golf Channel | CL 🇨🇱",
-			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_golfchannel.jpg",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/golfhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
 			}, 
 
 {
