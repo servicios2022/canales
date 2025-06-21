@@ -1253,20 +1253,14 @@
   
    {
     "name": "AniRetro | CL 🇨🇱",
-    "image": "https://cdn.m3u.cl/logo/1187_AniRetro.png",
-    "url": "https://tv.arkeo.cl:19360/8110/8110.m3u8",
-    "userAgent": ""
-  },
-  {
-    "name": "Clan | ES 🇪🇸",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Clan_TV_logo_2022.svg/800px-Clan_TV_logo_2022.svg.png",
-    "url": "https://rtvelivestream.akamaized.net/clan_main.m3u8",
+    "image": "https://cdn.m3u.cl/logo/1585_AniRetro.png",
+    "url": "https://tv.arkeo.cl:19360/8000/8000.m3u8",
     "userAgent": ""
   },
   {
     "name": "Max Anime | CL 🇨🇱",
-    "image": "https://cdn.m3u.cl/logo/1185_Max_Anime.png",
-    "url": "https://tv.arkeo.cl:19360/8128/8128.m3u8",
+    "image": "https://i.imgur.com/GobaF3p.png",
+    "url": "https://streamlov.alsolnet.com/maxanime/live/chunklist_w2071949212.m3u8",
     "userAgent": ""
   },
   {
@@ -1277,9 +1271,23 @@
   },
   {
     "name": "NTV | CL 🇨🇱",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/NTV_Logo_2021.svg/800px-NTV_Logo_2021.svg.png",
-    "url": "https://mdstrm.com/live-stream-playlist/60d60a6707d3d108c210294f.m3u8",
+    "image": "https://i.imgur.com/9vNwkYb.png",
+    "online": "true",
+    "referer": "https://www.tvn.cl/",
+    "url": "https://www.tvn.cl/ntv",
+    "isHost": "true"
+  },
+  {
+    "name": "Z Tv | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1604_ZTV_Anime.png",
+    "url": "https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL",
     "userAgent": ""
+  },
+  {
+    "name": "Clan | ES 🇪🇸",
+    "image": "https://graph.facebook.com/clantve/picture?width=200&height=200",
+    "url": "https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
   {
     "name": "PequeRadio Tv | ES 🇪🇸",
@@ -1288,12 +1296,6 @@
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
   {
-    "name": "Z Tv | CL 🇨🇱",
-    "image": "https://cdn.m3u.cl/logo/1301_Z_Tv.png",
-    "url": "https://tv.arkeo.cl:19360/8135/8135.m3u8",
-    "userAgent": ""
-  },
- {
     "name": "24 Horas | ES 🇪🇸",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/2084px-Logo_Canal_24_horas.svg.png",
     "url": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
