@@ -57,10 +57,7 @@
 "image": "https://static.wixstatic.com/media/603da4_cff0a56da59a43ba88f862dbee0ae230~mv2.gif",
 "stations":[
  
-
-
-		
-		 {
+{
 			"name": "Eventos DISNEY+ 1 | AR 🇦🇷",
 			"image": "https://i.imgur.com/gw2wQrr.png",
 			"url": "https://la14hd.com/vivo/canales.php?stream=disney1",
@@ -200,14 +197,7 @@
 			"url": "https://streamdp1.xyz/global1.php?channel=tntsportschile",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                }, {
-                     	"name": "TNT Sports Chile 720 | CL 🇨🇱",
-"info":"[Dokko1new]",
-        "online":"true",
-                    "image": "https://i.imgur.com/f2glGr9.png",
-		 "url" : "https://dokko1new.newkso.ru/dokko1/premium642/mono.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },  {
+                },  {
 			"name": "TNT Sports Chile 720 | CL 🇨🇱",
 "info":"[Miztv]",
         "online":"true",
@@ -216,7 +206,14 @@
 		"referer": "https://miztv.top",
 		"url":"https://miztv.top/total/stream-642.php",
 		"isHost": "true"
-		},  {
+		}, {
+                     	"name": "TNT Sports Chile 720 | CL 🇨🇱",
+"info":"[Dokko1new]",
+        "online":"true",
+                    "image": "https://i.imgur.com/f2glGr9.png",
+		 "url" : "https://dokko1new.newkso.ru/dokko1/premium642/mono.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         },  {
         	"name": "TNT Sports Chile 720 | CL 🇨🇱",
 "info":"[Tutvlive]",
         "online":"true",
@@ -238,7 +235,8 @@
                     "image": "https://i.imgur.com/f2glGr9.png",
                        "url" : "https://enz.gdplayertv.to/live-tv/tnt-sports-cl/?embed=1",
      			 "embed" : "true"
-         	 }, {
+         	 }, 
+{
 		"name": "DirecTv Sports 720p | AR 🇦🇷",
 "info":"[104]",
         "online":"true",
@@ -338,13 +336,6 @@
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
-			"name": "ESPN Chile | CL 🇨🇱",
-"info":"[Vtr]",
-        "online":"true",
-			"image": "https://i.imgur.com/MFhpD4D.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/espn2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
 		   "name": "ESPN Chile (MiHD) | CL 🇨🇱",
 "info":"[MiHD]",
         "online":"true",
@@ -409,13 +400,6 @@
                    "referer" : "https://tarjetarojaenvivo.lat/",
 					"isHost":"true"
                   },   {
-			    "name": "ESPN 2 | CL 🇨🇱",
-"info":"[Vtr]",
-        "online":"true",
-			"image": "https://i.imgur.com/jq1s4to.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/espnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},  {
         "name": "ESPN 2 720 | AR 🇦🇷",
 "info":"[Jague]",
         "online":"true",
@@ -476,14 +460,7 @@
 			"url": "https://la14hd.com/vivo/canales.php?stream=espn2",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
-                },  {
-				  "name": "ESPN 3 | | CL 🇨🇱",
-"info":"[Vtr]",
-        "online":"true",
-			"image": "https://i.imgur.com/y3VGGV0.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/espn3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
+                }, {
 			   "name": "ESPN 3 | AR 🇦🇷",
 "info":"[190]",
         "online":"true",
@@ -829,50 +806,57 @@
 		  "userAgent" : ""
 			}, 
 {
-                     "name": "TUDN USA 1080 (190) | US 🇺🇸",
+                     "name": "TUDN USA 1080 | US 🇺🇸",
+"info":"[190]",
+        "online":"true",
 			"image": "https://i.imgur.com/U6DKWV0.png",
 		 "url" : "http://190.92.10.66:4000/play/a002/index.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-                     "name": "TUDN USA 1080 (Plus) | US 🇺🇸",
-			"image": "https://i.imgur.com/U6DKWV0.png",
-		 "url" : "http://190.92.10.66:4000/play/a002/index.m3u8",
-             "userAgent":"PlusMediaPlayer/0.0.9"
                                          },  {
-			   "name": "TUDN USA 1080 (Topembed) | US 🇺🇸",
+			   "name": "TUDN USA 1080 | US 🇺🇸",
 			"image": "https://i.imgur.com/U6DKWV0.png",
-		"online":"true",
+"info":"[Topembed]",
+        "online":"true",
 		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"referer": "https://topembed.pw/",
 		"url":"https://topembed.pw/channel/TUDN[USA]",
 		"isHost": "true"
 		}, {
-                     "name": "TUDN USA 720 (Tinworld) | US 🇺🇸",
+                     "name": "TUDN USA 720 | US 🇺🇸",
+"info":"[Tinworld]",
+        "online":"true",
 			"image": "https://i.imgur.com/U6DKWV0.png",
 		 "url" : "https://tinworld-myproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02Ni9tb25vLm0zdTg=.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          },  {
-     "name": "TUDN USA 720 (Alldown) | US 🇺🇸",
+     "name": "TUDN USA 720 | US 🇺🇸",
+"info":"[Tinworld]",
+        "online":"true",
 			"image": "https://i.imgur.com/U6DKWV0.png",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://alldownplay.xyz",
         "url": "https://tinworld-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium66/mono.m3u8",
         "isHost":""
         }, {
-			   "name": "TUDN USA 720 (Streamingon) | US 🇺🇸",
+			   "name": "TUDN USA 720 | US 🇺🇸",
+"info":"[Streamingon]",
+        "online":"true",
 			"image": "https://i.imgur.com/U6DKWV0.png",
-				"online":"true",
 			"referer": "https://streamingon.org/",
 				"url":"https://streamingon.org/embed/hd-1.php",
 				"isHost": "true"
 				}, {
 			"name": "TUDN USA (Streamdp) | US 🇺🇸",
+"info":"[Streamdp]",
+        "online":"true",
 			"image": "https://i.imgur.com/U6DKWV0.png",
 			"url": "https://streamdp1.xyz/global1.php?channel=tudn_usa",
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 },  {
 			"name": "TUDN USA (La14HD) | US 🇺🇸",
+"info":"[La14HD]",
+        "online":"true",
 			"image": "https://i.imgur.com/U6DKWV0.png",
 			"url": "https://la14hd.com/vivo/canales.php?stream=tudn_usa",
 			 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
@@ -891,11 +875,6 @@
 			"name": "Bein Sports Extra Ñ (Cloudfront) | US 🇺🇸",
 			"image": "https://i.imgur.com/R8c4qIq.png",
 		"url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
-		  "userAgent" : ""
-			}, {
-				"name": "Golf Channel | CL 🇨🇱",
-			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_golfchannel.jpg",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/golfhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			}, 
 
@@ -1138,125 +1117,7 @@
 "image": "https://static.wixstatic.com/media/603da4_cff0a56da59a43ba88f862dbee0ae230~mv2.gif",
 "stations":[
   
-{
-				"name": "Space | CL 🇨🇱",
-			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_space.jpg",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
-				"name": "TNT | CL 🇨🇱",
-			"image": "https://i.imgur.com/U9cxKtY.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/tnthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
-				"name": "FX | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/2560px-FX_Logo_2023.svg.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/fxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},{
-				"name": "TCM | CL 🇨🇱",
-			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_tcm.jpg",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/tcmsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},{
-				"name": "Studio Universal | CL 🇨🇱",
-			"image": "https://i.imgur.com/2CfoZjs.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},
-{
-				"name": "Cinecanal | CL 🇨🇱",
-			"image": "https://i0.wp.com/playtv.cl/wp-content/uploads/2022/09/cinecanal.jpeg",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},
-{
-				"name": "A3Cine | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/a3cinehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},{
-				"name": "AMC | CL 🇨🇱",
-			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_amc.jpg",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/amchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
-				"name": "HBO Extreme | CL 🇨🇱",
-			"image": "https://i0.wp.com/playtv.cl/wp-content/uploads/2025/01/hboxtreme.jpg",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/hboxtremehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, 
-{
-				"name": "USA Network | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1200px-USA_Network_logo_%282006%29.svg.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/syfyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
-				"name": "Azteca Cinema | CL 🇨🇱",
-			"image": "https://i.imgur.com/DjmMj5c.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/azcinemasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
-				"name": "TNT Series | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/tntserieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
-				"name": "A3Series | CL 🇨🇱",
-			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_a3s.jpg",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
-				"name": "TNT Novelas | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/tbshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-",
-		  "userAgent" : ""
-			},
-
- {
-				"name": "TLC | CL 🇨🇱",
-			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_tlc.jpg",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/disctlchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},{
-				"name": "Discovery H&H | CL 🇨🇱",
-			"image": "https://cdn.storage.foromedios.com/monthly_2022_05/large.207902319_HH.png.46f35ade54b7d3f363748febc08702e8.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/dischhhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},{
-				"name": "Discovery Turbo | CL 🇨🇱",
-			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_discoveryturbo.jpg",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/discoveryturbosdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, 
-{
-				"name": "Discovery Kids | CL 🇨🇱",
-			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_discoverykids.jpg",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/disckidshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
-				"name": "Disney Junior | CL 🇨🇱",
-			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_disneyjunior.jpg",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},{
-				"name": "Dreamworks | CL 🇨🇱",
-			"image": "https://i.imgur.com/TeBhx0s.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},
-{
-				"name": "Cartoncito | CL 🇨🇱",
-			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_cartoonito.jpg",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/boomeranghdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
-				"name": "Cartoon Network | CL 🇨🇱",
-			"image": "https://www.tumundo.cl/wp-content/uploads/2022/11/c_cartoonnetwork.jpg",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},  {
+			 {
 				"name": "Moni Tv | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/1300_Moni_TV.png",
 		"url": "https://tv.arkeo.cl:19360/8134/8134.m3u8",
@@ -1310,13 +1171,15 @@
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/2084px-Logo_Canal_24_horas.svg.png",
 		 "url" : "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },   {
-                     "name": "Telefe 1080 | AR 🇦🇷",
+                                         },  {
+			 "name": "Telefe (Streamdp) | AR 🇦🇷",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
-		 "url" : "http://187.190.55.136:5501/udp/225.1.1.240:5240",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-		 "name": "Telefe | AR 🇦🇷",
+		"online":"true",
+			"url": "https://streamdp1.xyz/global1.php?channel=telefe",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+		 "name": "Telefe (Tele) | AR 🇦🇷",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
 		"online":"true",
 		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
@@ -1488,71 +1351,73 @@
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
-			   "name": "Telemundo 47 1080 (MiHD) | US 🇺🇸",
+			   "name": "Telemundo 47 1080 | US 🇺🇸",
+"info":"[MiHD]",
+        "online":"true",
 			"image": "https://i.imgur.com/9piuN0T.png",
-			"online": "true",
 			"referer": "https://mihd.tv/",
 				"url": "https://mihd.tv/telemundo-51-en-vivo-por-internet.html",
 			"isHost": "true"
 				}, {
-                "name": "Telemundo 720 (Miztv) | US 🇺🇸",
+                "name": "Telemundo 720 | US 🇺🇸",
+"info":"[Miztv]",
+        "online":"true",
 			"image": "https://i.imgur.com/9piuN0T.png",
 		 "url" : "https://miztv.top/total/stream-131.php",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
-        	 "name": "Telemundo 720 (TuTvLive) | US 🇺🇸",
+        	 "name": "Telemundo 720 | US 🇺🇸",
+"info":"[Tutvlive]",
+        "online":"true",
 			"image": "https://i.imgur.com/9piuN0T.png",
 		 "url" : "https://tutvlive.xyz/tvtodo/telemundo.php",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          },  {
-			 "name": "Telemundo 720 (Link) | US 🇺🇸",
+			 "name": "Telemundo 720 | US 🇺🇸",
+"info":"[Link]",
+        "online":"true",
 			"image": "https://i.imgur.com/9piuN0T.png",
-		"online":"true",
 		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
 		"referer": "https://deporte-libre.link",
 		"url":"https://deporte-libre.link/stream/stream-131.php",
 		"isHost": "true"
-		},  {
-		 "name": "Telemundo (GDPlayer) | US 🇺🇸",
-			"image": "https://i.imgur.com/9piuN0T.png",
-                       "url" : "https://idx.gdplayertv.to/live-tv/telemundo/?embed=1",
-     			 "embed" : "true"
-         	 }, {
+		}, {
                      "name": "Telemundo Puerto Rico (Nbc) | US 🇺🇸",
 			"image": "https://i.imgur.com/9piuN0T.png",
 		 "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
 		  "userAgent" : ""
 			}, {
-                   "name": "Univision 1080 (45) | US 🇺🇸",
+                   "name": "Univision 1080 | US 🇺🇸",
+"info":"[45]",
+        "online":"true",
 			"image": "https://i.imgur.com/b5III2Y.png",
 		 "url" : "http://45.161.24.2:4025/udp/224.32.32.32:1088",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
-        	 "name": "Univision (Miztv) | US 🇺🇸",
+        	 "name": "Univision | US 🇺🇸",
+"info":"[Miztv]",
+        "online":"true",
 			"image": "https://i.imgur.com/b5III2Y.png",
 		 "url" : "https://miztv.top/stream/stream-132.php",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
 			  "name": "Univision (MiHD) | US 🇺🇸",
+"info":"[MiHD]",
+        "online":"true",
 			"image": "https://i.imgur.com/b5III2Y.png",
-			"online": "true",
 			"referer": "https://mihd.tv/",
 				"url": "https://mihd.tv/univision-en-vivo-por-internet.html",
 			"isHost": "true"
 				},  {
-			  "name": "Univision (Link) | US 🇺🇸",
+			  "name": "Univision | US 🇺🇸",
+"info":"[Link]",
+        "online":"true",
 			"image": "https://i.imgur.com/b5III2Y.png",
-		"online":"true",
 		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
 		"referer": "https://deporte-libre.link",
 		"url":"https://deporte-libre.link/stream/stream-132.php",
 		"isHost": "true"
-		},  {
-		  "name": "Univision 1080 (GDPlayer) | US 🇺🇸",
-			"image": "https://i.imgur.com/b5III2Y.png",
-                       "url" : "https://idx.gdplayertv.to/live-tv/univision/?embed=1",
-     			 "embed" : "true"
-         	 }, {
+		}, {
                      "name": "Unimas | US 🇺🇸",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png",
 		 "url" : "http://187.190.55.136:5501/udp/225.1.10.133:15133",
@@ -1563,13 +1428,6 @@
 		 "url" : "https://live.gideo.video/americateve2/master.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
-						"name": "Mega 1080 | CL 🇨🇱",
-	"info":"[Vtr]",
-        "online":"true",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
 					"name": "Mega 1080 | CL 🇨🇱",
 "info":"[Online]",
         "online":"true",
@@ -1586,15 +1444,6 @@
 		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true 
 			}, {
-					"name": "Mega 720 | CL 🇨🇱",
-"info":"[Tele]",
-        "online":"true",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-		"referer": "https://telegratuita.com/",
-		"url":"https://telegratuita.com/en-vivo/mega-chile.php",
-		"isHost": "true"
-		}, {
 			"name": "Mega 720 | CL 🇨🇱",
 "info":"[ISP]",
         "online":"true",
@@ -1607,13 +1456,6 @@
         "online":"true",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
 		"url": "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8",
-		  "userAgent" : ""
-			}, {
-				"name": "TVN 1080 | CL 🇨🇱",
-"info":"[Vtr]",
-        "online":"true",
-				"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/tvnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
 		  "userAgent" : ""
 			}, {
 			"name": "TVN 1080 | CL 🇨🇱",
@@ -1645,23 +1487,7 @@
 			"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
 		"url": "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8",
 		  "userAgent" : ""
-			}, {
-			"name": "Chilevision 1080 | CL 🇨🇱",
-"info":"[Vtr]",
-        "online":"true",
-			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/chvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
-		"name": "Chilevision 1080 | CL 🇨🇱",
-"info":"[TvSpace]",
-        "online":"true",
-			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-		"referer": "https://www.tvspacehd.com/",
-		"url":"https://www.tvspacehd.com/2023/01/chilevision.html",
-		"isHost": "true"
-		}, {
+			},  {
 			"name": "Chilevision 1080 | CL 🇨🇱",
 "info":"[Online]",
         "online":"true",
@@ -1678,13 +1504,23 @@
 		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true 
 			}, {
-				"name": "Canal 13 1080 | CL 🇨🇱",
-"info":"[Vtr]",
+		"name": "Chilevision 1080 | CL 🇨🇱",
+		"info":"[Tele]",
+      		"online":"true",
+		"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+                       "url" : "https://telegratuita.com/repro/?r=L21nby9jaHYucGhw",
+     			 "embed" : "true"
+         	 },  {
+ 	"name": "Canal 13 720 | CL 🇨🇱",
+"info":"[m3u]",
         "online":"true",
 			"image": "https://i.imgur.com/RazPUFz.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/canal13hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
+"url": "https://m3u.cl/channel/c13.php",
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
+},  {
 			"name": "Canal 13 720 | CL 🇨🇱",
 "info":"[Jireh]",
         "online":"true",
@@ -1698,61 +1534,15 @@
 			"image": "https://i.imgur.com/RazPUFz.png",
 		"url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/playlist.m3u8",
 		  "userAgent" : ""
-			},  {
- 	"name": "Canal 13 720 | CL 🇨🇱",
-"info":"[m3u]",
-        "online":"true",
-			"image": "https://i.imgur.com/RazPUFz.png",
-"url": "https://m3u.cl/channel/c13.php",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-}, {
-		"name": "Canal 13 (Tele) 720 | CL 🇨🇱",
-"info":"[Tele]",
-        "online":"true",
-			"image": "https://i.imgur.com/RazPUFz.png",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-		"referer": "https://telegratuita.com/",
-		"url":"https://telegratuita.com/en-vivo/canal-13.php",
-		"isHost": "true"
-		}, {
-			"name": "Canal 13 720 | CL 🇨🇱",
-"info":"[Online]",
-        "online":"true",
-			"image": "https://i.imgur.com/RazPUFz.png",
-			"referer": "https://www.13.cl/",
-				"url": "https://www.13.cl/en-vivo",
-			"isHost": "true"
-				}, {
-			"name": "Canal 13 720 | CL 🇨🇱",
-"info":"[Online]",
-        "online":"true",
-			"image": "https://i.imgur.com/RazPUFz.png",
-		"url": "https://www.13.cl/en-vivo",
-		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": true 
-			}, 
-
-
-
-
-
-{
+			}, {
 			"name": "TV+ | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/458_TV_.png",
 		"url": "https://jireh-2-hls-video-cl-mundo.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream2/chunks.m3u8",
 		  "userAgent" : ""
-			}, {
-			"name": "TVMas 2 | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1243_TVMas2.png",
-		"url": "https://marine2.miplay.cl/tateti/playlist.m3u8",
-		  "userAgent" : ""
-			}, {
-				"name": "La Red 1080 | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/790_La_Red.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/laredhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+			},  {
+			"name": "TVR | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVR_Chile_%282025%29.svg/250px-TVR_Chile_%282025%29.svg.png",
+		"url": "https://unlimited2-cl-isp.dps.live/tvr/tvr.smil/tvr/livestream1/chunks.m3u8",
 		  "userAgent" : ""
 			},  {
 			"name": "La Red | CL 🇨🇱",
@@ -1760,42 +1550,6 @@
 		"url": "https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8",
 		  "userAgent" : ""
 			},  {
-				"name": "Vive Tv | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Vivetv.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
-				"name": "Mega Ficcion | CL 🇨🇱",
-			"image": "https://i.imgur.com/2jQs5jN.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/megaficcionhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
-				"name": "Mega 2 | CL 🇨🇱",
-			"image": "https://i.imgur.com/h8jqMeL.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/megaplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
-				"name": "Zona Latina | CL 🇨🇱",
-			"image": "https://i.imgur.com/CkgvbMa.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/zonalatinahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
-				"name": "Via X | CL 🇨🇱",
-			"image": "https://i.imgur.com/Sj6zBOS.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/viaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},  {
-				"name": "Via X 2 | CL 🇨🇱",
-			"image": "https://i.imgur.com/iNlTb6n.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/viax2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},
- {
-				"name": "CNN Chile 1080 | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/250px-CNN_Chile_logo_2017.svg.png",
-		"url": "http://live1.cl.cdn.lla.vtrplay.com/cnnchilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			}, {
 			"name": "CNN Chile | CL 🇨🇱",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/250px-CNN_Chile_logo_2017.svg.png",
 		"url": "https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR",
@@ -1806,22 +1560,18 @@
 		"url": "https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8",
 		  "userAgent" : ""
 			}, {
-				"name": "24 Horas 1080 | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png",
-		"url": "http://live1.cl.cdn.lla.vtrplay.com/24hhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},  {
+			"name": "MegaNoticias | CL 🇨🇱",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/1200px-Meganoticias2019.png",
+			"online": "true",
+			"referer": "https://www.meganoticias.cl/",
+				"url": "https://www.meganoticias.cl/senal-en-vivo/meganoticias/",
+			"isHost": "true"
+				}, {
 			"name": "24 Horas | CL 🇨🇱",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png",
 		"url": "https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8",
 		  "userAgent" : ""
-			}, 
-{
-				"name": "T13 1080 | CL 🇨🇱",
-		"image": "https://cdn.m3u.cl/logo/1054_T13.png",
-		"url": "https://live1.cl.cdn.lla.vtrplay.com/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-		  "userAgent" : ""
-			},{
+			}, {
 			"name": "T13 | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/1054_T13.png",
 		"url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
@@ -1831,40 +1581,39 @@
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/CHV_Noticias_2018.png/1200px-CHV_Noticias_2018.png",
 		"url": "https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8",
 		  "userAgent" : ""
-			}, 
-
-
-
-{
+			}, {
 			"name": "Bio Bio TV | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/421_Bio_Bio_TV.png",
 			"url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8",
 		  "userAgent" : ""
 			}, {
-			"name": "MegaNoticias | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/1200px-Meganoticias2019.png",
-			"online": "true",
-			"referer": "https://www.meganoticias.cl/",
-				"url": "https://www.meganoticias.cl/senal-en-vivo/meganoticias/",
-			"isHost": "true"
-				}, {
+			"name": "TVMas 2 | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1243_TVMas2.png",
+		"url": "https://marine2.miplay.cl/tateti/playlist.m3u8",
+		  "userAgent" : ""
+			}, {
 			"name": "MegaTiempo | CL 🇨🇱",
 			"image": "https://i.imgur.com/8C4ba8G.png",
 			"online": "true",
 			"referer": "https://www.mega.cl/",
 				"url": "https://www.mega.cl/senal-en-vivo/megatiempo/",
 			"isHost": "true"
-				},   {
+				}, {
 			"name": "TVN 3 | CL 🇨🇱",
 			"image": "https://i.imgur.com/FLFXy2D.png",
 		"url": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8",
 		  "userAgent" : ""
-			},{
+			}, {
 			"name": "CHV Deportes | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/1569_CHV_Deportes.png",
 		"url": "https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8",
 		  "userAgent" : ""
 			},  {
+			"name": "D13 | CL 🇨🇱",
+			"image": "https://cdn.m3u.cl/logo/1199_D13.png",
+		"url": "https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL",
+		  "userAgent" : ""
+			}, {
 			"name": "T13 Radio | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/1198_T13_Radio.png",
 		"url": "https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8",
@@ -1918,11 +1667,6 @@
 			"name": "Tv Senado | CL 🇨🇱",
 			"image": "https://cdn.m3u.cl/logo/444_TV_Senado.png",
 		"url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL",
-		  "userAgent" : ""
-			}, {
-			"name": "D13 | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1199_D13.png",
-		"url": "https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL",
 		  "userAgent" : ""
 			}, {
 			"name": "VClassicTV | CL 🇨🇱",
