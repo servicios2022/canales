@@ -1506,7 +1506,65 @@
 			"url": "https://www.chilevision.cl/senal-online",
 		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true 
-			},  {
+			},  
+
+
+
+
+
+
+
+{
+			"name": "TNT 33333a (Laceaccept) | AR 🇦🇷",
+			"image": "https://i.imgur.com/ItEH0oC.png",
+			"url" : "https://telegratuita.com/repro/?r=L21nby9jaHYucGhw",
+                                                      "referer" : "https://telegratuita.com",
+			 "isHost":"true"
+               }, {
+			"name": "TNT1111720 | CL 🇨🇱",
+"info":"[Miztv]",
+        "online":"true",
+                    "image": "https://i.imgur.com/f2glGr9.png",
+		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+		"referer": "https://telegratuita.com/",
+		"url":"https://telegratuita.com/repro/?r=L21nby9jaHYucGhw",
+		"isHost": "true"
+		},  {
+				"name": "2222D) | MX 🇲🇽",
+			"image": "https://i.imgur.com/U6DKWV0.png",
+			"online": "true",
+			"referer": "https://telegratuita.com/",
+				"url": "https://telegratuita.com/repro/?r=L21nby9jaHYucGhw",
+			"isHost": "true"
+				},  {
+			"name": "TNT 36666 (Laceaccept) | AR 🇦🇷",
+			"image": "https://i.imgur.com/ItEH0oC.png",
+			"url" : "https://www.chilevision.cl/senal-online",
+                                                      "referer" : "https://www.chilevision.cl",
+			 "isHost":"true"
+               }, {
+			"name": "T4444 | CL 🇨🇱",
+"info":"[Miztv]",
+        "online":"true",
+                    "image": "https://i.imgur.com/f2glGr9.png",
+		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+		"referer": "https://www.chilevision.cl",
+		"url":"https://www.chilevision.cl/senal-online",
+		"isHost": "true"
+		},  {
+				"name": "4444) | MX 🇲🇽",
+			"image": "https://i.imgur.com/U6DKWV0.png",
+			"online": "true",
+			"referer": "https://www.chilevision.cl",
+				"url": "https://www.chilevision.cl/senal-online",
+			"isHost": "true"
+				},
+
+
+
+
+
+{
 			"name": "Canal 13 720 | CL 🇨🇱",
 "info":"[Jireh]",
         "online":"true",
@@ -1573,8 +1631,6 @@
 		"url": "https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8",
 		  "userAgent" : ""
 			}, 
-
-
 
 {
 			"name": "Bio Bio TV | CL 🇨🇱",
