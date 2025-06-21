@@ -13,21 +13,11 @@
  
 
   {
-    "name": "Futbol Libre TV 00 | AR 🇦🇷",
+    "name": "Futbol Libre TV | AR 🇦🇷",
     "info": "[Online]",
     "online": "true",
     "image": "https://i.imgur.com/ehmvuI6.png",
     "url": "https://tufutbollibre.com/agenda.html?v=1749905954927",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-    "playInNatPlayer": "true",
-    "embed": "true"
-  },
-  {
-    "name": "La14HD | AR 🇦🇷",
-    "info": "[Online]",
-    "online": "true",
-    "image": "https://i.imgur.com/ehmvuI6.png",
-    "url": "https://la14hd.com/eventos/",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
     "playInNatPlayer": "true",
     "embed": "true"
@@ -38,6 +28,16 @@
     "online": "true",
     "image": "https://i.imgur.com/ehmvuI6.png",
     "url": "https://librefutboltv.su/agenda/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+    "playInNatPlayer": "true",
+    "embed": "true"
+  },
+  {
+    "name": "La14HD | AR 🇦🇷",
+    "info": "[Online]",
+    "online": "true",
+    "image": "https://i.imgur.com/ehmvuI6.png",
+    "url": "https://la14hd.com/eventos/",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
     "playInNatPlayer": "true",
     "embed": "true"
@@ -927,6 +927,7 @@
     "name": "TUDN USA 720 | US 🇺🇸",
     "info": "[Tinworld]",
     "online": "true",
+    "image": "https://i.imgur.com/U6DKWV0.png",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
     "referer": "https://alldownplay.xyz",
     "url": "https://tinworld-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium66/mono.m3u8"
@@ -1250,693 +1251,809 @@
 "image": "https://static.wixstatic.com/media/603da4_cff0a56da59a43ba88f862dbee0ae230~mv2.gif",
 "stations":[
   
-			 {
-				"name": "Moni Tv | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1300_Moni_TV.png",
-		"url": "https://tv.arkeo.cl:19360/8134/8134.m3u8",
-		  "userAgent" : ""
-			},  {
-				"name": "AniRetro | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1585_AniRetro.png",
-		"url": "https://tv.arkeo.cl:19360/8000/8000.m3u8",
-		  "userAgent" : ""
-			},  {
-				"name": "Max Anime | CL 🇨🇱",
-			"image": "https://i.imgur.com/GobaF3p.png",
-		"url": "https://streamlov.alsolnet.com/maxanime/live/chunklist_w2071949212.m3u8",
-		  "userAgent" : ""
-			}, {
-				"name": "Z Tv | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1604_ZTV_Anime.png",
-		"url": "https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL",
-		  "userAgent" : ""
-			},  {
-			"name": "NTV | CL 🇨🇱",
-			"image": "https://i.imgur.com/9vNwkYb.png",
-			"online": "true",
-			"referer": "https://www.tvn.cl/",
-				"url": "https://www.tvn.cl/ntv",
-			"isHost": "true"
-				}, {
-                     "name": "Clan | ES 🇪🇸",
-			"image": "https://graph.facebook.com/clantve/picture?width=200&height=200",
-		 "url" : "https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },  {
-                     "name": "PequeRadio Tv | ES 🇪🇸",
-			"image": "https://graph.facebook.com/Pequeradio/picture?width=200&height=200",
-		 "url" : "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, 
-
+   {
+    "name": "AniRetro | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1187_AniRetro.png",
+    "url": "https://tv.arkeo.cl:19360/8110/8110.m3u8",
+    "userAgent": ""
+  },
   {
-                     "name": "La 1 | ES 🇪🇸",
-			"image": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png",
-		 "url" : "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },  {
-                     "name": "La 2 | ES 🇪🇸",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1900px-Logo_La_2.svg.png",
-		 "url" : "https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },  {
-                     "name": "24 Horas | ES 🇪🇸",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/2084px-Logo_Canal_24_horas.svg.png",
-		 "url" : "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },  {
-			 "name": "Telefe (Streamdp) | AR 🇦🇷",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
-		"online":"true",
-			"url": "https://streamdp1.xyz/global1.php?channel=telefe",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-		 "name": "Telefe (Tele) | AR 🇦🇷",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
-		"online":"true",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-		"referer": "https://telegratuita.com/",
-		"url":"https://telegratuita.com/en-vivo/telefe.php",
-		"isHost": "true"
-		},  {
-		  "name": "Telefe (VerTv) | AR 🇦🇷",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
-                       "url" : "https://www.vertvcable.com/channel.php?id=ch_67fbfa9f8ca3d",
-     			 "embed" : "true"
-         	 }, {
-                     "name": "El Trece | AR 🇦🇷",
-			"image": "https://cdn.m3u.cl/logo/1358_El_Trece.png",
-		 "url" : "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-		  "name": "Tv Publica (VerTv) | AR 🇦🇷",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",
-                       "url" : "https://www.vertvcable.com/channel.php?id=ch_67fc07e237b05",
-     			 "embed" : "true"
-         	 }, {
-                     "name": "ATV | PE 🇵🇪",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ATV_Peru_2025.svg/2560px-ATV_Peru_2025.svg.png",
-		 "url" : "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },  {
-                     "name": "Latina | PE 🇵🇪",
-			"image": "https://cdn.m3u.cl/logo/1657_Latina.png",
-		 "url" : "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?PlaylistM3UCL",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-				   "name": "America Tv | PE 🇵🇪",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png",
-			"online": "true",
-			"referer": "https://mihd.tv/",
-				"url": "https://mihd.tv/america-tv-en-vivo-por-internet.html",
-			"isHost": "true"
-				}, {
-                     "name": "Tv Peru | PE 🇵🇪",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/2560px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",
-		 "url" : "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-                     "name": "Tv Peru Noticias | PE 🇵🇪",
-			"image": "https://cdn.m3u.cl/logo/705_TV_Peru_Noticias.png",
-		 "url" : "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },  {
-                     "name": "Canal IPE | PE 🇵🇪",
-			"image": "https://graph.facebook.com/canalipe/picture?width=200&height=200",
-		 "url" : "https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-				   "name": "Caracol (MiHD) | CO 🇨🇴",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
-			"online": "true",
-			"referer": "https://mihd.tv/",
-				"url": "https://mihd.tv/caracol-en-vivo-por-internet.html",
-			"isHost": "true"
-				},  {
-   "name": "Caracol (VerTv) | CO 🇨🇴",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
-                       "url" : "https://www.vertvcable.com/channel.php?id=ch_67fc1f3626ca2",
-     			 "embed" : "true"
-         	 }, {
-                     "name": "Noticias Caracol | CO 🇨🇴",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/NOTICIAS_CARACOL.svg/1922px-NOTICIAS_CARACOL.svg.png",
-		 "url" : "https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-                     "name": "RCN | CO 🇨🇴",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/288px-Canal_RCN_logo.svg.png",
-		 "url" : "http://179.51.136.19:8000/play/a1ao/index.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },  {
-                     "name": "RCN Mas | CO 🇨🇴",
-			"image": "https://i.imgur.com/MJzuRAN.png",
-		 "url" : "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-                     "name": "TeleAntioquia | CO 🇨🇴",
-			"image": "https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200",
-"referer": "https://player.instantvideocloud.net/",
-		 "url" : "https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },  {
-                     "name": "TeleCaribe | CO 🇨🇴",
-			"image": "https://graph.facebook.com/telecaribeEnvivo/picture?width=200&height=200",
-"referer": "https://player.instantvideocloud.net/",
-		 "url" : "https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },  {
-                     "name": "TeleCaribe | CO 🇨🇴",
-			"image": "https://graph.facebook.com/telecaribeEnvivo/picture?width=200&height=200",
-"referer": "https://player.instantvideocloud.net/",
-		 "url" : "https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-                     "name": "Canal TRO | CO 🇨🇴",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canal_tro_logo.PNG/640px-Canal_tro_logo.PNG",
-"referer": "https://player.instantvideocloud.net/",
-		 "url" : "https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-                     "name": "Ecuavisa | EC 🇪🇨",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png",
-		 "url" : "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-                     "name": "Oromar | EC 🇪🇨",
-			"image": "https://graph.facebook.com/oromartv/picture?width=200&height=200",
-		 "url" : "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-                     "name": "Telesur | VE 🇻🇪",
-			"image": "https://graph.facebook.com/teleSUR/picture?width=200&height=200",
-		 "url" : "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-                     "name": "VPI Tv | VE 🇻🇪",
-			"image": "https://graph.facebook.com/vpitv/picture?width=200&height=200",
-		 "url" : "https://ott.streann.com/loadbalancer/services/public/channels-secure/5d23d5882cdce61dae029fd8/playlist.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-                     "name": "ABC Tv | PY 🇵🇾",
-			"image": "https://graph.facebook.com/ABCTVpy/picture?width=200&height=200",
-		 "url" : "https://livecdn.use1-0004.jwplive.com/live/sites/rmOO40BU/media/N4AiIwBJ/live.isml/.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-                     "name": "ADN40 | MX 🇲🇽",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Adn40_2022.png",
-		 "url" : "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-                     "name": "Las Estrellas | MX 🇲🇽",
-			"image": "https://i.imgur.com/g5ShxZ7.png",
-		 "url" : "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-                     "name": "Azteca Internacional | MX 🇲🇽",
-			"image": "https://media.tvup.cloud/canales/color_lg_6523ab28416c1045648ebdcc.png",
-		 "url" : "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-                     "name": "Canal 6 Multimedios | MX 🇲🇽",
-			"image": "https://graph.facebook.com/multimediostv/picture?width=200&height=200",
-		 "url" : "https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-                     "name": "Estrella Tv | MX 🇲🇽",
-			"image": "https://graph.facebook.com/EstrellaTVNetwork/picture?width=200&height=200",
-		 "url" : "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-                      "name": "Azteca 7 (190) | MX 🇲🇽",
-			"image": "https://i.imgur.com/vcv8H63.png",
-                        "url" : "http://190.92.10.66:4000/play/a007/index.m3u8",
-           		 "userAgent": ""
-                          }, {
-                     "name": "Azteca 7 (Windnew) | MX 🇲🇽",
-			"image": "https://i.imgur.com/vcv8H63.png",
-		 "url" : "https://windnew.newkso.ru/wind/premium844/mono.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },  {
-			"name": "Canal 5 (La14HD) | MX 🇲🇽",
-                    "image": "https://i.imgur.com/ys8lTQ6.png",
-			"url": "https://la14hd.com/vivo/canales.php?stream=canal5mx",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, {
-			   "name": "Telemundo 47 1080 | US 🇺🇸",
-"info":"[MiHD]",
-        "online":"true",
-			"image": "https://i.imgur.com/9piuN0T.png",
-			"referer": "https://mihd.tv/",
-				"url": "https://mihd.tv/telemundo-51-en-vivo-por-internet.html",
-			"isHost": "true"
-				}, {
-                "name": "Telemundo 720 | US 🇺🇸",
-"info":"[Miztv]",
-        "online":"true",
-			"image": "https://i.imgur.com/9piuN0T.png",
-		 "url" : "https://miztv.top/total/stream-131.php",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-        	 "name": "Telemundo 720 | US 🇺🇸",
-"info":"[Tutvlive]",
-        "online":"true",
-			"image": "https://i.imgur.com/9piuN0T.png",
-		 "url" : "https://tutvlive.xyz/tvtodo/telemundo.php",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },  {
-			 "name": "Telemundo 720 | US 🇺🇸",
-"info":"[Link]",
-        "online":"true",
-			"image": "https://i.imgur.com/9piuN0T.png",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-		"referer": "https://deporte-libre.link",
-		"url":"https://deporte-libre.link/stream/stream-131.php",
-		"isHost": "true"
-		}, {
-                     "name": "Telemundo Puerto Rico (Nbc) | US 🇺🇸",
-			"image": "https://i.imgur.com/9piuN0T.png",
-		 "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
-		  "userAgent" : ""
-			}, {
-                   "name": "Univision 1080 | US 🇺🇸",
-"info":"[45]",
-        "online":"true",
-			"image": "https://i.imgur.com/b5III2Y.png",
-		 "url" : "http://45.161.24.2:4025/udp/224.32.32.32:1088",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-        	 "name": "Univision | US 🇺🇸",
-"info":"[Miztv]",
-        "online":"true",
-			"image": "https://i.imgur.com/b5III2Y.png",
-		 "url" : "https://miztv.top/stream/stream-132.php",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-			  "name": "Univision (MiHD) | US 🇺🇸",
-"info":"[MiHD]",
-        "online":"true",
-			"image": "https://i.imgur.com/b5III2Y.png",
-			"referer": "https://mihd.tv/",
-				"url": "https://mihd.tv/univision-en-vivo-por-internet.html",
-			"isHost": "true"
-				},  {
-			  "name": "Univision | US 🇺🇸",
-"info":"[Link]",
-        "online":"true",
-			"image": "https://i.imgur.com/b5III2Y.png",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-		"referer": "https://deporte-libre.link",
-		"url":"https://deporte-libre.link/stream/stream-132.php",
-		"isHost": "true"
-		}, {
-                     "name": "Unimas | US 🇺🇸",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png",
-		 "url" : "http://187.190.55.136:5501/udp/225.1.10.133:15133",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },  {
-                     "name": "America Tv | US 🇺🇸",
-			"image": "https://graph.facebook.com/americateve/picture?width=200&height=200",
-		 "url" : "https://live.gideo.video/americateve2/master.m3u8",
-             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-					"name": "Mega 1080 | CL 🇨🇱",
-"info":"[Online]",
-        "online":"true",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
-			"referer": "https://www.mega.cl/",
-				"url": "https://www.mega.cl/senal-en-vivo/",
-			"isHost": "true"
-				}, {
-			"name": "Mega 1080 | CL 🇨🇱",
-"info":"[Online]",
-        "online":"true",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
-			"url": "https://www.mega.cl/senal-en-vivo/",
-		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": true 
-			}, {
-			"name": "Mega 720 | CL 🇨🇱",
-"info":"[ISP]",
-        "online":"true",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
-		"url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
-		  "userAgent" : ""
-			},  {
-			"name": "Mega 720 | CL 🇨🇱",
-"info":"[Movistar]",
-        "online":"true",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
-		"url": "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "TVN 1080 | CL 🇨🇱",
-"info":"[Online]",
-        "online":"true",
-			"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
-			"referer": "https://www.tvn.cl/",
-				"url": "https://www.tvn.cl/en-vivo",
-			"isHost": "true"
-				}, {
-			"name": "TVN 1080 | CL 🇨🇱",
-"info":"[Online]",
-        "online":"true",
-			"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
-			"url": "https://www.tvn.cl/en-vivo",
-		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": true 
-			},{
-			"name": "TVN 720 | CL 🇨🇱",
-"info":"[Mds]",
-        "online":"true",
-			"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
-		"url": "https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8",
-		  "userAgent" : ""
-			},  {
-			"name": "TVN 720 | CL 🇨🇱",
-"info":"[Mds]",
-        "online":"true",
-			"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
-		"url": "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8",
-		  "userAgent" : ""
-			},  {
-			"name": "Chilevision 1080 | CL 🇨🇱",
-"info":"[Online]",
-        "online":"true",
-			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-			"referer": "https://www.chilevision.cl/",
-				"url": "https://www.chilevision.cl/senal-online",
-			"isHost": "true"
-				}, {
-			"name": "Chilevision 1080 | CL 🇨🇱",
-"info":"[Online]",
-        "online":"true",
-			"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-			"url": "https://www.chilevision.cl/senal-online",
-		  "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": true 
-			}, {
-		"name": "Chilevision 1080 | CL 🇨🇱",
-		"info":"[Tele]",
-      		"online":"true",
-		"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-                       "url" : "https://telegratuita.com/repro/?r=L21nby9jaHYucGhw",
-     			 "embed" : "true"
-         	 },  {
- 	"name": "Canal 13 720 | CL 🇨🇱",
-"info":"[m3u]",
-        "online":"true",
-			"image": "https://i.imgur.com/RazPUFz.png",
-"url": "https://m3u.cl/channel/c13.php",
-"embed": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"isHost": ""
-},  {
-			"name": "Canal 13 720 | CL 🇨🇱",
-"info":"[Jireh]",
-        "online":"true",
-			"image": "https://i.imgur.com/RazPUFz.png",
-		"url": "https://jireh-hls-live-video.dpsgo.com/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/playlist.m3u8",
-		  "userAgent" : ""
-			},  {
-			"name": "Canal 13 720 | CL 🇨🇱",
-"info":"[Rudo]",
-        "online":"true",
-			"image": "https://i.imgur.com/RazPUFz.png",
-		"url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/playlist.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "TV+ | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/458_TV_.png",
-		"url": "https://jireh-2-hls-video-cl-mundo.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream2/chunks.m3u8",
-		  "userAgent" : ""
-			},  {
-			"name": "TVR | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVR_Chile_%282025%29.svg/250px-TVR_Chile_%282025%29.svg.png",
-		"url": "https://unlimited2-cl-isp.dps.live/tvr/tvr.smil/tvr/livestream1/chunks.m3u8",
-		  "userAgent" : ""
-			},  {
-			"name": "La Red | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/790_La_Red.png",
-		"url": "https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8",
-		  "userAgent" : ""
-			},  {
-			"name": "CNN Chile | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/250px-CNN_Chile_logo_2017.svg.png",
-		"url": "https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR",
-		  "userAgent" : ""
-			},  {
-			"name": "CNN Chile | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/250px-CNN_Chile_logo_2017.svg.png",
-		"url": "https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "MegaNoticias | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/1200px-Meganoticias2019.png",
-			"online": "true",
-			"referer": "https://www.meganoticias.cl/",
-				"url": "https://www.meganoticias.cl/senal-en-vivo/meganoticias/",
-			"isHost": "true"
-				}, {
-			"name": "24 Horas | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png",
-		"url": "https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "T13 | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1054_T13.png",
-		"url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
-		  "userAgent" : ""
-			},  {
-			"name": "Chilevision Noticias | CL 🇨🇱",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/CHV_Noticias_2018.png/1200px-CHV_Noticias_2018.png",
-		"url": "https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "Bio Bio TV | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/421_Bio_Bio_TV.png",
-			"url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "TVMas 2 | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1243_TVMas2.png",
-		"url": "https://marine2.miplay.cl/tateti/playlist.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "MegaTiempo | CL 🇨🇱",
-			"image": "https://i.imgur.com/8C4ba8G.png",
-			"online": "true",
-			"referer": "https://www.mega.cl/",
-				"url": "https://www.mega.cl/senal-en-vivo/megatiempo/",
-			"isHost": "true"
-				}, {
-			"name": "TVN 3 | CL 🇨🇱",
-			"image": "https://i.imgur.com/FLFXy2D.png",
-		"url": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "CHV Deportes | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1569_CHV_Deportes.png",
-		"url": "https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8",
-		  "userAgent" : ""
-			},  {
-			"name": "D13 | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1199_D13.png",
-		"url": "https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL",
-		  "userAgent" : ""
-			}, {
-			"name": "T13 Radio | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1198_T13_Radio.png",
-		"url": "https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8",
-		  "userAgent" : ""
-			},  {
-			"name": "13 Cultura | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1193_13_Cultura.png",
-		"url": "https://redirector.dps.live/hls/13cultura/playlist.m3u8?PlaylistM3UCL",
-		  "userAgent" : ""
-			}, {
-			"name": "!3 Cocina | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1683_13_Cocina.png",
-		"url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL",
-		  "userAgent" : ""
-			}, {
-			"name": "13 Pop | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1033_13_Pop.png",
-		"url": "https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UCL",
-		  "userAgent" : ""
-			}, {
-			"name": "!3 Teleseries | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1032_13_Teleseries.png",
-		"url": "https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL",
-		  "userAgent" : ""
-			}, {
-			"name": "13 Festival | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1446_13_Festival.png",
-		"url": "https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL",
-		  "userAgent" : ""
-			}, {
-			"name": "13 Realities | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1448_13_Realities.png",
-		"url": "https://redirector.dps.live/hls/13realities/playlist.m3u8?PlaylistM3UCL",
-		  "userAgent" : ""
-			}, {
-			"name": "13 Viajes | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1684_13_Viajes.png",
-		"url": "https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL",
-		  "userAgent" : ""
-			}, {
-			"name": "13 Internacional | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1685_13_Internacional.png",
-		"url": "https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL",
-		  "userAgent" : ""
-			}, {
-			"name": "Camara de Diputados | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/445_Camara_de_Diputados.png",
-		"url": "https://camara.03.wl.cdnz.cl/camara19/live/playlist.m3u8?PlaylistM3UCL",
-		  "userAgent" : ""
-			}, {
-			"name": "Tv Senado | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/444_TV_Senado.png",
-		"url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL",
-		  "userAgent" : ""
-			}, {
-			"name": "VClassicTV | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1160_VClassicTV.png",
-			"url": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "Vintage Music | CR",
-			"image": "https://cdn.m3u.cl/logo/1063_Vintage_Music.png",
-			"url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "Retro Music Television | CZ",
-			"image": "https://cdn.m3u.cl/logo/21_Retro_Music_Television.png",
-			"url": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "Carolina TV | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/27_Carolina_TV.png",
-			"url": "https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "Radioactiva TV | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1301_Radioactiva_TV.png",
-			"url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/playlist.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "Portal FoxMix | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/31_Portal_FoxMix.png",
-			"url": "https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "Radio Video Mix | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1623_Radio_Video_Mix.png",
-			"url": "https://radioxxx.ddns.net/hls/stream.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "Chile Remix | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1586_Chile_Remix.png",
-			"url": "https://vdochile.com:3803/live/ckdj2live.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "Urban Pro DJ | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1476_Urban_Pro_DJ.png",
-			"url": "https://vdochile.com:3115/hybrid/play.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "Latinos Radio | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/996_Latinos_Radio.png",
-			"url": "https://cloudpro.servidoresdestream.com:8081/8012/index.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "Ritmo Top Latino | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1564_Ritmo_Top_Latino.png",
-			"url": "https://panel.tvstream.cl:1936/8048/8048/playlist.m3u8",
-		  "userAgent" : ""
-			},  {
-			"name": "VClassicTV Tropical | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png",
-			"url": "https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8",
-		  "userAgent" : ""
-			},  {
-			"name": "TeleZeta Tropical | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1651_TeleZeta_Tropical.png",
-			"url": "https://stream.telezeta.cl/live/index.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "Tropical Ranchero | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1660_Tropical_Ranchero.png",
-			"url": "https://radioxxx.ddns.net/hls/stream.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "Radio Fiessta | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/401_Radio_Fiessta.png",
-			"url": "https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "Radio Fantasia TV | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/389_Radio_Fantasia_TV.png",
-			"url": "https://v2.tustreaming.cl/fantasiatv/index.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "Sabrosona TV | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1541_Sabrosona_TV.png",
-			"url": "https://samson.streamerr.co:8081/sabrosonavideo/index.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "Sabor TV | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/416_Sabor_TV.png",
-			"url": "https://v1.tustreaming.cl/sabortv/index.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "Radio Ritmo FM | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1196_Radio_Ritmo_FM.png",
-			"url": "https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "Energia TV | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/386_Energia_TV.png",
-			"url": "https://andromeda2.trapemn.tv:1936/regionales/energia-fm/playlist.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "Radio Rosa FM | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1422_Radio_Rosa_FM.png",
-			"url": "https://tv.arkeo.cl:1936/rosafm/rosafm/playlist.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "TVU | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/56_TVU.png",
-			"url": "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8",
-		  "userAgent" : ""
-			},  {
-			"name": "Concepcion TV | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/352_Concepcion_TV.png",
-			"url": "https://stream.blserver.cl/hls/ctv/index.m3u8",
-		  "userAgent" : ""
-			},   {
-			"name": "Canal 9 Bío Bí­o TV | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/353_Canal_9_Bio_Bi­o_TV.png",
-			"url": "https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8",
-		  "userAgent" : ""
-			},   {
-			"name": "ClickTv | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/350_ClickTv.png",
-			"url": "https://v2.tustreaming.cl/clicktv/index.m3u8",
-		  "userAgent" : ""
-			}, {
-			"name": "Canal 2 Quellon | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/86_Canal_2_Quellon.png",
-			"url": "https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
-		  "userAgent" : ""
-			},   {
-			"name": "Hito Cero TV | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/856_Hito_Cero_TV.png",
-			"url": "https://5e3483cba9114.streamlock.net:443/kbwqdhjxtz/kbwqdhjxtz/playlist.m3u8",
-		  "userAgent" : ""
-			} 
+    "name": "Clan | ES 🇪🇸",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Clan_TV_logo_2022.svg/800px-Clan_TV_logo_2022.svg.png",
+    "url": "https://rtvelivestream.akamaized.net/clan_main.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Max Anime | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1185_Max_Anime.png",
+    "url": "https://tv.arkeo.cl:19360/8128/8128.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Moni Tv | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1300_Moni_TV.png",
+    "url": "https://tv.arkeo.cl:19360/8134/8134.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "NTV | CL 🇨🇱",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/NTV_Logo_2021.svg/800px-NTV_Logo_2021.svg.png",
+    "url": "https://mdstrm.com/live-stream-playlist/60d60a6707d3d108c210294f.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "PequeRadio Tv | ES 🇪🇸",
+    "image": "https://graph.facebook.com/Pequeradio/picture?width=200&height=200",
+    "url": "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Z Tv | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1301_Z_Tv.png",
+    "url": "https://tv.arkeo.cl:19360/8135/8135.m3u8",
+    "userAgent": ""
+  },
+ {
+    "name": "24 Horas | ES 🇪🇸",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/2084px-Logo_Canal_24_horas.svg.png",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "La 1 | ES 🇪🇸",
+    "image": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "La 2 | ES 🇪🇸",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1900px-Logo_La_2.svg.png",
+    "url": "https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Telefe (Streamdp) | AR 🇦🇷",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
+    "online": "true",
+    "url": "https://streamdp1.xyz/global1.php?channel=telefe",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": "true"
+  },
+  {
+    "name": "Telefe (Tele) | AR 🇦🇷",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
+    "online": "true",
+    "userAgent": "Mozilla/5.5 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+    "referer": "https://telegratuita.com/",
+    "url": "https://telegratuita.com/en-vivo/telefe.php",
+    "isHost": "true"
+  },
+  {
+    "name": "Telefe (VerTv) | AR 🇦🇷",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
+    "url": "https://www.vertvcable.com/channel.php?id=ch_67fbfa9f8ca3d",
+    "embed": "true"
+  }, 
+  {
+    "name": "El Trece | AR 🇦🇷",
+    "image": "https://cdn.m3u.cl/logo/1358_El_Trece.png",
+    "url": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Tv Publica (VerTv) | AR 🇦🇷",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",
+    "url": "https://www.vertvcable.com/channel.php?id=ch_67fc07e237b05",
+    "embed": "true"
+  },
+  {
+    "name": "ATV | PE 🇵🇪",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ATV_Peru_2025.svg/2560px-ATV_Peru_2025.svg.png",
+    "url": "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Latina | PE 🇵🇪",
+    "image": "https://cdn.m3u.cl/logo/1657_Latina.png",
+    "url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?PlaylistM3UCL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "America Tv | PE 🇵🇪",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png",
+    "online": "true",
+    "referer": "https://mihd.tv/",
+    "url": "https://mihd.tv/america-tv-en-vivo-por-internet.html",
+    "isHost": "true"
+  },
+  {
+    "name": "Tv Peru | PE 🇵🇪",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/2560px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",
+    "url": "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Tv Peru Noticias | PE 🇵🇪",
+    "image": "https://cdn.m3u.cl/logo/705_TV_Peru_Noticias.png",
+    "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Canal IPE | PE 🇵🇪",
+    "image": "https://graph.facebook.com/canalipe/picture?width=200&height=200",
+    "url": "https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Caracol (MiHD) | CO 🇨🇴",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
+    "online": "true",
+    "referer": "https://mihd.tv/",
+    "url": "https://mihd.tv/caracol-en-vivo-por-internet.html",
+    "isHost": "true"
+  },
+  {
+    "name": "Caracol (VerTv) | CO 🇨🇴",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
+    "url": "https://www.vertvcable.com/channel.php?id=ch_67fc1f3626ca2",
+    "embed": "true"
+  },
+  {
+    "name": "Noticias Caracol | CO 🇨🇴",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/NOTICIAS_CARACOL.svg/1922px-NOTICIAS_CARACOL.svg.png",
+    "url": "https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "RCN | CO 🇨🇴",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/288px-Canal_RCN_logo.svg.png",
+    "url": "http://179.51.136.19:8000/play/a1ao/index.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "RCN Mas | CO 🇨🇴",
+    "image": "https://i.imgur.com/MJzuRAN.png",
+    "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "TeleAntioquia | CO 🇨🇴",
+    "image": "https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200",
+    "referer": "https://player.instantvideocloud.net/",
+    "url": "https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "TeleCaribe | CO 🇨🇴",
+    "image": "https://graph.facebook.com/telecaribeEnvivo/picture?width=200&height=200",
+    "referer": "https://player.instantvideocloud.net/",
+    "url": "https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "TeleCaribe | CO 🇨🇴",
+    "image": "https://graph.facebook.com/telecaribeEnvivo/picture?width=200&height=200",
+    "referer": "https://player.instantvideocloud.net/",
+    "url": "https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Canal TRO | CO 🇨🇴",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canal_tro_logo.PNG/640px-Canal_tro_logo.PNG",
+    "referer": "https://player.instantvideocloud.net/",
+    "url": "https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Ecuavisa | EC 🇪🇨",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png",
+    "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Oromar | EC 🇪🇨",
+    "image": "https://graph.facebook.com/oromartv/picture?width=200&height=200",
+    "url": "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Telesur | VE 🇻🇪",
+    "image": "https://graph.facebook.com/teleSUR/picture?width=200&height=200",
+    "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "VPI Tv | VE 🇻🇪",
+    "image": "https://graph.facebook.com/vpitv/picture?width=200&height=200",
+    "url": "https://ott.streann.com/loadbalancer/services/public/channels-secure/5d23d5882cdce61dae029fd8/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "ABC Tv | PY 🇵🇾",
+    "image": "https://graph.facebook.com/ABCTVpy/picture?width=200&height=200",
+    "url": "https://livecdn.use1-0004.jwplive.com/live/sites/rmOO40BU/media/N4AiIwBJ/live.isml/.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "ADN40 | MX 🇲🇽",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Adn40_2022.png",
+    "url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Las Estrellas | MX 🇲🇽",
+    "image": "https://i.imgur.com/g5ShxZ7.png",
+    "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Azteca Internacional | MX 🇲🇽",
+    "image": "https://media.tvup.cloud/canales/color_lg_6523ab28416c1045648ebdcc.png",
+    "url": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Canal 6 Multimedios | MX 🇲🇽",
+    "image": "https://graph.facebook.com/multimediostv/picture?width=200&height=200",
+    "url": "https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Estrella Tv | MX 🇲🇽",
+    "image": "https://graph.facebook.com/EstrellaTVNetwork/picture?width=200&height=200",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Azteca 7 (190) | MX 🇲🇽",
+    "image": "https://i.imgur.com/vcv8H63.png",
+    "url": "http://190.92.10.66:4000/play/a007/index.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Azteca 7 (Windnew) | MX 🇲🇽",
+    "image": "https://i.imgur.com/vcv8H63.png",
+    "url": "https://windnew.newkso.ru/wind/premium844/mono.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Canal 5 (La14HD) | MX 🇲🇽",
+    "image": "https://i.imgur.com/ys8lTQ6.png",
+    "url": "https://la14hd.com/vivo/canales.php?stream=canal5mx",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": "true"
+  },
+  {
+    "name": "Telemundo 47 1080 | US 🇺🇸",
+    "info": "[MiHD]",
+    "online": "true",
+    "image": "https://i.imgur.com/9piuN0T.png",
+    "referer": "https://mihd.tv/",
+    "url": "https://mihd.tv/telemundo-51-en-vivo-por-internet.html",
+    "isHost": "true"
+  },
+  {
+    "name": "Telemundo 720 | US 🇺🇸",
+    "info": "[Miztv]",
+    "online": "true",
+    "image": "https://i.imgur.com/9piuN0T.png",
+    "url": "https://miztv.top/total/stream-131.php",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Telemundo 720 | US 🇺🇸",
+    "info": "[Tutvlive]",
+    "online": "true",
+    "image": "https://i.imgur.com/9piuN0T.png",
+    "url": "https://tutvlive.xyz/tvtodo/telemundo.php",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Telemundo 720 | US 🇺🇸",
+    "info": "[Link]",
+    "online": "true",
+    "image": "https://i.imgur.com/9piuN0T.png",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+    "referer": "https://deporte-libre.link",
+    "url": "https://deporte-libre.link/stream/stream-131.php",
+    "isHost": "true"
+  },
+  {
+    "name": "Telemundo Puerto Rico (Nbc) | US 🇺🇸",
+    "image": "https://i.imgur.com/9piuN0T.png",
+    "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Univision 1080 | US 🇺🇸",
+    "info": "[45]",
+    "online": "true",
+    "image": "https://i.imgur.com/b5III2Y.png",
+    "url": "http://45.161.24.2:4025/udp/224.32.32.32:1088",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Univision | US 🇺🇸",
+    "info": "[Miztv]",
+    "online": "true",
+    "image": "https://i.imgur.com/b5III2Y.png",
+    "url": "https://miztv.top/stream/stream-132.php",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Univision (MiHD) | US 🇺🇸",
+    "info": "[MiHD]",
+    "online": "true",
+    "image": "https://i.imgur.com/b5III2Y.png",
+    "referer": "https://mihd.tv/",
+    "url": "https://mihd.tv/univision-en-vivo-por-internet.html",
+    "isHost": "true"
+  },
+  {
+    "name": "Univision | US 🇺🇸",
+    "info": "[Link]",
+    "online": "true",
+    "image": "https://i.imgur.com/b5III2Y.png",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+    "referer": "https://deporte-libre.link",
+    "url": "https://deporte-libre.link/stream/stream-132.php",
+    "isHost": "true"
+  },
+  {
+    "name": "Unimas | US 🇺🇸",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png",
+    "url": "http://187.190.55.136:5501/udp/225.1.10.133:15133",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "America Tv | US 🇺🇸",
+    "image": "https://graph.facebook.com/americateve/picture?width=200&height=200",
+    "url": "https://live.gideo.video/americateve2/master.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+ {
+    "name": "Mega 1080 | CL 🇨🇱",
+    "info": "[Online]",
+    "online": "true",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
+    "referer": "https://www.mega.cl/",
+    "url": "https://www.mega.cl/senal-en-vivo/",
+    "isHost": "true"
+  },
+  {
+    "name": "Mega 1080 | CL 🇨🇱",
+    "info": "[Online]",
+    "online": "true",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
+    "url": "https://www.mega.cl/senal-en-vivo/",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Mega 720 | CL 🇨🇱",
+    "info": "[ISP]",
+    "online": "true",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
+    "url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Mega 720 | CL 🇨🇱",
+    "info": "[Movistar]",
+    "online": "true",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "TVN 1080 | CL 🇨🇱",
+    "info": "[Online]",
+    "online": "true",
+    "image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
+    "referer": "https://www.tvn.cl/",
+    "url": "https://www.tvn.cl/en-vivo",
+    "isHost": "true"
+  },
+  {
+    "name": "TVN 1080 | CL 🇨🇱",
+    "info": "[Online]",
+    "online": "true",
+    "image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
+    "url": "https://www.tvn.cl/en-vivo",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "TVN 720 | CL 🇨🇱",
+    "info": "[Mds]",
+    "online": "true",
+    "image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
+    "url": "https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "TVN 720 | CL 🇨🇱",
+    "info": "[Mds]",
+    "online": "true",
+    "image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
+    "url": "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Chilevision 1080 | CL 🇨🇱",
+    "info": "[Online]",
+    "online": "true",
+    "image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+    "referer": "https://www.chilevision.cl/",
+    "url": "https://www.chilevision.cl/senal-online",
+    "isHost": "true"
+  },
+  {
+    "name": "Chilevision 1080 | CL 🇨🇱",
+    "info": "[Online]",
+    "online": "true",
+    "image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+    "url": "https://www.chilevision.cl/senal-online",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "Chilevision 1080 | CL 🇨🇱",
+    "info": "[Tele]",
+    "online": "true",
+    "image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+    "url": "https://telegratuita.com/repro/?r=L21nby9jaHYucGhw",
+    "embed": "true"
+  },
+  {
+    "name": "Canal 13 720 | CL 🇨🇱",
+    "info": "[m3u]",
+    "online": "true",
+    "image": "https://i.imgur.com/RazPUFz.png",
+    "url": "https://m3u.cl/channel/c13.php",
+    "embed": "",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "",
+    "isHost": ""
+  },
+  {
+    "name": "Canal 13 720 | CL 🇨🇱",
+    "info": "[Jireh]",
+    "online": "true",
+    "image": "https://i.imgur.com/RazPUFz.png",
+    "url": "https://jireh-hls-live-video.dpsgo.com/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/playlist.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Canal 13 720 | CL 🇨🇱",
+    "info": "[Rudo]",
+    "online": "true",
+    "image": "https://i.imgur.com/RazPUFz.png",
+    "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/playlist.m3u8",
+    "userAgent": ""
+  },
+ {
+    "name": "TV+ | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/458_TV_.png",
+    "url": "https://jireh-2-hls-video-cl-mundo.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream2/chunks.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "TVMas 2 | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1243_TVMas2.png",
+    "url": "https://marine2.miplay.cl/tateti/playlist.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "TVR | CL 🇨🇱",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVR_Chile_%282025%29.svg/250px-TVR_Chile_%282025%29.svg.png",
+    "url": "https://unlimited2-cl-isp.dps.live/tvr/tvr.smil/tvr/livestream1/chunks.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "La Red | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/790_La_Red.png",
+    "url": "https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "CNN Chile | CL 🇨🇱",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/250px-CNN_Chile_logo_2017.svg.png",
+    "url": "https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR",
+    "userAgent": ""
+  },
+  {
+    "name": "CNN Chile | CL 🇨🇱",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/250px-CNN_Chile_logo_2017.svg.png",
+    "url": "https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "MegaNoticias | CL 🇨🇱",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/1200px-Meganoticias2019.png",
+    "online": "true",
+    "referer": "https://www.meganoticias.cl/",
+    "url": "https://www.meganoticias.cl/senal-en-vivo/meganoticias/",
+    "isHost": "true"
+  },
+  {
+    "name": "24 Horas | CL 🇨🇱",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png",
+    "url": "https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "T13 | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1054_T13.png",
+    "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Chilevision Noticias | CL 🇨🇱",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/CHV_Noticias_2018.png/1200px-CHV_Noticias_2018.png",
+    "url": "https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Bio Bio TV | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/421_Bio_Bio_TV.png",
+    "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "MegaTiempo | CL 🇨🇱",
+    "image": "https://i.imgur.com/8C4ba8G.png",
+    "online": "true",
+    "referer": "https://www.mega.cl/",
+    "url": "https://www.mega.cl/senal-en-vivo/megatiempo/",
+    "isHost": "true"
+  },
+  {
+    "name": "TVN 3 | CL 🇨🇱",
+    "image": "https://i.imgur.com/FLFXy2D.png",
+    "url": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "CHV Deportes | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1569_CHV_Deportes.png",
+    "url": "https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "D13 | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1199_D13.png",
+    "url": "https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL",
+    "userAgent": ""
+  },
+  {
+    "name": "T13 Radio | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1198_T13_Radio.png",
+    "url": "https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "13 Cultura | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1193_13_Cultura.png",
+    "url": "https://redirector.dps.live/hls/13cultura/playlist.m3u8?PlaylistM3UCL",
+    "userAgent": ""
+  },
+  {
+    "name": "!3 Cocina | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1683_13_Cocina.png",
+    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL",
+    "userAgent": ""
+  },
+  {
+    "name": "13 Pop | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1033_13_Pop.png",
+    "url": "https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UCL",
+    "userAgent": ""
+  },
+  {
+    "name": "!3 Teleseries | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1032_13_Teleseries.png",
+    "url": "https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL",
+    "userAgent": ""
+  },
+  {
+    "name": "13 Festival | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1446_13_Festival.png",
+    "url": "https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL",
+    "userAgent": ""
+  },
+  {
+    "name": "13 Realities | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1448_13_Realities.png",
+    "url": "https://redirector.dps.live/hls/13realities/playlist.m3u8?PlaylistM3UCL",
+    "userAgent": ""
+  },
+  {
+    "name": "13 Viajes | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1684_13_Viajes.png",
+    "url": "https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL",
+    "userAgent": ""
+  },
+  {
+    "name": "13 Internacional | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1685_13_Internacional.png",
+    "url": "https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL",
+    "userAgent": ""
+  },
+  {
+    "name": "Camara de Diputados | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/445_Camara_de_Diputados.png",
+    "url": "https://camara.03.wl.cdnz.cl/camara19/live/playlist.m3u8?PlaylistM3UCL",
+    "userAgent": ""
+  },
+  {
+    "name": "Tv Senado | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/444_TV_Senado.png",
+    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL",
+    "userAgent": ""
+  },
+  {
+    "name": "VClassicTV | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1160_VClassicTV.png",
+    "url": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Vintage Music | CR",
+    "image": "https://cdn.m3u.cl/logo/1063_Vintage_Music.png",
+    "url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Retro Music Television | CZ",
+    "image": "https://cdn.m3u.cl/logo/21_Retro_Music_Television.png",
+    "url": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Carolina TV | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/27_Carolina_TV.png",
+    "url": "https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Radioactiva TV | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1301_Radioactiva_TV.png",
+    "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/playlist.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Portal FoxMix | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/31_Portal_FoxMix.png",
+    "url": "https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Radio Video Mix | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1623_Radio_Video_Mix.png",
+    "url": "https://radioxxx.ddns.net/hls/stream.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Chile Remix | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1586_Chile_Remix.png",
+    "url": "https://vdochile.com:3803/live/ckdj2live.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Urban Pro DJ | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1476_Urban_Pro_DJ.png",
+    "url": "https://vdochile.com:3115/hybrid/play.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Latinos Radio | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/996_Latinos_Radio.png",
+    "url": "https://cloudpro.servidoresdestream.com:8081/8012/index.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Ritmo Top Latino | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1564_Ritmo_Top_Latino.png",
+    "url": "https://panel.tvstream.cl:1936/8048/8048/playlist.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "VClassicTV Tropical | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png",
+    "url": "https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "TeleZeta Tropical | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1651_TeleZeta_Tropical.png",
+    "url": "https://stream.telezeta.cl/live/index.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Tropical Ranchero | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1660_Tropical_Ranchero.png",
+    "url": "https://radioxxx.ddns.net/hls/stream.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Radio Fiessta | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/401_Radio_Fiessta.png",
+    "url": "https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Radio Fantasia TV | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/389_Radio_Fantasia_TV.png",
+    "url": "https://v2.tustreaming.cl/fantasiatv/index.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Sabrosona TV | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1541_Sabrosona_TV.png",
+    "url": "https://samson.streamerr.co:8081/sabrosonavideo/index.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Sabor TV | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/416_Sabor_TV.png",
+    "url": "https://v1.tustreaming.cl/sabortv/index.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Radio Ritmo FM | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1196_Radio_Ritmo_FM.png",
+    "url": "https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Energia TV | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/386_Energia_TV.png",
+    "url": "https://andromeda2.trapemn.tv:1936/regionales/energia-fm/playlist.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Radio Rosa FM | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/1422_Radio_Rosa_FM.png",
+    "url": "https://tv.arkeo.cl:1936/rosafm/rosafm/playlist.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "TVU | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/56_TVU.png",
+    "url": "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Concepcion TV | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/352_Concepcion_TV.png",
+    "url": "https://stream.blserver.cl/hls/ctv/index.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Canal 9 Bío Bí­o TV | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/353_Canal_9_Bio_Bi­o_TV.png",
+    "url": "https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "ClickTv | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/350_ClickTv.png",
+    "url": "https://v2.tustreaming.cl/clicktv/index.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Canal 2 Quellon | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/86_Canal_2_Quellon.png",
+    "url": "https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Hito Cero TV | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/856_Hito_Cero_TV.png",
+    "url": "https://5e3483cba9114.streamlock.net:443/kbwqdhjxtz/kbwqdhjxtz/playlist.m3u8",
+    "userAgent": ""
+  }
 
 		
 
