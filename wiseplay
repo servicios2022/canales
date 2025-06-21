@@ -236,65 +236,6 @@
                        "url" : "https://enz.gdplayertv.to/live-tv/tnt-sports-cl/?embed=1",
      			 "embed" : "true"
          	 }, 
-
-
-
- {
-		"name": "T1111 | CL 🇨🇱",
-"info":"[Gdplayer]",
-        "online":"true",
-                    "image": "https://i.imgur.com/f2glGr9.png",
-                       "url" : "https://telegratuita.com/en-vivo/chilevision.php",
-     			 "embed" : "true"
-         	 },  {
-		"name": "T2222 | CL 🇨🇱",
-"info":"[Gdplayer]",
-        "online":"true",
-                    "image": "https://i.imgur.com/f2glGr9.png",
-                       "url" : "https://telegratuita.com/repro/?r=L21nby9jaHYucGhw",
-     			 "embed" : "true"
-         	 },   {
-			"name": "TNT33333 | CL 🇨🇱",
-"info":"[Miztv]",
-        "online":"true",
-                    "image": "https://i.imgur.com/f2glGr9.png",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-		"referer": "https://telegratuita.com/",
-		"url":"https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd",
-		"isHost": "true"
-		}, {
-			"name": "TNT Sp44444720 | CL 🇨🇱",
-"info":"[Miztv]",
-        "online":"true",
-                    "image": "https://i.imgur.com/f2glGr9.png",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-		"referer": "https://cdn-live.mundogo.cl",
-		"url":"https://telegratuita.com/en-vivo/chilevision.php",
-		"isHost": "true"
-		},  {
-				"name": "TNT 5555le | CL 🇨🇱",
-"info":"[Tvplus]",
-        "online":"true",
-                    "image": "https://i.imgur.com/f2glGr9.png",
-			"referer": "https://cdn-live.mundogo.cl",
-				"url": "https://telegratuita.com/en-vivo/chilevision.php",
-			"isHost": "true"
-				},  {
-				"name": "TNT 66666 | CL 🇨🇱",
-"info":"[Tvplus]",
-        "online":"true",
-                    "image": "https://i.imgur.com/f2glGr9.png",
-			"referer": "https://telegratuita.com/",
-				"url": "https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd",
-			"isHost": "true"
-				}, 
-
-
-
-
-
-
-
 {
 		"name": "DirecTv Sports 720p | AR 🇦🇷",
 "info":"[104]",
@@ -1712,24 +1653,12 @@
 			}, {
 		"name": "Chilevision 1080 | CL 🇨🇱",
 		"info":"[Tele]",
-       		 "online":"true",
+      		"online":"true",
 		"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-		"referer": "https://telegratuita.com/",
-		"url":"https://telegratuita.com/en-vivo/chilevision.php",
-		"isHost": "true"
-		}, {
-			"name": "Eventos 11111 | AR 🇦🇷",
-			"image": "https://i.imgur.com/gw2wQrr.png",
-			"url": "https://telegratuita.com/repro/?r=L21nby9jaHYucGhw",
-		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-                    "isHost": "true"
-                }, 
-
-
-
-
-{
+                       "url" : "https://telegratuita.com/repro/?r=L21nby9jaHYucGhw",
+     			 "embed" : "true"
+         	 },  
+		{
 		"name": "Chilevision 1080 | CL 🇨🇱",
 		"info":"[Vtr]",
       		"online":"true",
