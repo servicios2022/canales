@@ -235,7 +235,56 @@
                     "image": "https://i.imgur.com/f2glGr9.png",
                        "url" : "https://enz.gdplayertv.to/live-tv/tnt-sports-cl/?embed=1",
      			 "embed" : "true"
-         	 }, {
+         	 }, 
+
+
+
+{
+		"name": "TNT S11110 | CL 🇨🇱",
+"info":"[La14HD]",
+        "online":"true",
+                    "image": "https://i.imgur.com/YTaeyss.png",
+			"url": "https://telegratuita.com/en-vivo/chilevision.php",
+		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+                    "isHost": "true"
+                }, {
+				"name": "T22222 | CL 🇨🇱",
+"info":"[Tvplus]",
+        "online":"true",
+                    "image": "https://i.imgur.com/f2glGr9.png",
+			"referer": "https://telegratuita.com",
+				"url": "https://telegratuita.com/en-vivo/chilevision.php",
+			"isHost": "true"
+				}, {
+		"name": "TNT S33333 | CL 🇨🇱",
+"info":"[Gdplayer]",
+        "online":"true",
+                    "image": "https://i.imgur.com/f2glGr9.png",
+                       "url" : "https://telegratuita.com/en-vivo/chilevision.php",
+     			 "embed" : "true"
+         	 },  {
+        	"name": "TNT4444 | CL 🇨🇱",
+"info":"[Tutvlive]",
+        "online":"true",
+                    "image": "https://i.imgur.com/f2glGr9.png",
+		 "url" : "https://telegratuita.com/en-vivo/chilevision.php",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+                                         },  {
+				"name": "TU55555 | MX 🇲🇽",
+			"image": "https://i.imgur.com/U6DKWV0.png",
+			"online": "true",
+			"referer": "https://telegratuita.com",
+				"url": "https://telegratuita.com/en-vivo/chilevision.php",
+			"isHost": "true"
+				},
+
+
+
+
+
+
+
+{
 		"name": "DirecTv Sports 720p | AR 🇦🇷",
 "info":"[104]",
         "online":"true",
