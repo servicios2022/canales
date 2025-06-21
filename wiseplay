@@ -57,61 +57,6 @@
 "image": "https://static.wixstatic.com/media/603da4_cff0a56da59a43ba88f862dbee0ae230~mv2.gif",
 "stations":[
  
-		
-
-
-
-
-
- {
-                     	"name": "TNT222220 casi | CL 🇨🇱",
-"info":"[Dokko1new]",
-        "online":"true",
-                    "image": "https://i.imgur.com/f2glGr9.png",
-		 "url" : "https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd",
-             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },   {
-                     	"name": "T33333 casi | CL 🇨🇱",
-"info":"[Dokko1new]",
-        "online":"true",
-                    "image": "https://i.imgur.com/f2glGr9.png",
-"referer": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=67d8319c41de589f83d2367ca8142675&key=d51a213d3e2da53cca82bbf9e0b7a0e3",
- "url" : "https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd",
-             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         },  {
-                     	"name": "T44444casi | CL 🇨🇱",
-"info":"[Dokko1new]",
-        "online":"true",
-                    "image": "https://i.imgur.com/f2glGr9.png",
-		 "url" : "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/wplayer.php?url=https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd&keyid=67d8319c41de589f83d2367ca8142675&key=d51a213d3e2da53cca82bbf9e0b7a0e3",
-             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-                     	"name": "T55555 | CL 🇨🇱",
-"info":"[Dokko1new]",
-        "online":"true",
-                    "image": "https://i.imgur.com/f2glGr9.png",
-"referer": "https://cdn-live.mundogo.cl",
-		 "url" : "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/wplayer.php?url=https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd&keyid=67d8319c41de589f83d2367ca8142675&key=d51a213d3e2da53cca82bbf9e0b7a0e3",
-             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-                                         }, {
-			"name": "66666 | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1569_CHV_Deportes.png",
-		"url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/wplayer.php?url=https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd&keyid=67d8319c41de589f83d2367ca8142675&key=d51a213d3e2da53cca82bbf9e0b7a0e3&user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
-		  "userAgent" : ""
-			},  {
-			"name": "7777 | CL 🇨🇱",
-			"image": "https://cdn.m3u.cl/logo/1569_CHV_Deportes.png",
-		"url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/wplayer.php?url=https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd&keyid=67d8319c41de589f83d2367ca8142675&key=d51a213d3e2da53cca82bbf9e0b7a0e3",
-		  "userAgent" : ""
-			}, 
-
-
-
-
-
-
-
-
 {
 			"name": "Eventos DISNEY+ 1 | AR 🇦🇷",
 			"image": "https://i.imgur.com/gw2wQrr.png",
