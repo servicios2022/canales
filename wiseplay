@@ -1351,71 +1351,73 @@
 		 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": "true"
                 }, {
-			   "name": "Telemundo 47 1080 (MiHD) | US 🇺🇸",
+			   "name": "Telemundo 47 1080 | US 🇺🇸",
+"info":"[MiHD]",
+        "online":"true",
 			"image": "https://i.imgur.com/9piuN0T.png",
-			"online": "true",
 			"referer": "https://mihd.tv/",
 				"url": "https://mihd.tv/telemundo-51-en-vivo-por-internet.html",
 			"isHost": "true"
 				}, {
-                "name": "Telemundo 720 (Miztv) | US 🇺🇸",
+                "name": "Telemundo 720 | US 🇺🇸",
+"info":"[Miztv]",
+        "online":"true",
 			"image": "https://i.imgur.com/9piuN0T.png",
 		 "url" : "https://miztv.top/total/stream-131.php",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
-        	 "name": "Telemundo 720 (TuTvLive) | US 🇺🇸",
+        	 "name": "Telemundo 720 | US 🇺🇸",
+"info":"[Tutvlive]",
+        "online":"true",
 			"image": "https://i.imgur.com/9piuN0T.png",
 		 "url" : "https://tutvlive.xyz/tvtodo/telemundo.php",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          },  {
-			 "name": "Telemundo 720 (Link) | US 🇺🇸",
+			 "name": "Telemundo 720 | US 🇺🇸",
+"info":"[Link]",
+        "online":"true",
 			"image": "https://i.imgur.com/9piuN0T.png",
-		"online":"true",
 		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
 		"referer": "https://deporte-libre.link",
 		"url":"https://deporte-libre.link/stream/stream-131.php",
 		"isHost": "true"
-		},  {
-		 "name": "Telemundo (GDPlayer) | US 🇺🇸",
-			"image": "https://i.imgur.com/9piuN0T.png",
-                       "url" : "https://idx.gdplayertv.to/live-tv/telemundo/?embed=1",
-     			 "embed" : "true"
-         	 }, {
+		}, {
                      "name": "Telemundo Puerto Rico (Nbc) | US 🇺🇸",
 			"image": "https://i.imgur.com/9piuN0T.png",
 		 "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
 		  "userAgent" : ""
 			}, {
-                   "name": "Univision 1080 (45) | US 🇺🇸",
+                   "name": "Univision 1080 | US 🇺🇸",
+"info":"[45]",
+        "online":"true",
 			"image": "https://i.imgur.com/b5III2Y.png",
 		 "url" : "http://45.161.24.2:4025/udp/224.32.32.32:1088",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
-        	 "name": "Univision (Miztv) | US 🇺🇸",
+        	 "name": "Univision | US 🇺🇸",
+"info":"[Miztv]",
+        "online":"true",
 			"image": "https://i.imgur.com/b5III2Y.png",
 		 "url" : "https://miztv.top/stream/stream-132.php",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                          }, {
 			  "name": "Univision (MiHD) | US 🇺🇸",
+"info":"[MiHD]",
+        "online":"true",
 			"image": "https://i.imgur.com/b5III2Y.png",
-			"online": "true",
 			"referer": "https://mihd.tv/",
 				"url": "https://mihd.tv/univision-en-vivo-por-internet.html",
 			"isHost": "true"
 				},  {
-			  "name": "Univision (Link) | US 🇺🇸",
+			  "name": "Univision | US 🇺🇸",
+"info":"[Link]",
+        "online":"true",
 			"image": "https://i.imgur.com/b5III2Y.png",
-		"online":"true",
 		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
 		"referer": "https://deporte-libre.link",
 		"url":"https://deporte-libre.link/stream/stream-132.php",
 		"isHost": "true"
-		},  {
-		  "name": "Univision 1080 (GDPlayer) | US 🇺🇸",
-			"image": "https://i.imgur.com/b5III2Y.png",
-                       "url" : "https://idx.gdplayertv.to/live-tv/univision/?embed=1",
-     			 "embed" : "true"
-         	 }, {
+		}, {
                      "name": "Unimas | US 🇺🇸",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png",
 		 "url" : "http://187.190.55.136:5501/udp/225.1.10.133:15133",
