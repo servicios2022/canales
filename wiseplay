@@ -1425,6 +1425,12 @@
   {
     "name": "RCN | CO 🇨🇴",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/288px-Canal_RCN_logo.svg.png",
+    "url": "https://val02.ride.com.ar/tvmia/an64/chunks.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "RCN | CO 🇨🇴",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/288px-Canal_RCN_logo.svg.png",
     "url": "http://179.51.136.19:8000/play/a1ao/index.m3u8",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
