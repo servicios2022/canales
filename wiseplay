@@ -353,7 +353,7 @@
     "url": "https://deporte-libre.link/en-vivo-online/dsports/embed2.php",
     "isHost": "true"
   },
-{
+  {
     "name": "DirecTv Sports 2 | AR 🇦🇷",
     "info": "[La14HD]",
     "online": "true",
@@ -371,7 +371,7 @@
     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
     "isHost": "true"
   },
- {
+  {
     "name": "ESPN Chile (MiHD) | CL 🇨🇱",
     "info": "[MiHD]",
     "online": "true",
@@ -616,7 +616,7 @@
     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
     "isHost": "true"
   },
- {
+  {
     "name": "TNT Sports Argentina (Ddy6new) | AR 🇦🇷",
     "image": "https://i.imgur.com/ItEH0oC.png",
     "url": "https://ddy6new.newkso.ru/ddy6/premium388/mono.m3u8",
@@ -978,7 +978,7 @@
     "userAgent": ""
   },
 
-{
+  {
     "name": "Movistar La Liga (Bleedfilter) | ES 🇪🇸",
     "image": "https://i.imgur.com/5lNTjn0.png",
     "url": "https://bleedfilter.net/embed/orfaxhrsmbdogv?color=45A5F4",
@@ -1349,6 +1349,12 @@
   {
     "name": "El Trece | AR 🇦🇷",
     "image": "https://cdn.m3u.cl/logo/1358_El_Trece.png",
+    "url": "https://livetrx01.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "El Trece | AR 🇦🇷",
+    "image": "https://cdn.m3u.cl/logo/1358_El_Trece.png",
     "url": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
@@ -1623,7 +1629,7 @@
     "url": "https://live.gideo.video/americateve2/master.m3u8",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
- {
+  {
     "name": "Mega 1080 | CL 🇨🇱",
     "info": "[Online]",
     "online": "true",
@@ -1744,7 +1750,7 @@
     "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/playlist.m3u8",
     "userAgent": ""
   },
- {
+  {
     "name": "TV+ | CL 🇨🇱",
     "image": "https://cdn.m3u.cl/logo/458_TV_.png",
     "url": "https://jireh-2-hls-video-cl-mundo.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream2/chunks.m3u8",
