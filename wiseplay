@@ -1220,40 +1220,56 @@
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
   {
-    "name": "Liga de Campeones 370 [ES]",
+    "name": "Liga de Campeones [ES]",
+    "info": "[370]",
+    "online": "true",
     "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png",
     "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
   },
   {
-    "name": "Liga 947 [ES]",
+    "name": "Movistar La Liga [ES]",
+    "info": "[947]",
+    "online": "true",
     "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png",
     "url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947"
   },
   {
-    "name": "Gol Play New Era a3a [ES]",
+    "name": "Gol Play [ES]",
+    "info": "[a3a]",
+    "online": "true",
     "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png",
     "url": "acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a"
   },
   {
-    "name": "Cuatro Elcano 333 [ES]",
+    "name": "Cuatro [ES]",
+    "info": "[333]",
+    "online": "true",
     "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png",
     "url": "acestream://8670df538a11c6ec97b3f634981ddc4409ca0333"
   },
   {
-    "name": "Cuatro New Era a91 [ES]",
+    "name": "Cuatro [ES]",
+ "info": "[a91]",
+    "online": "true",
   "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
   "url": "acestream://18f63b299de66029e17dc35e12f6c244e1979a91" 
   }, 
   { 
-  "name": "Telecinco New Era 75b [ES]", 
+  "name": "Telecinco [ES]", 
+ "info": "[75b]",
+    "online": "true",
   "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
   "url": "acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b" 
   }, { 
-  "name": "UFC Fight Pass New Era 139 [ES]", 
+  "name": "UFC Fight Pass [ES]", 
+ "info": "[139]",
+    "online": "true",
   "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
   "url": "acestream://0ce88d9e7273fddbc9b49f578b6b255513697139" 
   }, { 
-  "name": "PPV Eventos UFC Era 3ff [ES]", 
+  "name": "PPV Eventos UFC [ES]", 
+ "info": "[3ff]",
+    "online": "true",
   "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
   "url": "acestream://9efe41de7f5dcafc9395591feb959832e09683ff" 
   }, 
