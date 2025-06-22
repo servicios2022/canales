@@ -11,60 +11,21 @@
 "image": "https://i.gifer.com/origin/3c/3cf3bf4222ca02eadf81bf145261bfd0.gif",
 "stations":[
 
-
-{
-    "name": "TNT Sports Chile 720 | CL 🇨🇱",
-    "info": "[Dokko1new]",
+  {
+      "name": "America Tv | AR 🇦🇷",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
     "online": "true",
-    "image": "https://i.imgur.com/f2glGr9.png",
     "url": "https://www.rojadirectaenvivo.me/tv-TNT%20SPORTS%20CHILE.php",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
-  {
-    "name": "TNT Sports Chile 720 | CL 🇨🇱",
-    "info": "[Miztv]",
+ {
+      "name": "America Tv | AR 🇦🇷",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
     "online": "true",
-    "image": "https://i.imgur.com/f2glGr9.png",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-    "referer": "https://www.rojadirectaenvivo.me",
-    "url": "https://www.rojadirectaenvivo.me/tv-TNT%20SPORTS%20CHILE.php",
-    "isHost": "true"
-  },
-  {
-    "name": "TNT Sports Chile 720 | CL 🇨🇱",
-    "info": "[Tutvlive]",
-    "online": "true",
-    "image": "https://i.imgur.com/f2glGr9.png",
-    "url": "https://www.rojadirectaenvivo.me/tv-TNT%20SPORTS%20CHILE.php",
+    "url": "https://elcanaldeportivo.com/cdf.php",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
-  {
-    "name": "TNT Sports Chile | CL 🇨🇱",
-    "info": "[Tvplus]",
-    "online": "true",
-    "image": "https://i.imgur.com/f2glGr9.png",
-    "referer": "https://www.rojadirectaenvivo.me/",
-    "url": "https://www.rojadirectaenvivo.me/tv-TNT%20SPORTS%20CHILE.php",
-    "isHost": "true"
-  }, {
-    "name": "TNT Sports Chile | CL 🇨🇱",
-    "info": "[Tvplus]",
-    "online": "true",
-    "image": "https://i.imgur.com/f2glGr9.png",
-    "referer": "https://elcanaldeportivo.com/",
-    "url": "https://www.rojadirectaenvivo.me/tv-TNT%20SPORTS%20CHILE.php",
-    "isHost": "true"
-  },
-  {
-    "name": "TNT Sports Chile 720 | CL 🇨🇱",
-    "info": "[Miztv]",
-    "online": "true",
-    "image": "https://i.imgur.com/f2glGr9.png",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-    "referer": "https://elcanaldeportivo.com/",
-    "url": "https://www.rojadirectaenvivo.me/tv-TNT%20SPORTS%20CHILE.php",
-    "isHost": "true"
-  },
+ 
 
 
 
