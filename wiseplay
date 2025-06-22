@@ -10,7 +10,118 @@
 {"name": "AGENDA DEPORTIVA",
 "image": "https://i.gifer.com/origin/3c/3cf3bf4222ca02eadf81bf145261bfd0.gif",
 "stations":[
- 
+
+
+
+ {
+    "name": "TNT S111 720 | CL 🇨🇱",
+    "info": "[Miztv]",
+    "online": "true",
+    "image": "https://i.imgur.com/f2glGr9.png",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+    "referer": "https://www.americatv.com.ar/",
+    "url": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8",
+    "isHost": "true"
+  },
+ {
+    "name": "TNT Spor22e | CL 🇨🇱",
+    "info": "[Tvplus]",
+    "online": "true",
+    "image": "https://i.imgur.com/f2glGr9.png",
+    "referer": "https://www.americatv.com.ar/",
+    "url": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8",
+    "isHost": "true"
+  },
+{
+    "name": "TUDN (M33 | MX 🇲🇽",
+    "image": "https://i.imgur.com/U6DKWV0.png",
+    "online": "true",
+    "referer": "https://www.americatv.com.ar/",
+    "url": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8",
+    "isHost": "true"
+  },
+  {
+    "name": "TUDN U44D) | US 🇺🇸",
+    "info": "[La14HD]",
+    "online": "true",
+    "image": "https://i.imgur.com/U6DKWV0.png",
+    "url": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": "true"
+  },
+ {
+    "name": "555 720 | CL 🇨🇱",
+    "info": "[Miztv]",
+    "online": "true",
+    "image": "https://i.imgur.com/f2glGr9.png",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+    "referer": "https://www.americatv.com.ar/",
+    "url": "https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8",
+    "isHost": "true"
+  },
+ {
+    "name": "TNT S666e | CL 🇨🇱",
+    "info": "[Tvplus]",
+    "online": "true",
+    "image": "https://i.imgur.com/f2glGr9.png",
+    "referer": "https://www.americatv.com.ar/",
+    "url": "https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8",
+    "isHost": "true"
+  },
+{
+    "name": "TUDN7773 | MX 🇲🇽",
+    "image": "https://i.imgur.com/U6DKWV0.png",
+    "online": "true",
+    "referer": "https://www.americatv.com.ar/",
+    "url": "https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8",
+    "isHost": "true"
+  },
+  {
+    "name": "TUDN U888) | US 🇺🇸",
+    "info": "[La14HD]",
+    "online": "true",
+    "image": "https://i.imgur.com/U6DKWV0.png",
+    "url": "https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": "true"
+  }, {
+    "name": "555 720 | CL 🇨🇱",
+    "info": "[Miztv]",
+    "online": "true",
+    "image": "https://i.imgur.com/f2glGr9.png",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+    "referer": "https://www.americatv.com.ar/",
+    "url": "https://www.americatv.com.ar/vivo",
+    "isHost": "true"
+  },
+ {
+    "name": "TNT S666e | CL 🇨🇱",
+    "info": "[Tvplus]",
+    "online": "true",
+    "image": "https://i.imgur.com/f2glGr9.png",
+    "referer": "https://www.americatv.com.ar/",
+    "url": "https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/c5fe1a8c-c638-442d-9ee0-8617172c0bc6:SCL/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8",
+    "isHost": "true"
+  },
+{
+    "name": "TUDN7773 | MX 🇲🇽",
+    "image": "https://i.imgur.com/U6DKWV0.png",
+    "online": "true",
+    "referer": "https://www.americatv.com.ar/",
+    "url": "https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/c5fe1a8c-c638-442d-9ee0-8617172c0bc6:SCL/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8",
+    "isHost": "true"
+  },
+  {
+    "name": "TUDN U888) | US 🇺🇸",
+    "info": "[La14HD]",
+    "online": "true",
+    "image": "https://i.imgur.com/U6DKWV0.png",
+    "url": "https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/c5fe1a8c-c638-442d-9ee0-8617172c0bc6:SCL/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": "true"
+  },
+
+
 
   {
     "name": "Futbol Libre TV | AR 🇦🇷",
