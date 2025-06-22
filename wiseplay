@@ -1359,15 +1359,15 @@
     "embed": "true"
   }, 
   {
-    "name": "El Trece | AR 🇦🇷",
+    "name": "El Trece 1080 | AR 🇦🇷",
     "image": "https://cdn.m3u.cl/logo/1358_El_Trece.png",
     "url": "https://livetrx01.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
   {
-    "name": "El Trece | AR 🇦🇷",
+    "name": "El Trece 1080 | AR 🇦🇷",
     "image": "https://cdn.m3u.cl/logo/1358_El_Trece.png",
-    "url": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
+    "url": "https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
   {
