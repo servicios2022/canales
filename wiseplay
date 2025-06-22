@@ -1386,6 +1386,12 @@
   },
   {
     "name": "Tv Peru | PE 🇵🇪",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png",
+    "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(_QNNOxjd4F2uRaOiW1zqZBc0b4JkWrWi6Ryw3HJNGntsMi0YhlzV1zCAXMEaL5_MR5ivOwx328ElHBuQOkWf2omfNe28mLtrYXUPQUdS5_JfeV3lslmhzmlAnmU1xzeD)/cloud/3/x7x4dgx/s/live-1080.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Tv Peru | PE 🇵🇪",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/2560px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",
     "url": "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
