@@ -1,0 +1,7 @@
+#EXTM3U list-name="Canales Latinos ðŸ˜" list-image="https://i.ibb.co/y5WvHvw/Tvlogo.png" author="Clic aqui para mas listas ðŸ˜" author-url="https://bit.ly/listas-app"
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dtsrSwX/chilevision.jpg" tvg-group="CHILE", CHILEVISION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=67d8319c41de589f83d2367ca8142675&key=d51a213d3e2da53cca82bbf9e0b7a0e3
+https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd
