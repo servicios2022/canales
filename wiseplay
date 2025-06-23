@@ -307,7 +307,36 @@
     "url": "https://enz.gdplayertv.to/live-tv/tnt-sports-cl/?embed=1",
     "embed": "true"
   },
- 
+
+
+
+
+   {
+    "name": "TyC Sports 720 | AR 🇦🇷",
+    "info": "[Tutvlive]",
+    "online": "true",
+    "image": "https://i.imgur.com/zfkBNdb.png",
+    "url": "https://tutvlive.xyz/tvtodo/tyc-sports.php",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+    },
+    {
+    "name": "TyC Sports 720 | AR 🇦🇷",
+    "info": "[Topembed]",
+    "online": "true",
+    "image": "https://i.imgur.com/zfkBNdb.png",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://topembed.pw/",
+    "url": "https://topembed.pw/channel/TYCSports[Argentina]",
+    "isHost": "true"
+   },
+   {
+    "name": "TyC Sports 720 | AR 🇦🇷",
+    "info": "[Ddy6new]",
+    "online": "true",
+    "image": "https://i.imgur.com/zfkBNdb.png",
+    "url": "https://ddy6new.newkso.ru/ddy6/premium746/mono.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
   {
     "name": "TyC Sports | AR 🇦🇷",
     "info": "[Streamdp]",
@@ -325,14 +354,6 @@
     "url": "https://la14hd.com/vivo/canales.php?stream=tycsports",
     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
     "isHost": "true"
-  },
-  {
-    "name": "TyC Sports | AR 🇦🇷",
-    "info": "[Ddy6new]",
-    "online": "true",
-    "image": "https://i.imgur.com/zfkBNdb.png",
-    "url": "https://ddy6new.newkso.ru/ddy6/premium746/mono.m3u8",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
   {
     "name": "TyC Sports Internacional | AR 🇦🇷",
