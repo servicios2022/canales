@@ -307,6 +307,45 @@
     "url": "https://enz.gdplayertv.to/live-tv/tnt-sports-cl/?embed=1",
     "embed": "true"
   },
+ 
+  {
+    "name": "TyC Sports | AR 🇦🇷",
+    "info": "[Streamdp]",
+    "online": "true",
+    "image": "https://i.imgur.com/zfkBNdb.png",
+    "url": "https://streamdp1.xyz/global1.php?channel=tycsports",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": "true"
+  },
+  {
+    "name": "TyC Sports | AR 🇦🇷",
+    "info": "[La14HD]",
+    "online": "true",
+    "image": "https://i.imgur.com/zfkBNdb.png",
+    "url": "https://la14hd.com/vivo/canales.php?stream=tycsports",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": "true"
+  },
+  {
+    "name": "TyC Sports | AR 🇦🇷",
+    "info": "[Ddy6new]",
+    "online": "true",
+    "image": "https://i.imgur.com/zfkBNdb.png",
+    "url": "https://ddy6new.newkso.ru/ddy6/premium746/mono.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "TyC Sports Internacional | AR 🇦🇷",
+    "info": "[Streamdp]",
+    "online": "true",
+    "image": "https://i.imgur.com/zfkBNdb.png",
+    "url": "https://streamdp1.xyz/global1.php?channel=tycinternacional",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": "true"
+  },
+
+
+
   {
     "name": "DirecTv Sports 720p | AR 🇦🇷",
     "info": "[104]",
@@ -797,35 +836,6 @@
     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
     "isHost": "true"
   },
-
-  {
-    "name": "TyC Sports Internacional (Streamdp) | AR 🇦🇷",
-    "image": "https://i.imgur.com/zfkBNdb.png",
-    "url": "https://streamdp1.xyz/global1.php?channel=tycinternacional",
-    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-    "isHost": "true"
-  },
-  {
-    "name": "TyC Sports Argentina (Streamdp) | AR 🇦🇷",
-    "image": "https://i.imgur.com/zfkBNdb.png",
-    "url": "https://streamdp1.xyz/global1.php?channel=tycsports",
-    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-    "isHost": "true"
-  },
-  {
-    "name": "TyC Sports Argentina (La14HD) | AR 🇦🇷",
-    "image": "https://i.imgur.com/zfkBNdb.png",
-    "url": "https://la14hd.com/vivo/canales.php?stream=tycsports",
-    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-    "isHost": "true"
-  },
-  {
-    "name": "TyC Sports Argentina (Ddy6new) | AR 🇦🇷",
-    "image": "https://i.imgur.com/zfkBNdb.png",
-    "url": "https://ddy6new.newkso.ru/ddy6/premium746/mono.m3u8",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-  },
-
   {
     "name": "Gol Peru (La14HD) | PE 🇵🇪",
     "image": "https://i.imgur.com/xl7Sf50.png",
