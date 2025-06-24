@@ -12,12 +12,12 @@
 "stations":[
 
  {
-        "name": "Fox Deportes 🇺🇸",
+        "name": "1111🇺🇸",
         "info":"[TuCanal]",
         "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
-        "url": "https://elcanaldeportivo.com/ver/americatv.php",
+        "url": "https://elcanaldeportivo.com/cdf.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
+        "referer" : "https://vodkapr3mium.com/deportivo.php?player=desktop&live=chiletv",
         "online":"true",
         "isHost":"true"
         },
@@ -25,54 +25,54 @@
         "name": "Fox Deportes 🇺🇸",
         "info":"[TuCanal]",
         "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
-        "url": "https://elcanaldeportivo.com/ver/winsportsmas.php",
+        "url": "https://elcanaldeportivo.com/cdf.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
+        "referer" : "https://vodkapr3mium.com",
         "online":"true",
         "isHost":"true"
         }, {
         "name": "Fox Deportes 🇺🇸",
         "info":"[TuCanal]",
         "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
-        "url": "https://elcanaldeportivo.com/ver/tudn.php",
+        "url": "https://elcanaldeportivo.com/cdf.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
+        "referer" : "https://vodkapr3mium.com/deportivo.php?player=desktop&live",
         "online":"true",
         "isHost":"true"
         },  {
         "name": "Fox Deportes 🇺🇸",
         "info":"[TuCanal]",
         "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
-        "url": "https://elcanaldeportivo.com/ver/cdfpremium.php",
+        "url": "https://elcanaldeportivo.com/cdf.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
+        "referer" : "https://vodkapr3mium.com/deportivo.php?player=desktop",
         "online":"true",
         "isHost":"true"
         }, {
         "name": "Fox Deportes 🇺🇸",
         "info":"[TuCanal]",
         "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
-        "url": "https://elcanaldeportivo.com/ver/tntsports.php",
+        "url": "https://elcanaldeportivo.com/cdf.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
+        "referer" : "https://vodkapr3mium.com/deportivo.php?player",
         "online":"true",
         "isHost":"true"
         },  {
         "name": "Fox Deportes 🇺🇸",
         "info":"[TuCanal]",
         "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
-        "url": "https://elcanaldeportivo.com/ver/directvsportshd.php",
+        "url": "https://elcanaldeportivo.com/cdf.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
+        "referer" : "https://vodkapr3mium.com/deportivo.php",
         "online":"true",
         "isHost":"true"
         },  {
         "name": "Fox Deportes 🇺🇸",
         "info":"[TuCanal]",
         "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
-        "url": "https://elcanaldeportivo.com/ver/espn.php",
+        "url": "https://elcanaldeportivo.com/cdf.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
+        "referer" : "https://vodkapr3mium.com/deportivo",
         "online":"true",
         "isHost":"true"
         },{
