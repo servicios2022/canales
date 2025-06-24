@@ -11,73 +11,6 @@
 "image": "https://i.gifer.com/origin/3c/3cf3bf4222ca02eadf81bf145261bfd0.gif",
 "stations":[
 
-  {
-    "name": "DirecTv Sports 720p | AR 🇦🇷",
-    "info": "[Topembed]",
-    "online": "true",
-    "image": "https://i.imgur.com/NUGOqdT.png",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-    "referer": "https://antenaplanet.store",
-    "url": "https://antenaplanet.store/directsportchilehd.php",
-    "isHost": "true"
-  },
-  {
-    "name": "DirecTv Sports 720p | AR 🇦🇷",
-    "info": "[Topembed]",
-    "online": "true",
-    "image": "https://i.imgur.com/NUGOqdT.png",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-    "referer": "https://vecloud.eu/",
-    "url": "https://antenaplanet.store/directsportchilehd.php",
-    "isHost": "true"
-  },
-  {
-    "name": "DirecTv Sports | AR 🇦🇷",
-    "info": "[Fuelcareer]",
-    "online": "true",
-    "image": "https://i.imgur.com/NUGOqdT.png",
-    "referer": "https://vecloud.eu/",
-    "url": "https://antenaplanet.store/directsports.php",
-    "isHost": "true"
-  },
-  {
-    "name": "DirecTv Sports | AR 🇦🇷",
-    "info": "[Laceaccept]",
-    "online": "true",
-    "image": "https://i.imgur.com/NUGOqdT.png",
-    "referer": "https://antenaplanet",
-    "url": "https://antenaplanet.store/directsports.php",
-    "isHost": "true"
-  },
-  {
-    "name": "DirecTv Sports | AR 🇦🇷",
-    "info": "[La14HD]",
-    "online": "true",
-    "image": "https://i.imgur.com/NUGOqdT.png",
-    "url": "https://antenaplanet.store/directsportchilehd.php",
-    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-    "isHost": "true"
-  },
-  {
-    "name": "DirecTv Sports | AR 🇦🇷",
-    "info": "[Streamdp]",
-    "online": "true",
-    "image": "https://i.imgur.com/NUGOqdT.png",
-    "url": "https://antenaplanet.store/directsports.php",
-    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-    "isHost": "true"
-  },
-  {
-    "name": "DirecTv Sports | AR 🇦🇷",
-    "info": "[Link]",
-    "online": "true",
-    "image": "https://i.imgur.com/NUGOqdT.png",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-    "referer": "https://deporte-libre.link/",
-    "url": "https://antenaplanet.store/directsports.php",
-    "isHost": "true"
-  },
-
 
   {
     "name": "Futbol Libre TV | AR 🇦🇷",
@@ -430,6 +363,26 @@
     "isHost": "true"
   },
   {
+    "name": "DirecTv Sports Chile 720 | CL 🇨🇱",
+    "info": "[Antena]",
+    "online": "true",
+    "image": "https://i.imgur.com/NUGOqdT.png",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://antenaplanet.store",
+    "url": "https://antenaplanet.store/directsportchilehd.php",
+    "isHost": "true"
+  },
+  {
+    "name": "DirecTv Sports 720 | AR 🇦🇷",
+    "info": "[Antena]",
+    "online": "true",
+    "image": "https://i.imgur.com/NUGOqdT.png",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://deporte-libre.link/",
+    "url": "https://antenaplanet.store/directsports.php",
+    "isHost": "true"
+  },
+  {
     "name": "DirecTv Sports 720p | AR 🇦🇷",
     "info": "[104]",
     "online": "true",
@@ -530,7 +483,7 @@
     "isHost": "true"
   },
   {
-    "name": "ESPN Chile (MiHD) | CL 🇨🇱",
+    "name": "ESPN Chile | CL 🇨🇱",
     "info": "[MiHD]",
     "online": "true",
     "image": "https://i.imgur.com/MFhpD4D.png",
