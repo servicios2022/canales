@@ -15,12 +15,79 @@
         "name": "Fox Deportes 🇺🇸",
         "info":"[TuCanal]",
         "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
-        "url": "https://tucanaldeportivo.org/foxdeportes.php",
+        "url": "https://elcanaldeportivo.com/ver/americatv.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
         "isHost":"true"
         },
+ {
+        "name": "Fox Deportes 🇺🇸",
+        "info":"[TuCanal]",
+        "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
+        "url": "https://elcanaldeportivo.com/ver/winsportsmas.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        }, {
+        "name": "Fox Deportes 🇺🇸",
+        "info":"[TuCanal]",
+        "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
+        "url": "https://elcanaldeportivo.com/ver/tudn.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },  {
+        "name": "Fox Deportes 🇺🇸",
+        "info":"[TuCanal]",
+        "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
+        "url": "https://elcanaldeportivo.com/ver/cdfpremium.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        }, {
+        "name": "Fox Deportes 🇺🇸",
+        "info":"[TuCanal]",
+        "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
+        "url": "https://elcanaldeportivo.com/ver/tntsports.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },  {
+        "name": "Fox Deportes 🇺🇸",
+        "info":"[TuCanal]",
+        "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
+        "url": "https://elcanaldeportivo.com/ver/directvsportshd.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },  {
+        "name": "Fox Deportes 🇺🇸",
+        "info":"[TuCanal]",
+        "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
+        "url": "https://elcanaldeportivo.com/ver/espn.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+
+
+
+
+
+
+
+
+
+
+
+
 
 {
         "name": "FoxSport Premium 🇲🇽",
