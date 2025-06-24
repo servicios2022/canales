@@ -12,12 +12,12 @@
 "stations":[
 
  {
-        "name": "1111🇺🇸",
+        "name": "12222",
         "info":"[TuCanal]",
         "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
         "url": "https://elcanaldeportivo.com/cdf.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://vodkapr3mium.com/deportivo.php?player=desktop&live=chiletv",
+        "referer" : "https://m3.merichunidya.com:999/hls/chiletv.m3u8?md5=0BF797c7sgvwpI7FDX1J7A",
         "online":"true",
         "isHost":"true"
         },
@@ -27,7 +27,7 @@
         "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
         "url": "https://elcanaldeportivo.com/cdf.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://vodkapr3mium.com",
+        "referer" : "https://m3.merichunidya.com:999/hls/chiletv.m3u8?md5",
         "online":"true",
         "isHost":"true"
         }, {
@@ -36,25 +36,25 @@
         "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
         "url": "https://elcanaldeportivo.com/cdf.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://vodkapr3mium.com/deportivo.php?player=desktop&live",
+        "referer" : "https://m3.merichunidya.com:999/hls/chiletv.m3u8",
         "online":"true",
         "isHost":"true"
         },  {
         "name": "Fox Deportes 🇺🇸",
         "info":"[TuCanal]",
         "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
-        "url": "https://elcanaldeportivo.com/cdf.php",
+        "url": "https://m3.merichunidya.com:999/hls/chiletv.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://vodkapr3mium.com/deportivo.php?player=desktop",
+        "referer" : "https://elcanaldeportivo.com",
         "online":"true",
         "isHost":"true"
         }, {
         "name": "Fox Deportes 🇺🇸",
         "info":"[TuCanal]",
         "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
-        "url": "https://elcanaldeportivo.com/cdf.php",
+        "url": "https://m3.merichunidya.com:999/hls/chiletv.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://vodkapr3mium.com/deportivo.php?player",
+        "referer" : "https://elcanaldeportivo.com/cdf.php",
         "online":"true",
         "isHost":"true"
         },  {
@@ -63,25 +63,25 @@
         "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
         "url": "https://elcanaldeportivo.com/cdf.php",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://vodkapr3mium.com/deportivo.php",
+        "referer" : "https://m3.merichunidya.com",
         "online":"true",
         "isHost":"true"
         },  {
         "name": "Fox Deportes 🇺🇸",
         "info":"[TuCanal]",
         "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
-        "url": "https://elcanaldeportivo.com/cdf.php",
+        "url": "https://m3.merichunidya.com:999/hls/chiletv.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://vodkapr3mium.com/deportivo",
+        "referer" : "https://m3.merichunidya.com:999/hls/chiletv.m3u8?md5=",
         "online":"true",
         "isHost":"true"
         },{
         "name": "Fox Deportes 🇺🇸",
         "info":"[TuCanal]",
         "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
-        "url": "https://elcanaldeportivo.com/ver/espn2.php",
+        "url": "https://m3.merichunidya.com:999/hls/chiletv.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
+        "referer" : "https://m3.merichunidya.com:999/hls/chiletv.m3u8?md5=0BF797c7sgvwpI7FDX1J7A",
         "online":"true",
         "isHost":"true"
         },
