@@ -11,8 +11,15 @@ https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=1ace717307c13f5cb12d79591a5a949d:540429e 25dfa54c2aa25651158966c05 
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=67d8319c41de589f83d2367ca8142675&key=d51a213d3e2da53cca82bbf9e0b7a0e3
 https://1105-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 https://dtvott-akaws.akamaized.net/live_1040/DASH/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dtsrSwX/chilevision.jpg" tvg-group="CHILE", CHILEVISION 123
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=67d8319c41de589f83d2367ca8142675&key=d51a213d3e2da53cca82bbf9e0b7a0e3
+https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd
 
  
