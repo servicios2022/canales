@@ -12,6 +12,28 @@
 "stations":[
 
 
+ {
+    "name": "PPV Mundial de Clubes 720 | AR 🇦🇷",
+    "info": "[Direct Tv]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://telegratuita.com",
+    "url": "https://telegratuita.com/repro/?r=Ly90ZWxlZ3JhdHVpdGEuY29tL3Byby9lc3BuZGVwb3J0ZXMucGhw",
+    "isHost": "true"
+  },
+
+ {
+    "name": "PPV Mundial de Clubes 720 | AR 🇦🇷",
+    "info": "[Direct Tv]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://telegratuita.com/",
+    "url": "https://telegratuita.com/repro/?r=Ly90ZWxlZ3JhdHVpdGEuY29tL3YxeC9wbGF5ZXIucGhwP2lkPWFkc3RsQXJYcTczR3FlMnY=",
+    "isHost": "true"
+  },
+
   {
     "name": "Futbol Libre TV | AR 🇦🇷",
     "info": "[Online]",
