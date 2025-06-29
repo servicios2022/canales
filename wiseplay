@@ -135,14 +135,7 @@
     "url": "https://telegratuita.com/repro/?r=Ly90ZWxlZ3JhdHVpdGEuY29tL3Byby9lc3BuZGVwb3J0ZXMucGhw",
     "embed": "true"
   },
- {
-    "name": "PPV Mundial de Clubes 1080 | CL 🇨🇱",
-    "info": "[Chilefs]",
-    "online": "true",
-    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
-    "url": "https://telegratuita.com/repro/?r=Ly90ZWxlZ3JhdHVpdGEuY29tL3Byby9mb3hzcG9ydHNwcmVtaXVtLnBocA==",
-    "embed": "true"
-  },
+
   {
     "name": "PPV Mundial de Clubes 1080 | CL 🇨🇱",
     "info": "[Chilevision]",
@@ -307,6 +300,14 @@
    "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png", 
     "url": "https://tutvlive.xyz/tvtodo/espn-deportes.php",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "PPV Eventos UFC 1080 | MX 🇲🇽",
+    "info": "[Fs Premium]",
+    "online": "true",
+    "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png", 
+    "url": "https://telegratuita.com/repro/?r=Ly90ZWxlZ3JhdHVpdGEuY29tL3Byby9mb3hzcG9ydHNwcmVtaXVtLnBocA==",
+    "embed": "true"
   },
   { 
    "name": "PPV Eventos UFC 1080 | MX 🇲🇽",
@@ -1205,6 +1206,23 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png",
     "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8",
     "userAgent": ""
+  },
+  {
+      "name": "FS Premium | MX 🇲🇽",
+    "info": "[La14HD]",
+    "online": "true",
+    "image": "https://i.imgur.com/l1XDE9T.png",
+    "url": "https://la12hd.com/vivo/canal.php?stream=foxsportspremium",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": "true"
+  },
+  {
+    "name": "FS Premium | MX 🇲🇽",
+    "info": "[Fs Premium]",
+    "online": "true",
+    "image": "https://i.imgur.com/l1XDE9T.png", 
+    "url": "https://telegratuita.com/repro/?r=Ly90ZWxlZ3JhdHVpdGEuY29tL3Byby9mb3hzcG9ydHNwcmVtaXVtLnBocA==",
+    "embed": "true"
   },
   {
     "name": "TUDN USA 1080 | US 🇺🇸",
