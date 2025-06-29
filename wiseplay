@@ -647,16 +647,6 @@
     "url": "https://deporte-libre.link/en-vivo-online/dsports/embed2.php",
     "isHost": "true"
   },
-   {
-    "name": "DirecTv Sports 2 | AR 🇦🇷",
-    "info": "[Antena]",
-    "online": "true",
-    "image": "https://i.imgur.com/HI0yGFW.png",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-    "referer": "https://antenaplanet.store",
-    "url": "https://antenaplanet.store/directsports2.php",
-    "isHost": "true"
-  },
   {
     "name": "DirecTv Sports 2 | AR 🇦🇷",
     "info": "[La14HD]",
@@ -1231,15 +1221,6 @@
     "image": "https://i.imgur.com/U6DKWV0.png",
     "url": "https://la14hd.com/vivo/canales.php?stream=tudn_usa",
     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-    "isHost": "true"
-  },
-  {
-    "name": "TUDN USA | US 🇺🇸",
-    "info": "[Antena]",
-    "online": "true",
-    "image": "https://i.imgur.com/U6DKWV0.png",
-    "referer": "http://antenaplanet.store",
-    "url": "http://antenaplanet.store/tudnusa.php",
     "isHost": "true"
   },
   {
