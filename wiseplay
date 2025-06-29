@@ -105,26 +105,6 @@
     "isHost": "true"
   },
   {
-     "name": "PPV Mundial de Clubes 720 | AR 🇦🇷",
-    "info": "[Direct Tv]",
-    "online": "true",
-    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-    "referer": "https://antenaplanet.store",
-    "url": "https://antenaplanet.store/directsportchilehd.php",
-    "isHost": "true"
-  },
-  {
-   "name": "PPV Mundial de Clubes 720 | AR 🇦🇷",
-    "info": "[Direct Tv]",
-    "online": "true",
-    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-    "referer": "https://antenaplanet.store",
-    "url": "https://antenaplanet.store/directsports.php",
-    "isHost": "true"
-  },
-  {
     "name": "PPV Mundial de Clubes 1080 | CL 🇨🇱",
     "info": "[Chilevision]",
     "online": "true",
@@ -619,26 +599,6 @@
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
     "referer": "https://topembed.pw/",
     "url": "https://topembed.pw/channel/DirecTV[Ecuador]",
-    "isHost": "true"
-  },
-  {
-    "name": "DirecTv Sports 720 | AR 🇦🇷",
-    "info": "[Antena]",
-    "online": "true",
-    "image": "https://i.imgur.com/NUGOqdT.png",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-    "referer": "https://antenaplanet.store",
-    "url": "https://antenaplanet.store/directsportchilehd.php",
-    "isHost": "true"
-  },
-  {
-    "name": "DirecTv Sports 720 | AR 🇦🇷",
-    "info": "[Antena]",
-    "online": "true",
-    "image": "https://i.imgur.com/NUGOqdT.png",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-    "referer": "https://antenaplanet.store",
-    "url": "https://antenaplanet.store/directsports.php",
     "isHost": "true"
   },
   {
