@@ -68,6 +68,113 @@
 "image": "https://static.wixstatic.com/media/603da4_cff0a56da59a43ba88f862dbee0ae230~mv2.gif",
 "stations":[
 
+ {
+    "name": "PPV Mundial de Clubes 720 | CL 🇨🇱",
+    "info": "[Direct Tv]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "url": "http://104.238.205.28:8989/278758_.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "PPV Mundial de Clubes 720 | CL 🇨🇱",
+    "info": "[Direct Tv]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "url": "http://200.59.188.3:8000/play/a0xe",
+    "userAgent": ""
+  },
+  {
+     "name": "PPV Mundial de Clubes 720 | CL 🇨🇱",
+    "info": "[Direct Tv]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://topembed.pw/",
+    "url": "https://topembed.pw/channel/DirecTVSports[Argentina]",
+    "isHost": "true"
+  },
+  {
+    "name": "PPV Mundial de Clubes 720 | CL 🇨🇱",
+    "info": "[Direct Tv]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://topembed.pw/",
+    "url": "https://topembed.pw/channel/DirecTV[Ecuador]",
+    "isHost": "true"
+  },
+  {
+     "name": "PPV Mundial de Clubes 720 | CL 🇨🇱",
+    "info": "[Direct Tv]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://antenaplanet.store",
+    "url": "https://antenaplanet.store/directsportchilehd.php",
+    "isHost": "true"
+  },
+  {
+   "name": "PPV Mundial de Clubes 720 | CL 🇨🇱",
+    "info": "[Direct Tv]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://antenaplanet.store",
+    "url": "https://antenaplanet.store/directsports.php",
+    "isHost": "true"
+  },
+  {
+    "name": "PPV Mundial de Clubes 1080 | CL 🇨🇱",
+    "info": "[Chilevision]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "url": "https://telegratuita.com/repro/?r=L21nby9jaHYucGhw",
+    "embed": "true"
+  },
+  {
+    "name": "PPV Mundial de Clubes 1080 | CL 🇨🇱",
+    "info": "[Chilevision]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "referer": "https://www.chilevision.cl/",
+    "url": "https://www.chilevision.cl/senal-online",
+    "isHost": "true"
+  },
+  {
+    "name": "PPV Mundial de Clubes 1080 | CL 🇨🇱",
+    "info": "[Chilevision]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "url": "https://www.chilevision.cl/senal-online",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "PPV Mundial de Clubes 1080 | CL 🇨🇱",
+    "info": "[Telefe]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "url": "https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild1.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "PPV Mundial de Clubes 720 | CL 🇨🇱",
+    "info": "[Telefe]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "url": "https://ddy6new.newkso.ru/ddy6/premium106/mono.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "PPV Mundial de Clubes 720 | CL 🇨🇱",
+    "info": "[Telefe]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "url": "https://streamdp1.xyz/global1.php?channel=telefe",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": "true"
+  },
    {
     "name": "PPV Eventos UFC 1080 | CL 🇨🇱",
     "info": "[ESPN Premium]",
