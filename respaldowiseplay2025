@@ -11,6 +11,7 @@
 "image": "https://i.gifer.com/origin/3c/3cf3bf4222ca02eadf81bf145261bfd0.gif",
 "stations":[
 
+
   {
     "name": "Futbol Libre TV | AR 🇦🇷",
     "info": "[Online]",
@@ -66,8 +67,210 @@
 {"name": "DEPORTES",
 "image": "https://static.wixstatic.com/media/603da4_cff0a56da59a43ba88f862dbee0ae230~mv2.gif",
 "stations":[
- 
+
  {
+    "name": "PPV Mundial de Clubes 720 | AR 🇦🇷",
+    "info": "[Direct Tv]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "url": "http://104.238.205.28:8989/278758_.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "PPV Mundial de Clubes 720 | AR 🇦🇷",
+    "info": "[Direct Tv]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "url": "http://200.59.188.3:8000/play/a0xe",
+    "userAgent": ""
+  },
+  {
+     "name": "PPV Mundial de Clubes 720 | AR 🇦🇷",
+    "info": "[Direct Tv]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://topembed.pw/",
+    "url": "https://topembed.pw/channel/DirecTVSports[Argentina]",
+    "isHost": "true"
+  },
+  {
+    "name": "PPV Mundial de Clubes 720 | AR 🇦🇷",
+    "info": "[Direct Tv]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://topembed.pw/",
+    "url": "https://topembed.pw/channel/DirecTV[Ecuador]",
+    "isHost": "true"
+  },
+  {
+    "name": "PPV Mundial de Clubes 1080 | CL 🇨🇱",
+    "info": "[Chilevision]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "url": "https://telegratuita.com/repro/?r=L21nby9jaHYucGhw",
+    "embed": "true"
+  },
+  {
+    "name": "PPV Mundial de Clubes 1080 | CL 🇨🇱",
+    "info": "[Chilevision]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "referer": "https://www.chilevision.cl/",
+    "url": "https://www.chilevision.cl/senal-online",
+    "isHost": "true"
+  },
+  {
+    "name": "PPV Mundial de Clubes 1080 | CL 🇨🇱",
+    "info": "[Chilevision]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "url": "https://www.chilevision.cl/senal-online",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": true
+  },
+  {
+    "name": "PPV Mundial de Clubes 1080 | AR 🇦🇷",
+    "info": "[Telefe]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "url": "https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild1.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "PPV Mundial de Clubes 720 | AR 🇦🇷",
+    "info": "[Telefe]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "url": "https://ddy6new.newkso.ru/ddy6/premium106/mono.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "PPV Mundial de Clubes 720 | AR 🇦🇷",
+    "info": "[Telefe]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "url": "https://streamdp1.xyz/global1.php?channel=telefe",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": "true"
+   }, 
+   {
+    "name": "PPV Mundial de Clubes 1080 | US 🇺🇸",
+    "info": "[TUDN]",
+    "online": "true",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://topembed.pw/",
+    "url": "https://topembed.pw/channel/TUDN[USA]",
+    "isHost": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg"
+  },
+  {
+    "name": "PPV Mundial de Clubes 1080 | ES 🇪🇸",
+    "info": "[TeleCinco]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "url": "http://185.56.180.254:54543/udp/234.5.2.25:20000",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+   { 
+    "name": "PPV Mundial de Clubes 1080 | ES 🇪🇸",
+    "info": "[TeleCinco Acestream]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "url": "acestream://3d376333ee90d6db3d413fc5764ef635882076f5" 
+   },
+   { 
+    "name": "PPV Mundial de Clubes 1080 | ES 🇪🇸",
+    "info": "[TeleCinco Acestream]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "url": "acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b" 
+   }, 
+   { 
+    "name": "PPV Mundial de Clubes 1080 | ES 🇪🇸",
+    "info": "[TeleCinco Acestream]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "url": "acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf" 
+   }, 
+   {
+    "name": "PPV Eventos UFC 1080 | CL 🇨🇱",
+    "info": "[ESPN Premium]",
+    "online": "true",
+    "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png", 
+    "url": "http://190.102.246.93:9005/play/a00x",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+   "name": "PPV Eventos UFC 720 | AR 🇦🇷",
+   "info": "[ESPN 5]",
+   "online": "true",
+   "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png", 
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn5",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": "true"
+  },
+  {
+   "name": "PPV Eventos UFC 720 | AR 🇦🇷",
+   "info": "[ESPN 5]",
+   "online": "true",
+   "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png", 
+    "url": "https://streamdp1.xyz/global1.php?channel=espn5",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": "true"
+  },
+  {
+   "name": "PPV Eventos UFC 720 | MX 🇲🇽",
+   "info": "[Disney+ 5]",
+   "online": "true",
+   "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png", 
+    "url": "https://la14hd.com/vivo/canales.php?stream=disney5",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": "true"
+  },
+  {
+   "name": "PPV Eventos UFC 720 | AR 🇦🇷",
+   "info": "[Fox Sports]",
+   "online": "true",
+   "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png", 
+    "url": "https://streamtpglobal.com/global1.php?stream=fox1ar",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": "true"
+  },
+  {
+   "name": "PPV Eventos UFC 720 | AR 🇦🇷",
+   "info": "[Fox Sports]",
+   "online": "true",
+   "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png", 
+    "url": "https://la14hd.com/vivo/canales.php?stream=foxsports",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": "true"
+  },
+  {
+   "name": "PPV Eventos UFC 720 | MX 🇲🇽",
+   "info": "[ESPN Deportes]",
+   "online": "true",
+   "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png", 
+    "url": "https://miztv.top/stream/stream-375.php",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+   "name": "PPV Eventos UFC 720 | MX 🇲🇽",
+   "info": "[ESPN Deportes]",
+   "online": "true",
+   "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png", 
+    "url": "https://tutvlive.xyz/tvtodo/espn-deportes.php",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  { 
+   "name": "PPV Eventos UFC 1080 | MX 🇲🇽",
+   "info": "[Acestream 3ff]",
+   "online": "true",
+   "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png", 
+   "url": "acestream://9efe41de7f5dcafc9395591feb959832e09683ff" 
+  },
+  {
     "name": "Eventos DISNEY+ 1 | AR 🇦🇷",
     "image": "https://i.imgur.com/gw2wQrr.png",
     "url": "https://la14hd.com/vivo/canales.php?stream=disney1",
@@ -307,8 +510,63 @@
     "url": "https://enz.gdplayertv.to/live-tv/tnt-sports-cl/?embed=1",
     "embed": "true"
   },
+
+   {
+    "name": "TyC Sports 720 | AR 🇦🇷",
+    "info": "[Tutvlive]",
+    "online": "true",
+    "image": "https://i.imgur.com/zfkBNdb.png",
+    "url": "https://tutvlive.xyz/tvtodo/tyc-sports.php",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+    },
+    {
+    "name": "TyC Sports 720 | AR 🇦🇷",
+    "info": "[Topembed]",
+    "online": "true",
+    "image": "https://i.imgur.com/zfkBNdb.png",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://topembed.pw/",
+    "url": "https://topembed.pw/channel/TYCSports[Argentina]",
+    "isHost": "true"
+   },
+   {
+    "name": "TyC Sports 720 | AR 🇦🇷",
+    "info": "[Ddy6new]",
+    "online": "true",
+    "image": "https://i.imgur.com/zfkBNdb.png",
+    "url": "https://ddy6new.newkso.ru/ddy6/premium746/mono.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
   {
-    "name": "DirecTv Sports 720p | AR 🇦🇷",
+    "name": "TyC Sports | AR 🇦🇷",
+    "info": "[Streamdp]",
+    "online": "true",
+    "image": "https://i.imgur.com/zfkBNdb.png",
+    "url": "https://streamdp1.xyz/global1.php?channel=tycsports",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": "true"
+  },
+  {
+    "name": "TyC Sports | AR 🇦🇷",
+    "info": "[La14HD]",
+    "online": "true",
+    "image": "https://i.imgur.com/zfkBNdb.png",
+    "url": "https://la14hd.com/vivo/canales.php?stream=tycsports",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": "true"
+  },
+  {
+    "name": "TyC Sports Internacional | AR 🇦🇷",
+    "info": "[Streamdp]",
+    "online": "true",
+    "image": "https://i.imgur.com/zfkBNdb.png",
+    "url": "https://streamdp1.xyz/global1.php?channel=tycinternacional",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": "true"
+  },
+ 
+  {
+    "name": "DirecTv Sports 720 | AR 🇦🇷",
     "info": "[104]",
     "online": "true",
     "image": "https://i.imgur.com/NUGOqdT.png",
@@ -316,7 +574,7 @@
     "userAgent": ""
   },
   {
-    "name": "DirecTv Sports 720p | AR 🇦🇷",
+    "name": "DirecTv Sports 720 | AR 🇦🇷",
     "info": "[200]",
     "online": "true",
     "image": "https://i.imgur.com/NUGOqdT.png",
@@ -324,7 +582,7 @@
     "userAgent": ""
   },
   {
-    "name": "DirecTv Sports 720p | AR 🇦🇷",
+    "name": "DirecTv Sports 720 | AR 🇦🇷",
     "info": "[Topembed]",
     "online": "true",
     "image": "https://i.imgur.com/NUGOqdT.png",
@@ -334,7 +592,7 @@
     "isHost": "true"
   },
   {
-    "name": "DirecTv Sports 720p | AR 🇦🇷",
+    "name": "DirecTv Sports 720 | AR 🇦🇷",
     "info": "[Topembed]",
     "online": "true",
     "image": "https://i.imgur.com/NUGOqdT.png",
@@ -408,7 +666,7 @@
     "isHost": "true"
   },
   {
-    "name": "ESPN Chile (MiHD) | CL 🇨🇱",
+    "name": "ESPN Chile | CL 🇨🇱",
     "info": "[MiHD]",
     "online": "true",
     "image": "https://i.imgur.com/MFhpD4D.png",
@@ -699,7 +957,7 @@
   },
 
   {
-    "name": "ESPN Premium Argentina 1080 (190) | AR 🇦🇷",
+    "name": "ESPN Premium Argentina 1080 (190) | CL 🇨🇱",
     "image": "https://i.imgur.com/5qTHLGy.png",
     "url": "http://190.102.246.93:9005/play/a00x",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
@@ -742,11 +1000,10 @@
     "url": "https://enz.gdplayertv.to/live-tv/espn-premium/?embed=1",
     "embed": "true"
   },
-
   {
-    "name": "FOX Sports Argentina (Streamdp) | AR 🇦🇷",
+    "name": "FOX Sports Argentina (Streamtp) | AR 🇦🇷",
     "image": "https://i.imgur.com/nX9GsSh.png",
-    "url": "https://streamdp1.xyz/global1.php?channel=foxar",
+    "url": "https://streamtpglobal.com/global1.php?stream=fox1ar",
     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
     "isHost": "true"
   },
@@ -797,35 +1054,6 @@
     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
     "isHost": "true"
   },
-
-  {
-    "name": "TyC Sports Internacional (Streamdp) | AR 🇦🇷",
-    "image": "https://i.imgur.com/zfkBNdb.png",
-    "url": "https://streamdp1.xyz/global1.php?channel=tycinternacional",
-    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-    "isHost": "true"
-  },
-  {
-    "name": "TyC Sports Argentina (Streamdp) | AR 🇦🇷",
-    "image": "https://i.imgur.com/zfkBNdb.png",
-    "url": "https://streamdp1.xyz/global1.php?channel=tycsports",
-    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-    "isHost": "true"
-  },
-  {
-    "name": "TyC Sports Argentina (La14HD) | AR 🇦🇷",
-    "image": "https://i.imgur.com/zfkBNdb.png",
-    "url": "https://la14hd.com/vivo/canales.php?stream=tycsports",
-    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-    "isHost": "true"
-  },
-  {
-    "name": "TyC Sports Argentina (Ddy6new) | AR 🇦🇷",
-    "image": "https://i.imgur.com/zfkBNdb.png",
-    "url": "https://ddy6new.newkso.ru/ddy6/premium746/mono.m3u8",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-  },
-
   {
     "name": "Gol Peru (La14HD) | PE 🇵🇪",
     "image": "https://i.imgur.com/xl7Sf50.png",
@@ -996,6 +1224,69 @@
     "isHost": "true"
   },
   {
+    "name": "ESPN Deportes 720 | US 🇺🇸",
+    "info": "[Miztv]",
+    "online": "true",
+    "image": "https://i.imgur.com/cYvji3A.png",
+    "url": "https://miztv.top/stream/stream-375.php",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "ESPN Deportes 720 | US 🇺🇸",
+    "info": "[Tutvlive]",
+    "online": "true",
+    "image": "https://i.imgur.com/cYvji3A.png",
+    "url": "https://tutvlive.xyz/tvtodo/espn-deportes.php",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "ESPN Deportes | US 🇺🇸",
+    "info": "[Fuelcaller]",
+    "online": "true",
+    "image": "https://i.imgur.com/cYvji3A.png",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://tarjetarojaenvivo.lat/",
+    "url": "https://fuelcareer.net/embed/lf445b",
+    "isHost": "true"
+  },
+  {
+    "name": "ESPN Deportes | US 🇺🇸",
+   "info": "[Cdnew]",
+    "online": "true",
+    "image": "https://i.imgur.com/cYvji3A.png",
+    "url": "https://x4-cdnnew.newkso.ru/x4-cdn/mono86/mono.m3u8",
+    "userAgent": ""
+  },
+ 
+  {
+    "name": "ESPN Deportes 720 | US 🇺🇸",
+    "info": "[Topembed]",
+    "online": "true",
+    "image": "https://i.imgur.com/cYvji3A.png",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://topembed.pw/",
+    "url": "https://topembed.pw/channel/ESPNDeportes[USA]",
+    "isHost": "true"
+  },
+  {
+    "name": "ESPN Deportes 720 | US 🇺🇸",
+    "info": "[190]",
+    "online": "true",
+    "image": "https://i.imgur.com/cYvji3A.png",
+    "url": "http://190.92.10.66:4000/play/a003/index.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "ESPN Deportes 720 | US 🇺🇸",
+    "info": "[Abbasport]",
+    "online": "true",
+    "image": "https://i.imgur.com/cYvji3A.png",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://abbasport.site/",
+    "url": "https://abbasport.site/espndeportes.php",
+    "isHost": "true"
+  },
+  {
     "name": "Bein Sports Ñ (Zekonew) | US 🇺🇸",
     "image": "https://i.imgur.com/c4gfwhr.png",
     "url": "https://zekonew.newkso.ru/zeko/premium372/mono.m3u8",
@@ -1127,70 +1418,6 @@
     "online": "true",
     "isHost": "true"
   },
-
-  {
-    "name": "ESPN Deportes 720 | MX 🇲🇽",
-    "info": "[190]",
-    "online": "true",
-    "image": "https://i.imgur.com/cYvji3A.png",
-    "url": "http://190.92.10.66:4000/play/a003/index.m3u8",
-    "userAgent": ""
-  },
-  {
-    "name": "ESPN Deportes 720 | MX 🇲🇽",
-    "info": "[Abbasport]",
-    "online": "true",
-    "image": "https://i.imgur.com/cYvji3A.png",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-    "referer": "https://abbasport.site/",
-    "url": "https://abbasport.site/espndeportes.php",
-    "isHost": "true"
-  },
-  {
-    "name": "ESPN Deportes 720 | MX 🇲🇽",
-    "info": "[Miztv]",
-    "online": "true",
-    "image": "https://i.imgur.com/cYvji3A.png",
-    "url": "https://miztv.top/stream/stream-375.php",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-  },
-  {
-    "name": "ESPN Deportes 720 | MX 🇲🇽",
-    "info": "[Topembed]",
-    "online": "true",
-    "image": "https://i.imgur.com/cYvji3A.png",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-    "referer": "https://topembed.pw/",
-    "url": "https://topembed.pw/channel/ESPNDeportes[USA]",
-    "isHost": "true"
-  },
-  {
-    "name": "ESPN Deportes 720 | MX 🇲🇽",
-    "info": "[Tutvlive]",
-    "online": "true",
-    "image": "https://i.imgur.com/cYvji3A.png",
-    "url": "https://tutvlive.xyz/tvtodo/espn-deportes.php",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-  },
-  {
-    "name": "ESPN Deportes | MX 🇲🇽",
-   "info": "[Cdnew]",
-    "online": "true",
-    "image": "https://i.imgur.com/cYvji3A.png",
-    "url": "https://x4-cdnnew.newkso.ru/x4-cdn/mono86/mono.m3u8",
-    "userAgent": ""
-  },
-  {
-    "name": "ESPN Deportes | MX 🇲🇽",
-    "info": "[Fuelcaller]",
-    "online": "true",
-    "image": "https://i.imgur.com/cYvji3A.png",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-    "referer": "https://tarjetarojaenvivo.lat/",
-    "url": "https://fuelcareer.net/embed/lf445b",
-    "isHost": "true"
-  },
- 
   {
     "name": "Movistar Liga de Campeones 720 (freckledine) | ES 🇪🇸",
     "image": "https://i.imgur.com/3PsaCB9.png",
@@ -1244,6 +1471,76 @@
     "isHost": "true"
   },
   {
+    "name": "TyC Sports Play 1 | AR 🇦🇷",
+    "online": "true",
+    "image": "https://i.imgur.com/UOuJb87.png",
+    "url": "https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  }, 
+  {
+    "name": "TyC Sports Play 2 | AR 🇦🇷",
+    "online": "true",
+    "image": "https://i.imgur.com/UOuJb87.png",
+    "url": "https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  }, 
+  {
+    "name": "TyC Sports Play 3 | AR 🇦🇷",
+    "online": "true",
+    "image": "https://i.imgur.com/UOuJb87.png",
+    "url": "https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  }, 
+  {
+    "name": "TyC Sports Play 4 | AR 🇦🇷",
+    "online": "true",
+    "image": "https://i.imgur.com/UOuJb87.png",
+    "url": "https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  }, 
+  {
+    "name": "TyC Sports Play 5 | AR 🇦🇷",
+    "online": "true",
+    "image": "https://i.imgur.com/UOuJb87.png",
+    "url": "https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  }, 
+  {
+    "name": "TyC Sports Play 6 | AR 🇦🇷",
+    "online": "true",
+    "image": "https://i.imgur.com/UOuJb87.png",
+    "url": "https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  }, 
+  {
+    "name": "TyC Sports Play 7 | AR 🇦🇷",
+    "online": "true",
+    "image": "https://i.imgur.com/UOuJb87.png",
+    "url": "https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  }, 
+  {
+    "name": "TyC Sports Play 8 | AR 🇦🇷",
+    "online": "true",
+    "image": "https://i.imgur.com/UOuJb87.png",
+    "url": "https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  }, 
+  {
+    "name": "TyC Sports Play 9 | AR 🇦🇷",
+    "online": "true",
+    "image": "https://i.imgur.com/UOuJb87.png",
+    "url": "https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  }, 
+  {
+    "name": "TyC Sports Play 10 | AR 🇦🇷",
+    "online": "true",
+    "image": "https://i.imgur.com/UOuJb87.png",
+    "url": "https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
     "name": "Teledeporte | ES 🇪🇸",
     "image": "https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200",
     "url": "https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8",
@@ -1256,72 +1553,65 @@
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
   {
-    "name": "Liga de Campeones [ES]",
-    "info": "[370]",
+    "name": "Liga de Campeones | 🇪🇸",
+    "info": "[Acestream 370]",
     "online": "true",
-    "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png",
+    "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
     "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
   },
   {
-    "name": "Movistar La Liga [ES]",
-    "info": "[947]",
+    "name": "Movistar La Liga | 🇪🇸",
+    "info": "[Acestream 947]",
     "online": "true",
-    "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png",
+    "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
     "url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947"
   },
   {
-    "name": "Gol Play [ES]",
-    "info": "[a3a]",
+    "name": "Cuatro | 🇪🇸",
+    "info": "[Acestream 333]",
     "online": "true",
-    "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png",
-    "url": "acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a"
-  },
-  {
-    "name": "Cuatro [ES]",
-    "info": "[333]",
-    "online": "true",
-    "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png",
+    "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
     "url": "acestream://8670df538a11c6ec97b3f634981ddc4409ca0333"
   },
   {
-  "name": "Cuatro [ES]",
-  "info": "[a91]",
+  "name": "Cuatro | 🇪🇸",
+  "info": "[Acestream a91]",
   "online": "true",
-  "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
+  "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png", 
   "url": "acestream://18f63b299de66029e17dc35e12f6c244e1979a91" 
   }, 
   { 
-  "name": "Telecinco [ES]", 
-  "info": "[6f5]",
+  "name": "Telecinco | 🇪🇸",
+  "info": "[Acestream 6f5]",
   "online": "true",
-  "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
+  "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png", 
   "url": "acestream://3d376333ee90d6db3d413fc5764ef635882076f5" 
   },
   { 
-  "name": "Telecinco [ES]", 
-  "info": "[75b]",
+  "name": "Telecinco | 🇪🇸",
+  "info": "[Acestream 75b]",
   "online": "true",
-  "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
+  "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png", 
   "url": "acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b" 
   }, 
   { 
-  "name": "Telecinco [ES]", 
-  "info": "[7bf]",
+  "name": "Telecinco | 🇪🇸",
+  "info": "[Acestream 7bf]",
   "online": "true",
-  "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
+  "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png", 
   "url": "acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf" 
   }, { 
-  "name": "UFC Fight Pass [ES]", 
-  "info": "[139]",
+  "name": "Teledeporte | 🇪🇸",
+  "info": "[Acestream 9ef]",
   "online": "true",
-  "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
-  "url": "acestream://0ce88d9e7273fddbc9b49f578b6b255513697139" 
+  "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png", 
+  "url": "acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef" 
   }, { 
-  "name": "PPV Eventos UFC [ES]", 
-  "info": "[3ff]",
+  "name": "Teledeporte | 🇪🇸",
+  "info": "[Acestream 230]",
   "online": "true",
-  "image": "https://i.postimg.cc/cHzHKzmp/logo2-9-203651.png", 
-  "url": "acestream://9efe41de7f5dcafc9395591feb959832e09683ff" 
+  "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png", 
+  "url": "acestream://138b30c93e8a780ac490a4f6d2181c41f3670230" 
   }, 
 			
 			
