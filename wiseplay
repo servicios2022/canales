@@ -828,11 +828,10 @@
     "url": "https://enz.gdplayertv.to/live-tv/espn-premium/?embed=1",
     "embed": "true"
   },
-
   {
-    "name": "FOX Sports Argentina (Streamdp) | AR 🇦🇷",
+    "name": "FOX Sports Argentina (Streamtp) | AR 🇦🇷",
     "image": "https://i.imgur.com/nX9GsSh.png",
-    "url": "https://streamdp1.xyz/global1.php?channel=foxar",
+    "url": "https://streamtpglobal.com/global1.php?stream=fox1ar",
     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
     "isHost": "true"
   },
@@ -1391,14 +1390,59 @@
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
   {
-    "name": "PPV Eventos UFC 1080 | AR 🇦🇷",
+    "name": "PPV Eventos UFC 1080 | CL 🇨🇱",
     "info": "[ESPN Premium]",
     "online": "true",
     "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png", 
     "url": "http://190.102.246.93:9005/play/a00x",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
-{
+  {
+   "name": "PPV Eventos UFC 720 | AR 🇦🇷",
+   "info": "[ESPN 5]",
+   "online": "true",
+   "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png", 
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn5",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": "true"
+  },
+  {
+   "name": "PPV Eventos UFC 720 | AR 🇦🇷",
+   "info": "[ESPN 5]",
+   "online": "true",
+   "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png", 
+    "url": "https://streamdp1.xyz/global1.php?channel=espn5",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": "true"
+  },
+  {
+   "name": "PPV Eventos UFC 720 | MX 🇲🇽",
+   "info": "[Disney+ 5]",
+   "online": "true",
+   "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png", 
+    "url": "https://la14hd.com/vivo/canales.php?stream=disney5",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": "true"
+  },
+  {
+   "name": "PPV Eventos UFC 720 | AR 🇦🇷",
+   "info": "[Fox Sports]",
+   "online": "true",
+   "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png", 
+    "url": "https://streamtpglobal.com/global1.php?stream=fox1ar",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": "true"
+  },
+  {
+   "name": "PPV Eventos UFC 720 | AR 🇦🇷",
+   "info": "[Fox Sports]",
+   "online": "true",
+   "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png", 
+    "url": "https://la14hd.com/vivo/canales.php?stream=foxsports",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": "true"
+  },
+  {
    "name": "PPV Eventos UFC 720 | MX 🇲🇽",
    "info": "[ESPN Deportes]",
    "online": "true",
@@ -1407,7 +1451,7 @@
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
   {
-     "name": "PPV Eventos UFC 720 | MX 🇲🇽",
+   "name": "PPV Eventos UFC 720 | MX 🇲🇽",
    "info": "[ESPN Deportes]",
    "online": "true",
    "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png", 
