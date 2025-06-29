@@ -104,6 +104,13 @@
     "url": "https://topembed.pw/channel/DirecTV[Ecuador]",
     "isHost": "true"
   },
+  { 
+    "name": "PPV Mundial de Clubes 1080 | AR 🇦🇷",
+    "info": "[DSports Acestream]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "url": "acestream://176f0b8565a161f87c81a4a250463e3eaf678fb5" 
+  }, 
   {
     "name": "PPV Mundial de Clubes 1080 | CL 🇨🇱",
     "info": "[Chilevision]",
@@ -172,7 +179,7 @@
     "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
     "url": "http://185.56.180.254:54543/udp/234.5.2.25:20000",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-  },
+   },
    { 
     "name": "PPV Mundial de Clubes 1080 | ES 🇪🇸",
     "info": "[TeleCinco Acestream]",
@@ -194,22 +201,14 @@
     "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
     "url": "acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf" 
    }, 
-
- { 
+   { 
     "name": "PPV Mundial de Clubes 1080 | ES 🇪🇸",
     "info": "[Dazn Acestream]",
     "online": "true",
     "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
-    "url": "acestream://176f0b8565a161f87c81a4a250463e3eaf678fb5" 
-   }, 
- { 
-    "name": "PPV Mundial de Clubes 1080 | ES 🇪🇸",
-    "info": "[Dazh Acestream]",
-    "online": "true",
-    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
     "url": "acestream://4b048bcfaed7daec454e88f0e29b56756300447d" 
    }, 
- { 
+   { 
     "name": "PPV Mundial de Clubes 1080 | ES 🇪🇸",
     "info": "[Dazn Acestream]",
     "online": "true",
