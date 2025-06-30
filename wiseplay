@@ -2018,6 +2018,13 @@
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
   {
+                 "name": "RCN Mas | CO 🇨🇴",
+    "image": "https://i.imgur.com/MJzuRAN.png",
+                    "url": "https://172a014eac554c789ddc21bb0cc2185c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNMas/playlist.m3u8?ads.wurl_channel=926",
+                    "epgId": "rcn-mas"
+                },
+
+  {
     "name": "TeleAntioquia | CO 🇨🇴",
     "image": "https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200",
     "referer": "https://player.instantvideocloud.net/",
@@ -2123,7 +2130,49 @@
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/s7fswdPBp0Uf2own2Ivnw1mpW45uXwdq3jdjC7fEEVg.jpg",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401",
                     "epgId": "milenio-television"
+                },{
+                    "name": "Telediario Now",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/1hLrgUkhr-9iPr9L1fmh1Ma9GQnLT5fJHd_fDrTfIAk.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014",
+                    "epgId": "telediario-now"
+                }, {
+                    "name": "Pelimex",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/pelimex-v2.jpg",
+                    "url": "https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184",
+                    "epgId": "pelimex"
                 },
+                {
+                    "name": "Corazón",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/corazon_c_1920x1080.png",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399",
+                    "epgId": "corazon"
+                },
+                {
+                    "name": "Clic",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/1920_x_1080_0_2.png",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398",
+                    "epgId": "clic"
+                },
+                {
+                    "name": "Todo Cine",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-todo_cine-16x9.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565",
+                    "epgId": "todo-cine"
+                },
+                {
+                    "name": "TeleFórmula",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/pantalla_teleformula.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505",
+                    "epgId": "teleformula"
+                }, {
+                    "name": "Tastemade en Español",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/apk2nzj-fw95sa2rrnrub3hg-xtq1x9rgg.jpg",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8?device_id=04db7c6b924e22df16402cbfd99256e3",
+                    "epgId": "tastemade-en-espanol-0"
+                },
+
+
+
 
   {
     "name": "Azteca 7 (190) | MX 🇲🇽",
