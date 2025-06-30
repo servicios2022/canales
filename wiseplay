@@ -1836,7 +1836,25 @@
             "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/corazon_1920x1080.png",
             "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826",
             "epgId": "corazon"
-        },
+        }, {
+                    "name": "Always Funny en Español",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/afe_canela_still_1920x1080_1.png",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12147",
+                    "epgId": "always-funny-en-espanol"
+                },  {
+                    "name": "Novelísima ",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/w1snMhKwik97IWj_ZJLGraHMgzDwxGnkmiBkywhSCrI.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380",
+                    "epgId": "novelisima"
+                }, {
+                    "name": "C4 en Alerta",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/c4_en_alerta_1920x1080_1.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420",
+                    "epgId": "c4-en-alerta"
+                },
+
+
+
         
   {
     "name": "24 Horas | ES 🇪🇸",
@@ -2075,6 +2093,13 @@
     "url": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
+{
+                      "name": "Azteca Internacional | MX 🇲🇽",
+                "image": "https://media.tvup.cloud/canales/color_lg_6523ab28416c1045648ebdcc.png",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397",
+                    "epgId": "azteca-internacional"
+                },
+
   {
     "name": "Canal 6 Multimedios | MX 🇲🇽",
     "image": "https://graph.facebook.com/multimediostv/picture?width=200&height=200",
@@ -2087,6 +2112,19 @@
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
+{
+                    "name": "Canal 6 CDMX",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/canal_6_1920x1080_0.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402",
+                    "epgId": "canal-6-cdmx"
+                },
+                {
+                    "name": "Milenio Televisión",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/s7fswdPBp0Uf2own2Ivnw1mpW45uXwdq3jdjC7fEEVg.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401",
+                    "epgId": "milenio-television"
+                },
+
   {
     "name": "Azteca 7 (190) | MX 🇲🇽",
     "image": "https://i.imgur.com/vcv8H63.png",
