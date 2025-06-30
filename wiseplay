@@ -2304,6 +2304,14 @@
     "isHost": "true"
   },
  {
+    "name": "Telemundo 47 1080 | US 🇺🇸",
+    "info": "[Tele]",
+    "online": "true",
+    "image": "https://i.imgur.com/9piuN0T.png",
+    "url": "https://telegratuita.com/repro/?r=L3NwZWVkL3Q0Ny5waHA=",
+    "embed": "true"
+  },
+ {
      "name": "Telemundo 51 1080 | US 🇺🇸",
     "info": "[NBCU]",
     "online": "true",
@@ -2320,7 +2328,7 @@
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
   {
-    "name": "Telemundo 47 1080 | US 🇺🇸",
+    "name": "Telemundo 1080 | US 🇺🇸",
     "info": "[MiHD]",
     "online": "true",
     "image": "https://i.imgur.com/9piuN0T.png",
@@ -2328,15 +2336,6 @@
     "url": "https://mihd.tv/telemundo-51-en-vivo-por-internet.html",
     "isHost": "true"
   },
-  {
-    "name": "Telemundo 47 1080 | US 🇺🇸",
-    "info": "[Tele]",
-    "online": "true",
-    "image": "https://i.imgur.com/9piuN0T.png",
-    "url": "https://telegratuita.com/repro/?r=L3NwZWVkL3Q0Ny5waHA=",
-    "embed": "true"
-  },
-
   {
     "name": "Telemundo 720 | US 🇺🇸",
     "info": "[Miztv]",
