@@ -1838,17 +1838,17 @@
             "epgId": "corazon"
         }, {
                     "name": "Always Funny en Español",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/afe_canela_still_1920x1080_1.png",
+                    "image": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F5486efc7-861a-402b-9167-10dbeec3ee07%2FAFE_Horizontal_Hero_-_Sara_Levine.jpg",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12147",
                     "epgId": "always-funny-en-espanol"
                 },  {
                     "name": "Novelísima ",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/w1snMhKwik97IWj_ZJLGraHMgzDwxGnkmiBkywhSCrI.jpg",
+                    "image": "https://provider-static.plex.tv/epg/cms/production/60eab046-387c-433c-8034-1f7216758198/NOVELISIMA_HorzHero_-_Ali_Clausen.jpg",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380",
                     "epgId": "novelisima"
                 }, {
                     "name": "C4 en Alerta",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/c4_en_alerta_1920x1080_1.jpg",
+                    "image": "https://images.pluto.tv/channels/673f7446030a2c0008231bc3/featuredImage_1751039268240.jpg",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420",
                     "epgId": "c4-en-alerta"
                 }, {
