@@ -1712,6 +1712,18 @@
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
  {
+            "name": "Pocoyó",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/pocoyo_-_logo_y_fondo_0.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5626",
+            "epgId": "pocoyo"
+        },
+ {
+            "name": "Pitufo TV",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/TxUqwHp98ZT1G1xma7ioVKOrdkIuU4EreyDyarXMRTw.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5444",
+            "epgId": "pitufo-tv"
+        },
+ {
             "name": "Runtime",
             "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_es_1920x1080_0.jpg",
             "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152",
@@ -1723,24 +1735,14 @@
             "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647",
             "epgId": "runtime-familia-1"
         },
-        {
-            "name": "Pitufo TV",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/TxUqwHp98ZT1G1xma7ioVKOrdkIuU4EreyDyarXMRTw.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5444",
-            "epgId": "pitufo-tv"
-        },
+       
         {
             "name": "Ana y los 7",
             "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_ana_y_los_7_16x9_v2.jpg",
             "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2722",
             "epgId": "ana-y-los-7"
         },
-        {
-            "name": "Pocoyó",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/pocoyo_-_logo_y_fondo_0.jpg",
-            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5626",
-            "epgId": "pocoyo"
-        },
+       
         {
             "name": "Runtime Comedia",
             "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_comedia_16x9.jpg",
@@ -1892,20 +1894,6 @@
                     "number": "5",
                     "url": "https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2929&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=843a9817-1d05-4262-bbb4-d825d35d6635&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=794",
                     "epgId": "cine-espanol-rakuten-tv"
-                },
-                {
-                    "name": "Thrillers",
-                    "image": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/6183803c-66f1-4fe9-98fa-f0ce319c4650.jpeg",
-                    "number": "6",
-                    "url": "https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3330&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=4ac2f0cf-a04e-424c-b8eb-57c3b5989b6a&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=884",
-                    "epgId": "thriller-es-rakuten-tv"
-                },
-                {
-                    "name": "Trailers",
-                    "image": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bd19f8e4-0477-4129-96f7-89b5817f7957.jpeg",
-                    "number": "8",
-                    "url": "https://1c4952408fa947df9b6aee4225ff9fd3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4452/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rakutentv_channel=4452&ads.rtv_content_id=4452&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=85139c2a-3c84-4fcd-ac46-1477bd8054fa&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=4452",
-                    "epgId": "trailers"
                 },
                 {
                     "name": "MyTime Movie Network",
