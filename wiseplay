@@ -2304,7 +2304,7 @@
     "isHost": "true"
   },
  {
-    "name": "Telemundo 47 1080 | US 🇺🇸",
+    "name": "Telemundo 47 New York 1080 | US 🇺🇸",
     "info": "[Tele]",
     "online": "true",
     "image": "https://i.imgur.com/9piuN0T.png",
@@ -2312,7 +2312,7 @@
     "embed": "true"
   },
  {
-    "name": "Telemundo 47 1080 | US 🇺🇸",
+    "name": "Telemundo 47 New York 1080 | US 🇺🇸",
     "info": "[MiHD]",
     "online": "true",
     "image": "https://i.imgur.com/9piuN0T.png",
@@ -2321,7 +2321,7 @@
     "isHost": "true"
   },
  {
-     "name": "Telemundo 51 Florida 1080 | US 🇺🇸",
+     "name": "Telemundo 51 Miami 1080 | US 🇺🇸",
     "info": "[NBCU]",
     "online": "true",
     "image": "https://i.imgur.com/9piuN0T.png",
@@ -2329,7 +2329,7 @@
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
  {
-     "name": "Telemundo 52 California 1080 | US 🇺🇸",
+     "name": "Telemundo 52 Los Angeles 1080 | US 🇺🇸",
     "info": "[D3i0aurg]",
     "online": "true",
     "image": "https://i.imgur.com/9piuN0T.png",
@@ -2368,6 +2368,16 @@
     "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
     "userAgent": ""
   },
+ {
+    "name": "Univision | US 🇺🇸",
+    "info": "[Link]",
+    "online": "true",
+    "image": "https://i.imgur.com/b5III2Y.png",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+    "referer": "https://deporte-libre.link",
+    "url": "https://deporte-libre.link/stream/stream-132.php",
+    "isHost": "true"
+  },
   {
     "name": "Univision 1080 | US 🇺🇸",
     "info": "[45]",
@@ -2376,16 +2386,8 @@
     "url": "http://45.161.24.2:4025/udp/224.32.32.32:1088",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
-  {
+ {
     "name": "Univision | US 🇺🇸",
-    "info": "[Miztv]",
-    "online": "true",
-    "image": "https://i.imgur.com/b5III2Y.png",
-    "url": "https://miztv.top/stream/stream-132.php",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-  },
-  {
-    "name": "Univision (MiHD) | US 🇺🇸",
     "info": "[MiHD]",
     "online": "true",
     "image": "https://i.imgur.com/b5III2Y.png",
@@ -2395,13 +2397,11 @@
   },
   {
     "name": "Univision | US 🇺🇸",
-    "info": "[Link]",
+    "info": "[Miztv]",
     "online": "true",
     "image": "https://i.imgur.com/b5III2Y.png",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-    "referer": "https://deporte-libre.link",
-    "url": "https://deporte-libre.link/stream/stream-132.php",
-    "isHost": "true"
+    "url": "https://miztv.top/stream/stream-132.php",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
   {
     "name": "Unimas | US 🇺🇸",
