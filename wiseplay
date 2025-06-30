@@ -1978,16 +1978,6 @@
                     "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusCrimenSpanish&ads.csid=zeus_es_indigeniuscrimenspanish_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3687&ads.rakuten_streaming_id=fa29b037-661d-43c9-858e-b64e3ad4770c&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883018&ads.xumo_contentId=2192&ads.xumo_contentName=IndigeniusCrimenSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2192&ads.xumo_providerName=IndigeniusCrimenSpanish&ads.xumo_streamId=88883018",
                     "epgId": "todo-crimen"
                 },
-
-
-
-
-
-
-
-
-
-
     {
                     "name": "El País",
                     "image": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/2ed79327-afc6-47cb-9e5a-5b8c67aa60ff.jpeg",
@@ -2260,60 +2250,51 @@
   },
 {
                     "name": "Canal 6 CDMX",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/canal_6_1920x1080_0.jpg",
+                    "image": "https://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402",
                     "epgId": "canal-6-cdmx"
                 },
                 {
                     "name": "Milenio Televisión",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/s7fswdPBp0Uf2own2Ivnw1mpW45uXwdq3jdjC7fEEVg.jpg",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/640px-Milenio_Television.png",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401",
                     "epgId": "milenio-television"
                 },{
                     "name": "Telediario Now",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/1hLrgUkhr-9iPr9L1fmh1Ma9GQnLT5fJHd_fDrTfIAk.jpg",
+                    "image": "https://www.lg.com/content/dam/channel/wcms/mx/2025/march/lg-channels/im%C3%A1genes-actualizadas/noticias/270325_LOGOS_LGCHANNELS_BLACK_003.png",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014",
                     "epgId": "telediario-now"
                 }, {
                     "name": "Pelimex",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/pelimex-v2.jpg",
+                    "image": "https://images.squarespace-cdn.com/content/v1/5ea862a8804f7204dfbb35fb/ac03fd6d-c360-4909-9162-8fbd6ff36ebc/Pelimex+logo+sq+large.jpg",
                     "url": "https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184",
                     "epgId": "pelimex"
                 },
                 {
                     "name": "Corazón",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/corazon_c_1920x1080.png",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/b49c943/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe7%2Ff9%2F3165356248e39a7d659b63aa8c03%2Fcorazon-1920x1080.jpg",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399",
                     "epgId": "corazon"
                 },
                 {
                     "name": "Clic",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/1920_x_1080_0_2.png",
+                    "image": "https://cdn.storage.foromedios.com/monthly_2023_08/large.AztecaClic-2023oficial.png.1be432f69a8742739f367f7a7b1964e8.png",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398",
                     "epgId": "clic"
                 },
                 {
                     "name": "Todo Cine",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-todo_cine-16x9.jpg",
+                    "image": "https://pbs.twimg.com/profile_images/1737898344494559232/k-aAXjbx_200x200.jpg",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565",
                     "epgId": "todo-cine"
                 },
                 {
                     "name": "TeleFórmula",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/pantalla_teleformula.jpg",
+                    "image": "https://m.media-amazon.com/images/I/619X4kMohBL.png",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505",
                     "epgId": "teleformula"
-                }, {
-                    "name": "Tastemade en Español",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/apk2nzj-fw95sa2rrnrub3hg-xtq1x9rgg.jpg",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8?device_id=04db7c6b924e22df16402cbfd99256e3",
-                    "epgId": "tastemade-en-espanol-0"
-                },
-
-
-
-
-  {
+                }, 
+{
     "name": "Azteca 7 (190) | MX 🇲🇽",
     "image": "https://i.imgur.com/vcv8H63.png",
     "url": "http://190.92.10.66:4000/play/a007/index.m3u8",
