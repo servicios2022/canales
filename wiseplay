@@ -2834,22 +2834,16 @@
     "url": "https://tv.arkeo.cl:1936/rosafm/rosafm/playlist.m3u8",
     "userAgent": ""
   },
- {
-    "name": "Somos Tv 1080 | CL 🇨🇱",
-    "image": "https://somostv.cl/wp-content/uploads/2024/09/somostv-log-top.png",
-    "url": "https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/chunklist_w1805447156.m3u8",
+  {
+    "name": "Atacama Noticias 1080 | CL 🇨🇱",
+    "image": "https://i.imgur.com/mFKrWvy.png",
+    "url": "https://v2.tustreaming.cl/atacamanoticias/tracks-v1a1/mono.m3u8",
     "userAgent": ""
   },
   {
     "name": "Vision Plus Tv 1080 | CL 🇨🇱",
     "image": "https://pbs.twimg.com/profile_images/1646356710481641473/O9eqmDSl_400x400.jpg",
     "url": "https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/chunklist_w887431148.m3u8",
-    "userAgent": ""
-  },
-  {
-    "name": "Atacama Noticias 1080 | CL 🇨🇱",
-    "image": "https://www.atacamanoticias.cl/wp-content/uploads/2025/03/Logo_atacama_diario-e1743456244313.png",
-    "url": "https://v2.tustreaming.cl/atacamanoticias/tracks-v1a1/mono.m3u8",
     "userAgent": ""
   },
   {
