@@ -2828,6 +2828,30 @@
     "url": "https://tv.arkeo.cl:1936/rosafm/rosafm/playlist.m3u8",
     "userAgent": ""
   },
+ {
+    "name": "Vision Plus Tv 1080 | CL 🇨🇱",
+    "image": "https://pbs.twimg.com/profile_images/1646356710481641473/O9eqmDSl_400x400.jpg",
+    "url": "https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/chunklist_w887431148.m3u8",
+    "userAgent": ""
+  },
+ {
+    "name": "Patagonia Radio | CL 🇨🇱",
+    "image": "https://kuasark.com/files/stations-logos/941-fm-patagonia-radio.png",
+    "url": "https://video01.logicahost.com.br/grupomedia/grupomedia/chunklist_w1872798098.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Marga Marga Tv | CL 🇨🇱",
+    "image": "https://cdn.storage.foromedios.com/monthly_2025_03/large.MargaMargaTV(2025).png.f7bb384d6239fb611a38e1dc8e5b53bb.png",
+    "url": "https://v1.tustreaming.cl/margamargatv/tracks-v1a1/mono.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "America HD | CL 🇨🇱",
+    "image": "https://pbs.twimg.com/profile_images/1251962738374475776/3-0qQuYX_400x400.jpg",
+    "url": "https://v2.tustreaming.cl/radioamericatv/tracks-v1a1/mono.m3u8",
+    "userAgent": ""
+  },
   {
     "name": "TVU | CL 🇨🇱",
     "image": "https://cdn.m3u.cl/logo/56_TVU.png",
