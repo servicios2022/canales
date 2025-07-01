@@ -2,15 +2,14 @@
 
 {	
 "name": "TV GRATIS 2025",
-"author": "📺Lista Gratuita📺",
+"author": "📺Para reproducir algunos canales necesita instalar ACESTREAM📺",
 "image": "https://i.pinimg.com/originals/5d/ea/a7/5deaa7bbf3cba51ed0f8b628c80393fc.gif",
-"info": "Enlaces encontrados en internet",
+"info": "Wiseplay - Acestream",
 "url": "https://raw.githubusercontent.com/servicios2022/canales/main/wiseplay",
 "groups": [
 {"name": "AGENDA DEPORTIVA",
 "image": "https://i.gifer.com/origin/3c/3cf3bf4222ca02eadf81bf145261bfd0.gif",
 "stations":[
-
 
   {
     "name": "Futbol Libre TV | AR 🇦🇷",
@@ -70,7 +69,7 @@
 
  {
     "name": "PPV Mundial de Clubes 720 | AR 🇦🇷",
-    "info": "[Direct Tv]",
+    "info": "[Dsports]",
     "online": "true",
     "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
     "url": "http://104.238.205.28:8989/278758_.m3u8",
@@ -78,7 +77,7 @@
   },
   {
     "name": "PPV Mundial de Clubes 720 | AR 🇦🇷",
-    "info": "[Direct Tv]",
+    "info": "[Dsports]",
     "online": "true",
     "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
     "url": "http://200.59.188.3:8000/play/a0xe",
@@ -86,7 +85,7 @@
   },
   {
      "name": "PPV Mundial de Clubes 720 | AR 🇦🇷",
-    "info": "[Direct Tv]",
+    "info": "[Dsports]",
     "online": "true",
     "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -96,7 +95,7 @@
   },
   {
     "name": "PPV Mundial de Clubes 720 | AR 🇦🇷",
-    "info": "[Direct Tv]",
+    "info": "[Dsports]",
     "online": "true",
     "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -104,6 +103,13 @@
     "url": "https://topembed.pw/channel/DirecTV[Ecuador]",
     "isHost": "true"
   },
+  { 
+    "name": "PPV Mundial de Clubes 1080 | AR 🇦🇷",
+    "info": "[DSports Acestream]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "url": "acestream://176f0b8565a161f87c81a4a250463e3eaf678fb5" 
+  }, 
   {
     "name": "PPV Mundial de Clubes 1080 | CL 🇨🇱",
     "info": "[Chilevision]",
@@ -172,7 +178,7 @@
     "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
     "url": "http://185.56.180.254:54543/udp/234.5.2.25:20000",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-  },
+   },
    { 
     "name": "PPV Mundial de Clubes 1080 | ES 🇪🇸",
     "info": "[TeleCinco Acestream]",
@@ -193,6 +199,20 @@
     "online": "true",
     "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
     "url": "acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf" 
+   }, 
+   { 
+    "name": "PPV Mundial de Clubes 1080 | ES 🇪🇸",
+    "info": "[Dazn Acestream]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "url": "acestream://4b048bcfaed7daec454e88f0e29b56756300447d" 
+   }, 
+   { 
+    "name": "PPV Mundial de Clubes 1080 | ES 🇪🇸",
+    "info": "[Dazn Acestream]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "url": "acestream://8bdeb6055da0be3bd1e1977dbf3640408f7d0267" 
    }, 
    {
     "name": "PPV Eventos UFC 1080 | CL 🇨🇱",
@@ -262,6 +282,14 @@
    "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png", 
     "url": "https://tutvlive.xyz/tvtodo/espn-deportes.php",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "PPV Eventos UFC 1080 | MX 🇲🇽",
+    "info": "[Fs Premium]",
+    "online": "true",
+    "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png", 
+    "url": "https://telegratuita.com/repro/?r=Ly90ZWxlZ3JhdHVpdGEuY29tL3Byby9mb3hzcG9ydHNwcmVtaXVtLnBocA==",
+    "embed": "true"
   },
   { 
    "name": "PPV Eventos UFC 1080 | MX 🇲🇽",
@@ -469,12 +497,30 @@
   },
   {
     "name": "TNT Sports Chile 720 | CL 🇨🇱",
+    "info": "[Tutvlive]",
+    "online": "true",
+    "image": "https://i.imgur.com/f2glGr9.png",
+    "url": "https://tutvlive.xyz/tvtodo/tnt-chile.php",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "TNT Sports Chile 720 | CL 🇨🇱",
     "info": "[Dokko1new]",
     "online": "true",
     "image": "https://i.imgur.com/f2glGr9.png",
     "url": "https://dokko1new.newkso.ru/dokko1/premium642/mono.m3u8",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
+{
+        "name": "TNT Sports Chile 720 | CL 🇨🇱",
+    "info": "[RockHD]",
+    "online": "true",
+    "image": "https://i.imgur.com/f2glGr9.png",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://rockhd.lol/live/stream-642.php",
+        "isHost":"true"
+        },
   {
     "name": "TNT Sports Chile 720 | CL 🇨🇱",
     "info": "[Miztv]",
@@ -484,14 +530,6 @@
     "referer": "https://miztv.top",
     "url": "https://miztv.top/total/stream-642.php",
     "isHost": "true"
-  },
-  {
-    "name": "TNT Sports Chile 720 | CL 🇨🇱",
-    "info": "[Tutvlive]",
-    "online": "true",
-    "image": "https://i.imgur.com/f2glGr9.png",
-    "url": "https://tutvlive.xyz/tvtodo/tnt-chile.php",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
   {
     "name": "TNT Sports Chile | CL 🇨🇱",
@@ -510,7 +548,6 @@
     "url": "https://enz.gdplayertv.to/live-tv/tnt-sports-cl/?embed=1",
     "embed": "true"
   },
-
    {
     "name": "TyC Sports 720 | AR 🇦🇷",
     "info": "[Tutvlive]",
@@ -536,6 +573,16 @@
     "image": "https://i.imgur.com/zfkBNdb.png",
     "url": "https://ddy6new.newkso.ru/ddy6/premium746/mono.m3u8",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+ {
+   "name": "TyC Sports | AR 🇦🇷",
+    "info": "[Telefull]",
+    "online": "true",
+    "image": "https://i.imgur.com/zfkBNdb.png",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://telefullhd.com/",
+    "url": "https://telefullhd.com/canales/tyc/op2.php",
+    "isHost": "true"
   },
   {
     "name": "TyC Sports | AR 🇦🇷",
@@ -566,7 +613,7 @@
   },
  
   {
-    "name": "DirecTv Sports 720 | AR 🇦🇷",
+    "name": "Dsports 720 | AR 🇦🇷",
     "info": "[104]",
     "online": "true",
     "image": "https://i.imgur.com/NUGOqdT.png",
@@ -574,7 +621,7 @@
     "userAgent": ""
   },
   {
-    "name": "DirecTv Sports 720 | AR 🇦🇷",
+    "name": "Dsports 720 | AR 🇦🇷",
     "info": "[200]",
     "online": "true",
     "image": "https://i.imgur.com/NUGOqdT.png",
@@ -582,7 +629,7 @@
     "userAgent": ""
   },
   {
-    "name": "DirecTv Sports 720 | AR 🇦🇷",
+    "name": "Dsports 720 | AR 🇦🇷",
     "info": "[Topembed]",
     "online": "true",
     "image": "https://i.imgur.com/NUGOqdT.png",
@@ -592,7 +639,7 @@
     "isHost": "true"
   },
   {
-    "name": "DirecTv Sports 720 | AR 🇦🇷",
+    "name": "Dsports 720 | AR 🇦🇷",
     "info": "[Topembed]",
     "online": "true",
     "image": "https://i.imgur.com/NUGOqdT.png",
@@ -602,7 +649,7 @@
     "isHost": "true"
   },
   {
-    "name": "DirecTv Sports | AR 🇦🇷",
+    "name": "Dsports | AR 🇦🇷",
     "info": "[Fuelcareer]",
     "online": "true",
     "image": "https://i.imgur.com/NUGOqdT.png",
@@ -611,7 +658,7 @@
     "isHost": "true"
   },
   {
-    "name": "DirecTv Sports | AR 🇦🇷",
+    "name": "Dsports | AR 🇦🇷",
     "info": "[Laceaccept]",
     "online": "true",
     "image": "https://i.imgur.com/NUGOqdT.png",
@@ -620,7 +667,7 @@
     "isHost": "true"
   },
   {
-    "name": "DirecTv Sports | AR 🇦🇷",
+    "name": "Dsports | AR 🇦🇷",
     "info": "[La14HD]",
     "online": "true",
     "image": "https://i.imgur.com/NUGOqdT.png",
@@ -629,7 +676,7 @@
     "isHost": "true"
   },
   {
-    "name": "DirecTv Sports | AR 🇦🇷",
+    "name": "Dsports | AR 🇦🇷",
     "info": "[Streamdp]",
     "online": "true",
     "image": "https://i.imgur.com/NUGOqdT.png",
@@ -638,7 +685,7 @@
     "isHost": "true"
   },
   {
-    "name": "DirecTv Sports | AR 🇦🇷",
+    "name": "Dsports | AR 🇦🇷",
     "info": "[Link]",
     "online": "true",
     "image": "https://i.imgur.com/NUGOqdT.png",
@@ -648,7 +695,7 @@
     "isHost": "true"
   },
   {
-    "name": "DirecTv Sports 2 | AR 🇦🇷",
+    "name": "Dsports 2 | AR 🇦🇷",
     "info": "[La14HD]",
     "online": "true",
     "image": "https://i.imgur.com/HI0yGFW.png",
@@ -657,7 +704,7 @@
     "isHost": "true"
   },
   {
-    "name": "DirecTv Sports 2 | AR 🇦🇷",
+    "name": "Dsports 2 | AR 🇦🇷",
     "info": "[Streamdp]",
     "online": "true",
     "image": "https://i.imgur.com/HI0yGFW.png",
@@ -1034,6 +1081,16 @@
     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
     "isHost": "true"
   },
+ {
+          "name": "FOX Sports 3 Argentina (Nfsnew) | AR 🇦🇷",
+        "info":"[Andrena]",
+        "online":"true",
+         "image": "https://i.imgur.com/xbeQUV3.png",     
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://andrenalynrushplay.cfd/",
+        "url": "https://nfsnew.newkso.ru/nfs/premium789/mono.m3u8",
+        "isHost":""
+        },
   {
     "name": "FOX Sports 3 Argentina (Nfsnew) | AR 🇦🇷",
     "image": "https://i.imgur.com/xbeQUV3.png",
@@ -1155,11 +1212,38 @@
     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
     "isHost": "true"
   },
+ {
+        "name": "Fox Deportes | MX 🇲🇽",
+        "info":"[TuCanal]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png",
+        "url": "https://tucanaldeportivo.org/foxdeportes.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
   {
-    "name": "Fox Deportes Mexico (Tubi) | MX 🇲🇽",
+    "name": "Fox Deportes (Tubi) | MX 🇲🇽",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png",
     "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8",
     "userAgent": ""
+  },
+  {
+      "name": "FS Premium | MX 🇲🇽",
+    "info": "[La14HD]",
+    "online": "true",
+    "image": "https://i.imgur.com/l1XDE9T.png",
+    "url": "https://la12hd.com/vivo/canal.php?stream=foxsportspremium",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+    "isHost": "true"
+  },
+  {
+    "name": "FS Premium | MX 🇲🇽",
+    "info": "[Fs Premium]",
+    "online": "true",
+    "image": "https://i.imgur.com/l1XDE9T.png", 
+    "url": "https://telegratuita.com/repro/?r=Ly90ZWxlZ3JhdHVpdGEuY29tL3Byby9mb3hzcG9ydHNwcmVtaXVtLnBocA==",
+    "embed": "true"
   },
   {
     "name": "TUDN USA 1080 | US 🇺🇸",
@@ -1179,23 +1263,16 @@
     "isHost": "true",
     "image": "https://i.imgur.com/U6DKWV0.png"
   },
-  {
-    "name": "TUDN USA 720 | US 🇺🇸",
-    "info": "[Tinworld]",
+   {
+         "name": "TUDN USA 1080 | US 🇺🇸",
+    "info": "[Force]",
     "online": "true",
     "image": "https://i.imgur.com/U6DKWV0.png",
-    "url": "https://tinworld-myproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02Ni9tb25vLm0zdTg=.m3u8",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-  },
-  {
-    "name": "TUDN USA 720 | US 🇺🇸",
-    "info": "[Tinworld]",
-    "online": "true",
-    "image": "https://i.imgur.com/U6DKWV0.png",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-    "referer": "https://alldownplay.xyz",
-    "url": "https://tinworld-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium66/mono.m3u8"
-  },
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://forcedtoplay.xyz/",
+        "url": "https://rockhd.lol/live/stream-66.php",
+        "isHost":"true"
+        },
   {
     "name": "TUDN USA 720 | US 🇺🇸",
     "info": "[Streamingon]",
@@ -1666,6 +1743,262 @@
     "url": "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
+ {
+            "name": "Pitufo TV",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/TxUqwHp98ZT1G1xma7ioVKOrdkIuU4EreyDyarXMRTw.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5444",
+            "epgId": "pitufo-tv"
+        },
+ {
+            "name": "Runtime",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_es_1920x1080_0.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152",
+            "epgId": "runtime-4"
+        },
+        {
+            "name": "Runtime Familia",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9_0.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647",
+            "epgId": "runtime-familia-1"
+        },
+       
+        {
+            "name": "Ana y los 7",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_ana_y_los_7_16x9_v2.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2722",
+            "epgId": "ana-y-los-7"
+        },
+       
+        {
+            "name": "Runtime Comedia",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_comedia_16x9.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6131",
+            "epgId": "runtime-comedia-1"
+        },
+        {
+            "name": "FeelGood",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/logo_feel_good_fila_canales_1920x1080.jpg",
+            "url": "https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8?DAdID={{DEVICE_ID}}",
+            "epgId": "feelgood"
+        },
+        {
+            "name": "Runtime Series ",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_series_16x9_0.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6132",
+            "epgId": "runtime-series"
+        },
+        {
+            "name": "MyTime Movie Network",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg",
+            "url": " https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=82.102.17.141",
+            "epgId": "mytime-movie-network"
+        },
+        {
+            "name": "Runtime Romance",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance_16x9.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056",
+            "epgId": "runtime-romance"
+        },
+        {
+            "name": "Cines Verdi",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/04082023_logo_verdi_tv_fila_canales_1920x1080.jpg",
+            "url": "https://daiconnect.com/live/hls/tvup/rt-cv/.m3u8?DAdID={{DEVICE_ID}}",
+            "epgId": "cines-verdi"
+        },
+        {
+            "name": "Runtime Acción",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_accion_16x9.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6125",
+            "epgId": "runtime-accion-0"
+        },
+        {
+            "name": "Film&Co",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/filmco_-_logo_y_fondo_0.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5625",
+            "epgId": "filmco"
+        },
+        {
+            "name": "Runtime Thriller",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_thriller_16x9.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6120",
+            "epgId": "runtime-thriller"
+        },
+        {
+            "name": "Runtime Crimen",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_crimen_16x9.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527",
+            "epgId": "runtime-crimen"
+        },
+        {
+            "name": "Sangre Fría",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/f5457ac0-sangre_fria_1920x1080_0.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6130",
+            "epgId": "sangre-fria"
+        },
+        {
+            "name": "Vive Kanal D Drama",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/vive_kdd_logo-1920x0180_-_ankit_sinha_6.jpg",
+            "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanalddrama-runtimeusa/playlist.m3u8?ip=82.102.17.141",
+            "epgId": "vive-kanal-d-drama-0"
+        },
+        {
+            "name": "Runtime Clásicos",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_clasicos_16x9.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053",
+            "epgId": "runtime-clasicos"
+        },
+        {
+            "name": "Cinema",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/EK9aZjZ1ZauSbrscsQm-o9wYSvgoY8k861H04hY1JDA.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829",
+            "epgId": "cinema"
+        },
+        {
+            "name": "Curro Jiménez",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_curro_jimenez_16x9_v2.jpg",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3435",
+            "epgId": "curro-jimenez"
+        },
+        {
+            "name": "Corazón",
+            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/corazon_1920x1080.png",
+            "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826",
+            "epgId": "corazon"
+        }, {
+                    "name": "Always Funny en Español",
+                    "image": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F5486efc7-861a-402b-9167-10dbeec3ee07%2FAFE_Horizontal_Hero_-_Sara_Levine.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12147",
+                    "epgId": "always-funny-en-espanol"
+                },  {
+                    "name": "Novelísima ",
+                    "image": "https://provider-static.plex.tv/epg/cms/production/60eab046-387c-433c-8034-1f7216758198/NOVELISIMA_HorzHero_-_Ali_Clausen.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380",
+                    "epgId": "novelisima"
+                }, {
+                    "name": "C4 en Alerta",
+                    "image": "https://images.pluto.tv/channels/673f7446030a2c0008231bc3/featuredImage_1751039268240.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420",
+                    "epgId": "c4-en-alerta"
+                }, {
+                    "name": "Pelis Top",
+                    "image": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg",
+                    "number": "0",
+                    "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=a245d497-f5b4-4071-89c2-19dcb832f225&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5",
+                    "epgId": "top-movies-rakuten-tv"
+                },
+                {
+                    "name": "Acción",
+                    "image": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg",
+                    "number": "1",
+                    "url": "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=action-rakuten-tv_es&ads.rtv_content_id=6069&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=1a2c8566-d136-44d6-ad6b-17cc042eab52&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6069&publishing_platform_id=5",
+                    "epgId": "action-rakuten-tv"
+                },
+                {
+                    "name": "Comedia",
+                    "image": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/f46d8e24-5150-443b-a370-f938eda185e9.jpeg",
+                    "number": "2",
+                    "url": "https://69e10208b9a0477c91a7d3c5bc302b85.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenComedyMovies/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2495&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=c7288824-bc3c-4bdb-8bee-d4a63eae4f45&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=428",
+                    "epgId": "comedy-es-rakuten-tv"
+                },
+                {
+                    "name": "Drama",
+                    "image": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/27f15d74-cd48-45ad-834c-3c2d97275e68-peliculas-de-drama-rakuten-tv-1621956345.jpeg",
+                    "number": "3",
+                    "url": "https://43acc28426e84e7b8a691e3503112bd8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenTVShows/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2498&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=e8fb9eab-6a2b-4bba-b1f1-ec75d01e7a03&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=429",
+                    "epgId": "drama-es-rakuten-tv"
+                },
+                {
+                    "name": "Películas Románticas",
+                    "image": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0a77cda3-1e27-4d28-a2a4-6f913328e46c-peliculas-romanticas-rakuten-tv-1641196121.jpeg",
+                    "number": "4",
+                    "url": "https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3289&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=6d535ee8-d160-4464-b347-7241cf738329&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=890",
+                    "epgId": "romance-es-rakuten-tv"
+                },
+                {
+                    "name": "Cine Español",
+                    "image": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/fe99ab67-7935-40ad-aedb-010a73e70df8-cine-espanol-rakuten-tv-1628175641.jpeg",
+                    "number": "5",
+                    "url": "https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2929&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=843a9817-1d05-4262-bbb4-d825d35d6635&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=794",
+                    "epgId": "cine-espanol-rakuten-tv"
+                },
+                {
+                    "name": "MyTime Movie Network",
+                    "image": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e9ebb3e1-2419-4299-91f5-20256e320589.jpeg",
+                    "number": "34",
+                    "url": "https://amg00500-amg00500c3-rakuten-uk-3910.playouts.now.amagi.tv/playlist/amg00500-studiocitypicturesfast-mytimemovienetworkspain-rakutenuk/playlist.m3u8?ads_amagi_channel=715&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=2589&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=5a11c40d-f407-4b01-9a0b-9e3124e76170&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+                    "epgId": "mytime-movie-network-spanish"
+                },
+                {
+                    "name": "Cine Friki",
+                    "image": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg",
+                    "number": "36",
+                    "url": "https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel=851&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5016&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=364000c2-ef8b-49bb-bda9-2da558ffa421&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+                    "epgId": "cine-friki"
+                },
+                {
+                    "name": "Dark Matter",
+                    "image": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/ca844cc1-3979-4e51-af7c-d08357ebc334.jpeg",
+                    "number": "53",
+                    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=DarkMatterTV&ads.csid=zeus_es_tricoastdarkmatteres_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4070&ads.rakuten_streaming_id=04f9200a-8a25-4783-8096-798a8a8ca4c7&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883019&ads.xumo_contentId=3479&ads.xumo_contentName=TriCoastDarkMatterES&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=3479&ads.xumo_providerName=TriCoastDarkMatterES&ads.xumo_streamId=88883019",
+                    "epgId": "dark-matter-es-new"
+                },
+                {
+                    "name": "Grjngo",
+                    "image": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/adf6b2f1-7802-449a-a5ea-627a68bfb0c7.jpeg",
+                    "number": "64",
+                    "url": "https://5c579fdda41740e2a15ba13f0ae11562.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4495&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=f5d5f2af-07f6-461c-add2-f8b0f7efd7c7&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1239",
+                    "epgId": "grjngo-es"
+                }, {
+                    "name": "FilmRise Sci-Fi",
+                    "image": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/daba160d-25f2-4f06-9572-fc2a71dcf277-filmrise-sci-fi-1631546650.jpeg",
+                    "number": "106",
+                    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=FilmRiseSciFiSpanish&ads.csid=zeus_es_filmrisescifispanish_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=c6e50cc6-077a-4431-9abe-6f00b80dada9&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883026&ads.xumo_contentId=2701&ads.xumo_contentName=FilmRiseSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=FilmRiseSpanish&ads.xumo_streamId=88883026",
+                    "epgId": "filmrise-sci-fi-es"
+                }, {
+                    "name": "Rakuten VIKI",
+                    "image": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/81260d9f-23aa-4dd7-86c1-a898cab5379f.jpeg",
+                    "number": "131",
+                    "url": "https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4398&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=9bbf8b46-2c50-4bf4-b522-974a44d1f2dd&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1065",
+                    "epgId": "rakuten-viki-es"
+                },  {
+                    "name": "Fail Army",
+                    "image": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e481c9fa-07c8-4345-8638-47527a0b807b.jpeg",
+                    "number": "209",
+                    "url": "https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5552&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=2dd52b55-0f31-4689-80cb-c2f1618f889c&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1160",
+                    "epgId": "jukin-fail-army-new"
+                }, {
+                    "name": "Fashion TV",
+                    "image": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/7995fcb8-ac5f-494c-8384-53e8f0a19cf6-fashion-tv-1602688597.jpeg",
+                    "number": "397",
+                    "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=1278&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=18f9bb1f-c13c-4fde-8494-379334912cb3&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=381",
+                    "epgId": "fashion-tv"
+                },  {
+                    "name": "Ideas en 5 minutos",
+                    "image": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/b5fc34b2-b51a-4418-a52d-bd479fd3d6e1.jpeg",
+                    "number": "428",
+                    "url": "https://soul-5mincraftspa-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-soul-5mincraftspanish-rakuten/CDN/master.m3u8?ads_amagi_channel=843&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4658&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=ef8eaa04-f84e-4848-95b6-4d5139d13d49&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+                    "epgId": "5-minutes-craft-es"
+                },{
+                    "name": "Archivos Forenses",
+                    "image": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/33d033a2-326e-4f5b-b3dc-e8c8bf65e562-archivos-forenses-1642607532.jpeg",
+                    "number": "758",
+                    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=ArchivosForenses&ads.csid=zeus_es_archivosforenses_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3901&ads.rakuten_streaming_id=ca1c80a4-222b-455f-a068-5fe7967c22f5&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883012&ads.xumo_contentId=2648&ads.xumo_contentName=FilmRiseTrueCrimeMexico&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2648&ads.xumo_providerName=FilmRiseTrueCrimeMexico&ads.xumo_streamId=88883012",
+                    "epgId": "filmrise-archivos-forenses"
+                },
+                {
+                    "name": "Todo Crimen",
+                    "image": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c88bbe13-dfde-41ec-9631-b172537c8b1a.jpeg",
+                    "number": "778",
+                    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusCrimenSpanish&ads.csid=zeus_es_indigeniuscrimenspanish_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3687&ads.rakuten_streaming_id=fa29b037-661d-43c9-858e-b64e3ad4770c&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883018&ads.xumo_contentId=2192&ads.xumo_contentName=IndigeniusCrimenSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2192&ads.xumo_providerName=IndigeniusCrimenSpanish&ads.xumo_streamId=88883018",
+                    "epgId": "todo-crimen"
+                },
+    {
+                    "name": "El País",
+                    "image": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/2ed79327-afc6-47cb-9e5a-5b8c67aa60ff.jpeg",
+                    "number": "907",
+                    "url": "https://daiconnect.com/live/hls/tvup/rk-elpais/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5598&ads_rtv_content_language=spa&ads_streaming_id=1054365c-2159-4f41-832a-b4fce3f9edae&ads_tcs_channel_id=926&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+                    "epgId": "el-pais"
+                },    
   {
     "name": "24 Horas | ES 🇪🇸",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/2084px-Logo_Canal_24_horas.svg.png",
@@ -1828,6 +2161,13 @@
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
   {
+                 "name": "RCN Mas | CO 🇨🇴",
+    "image": "https://i.imgur.com/MJzuRAN.png",
+                    "url": "https://172a014eac554c789ddc21bb0cc2185c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNMas/playlist.m3u8?ads.wurl_channel=926",
+                    "epgId": "rcn-mas"
+                },
+
+  {
     "name": "TeleAntioquia | CO 🇨🇴",
     "image": "https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200",
     "referer": "https://player.instantvideocloud.net/",
@@ -1903,6 +2243,13 @@
     "url": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
+{
+                      "name": "Azteca Internacional | MX 🇲🇽",
+                "image": "https://media.tvup.cloud/canales/color_lg_6523ab28416c1045648ebdcc.png",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397",
+                    "epgId": "azteca-internacional"
+                },
+
   {
     "name": "Canal 6 Multimedios | MX 🇲🇽",
     "image": "https://graph.facebook.com/multimediostv/picture?width=200&height=200",
@@ -1915,7 +2262,53 @@
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
-  {
+{
+                    "name": "Canal 6 CDMX",
+                    "image": "https://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402",
+                    "epgId": "canal-6-cdmx"
+                },
+                {
+                    "name": "Milenio Televisión",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/640px-Milenio_Television.png",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401",
+                    "epgId": "milenio-television"
+                },{
+                    "name": "Telediario Now",
+                    "image": "https://www.lg.com/content/dam/channel/wcms/mx/2025/march/lg-channels/im%C3%A1genes-actualizadas/noticias/270325_LOGOS_LGCHANNELS_BLACK_003.png",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014",
+                    "epgId": "telediario-now"
+                }, {
+                    "name": "Pelimex",
+                    "image": "https://images.squarespace-cdn.com/content/v1/5ea862a8804f7204dfbb35fb/ac03fd6d-c360-4909-9162-8fbd6ff36ebc/Pelimex+logo+sq+large.jpg",
+                    "url": "https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184",
+                    "epgId": "pelimex"
+                },
+                {
+                    "name": "Corazón",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/b49c943/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe7%2Ff9%2F3165356248e39a7d659b63aa8c03%2Fcorazon-1920x1080.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399",
+                    "epgId": "corazon"
+                },
+                {
+                    "name": "Clic",
+                    "image": "https://cdn.storage.foromedios.com/monthly_2023_08/large.AztecaClic-2023oficial.png.1be432f69a8742739f367f7a7b1964e8.png",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398",
+                    "epgId": "clic"
+                },
+                {
+                    "name": "Todo Cine",
+                    "image": "https://pbs.twimg.com/profile_images/1737898344494559232/k-aAXjbx_200x200.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565",
+                    "epgId": "todo-cine"
+                },
+                {
+                    "name": "TeleFórmula",
+                    "image": "https://m.media-amazon.com/images/I/619X4kMohBL.png",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505",
+                    "epgId": "teleformula"
+                }, 
+{
     "name": "Azteca 7 (190) | MX 🇲🇽",
     "image": "https://i.imgur.com/vcv8H63.png",
     "url": "http://190.92.10.66:4000/play/a007/index.m3u8",
@@ -1934,8 +2327,16 @@
     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
     "isHost": "true"
   },
-  {
-    "name": "Telemundo 47 1080 | US 🇺🇸",
+ {
+    "name": "Telemundo 47 New York 1080 | US 🇺🇸",
+    "info": "[Tele]",
+    "online": "true",
+    "image": "https://i.imgur.com/9piuN0T.png",
+    "url": "https://telegratuita.com/repro/?r=L3NwZWVkL3Q0Ny5waHA=",
+    "embed": "true"
+  },
+ {
+    "name": "Telemundo 47 New York 1080 | US 🇺🇸",
     "info": "[MiHD]",
     "online": "true",
     "image": "https://i.imgur.com/9piuN0T.png",
@@ -1944,23 +2345,7 @@
     "isHost": "true"
   },
   {
-    "name": "Telemundo 720 | US 🇺🇸",
-    "info": "[Miztv]",
-    "online": "true",
-    "image": "https://i.imgur.com/9piuN0T.png",
-    "url": "https://miztv.top/total/stream-131.php",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-  },
-  {
-    "name": "Telemundo 720 | US 🇺🇸",
-    "info": "[Tutvlive]",
-    "online": "true",
-    "image": "https://i.imgur.com/9piuN0T.png",
-    "url": "https://tutvlive.xyz/tvtodo/telemundo.php",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-  },
-  {
-    "name": "Telemundo 720 | US 🇺🇸",
+    "name": "Telemundo 52 Los Angeles 720 | US 🇺🇸",
     "info": "[Link]",
     "online": "true",
     "image": "https://i.imgur.com/9piuN0T.png",
@@ -1970,34 +2355,86 @@
     "isHost": "true"
   },
   {
+    "name": "Telemundo 52 Los Angeles 720 | US 🇺🇸",
+    "info": "[Miztv]",
+    "online": "true",
+    "image": "https://i.imgur.com/9piuN0T.png",
+    "url": "https://miztv.top/total/stream-131.php",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "name": "Telemundo 52 Los Angeles 720 | US 🇺🇸",
+    "info": "[Tutvlive]",
+    "online": "true",
+    "image": "https://i.imgur.com/9piuN0T.png",
+    "url": "https://tutvlive.xyz/tvtodo/telemundo.php",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+   "name": "Telemundo 52 Los Angeles | US 🇺🇸",
+    "info": "[Telefull]",
+    "online": "true",
+    "image": "https://i.imgur.com/9piuN0T.png",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://telefullhd.com/",
+    "url": "https://telefullhd.com/canales/telemundo/op2.php",
+    "isHost": "true"
+  },
+   {
+       "name": "Telemundo 52 Los Angeles | US 🇺🇸",
+    "info": "[Andrena]",
+    "online": "true",
+    "image": "https://i.imgur.com/9piuN0T.png",       
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://andrenalynrushplay.cfd/",
+        "url": "https://windnew.newkso.ru/wind/premium131/mono.m3u8",
+        "isHost":""
+        },
+  {
+     "name": "Telemundo 51 Noticias Florida | US 🇺🇸",
+    "info": "[NBCU]",
+    "online": "true",
+    "image": "https://i.imgur.com/9piuN0T.png",
+    "url": "https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
+     "name": "Telemundo 52 Noticias California | US 🇺🇸",
+    "info": "[D3i0aurg]",
+    "online": "true",
+    "image": "https://i.imgur.com/9piuN0T.png",
+    "url": "https://d3i0aurg3nyoct.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/c7829e2c-fae1-49f0-b549-a2c0e887e672/3.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+  {
     "name": "Telemundo Puerto Rico (Nbc) | US 🇺🇸",
     "image": "https://i.imgur.com/9piuN0T.png",
     "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
     "userAgent": ""
   },
   {
-    "name": "Univision 1080 | US 🇺🇸",
-    "info": "[45]",
-    "online": "true",
-    "image": "https://i.imgur.com/b5III2Y.png",
-    "url": "http://45.161.24.2:4025/udp/224.32.32.32:1088",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-  },
-  {
     "name": "Univision | US 🇺🇸",
-    "info": "[Miztv]",
-    "online": "true",
-    "image": "https://i.imgur.com/b5III2Y.png",
-    "url": "https://miztv.top/stream/stream-132.php",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-  },
-  {
-    "name": "Univision (MiHD) | US 🇺🇸",
     "info": "[MiHD]",
     "online": "true",
     "image": "https://i.imgur.com/b5III2Y.png",
     "referer": "https://mihd.tv/",
     "url": "https://mihd.tv/univision-en-vivo-por-internet.html",
+    "isHost": "true"
+  },
+  {
+                   "name": "Univision 1080 (45) | US 🇺🇸",
+			"image": "https://i.imgur.com/b5III2Y.png",
+		 "url" : "http://45.161.24.2:4025/udp/224.32.32.32:1088",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+ },
+ {
+     "name": "Univision | US 🇺🇸",
+    "info": "[Tele]",
+    "online": "true",
+    "image": "https://i.imgur.com/b5III2Y.png",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+    "referer": "https://www.telegratishd.com",
+    "url": "https://www.telegratishd.com/univision-en-vivo.html",
     "isHost": "true"
   },
   {
@@ -2009,6 +2446,14 @@
     "referer": "https://deporte-libre.link",
     "url": "https://deporte-libre.link/stream/stream-132.php",
     "isHost": "true"
+  },
+  {
+    "name": "Univision | US 🇺🇸",
+    "info": "[Miztv]",
+    "online": "true",
+    "image": "https://i.imgur.com/b5III2Y.png",
+    "url": "https://miztv.top/stream/stream-132.php",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
   },
   {
     "name": "Unimas | US 🇺🇸",
@@ -2144,6 +2589,12 @@
     "isHost": true
   },
   {
+    "name": "La Red | CL 🇨🇱",
+    "image": "https://cdn.m3u.cl/logo/790_La_Red.png",
+    "url": "https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8",
+    "userAgent": ""
+  },
+ {
     "name": "TV+ | CL 🇨🇱",
     "image": "https://cdn.m3u.cl/logo/458_TV_.png",
     "url": "https://jireh-2-hls-video-cl-mundo.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream2/chunks.m3u8",
@@ -2162,9 +2613,9 @@
     "userAgent": ""
   },
   {
-    "name": "La Red | CL 🇨🇱",
-    "image": "https://cdn.m3u.cl/logo/790_La_Red.png",
-    "url": "https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8",
+    "name": "Tevex | CL 🇨🇱",
+    "image": "https://tevex.cl/wp-content/uploads/2021/01/cropped-tevex_icon.png",
+    "url": "https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8",
     "userAgent": ""
   },
   {
@@ -2209,6 +2660,12 @@
     "name": "Bio Bio TV | CL 🇨🇱",
     "image": "https://cdn.m3u.cl/logo/421_Bio_Bio_TV.png",
     "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Puranoticia | CL 🇨🇱",
+    "image": "https://puranoticia.pnt.cl/cms/imag/v1/logos/logo_main_white.png",
+    "url": "https://pnt.janus.cl/playlist/stream.m3u8?s=hd&t=0&id=mcjn5syh&q=1&d=w",
     "userAgent": ""
   },
   {
@@ -2427,6 +2884,36 @@
     "name": "Radio Rosa FM | CL 🇨🇱",
     "image": "https://cdn.m3u.cl/logo/1422_Radio_Rosa_FM.png",
     "url": "https://tv.arkeo.cl:1936/rosafm/rosafm/playlist.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Atacama Noticias 1080 | CL 🇨🇱",
+    "image": "https://i.imgur.com/mFKrWvy.png",
+    "url": "https://v2.tustreaming.cl/atacamanoticias/tracks-v1a1/mono.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Vision Plus Tv 1080 | CL 🇨🇱",
+    "image": "https://i.imgur.com/magXeGi.png",
+    "url": "https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/chunklist_w887431148.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Patagonia Radio | CL 🇨🇱",
+    "image": "https://kuasark.com/files/stations-logos/941-fm-patagonia-radio.png",
+    "url": "https://video01.logicahost.com.br/grupomedia/grupomedia/chunklist_w1872798098.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "Marga Marga Tv | CL 🇨🇱",
+    "image": "https://cdn.storage.foromedios.com/monthly_2025_03/large.MargaMargaTV(2025).png.f7bb384d6239fb611a38e1dc8e5b53bb.png",
+    "url": "https://v1.tustreaming.cl/margamargatv/tracks-v1a1/mono.m3u8",
+    "userAgent": ""
+  },
+  {
+    "name": "America HD | CL 🇨🇱",
+    "image": "https://pbs.twimg.com/profile_images/1251962738374475776/3-0qQuYX_400x400.jpg",
+    "url": "https://v2.tustreaming.cl/radioamericatv/tracks-v1a1/mono.m3u8",
     "userAgent": ""
   },
   {
