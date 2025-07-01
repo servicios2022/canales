@@ -477,6 +477,26 @@
     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
     "isHost": "true"
   },
+ {  
+    "name": "TNT Sports Premium Chile 720 | CL 🇨🇱",
+        "info":"[TuCanal]",
+          "image": "https://i.imgur.com/YTaeyss.png",
+        "url": "https://elcanaldeportivo.com/ver/cdfpremium.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
+{  
+    "name": "TNT Sports Premium Chile 720 | CL 🇨🇱",
+        "info":"[TuCanal]",
+          "image": "https://i.imgur.com/YTaeyss.png",
+        "url": "https://tucanaldeportivo.org/ver/cdfpremium.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
   {
     "name": "TNT Sports Premium Chile 720 | CL 🇨🇱",
     "info": "[La14HD]",
@@ -1202,8 +1222,18 @@
     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
     "isHost": "true"
   },
+ {
+        "name": "Fox Deportes | MX 🇲🇽",
+        "info":"[TuCanal]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png",
+        "url": "https://tucanaldeportivo.org/foxdeportes.php",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":"true"
+        },
   {
-    "name": "Fox Deportes Mexico (Tubi) | MX 🇲🇽",
+    "name": "Fox Deportes (Tubi) | MX 🇲🇽",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png",
     "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8",
     "userAgent": ""
