@@ -538,16 +538,6 @@
     "url": "https://enz.gdplayertv.to/live-tv/tnt-sports-cl/?embed=1",
     "embed": "true"
   },
- {
-   "name": "TyC Sports 720 | AR 🇦🇷",
-    "info": "[Telefull]",
-    "online": "true",
-    "image": "https://i.imgur.com/zfkBNdb.png",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-    "referer": "https://telefullhd.com/",
-    "url": "https://telefullhd.com/canales/tyc/op2.php",
-    "isHost": "true"
-  },
    {
     "name": "TyC Sports 720 | AR 🇦🇷",
     "info": "[Tutvlive]",
@@ -573,6 +563,16 @@
     "image": "https://i.imgur.com/zfkBNdb.png",
     "url": "https://ddy6new.newkso.ru/ddy6/premium746/mono.m3u8",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+ {
+   "name": "TyC Sports | AR 🇦🇷",
+    "info": "[Telefull]",
+    "online": "true",
+    "image": "https://i.imgur.com/zfkBNdb.png",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://telefullhd.com/",
+    "url": "https://telefullhd.com/canales/tyc/op2.php",
+    "isHost": "true"
   },
   {
     "name": "TyC Sports | AR 🇦🇷",
@@ -2354,6 +2354,24 @@
     "image": "https://i.imgur.com/9piuN0T.png",
     "url": "https://tutvlive.xyz/tvtodo/telemundo.php",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+  },
+{
+   "name": "Telemundo | US 🇺🇸",
+    "info": "[Telefull]",
+    "online": "true",
+    "image": "https://i.imgur.com/9piuN0T.png",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "https://telefullhd.com/",
+    "url": "https://telefullhd.com/canales/telemundo/op2.php",
+    "isHost": "true"
+  },
+ {
+     "name": "Telemundo | US 🇺🇸",
+    "info": "[Cdnnew]",
+    "online": "true",
+    "image": "https://i.imgur.com/9piuN0T.png",
+    "url": "https://windnew.newkso.ru/wind/premium131/mono.m3u8",
+    "userAgent": ""
   },
   {
      "name": "Telemundo 51 Noticias Florida | US 🇺🇸",
