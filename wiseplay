@@ -2370,14 +2370,16 @@
     "url": "https://telefullhd.com/canales/telemundo/op2.php",
     "isHost": "true"
   },
-  {
-     "name": "Telemundo | US 🇺🇸",
-    "info": "[Cdnnew]",
+   {
+       "name": "Telemundo 52 Los Angeles | US 🇺🇸",
+    "info": "[Andrena]",
     "online": "true",
-    "image": "https://i.imgur.com/9piuN0T.png",
-    "url": "https://windnew.newkso.ru/wind/premium131/mono.m3u8",
-    "userAgent": ""
-  },
+    "image": "https://i.imgur.com/9piuN0T.png",       
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://andrenalynrushplay.cfd/",
+        "url": "https://windnew.newkso.ru/wind/premium131/mono.m3u8",
+        "isHost":""
+        },
   {
      "name": "Telemundo 51 Noticias Florida | US 🇺🇸",
     "info": "[NBCU]",
