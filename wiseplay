@@ -2561,6 +2561,12 @@
     "userAgent": ""
   },
   {
+    "name": "Tevex | CL 🇨🇱",
+    "image": "https://tevex.cl/wp-content/uploads/2021/01/cropped-tevex_icon.png",
+    "url": "https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8",
+    "userAgent": ""
+  },
+  {
     "name": "CNN Chile | CL 🇨🇱",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/250px-CNN_Chile_logo_2017.svg.png",
     "url": "https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR",
