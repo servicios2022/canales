@@ -1272,6 +1272,15 @@
     "url": "https://streamingon.org/embed/hd-1.php",
     "isHost": "true"
   },
+{
+    "name": "TUDN USA 720 | US 🇺🇸",
+    "info": "[Superior]",
+    "online": "true",
+    "image": "https://i.imgur.com/U6DKWV0.png",
+    "url" :  "https://superiorcrop.net/embed/x2qidlx7",
+    "referer" : "https://buzztv.futbol/",
+			 "isHost":"true" 
+                        }, 
   {
     "name": "TUDN USA (Streamdp) | US 🇺🇸",
     "info": "[Streamdp]",
