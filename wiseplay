@@ -11,6 +11,19 @@
 "image": "https://i.gifer.com/origin/3c/3cf3bf4222ca02eadf81bf145261bfd0.gif",
 "stations":[
 
+
+{
+    "name": "P11111 | CL 🇨🇱",
+    "info": "[Chilevision]",
+    "online": "true",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg", 
+    "key": "e6ee9459151ac38d37cfc3ca1a424440",
+    "kid": "83B70DD2-EFB5-9C4A-FC82-F6291057560D",
+    "url": "http://live4-ott.izzigo.tv/out/u/dash/24-HRS-SD/default.mpd",
+    "isHost": "true"
+  },
+
+
   {
     "channel_name": "24 Horas España HD",
     "mpd_url": "http://live4-ott.izzigo.tv/out/u/dash/24-HRS-SD/default.mpd",
