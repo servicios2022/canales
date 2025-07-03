@@ -11,7 +11,377 @@
 "image": "https://i.gifer.com/origin/3c/3cf3bf4222ca02eadf81bf145261bfd0.gif",
 "stations":[
 
-
+  {
+    "channel_name": "24 Horas España HD",
+    "mpd_url": "http://live4-ott.izzigo.tv/out/u/dash/24-HRS-SD/default.mpd",
+    "key": "e6ee9459151ac38d37cfc3ca1a424440",
+    "kid": "83B70DD2-EFB5-9C4A-FC82-F6291057560D",
+    "country": "MX"
+  },
+  {
+    "channel_name": "A Plus",
+    "mpd_url": "https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-A-plus-SD/default.mpd",
+    "key": "0e154db501aeb54cba51a11143decd2f",
+    "kid": "77CA2D79-27D8-8C46-F4B9-FCBDF440A407",
+    "country": "MX"
+  },
+  {
+    "channel_name": "Aande HD",
+    "mpd_url": "https://live3-ott.izzigo.tv/out/u/dash/AANDE-HD/default.mpd",
+    "key": "bc285ae166674480abb4966f4a306327",
+    "kid": "baef272fb12886463f3b299ac6b4ffa6",
+    "country": "MX"
+  },
+  {
+    "channel_name": "ADN 40",
+    "mpd_url": "https://live3-ott.izzigo.tv/out/u/dash/ADN-40-SD/default.mpd",
+    "key": "2117b281a033e6ef4f915422d9eef3e4",
+    "kid": "DF07BCA6-96E2-0BC9-8F7A-8483B42FC78B",
+    "country": "MX"
+  },
+  {
+    "channel_name": "Adrenalina HD",
+    "mpd_url": "https://live1-ott.izzigo.tv/out/u/dash/ADRENALINA-HD/default.mpd",
+    "key": "a161fb629a691fe9da62f5dbc220ba1a",
+    "kid": "1DCAA319-4C41-CC8C-7123-BDA38E78FB7A",
+    "country": "MX"
+  },
+  {
+    "channel_name": "AFIZZIONADOS",
+    "mpd_url": "https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd",
+    "key": "c39150ba26986a8a30bd88c960ee0a98",
+    "kid": "E56D7C1E-D73A-004C-3EBE-5698F6C6F6B1",
+    "country": "MX"
+  },
+  {
+    "channel_name": "Al Jazeera HD",
+    "mpd_url": "https://live4-ott.izzigo.tv/out/u/dash/AL-JAZEERA-HD/default.mpd",
+    "key": "604e9a361c3f7033d930c34ff4d3d830",
+    "kid": "BA7146A3-064F-23E9-F34A-76096509D664",
+    "country": "MX"
+  },
+  {
+    "channel_name": "Azteca 1",
+    "mpd_url": "https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd",
+    "key": "077bd43518ce71087974bccaba10b8e3",
+    "kid": "1A2D8CC3-9DA6-E1AD-9DF6-93EC39216CE0",
+    "country": "MX"
+  },
+  {
+    "channel_name": "Azteca 1 HD",
+    "mpd_url": "https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd",
+    "key": "077bd43518ce71087974bccaba10b8e3",
+    "kid": "1a2d8cc39da6e1ad9df693ec39216ce0",
+    "country": "MX"
+  },
+  {
+    "channel_name": "Azteca 7 HD",
+    "mpd_url": "https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd",
+    "key": "642772ebf1832f1f2fa58cb7e8fcfd05",
+    "kid": "CE8F86D2-F0D1-6385-7423-7ADA8AC2E82A",
+    "country": "MX"
+  },
+  {
+    "channel_name": "BandaMax HD",
+    "mpd_url": "https://live2-ott.izzigo.tv/out/u/dash/BANDAMAX-HD/default.mpd",
+    "key": "69864ad4b98d06e9fcf2430ed67b6c33",
+    "kid": "D014B4C7-F22D-490F-56E2-D7D3FE125C15",
+    "country": "MX"
+  },
+  {
+    "channel_name": "BBC World News",
+    "mpd_url": "https://live3-ott.izzigo.tv/out/u/dash/BBC-WORLD-NEWS-SD/default.mpd",
+    "key": "ddfdd52d68df9f18c82d579326c9cfcb",
+    "kid": "467298F3-99DC-A877-7774-A9CB49094FFE",
+    "country": "MX"
+  },
+  {
+    "channel_name": "Bit Me HD",
+    "mpd_url": "https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd",
+    "key": "d385b87ade4441d20c5caee2a8e41da7",
+    "kid": "3E7B281C-11F0-FF1C-3F7E-D2D02D0879C1",
+    "country": "MX"
+  },
+  {
+    "channel_name": "Bit Me HD",
+    "mpd_url": "https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd",
+    "key": "d385b87ade4441d20c5caee2a8e41da7",
+    "kid": "3e7b281c11f0ff1c3f7ed2d02d0879c1",
+    "country": "MX"
+  },
+  {
+    "channel_name": "Canal 2 HD",
+    "mpd_url": "https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd",
+    "key": "4cccb1a1e21a3dbc42bd4a3989a61de0",
+    "kid": "18273DD0-9458-7276-DE66-2812A2994055",
+    "country": "MX"
+  },
+  {
+    "channel_name": "Canal 22",
+    "mpd_url": "https://live2-ott.izzigo.tv/out/u/dash/CANAL-22-2-SD/default.mpd",
+    "key": "69566442c8612428659336e3559890e3",
+    "kid": "20E0EDA9-35EF-E91B-9486-BB36906982A1",
+    "country": "MX"
+  },
+  {
+    "channel_name": "Canal 5 HD",
+    "mpd_url": "https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd",
+    "key": "6e5ee266b112e58a0e27e4384b03ed76",
+    "kid": "578F77C2-E0FB-7B31-B167-6B75B57FE922",
+    "country": "MX"
+  },
+  {
+    "channel_name": "Canal 9 HD",
+    "mpd_url": "https://live1-ott.izzigo.tv/out/u/dash/CANAL-9-HD/default.mpd",
+    "key": "6f7b92c7816d362eb1dec837a3612c40",
+    "kid": "0FFE861F-D68A-668C-DF5B-1D869CA86567",
+    "country": "MX"
+  },
+  {
+    "channel_name": "Canal 9 HD",
+    "mpd_url": "https://live1-ott.izzigo.tv/out/u/dash/CANAL-9-HD/default.mpd",
+    "key": "6f7b92c7816d362eb1dec837a3612c40",
+    "kid": "0ffe861fd68a668cdf5b1d869ca86567",
+    "country": "MX"
+  },
+  {
+    "channel_name": "Canal Once",
+    "mpd_url": "https://live1-ott.izzigo.tv/out/u/dash/ONCE-HD/default.mpd",
+    "key": "5f82f9a937bddf3e56798c1207867336",
+    "kid": "1238D64F-EBD1-4E08-AD94-D5DCC6F44578",
+    "country": "MX"
+  },
+  {
+    "channel_name": "Cannal Izzi",
+    "mpd_url": "https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd",
+    "key": "bdaad10dbfe10b082ee61bce67787e27",
+    "kid": "F37A2C61-6A17-358D-8AFD-A0326FBF7151",
+    "country": "MX"
+  },
+  {
+    "channel_name": "Club MTV",
+    "mpd_url": "http://live4-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd",
+    "key": "8c8f3d757db41f4d89a56d82dcf359de",
+    "kid": "31809BAF-0BE7-4BD5-4139-C7E339EF9618",
+    "country": "MX"
+  },
+  {
+    "channel_name": "CNN en Español",
+    "mpd_url": "http://live3-ott.izzigo.tv/out/u/dash/CNN-EN-ESPANOL-SD/default.mpd",
+    "key": "8a761310bfa7436136729b23ea590185",
+    "kid": "F3A70479-3810-E484-8980-BF8EBE11BA72",
+    "country": "MX"
+  },
+  {
+    "channel_name": "CNN HD",
+    "mpd_url": "http://live4-ott.izzigo.tv/out/u/dash/CNN-HD/default.mpd",
+    "key": "6cc79244441f942839b867572702364e",
+    "kid": "4514DB2F-0B48-64F5-6DBF-8B14BCDD4022",
+    "country": "MX"
+  },
+  {
+    "channel_name": "CNN Iinternacional HD",
+    "mpd_url": "http://live4-ott.izzigo.tv/out/u/dash/CNNI-SD/default.mpd",
+    "key": "3ed74ba1f566d0217dc1a59ba9d61918",
+    "kid": "D3B827C8-5711-0FD3-DE61-61416854EABD",
+    "country": "MX"
+  },
+  {
+    "channel_name": "Discovery Home and Garden HD",
+    "mpd_url": "https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-GARDEN-HD/default.mpd",
+    "key": "ed0f2a6d770e98955082e65847784465",
+    "kid": "71A35A0E-B775-116E-915D-EE5599D90610",
+    "country": "MX"
+  },
+  {
+    "channel_name": "Discovery Since HD",
+    "mpd_url": "https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd",
+    "key": "4ce50c2ee03a4fbec5ddbf57bc8e6c8b",
+    "kid": "B6A1DFCE-06CA-F463-D29B-91FC890BAAD1",
+    "country": "MX"
+  },
+  {
+    "channel_name": "Discovery Turbo HD",
+    "mpd_url": "https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-TURBO-HD/default.mpd",
+    "key": "ed5aa984b371395293b2c2a27125509c",
+    "kid": "E4BAE4A7-BAA9-77C5-B1A2-53ADC589B6A7",
+    "country": "MX"
+  },
+  {
+    "channel_name": "DogTV",
+    "mpd_url": "https://live4-ott.izzigo.tv/out/u/dash/DOGTV-SD/default.mpd",
+    "key": "9b0e8c590f387c6b45ffef5827d9d90b",
+    "kid": "3D2063B4-9520-2A5A-78A2-B7DF6BA1D6D1",
+    "country": "MX"
+  },
+  {
+    "channel_name": "Dream Works HD",
+    "mpd_url": "http://live2-ott.izzigo.tv/out/u/dash/DREAM-WORKS-HD/default.mpd",
+    "key": "404cc4fb45f82c9a7dffd3d2496cca20",
+    "kid": "a255e1384db3e9ce7e0349e8aa9b9f77",
+    "country": "MX"
+  },
+  {
+    "channel_name": "DW Amerika",
+    "mpd_url": "http://live5-ott.izzigo.tv/out/u/dash/DW-AMERIKA-SD/default.mpd",
+    "key": "65e8d26f99c56050e38726d26c146511",
+    "kid": "941F0C2D-843A-EB66-AE2C-A1365C483FBC",
+    "country": "MX"
+  },
+  {
+    "channel_name": "DW Español",
+    "mpd_url": "http://live5-ott.izzigo.tv/out/u/dash/DW-ESPANOL-SD/default.mpd",
+    "key": "486f6175e6d1cc5c17e188146be067e6",
+    "kid": "B084767B-43BD-F6C7-BC20-EB485A497000",
+    "country": "MX"
+  },
+  {
+    "channel_name": "ESPN 2 HD",
+    "mpd_url": "https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd",
+    "key": "0fed6599a8740879a29f1a49ec6d482a",
+    "kid": "A4911495-7D15-5CAC-B2E0-27AF14450B94",
+    "country": "MX"
+  },
+  {
+    "channel_name": "ESPN 3 HD",
+    "mpd_url": "https://live1-ott.izzigo.tv/out/u/dash/ESPN-3-HD/dash/default.mpd",
+    "key": "6f3e85642122259b096fcba577f5329a",
+    "kid": "1E4FFFAE-0763-013D-48B4-6A8B063D11A6",
+    "country": "MX"
+  },
+  {
+    "channel_name": "ESPN HD",
+    "mpd_url": "https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/dash/default.mpd",
+    "key": "d6b1f45a59d2dac1a730c7f56c74971a",
+    "kid": "38B63F9A-AA7B-7C7A-822C-8E14C8A7212E",
+    "country": "MX"
+  },
+  {
+    "channel_name": "ESPN Plus HD",
+    "mpd_url": "https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/default.mpd",
+    "key": "908a93fe41acf07538c88c1b30277656",
+    "kid": "A1B8099B-6472-6ABC-7723-E17829B43A55",
+    "country": "MX"
+  },
+  {
+    "channel_name": "Euronews",
+    "mpd_url": "http://live3-ott.izzigo.tv/out/u/dash/EURONEWS-SD/default.mpd",
+    "key": "168d105c8ac7654667c37b576d0bc7c3",
+    "kid": "B948DB41-702A-FA5E-6646-243E57B43DEF",
+    "country": "MX"
+  },
+  {
+    "channel_name": "FoodNET HD",
+    "mpd_url": "https://live1-ott.izzigo.tv/out/u/dash/FOOD-NET-HD/default.mpd",
+    "key": "777670f96243bb2be7811505fba060f8",
+    "kid": "34678564-6E76-2AD8-67FB-22F6FDAACC68",
+    "country": "MX"
+  },
+  {
+    "channel_name": "ForoTV HD",
+    "mpd_url": "https://live2-ott.izzigo.tv/out/u/dash/FORO-TV-HD/default.mpd",
+    "key": "9c200a2b120d45e60af506be1d7ad932",
+    "kid": "EA39B957-5F51-B840-A58B-DA829F20F38D",
+    "country": "MX"
+  },
+  {
+    "channel_name": "Fox News HD",
+    "mpd_url": "https://live2-ott.izzigo.tv/out/u/dash/FOX-NEWS-HD/default.mpd",
+    "key": "61dc9d01e315bf46ee43bc9fe882ebd8",
+    "kid": "AA611985-E0C8-90FD-F50D-5C6ED88AD0C0",
+    "country": "MX"
+  },
+  {
+    "channel_name": "Fox Sports 2 HD",
+    "mpd_url": "https://live4-ott.izzigo.tv/out/u/dash/FOX-SPORTS-2-HD/default.mpd",
+    "key": "6a42c42732a9dd1da1205971b2c5c535",
+    "kid": "23986DAE-03FA-883E-D8E4-89CBF70F9EC3",
+    "country": "MX"
+  },
+  {
+    "channel_name": "Fox Sports 3 HD",
+    "mpd_url": "https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-3-HD/dash/default.mpd",
+    "key": "5a3e58a3f0300c44fd568b1f291112e8",
+    "kid": "F2872DAC-D39F-1BC6-C720-A49D30BB2FE6",
+    "country": "MX"
+  },
+  {
+    "channel_name": "Fox Sports HD",
+    "mpd_url": "https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-HD/default.mpd",
+    "key": "3023291481faf9c80139d28893caa80e",
+    "kid": "C36B6616-5FD1-064C-AA48-44FA507431AC",
+    "country": "MX"
+  },
+  {
+    "channel_name": "Golf Channel HD",
+    "mpd_url": "https://live1-ott.izzigo.tv/out/u/dash/GOLF-CHANNEL-HD/default.mpd",
+    "key": "2dff34fba01dd53d0a37dc913bb9ba51",
+    "kid": "BD45F6A3-7A38-8704-4BAC-88A63E55B70E",
+    "country": "MX"
+  },
+  {
+    "channel_name": "HBO Family HBO",
+    "mpd_url": "https://live5-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/manifest.mpd",
+    "key": "114983add26911b589595d931b505ca5",
+    "kid": "3b1b15c86e64344e8802b06b806957c5",
+    "country": "MX"
+  },
+  {
+    "channel_name": "HBO HD",
+    "mpd_url": "https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/manifest.mpd",
+    "key": "baceb525467c0db22ba83090616c1ad0",
+    "kid": "df18f6a05bab28d89e5dc01d88f4deb8",
+    "country": "MX"
+  },
+  {
+    "channel_name": "HBO Mundi HD",
+    "mpd_url": "https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/manifest.mpd",
+    "key": "bb3e4bfa1821d2bdc25c9a0970e4e3b8",
+    "kid": "ba4052ca5eb6f8ff6b98d47d098b2dec",
+    "country": "MX"
+  },
+  {
+    "channel_name": "HBO Plus HD",
+    "mpd_url": "https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/manifest.mpd",
+    "key": "3bdf94f9fc1888529f8d27d070d38566",
+    "kid": "861ab989089891d84ad0da296954437c",
+    "country": "MX"
+  },
+  {
+    "channel_name": "HBO Pop HD",
+    "mpd_url": "https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/manifest.mpd",
+    "key": "6ff29fb2d6b7d825eb06004650a0a4ea",
+    "kid": "bcf36f412fa3d735cea04f7443fbf77c",
+    "country": "MX"
+  },
+  {
+    "channel_name": "HBO Signature HD",
+    "mpd_url": "https://live5-ott.izzigo.tv/out/u/dash/HBO-SIGNATURE-HD/manifest.mpd",
+    "key": "10d8bb6d9f9852747298487ab3c4afa3",
+    "kid": "5782156290f035ef28ae66cca252eedd",
+    "country": "MX"
+  },
+  {
+    "channel_name": "HBO XTreme HD",
+    "mpd_url": "https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/manifest.mpd",
+    "key": "8a7e801dbc275e3f4e1f43cba648906a",
+    "kid": "bc8d4369fcff86db765db82356b4797c",
+    "country": "MX"
+  },
+  {
+    "channel_name": "HLN",
+    "mpd_url": "http://live3-ott.izzigo.tv/out/u/dash/HLN-SD/default.mpd",
+    "key": "040019dfecbe32c0532bb2231665ec33",
+    "kid": "DAF03FE2-327A-7BA8-7A60-B54AC531BC75",
+    "country": "MX"
+  },
+  {
+    "channel_name": "MTV Live HD",
+    "mpd_url": "http://live4-ott.izzigo.tv/out/u/dash/MTV-LIVE-HD/default.mpd",
+    "key": "bc006e72e9aab57aca8ae75a83e8f20e",
+    "kid": "ACC4581A-25EF-0CD7-6F8F-D7D826BB2D06",
+    "country": "MX"
+  },
 
   {
     "name": "Futbol Libre TV | AR 🇦🇷",
