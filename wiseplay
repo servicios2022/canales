@@ -10,6 +10,62 @@
 "stations":[
 
 {
+"name": "TNT Sports11111ium Chile 720 | 🇨🇱",
+"info": "[Streamdp]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "https://photocalltv.org/h4tw/l1?ch=chilevision",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "TNT Sports222720 | 🇨🇱",
+"info": "[Tutvlive]",
+"online": "true",
+"image": "https://i.imgur.com/f2glGr9.png",
+"url": "https://photocalltv.org/h4tw/l1?ch=chilevision",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "TNT Sports 333330 | 🇨🇱",
+"info": "[Dokko1new]",
+"online": "true",
+"image": "https://i.imgur.com/f2glGr9.png",
+"url": "https://photocalltv.org/h4tw/l1?ch=chilevision",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "TNT Sports Ch444440 | 🇨🇱",
+"info": "[RockHD]",
+"online": "true",
+"image": "https://i.imgur.com/f2glGr9.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "https://photocalltv.org",
+"url": "https://photocalltv.org/h4tw/l1?ch=chilevision",
+"isHost":"true"
+},
+{
+"name": "TNT Spor55555720 | 🇨🇱",
+"info": "[Miztv]",
+"online": "true",
+"image": "https://i.imgur.com/f2glGr9.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+"referer": "https://photocalltv.org",
+"url": "https://photocalltv.org/h4tw/l1?ch=chilevision",
+"isHost": "true"
+},
+{
+"name": "TNT Sp666666e | 🇨🇱",
+"info": "[Tvplus]",
+"online": "true",
+"image": "https://i.imgur.com/f2glGr9.png",
+"referer": "https://photocalltv.org",
+"url": "https://photocalltv.org/h4tw/l1?ch=chilevision",
+"isHost": "true"
+},
+
+
+{
 "name": "Futbol Libre TV | 🇦🇷",
 "info": "[Online]",
 "online": "true",
@@ -2097,8 +2153,16 @@
 {
 "name": "Willax | 🇵🇪",
 "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png",
-"url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(_QNNOxjd4F2uRaOiW1zqZBc0b4JkWrWi6Ryw3HJNGntsMi0YhlzV1zCAXMEaL5_MR5ivOwx328ElHBuQOkWf2omfNe28mLtrYXUPQUdS5_JfeV3lslmhzmlAnmU1xzeD)/cloud/3/x7x4dgx/s/live-1080.m3u8",
+"url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(eKKeH962kZZyM-i5Cj9_Orq1i2hGfO2sfyX7m6Mi9DKIEVQnWoH3ilMsfpCdLNWsmPDgqMXrcG2KgXSPLJZ_GYeGgJsqUVa7B1tWfMMFEYbLDsrXvzDI26GvyA9ZM6zx)/cloud/3/x7x4dgx/s/live-1080.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "Willax | 🇵🇪",
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png",
+"online": "true",
+"referer": "https://willax.pe",
+"url": "https://photocalltv.org/h4tw/dm?ch=willax",
+"isHost": "true"
 },
 {
 "name": "Tv Peru | 🇵🇪",
