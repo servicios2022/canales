@@ -2575,6 +2575,15 @@
 "embed": "true"
 },
 {
+"name": "2412 | 🇨🇱",
+"info": "[Online]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"referer": "https://www.chilevision.cl/",
+"url": "https://photocalltv.org/h4tw/l1?ch=chilevision",
+"isHost": "true"
+},
+{
 "name": "Chilevision 1080 | 🇨🇱",
 "info": "[Online]",
 "online": "true",
