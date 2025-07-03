@@ -2349,14 +2349,6 @@
 },
 {
 "name": "Telemundo 47 New York 1080 | 🇺🇸",
-"info": "[Photo]",
-"online": "true",
-"image": "https://i.imgur.com/9piuN0T.png",
-"url": "https://photocalltv.org/h4tw/l3?ch=telemundo47_ny",
-"embed": "true"
-},
-{
-"name": "Telemundo 47 New York 1080 | 🇺🇸",
 "info": "[Tele]",
 "online": "true",
 "image": "https://i.imgur.com/9piuN0T.png",
@@ -2373,28 +2365,12 @@
 "isHost": "true"
 },
 {
-"name": "Telemundo 51 Miami 1080 | 🇺🇸",
-"info": "[Photo]",
-"online": "true",
-"image": "https://i.imgur.com/9piuN0T.png",
-"url": "https://photocalltv.org/h4tw/l3?ch=telemundo51_mi",
-"embed": "true"
-},
-{
 "name": "Telemundo 51 Noticias Florida | 🇺🇸",
 "info": "[NBCU]",
 "online": "true",
 "image": "https://i.imgur.com/9piuN0T.png",
 "url": "https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
-"name": "Telemundo 52 Los Angeles 1080 | 🇺🇸",
-"info": "[Photo]",
-"online": "true",
-"image": "https://i.imgur.com/9piuN0T.png",
-"url": "https://photocalltv.org/h4tw/l3?ch=telemundo52_la",
-"embed": "true"
 },
 {
 "name": "Telemundo 52 Los Angeles 720 | 🇺🇸",
