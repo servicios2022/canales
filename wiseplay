@@ -2352,10 +2352,8 @@
 "info": "[Photo]",
 "online": "true",
 "image": "https://i.imgur.com/9piuN0T.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "https://photocalltv.org",
 "url": "https://photocalltv.org/h4tw/l3?ch=telemundo47_ny",
-"isHost":"true"
+"embed": "true"
 },
 {
 "name": "Telemundo 47 New York 1080 | 🇺🇸",
@@ -2376,13 +2374,11 @@
 },
 {
 "name": "Telemundo 51 Miami 1080 | 🇺🇸",
-"info": "[NBCU]",
+"info": "[Photo]",
 "online": "true",
 "image": "https://i.imgur.com/9piuN0T.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "https://photocalltv.org",
 "url": "https://photocalltv.org/h4tw/l3?ch=telemundo51_mi",
-"isHost":"true"
+"embed": "true"
 },
 {
 "name": "Telemundo 51 Noticias Florida | 🇺🇸",
@@ -2397,10 +2393,8 @@
 "info": "[Photo]",
 "online": "true",
 "image": "https://i.imgur.com/9piuN0T.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "https://photocalltv.org",
 "url": "https://photocalltv.org/h4tw/l3?ch=telemundo52_la",
-"isHost":"true"
+"embed": "true"
 },
 {
 "name": "Telemundo 52 Los Angeles 720 | 🇺🇸",
