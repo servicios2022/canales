@@ -2136,9 +2136,15 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
-"name": "Caracol (181) | 🇨🇴",
+"name": "Caracol 1080 (181) | 🇨🇴",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/NOTICIAS_CARACOL.svg/1922px-NOTICIAS_CARACOL.svg.png",
 "url": "http://181.78.14.26:8000/play/a00d",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "Caracol (Live20) | 🇨🇴",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/NOTICIAS_CARACOL.svg/1922px-NOTICIAS_CARACOL.svg.png",
+"url": "https://live20.bozztv.com/giatv/giatv-c1junfive/c1junfive/chunks.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
@@ -2193,7 +2199,6 @@
 "url": "https://172a014eac554c789ddc21bb0cc2185c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNMas/playlist.m3u8?ads.wurl_channel=926",
 "epgId": "rcn-mas"
 },
-
 {
 "name": "TeleAntioquia | 🇨🇴",
 "image": "https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200",
