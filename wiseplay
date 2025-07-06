@@ -9,15 +9,6 @@
 "image": "https://i.gifer.com/origin/3c/3cf3bf4222ca02eadf81bf145261bfd0.gif",
 "stations":[
 
-{
-"name": "Chilevision 1080 | 🇨🇱",
-"info": "[Tele]",
-"online": "true",
-"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-"url": "https://telegratuita.com/repro/?r=Ly90ZWxlZ3JhdHVpdGEuY29tL3NwZWVkL2ZveDFteC5waHA=",
-"embed": "true"
-},
-
 
 {
 "name": "Futbol Libre TV | 🇦🇷",
@@ -1302,6 +1293,31 @@
 "url": "https://streamdp1.xyz/global1.php?channel=espn3mx",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
+},
+
+{
+"name": "Fox Sports MX | 🇲🇽",
+"info": "[Tele]",
+"online": "true",
+"image": "https://i.imgur.com/0xKNbhn.png",
+"url": "https://telegratuita.com/repro/?r=Ly90ZWxlZ3JhdHVpdGEuY29tL3NwZWVkL2ZveDFteC5waHA=",
+"embed": "true"
+},
+{
+"name": "Fox Sports 2 MX | 🇲🇽",
+"info": "[Tele]",
+"online": "true",
+"image": "https://i.imgur.com/16dSHEX.png",
+"url": "https://telegratuita.com/repro/?r=Ly90ZWxlZ3JhdHVpdGEuY29tL3N0cmVhbS5waHA/aWQ9RlMyTVg=",
+"embed": "true"
+},
+{
+"name": "Fox Sports 3 MX | 🇲🇽",
+"info": "[Tele]",
+"online": "true",
+"image": "https://i.imgur.com/8ZMDGlF.png",
+"url": "https://telegratuita.com/repro/?r=Ly90ZWxlZ3JhdHVpdGEuY29tL3NwZWVkL2ZveDNteC5waHA=",
+"embed": "true"
 },
 {
 "name": "Fox Deportes (Tubi) | 🇲🇽",
