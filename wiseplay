@@ -9,43 +9,6 @@
 "image": "https://i.gifer.com/origin/3c/3cf3bf4222ca02eadf81bf145261bfd0.gif",
 "stations":[
 
-{
-"name": "Chilevision 1080 | 🇨🇱",
-"info": "[Tele]",
-"online": "true",
-"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-"url": "https://telegratuita.com/canal.php?stream=ecdf_ligapro",
-"embed": "true"
-},
-{
-"name": "TNT Sports Chile 720 | 🇨🇱",
-"info": "[RockHD]",
-"online": "true",
-"image": "https://i.imgur.com/f2glGr9.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "https://telegratuita.com",
-"url": "https://telegratuita.com/canal.php?stream=ecdf_ligapro",
-"isHost":"true"
-},
-{
-"name": "TNT Sports Chile 720 | 🇨🇱",
-"info": "[Miztv]",
-"online": "true",
-"image": "https://i.imgur.com/f2glGr9.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-"referer": "https://telegratuita.com",
-"url": "https://telegratuita.com/canal.php?stream=ecdf_ligapro",
-"isHost": "true"
-},
-{
-"name": "TNT Sports Chile | 🇨🇱",
-"info": "[Tvplus]",
-"online": "true",
-"image": "https://i.imgur.com/f2glGr9.png",
-"referer": "https://telegratuita.com",
-"url": "https://telegratuita.com/canal.php?stream=ecdf_ligapro",
-"isHost": "true"
-},
 
 
 
@@ -1150,6 +1113,16 @@
 "url": "https://la14hd.com/vivo/canales.php?stream=foxsports3",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
+},
+{
+"name": "ECDF| 🇪🇨",
+"info": "[Tele]",
+"online": "true",
+"image": "https://www.xtrim.com.ec/wp-content/uploads/2024/09/ECDF.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "https://telegratuita.com",
+"url": "https://telegratuita.com/canal.php?stream=ecdf_ligapro",
+"isHost":"true"
 },
 {
 "name": "Gol Peru (La14HD) | 🇵🇪",
