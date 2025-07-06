@@ -1774,19 +1774,22 @@
 "online": "true",
 "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
 "url": "acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf"
-}, {
-"name": "Teledeporte | 🇪🇸",
-"info": "[Acestream 9ef]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef"
-}, {
+}, 
+{
 "name": "Teledeporte | 🇪🇸",
 "info": "[Acestream 230]",
 "online": "true",
 "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
 "url": "acestream://138b30c93e8a780ac490a4f6d2181c41f3670230"
 },
+{
+"name": "Teledeporte | 🇪🇸",
+"info": "[Acestream 9ef]",
+"online": "true",
+"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
+"url": "acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef"
+}, 
+
 
 
 
