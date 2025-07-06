@@ -9,6 +9,10 @@
 "image": "https://i.gifer.com/origin/3c/3cf3bf4222ca02eadf81bf145261bfd0.gif",
 "stations":[
 
+
+
+
+
 {
 "name": "Futbol Libre TV | 🇦🇷",
 "info": "[Online]",
@@ -477,19 +481,28 @@
 },
 {
 "name": "TNT Sports Premium Chile 720 | 🇨🇱",
-"info": "[La14HD]",
+"info": "[Streamdp]",
 "online": "true",
 "image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=tntsportschile",
+"url": "https://streamdp1.xyz/global1.php?channel=tntsportschile",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
 {
 "name": "TNT Sports Premium Chile 720 | 🇨🇱",
-"info": "[Streamdp]",
+"info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://streamdp1.xyz/global1.php?channel=tntsportschile",
+"url": "https://streamtpglobal.com/global1.php?stream=tntsportschile",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "TNT Sports Premium Chile 720 | 🇨🇱",
+"info": "[La14HD]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=tntsportschile",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -537,14 +550,6 @@
 "referer": "https://www.tvplusgratis2.com/",
 "url": "https://www.tvplusgratis2.com/tnt-sports-chile-en-vivo.html",
 "isHost": "true"
-},
-{
-"name": "TNT Sports Premium Chile | 🇨🇱",
-"info": "[Gdplayer]",
-"online": "true",
-"image": "https://i.imgur.com/f2glGr9.png",
-"url": "https://enz.gdplayertv.to/live-tv/tnt-sports-cl/?embed=1",
-"embed": "true"
 },
 {
 "name": "TyC Sports 720 | 🇦🇷",
@@ -1110,6 +1115,14 @@
 "isHost": "true"
 },
 {
+"name": "ECDF| 🇪🇨",
+"info": "[La14HD]",
+"image": "https://i.imgur.com/xl7Sf50.png",
+"url": "https://la14hd.com/vivo/canal.php?stream=ecdf_ligapro",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
 "name": "Gol Peru (La14HD) | 🇵🇪",
 "image": "https://i.imgur.com/xl7Sf50.png",
 "url": "https://la14hd.com/vivo/canales.php?stream=golperu",
@@ -1156,16 +1169,19 @@
 "embed": "true"
 },
 {
-"name": "VTV Plus (Nsfnew) | 🇺🇾",
+"name": "VTV Plus (Streamtp) | 🇺🇾",
+"image": "https://i.imgur.com/TyfMsBw.png",
+"url": "https://streamtpglobal.com/global1.php?stream=vtvplus",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "VTV Plus | 🇺🇾",
+"info": "[Nfsnew]",
+"online": "true",
 "image": "https://i.imgur.com/TyfMsBw.png",
 "url": "https://nfsnew.newkso.ru/nfs/premium391/mono.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
-"name": "VTV Plus (Gdplayer) | 🇺🇾",
-"image": "https://i.imgur.com/TyfMsBw.png",
-"url": "https://enz.gdplayertv.to/live-tv/vtv-plus/?embed=1",
-"embed": "true"
 },
 {
 "name": "TUDN (MiHD) | 🇲🇽",
@@ -1641,6 +1657,69 @@
 "url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947"
 },
 {
+"name": "DAZN F1 | 🇪🇸",
+"info": "[Acestream 6d1]",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",
+"url": "acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1"
+},
+{
+"name": "DAZN F1 | 🇪🇸",
+"info": "[Acestream a69]",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",
+"url": "acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69"
+},
+{
+"name": "DAZN F1 | 🇪🇸",
+"info": "[Acestream e55]",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",
+"url": "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55"
+},
+{
+"name": "DAZN F1 | 🇪🇸",
+"info": "[Acestream 2b8]",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",
+"url": "acestream://7e1523ccfaac00800e67bd0b97c428810104b2b8"
+},
+{
+"name": "DAZN F1 | 🇪🇸",
+"info": "[Acestream b29]",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",
+"url": "acestream://6422e8bc34282871634c81947be093c04ad1bb29"
+},
+{
+"name": "DAZN F1 | 🇪🇸",
+"info": "[Acestream 553]",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",
+"url": "acestream://c9c18ae7a9dafba1caae5beb22060f9c92bba553"
+},
+{
+"name": "DAZN F1 | 🇪🇸",
+"info": "[Acestream 494]",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",
+"url": "acestream://515efd8115482bda8d92aa6df9a882a5e5797494"
+},
+{
+"name": "DAZN F1 | 🇪🇸",
+"info": "[Acestream 790]",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",
+"url": "acestream://d27584ebe5128c8033cb6fdc806a994fbd17b790"
+},
+{
+"name": "DAZN F1 | 🇪🇸",
+"info": "[Acestream f25]",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",
+"url": "acestream://e779b17e30d5daa05ca25ab4e8c3150e582c6f25"
+},
+{
 "name": "Cuatro | 🇪🇸",
 "info": "[Acestream 333]",
 "online": "true",
@@ -2054,6 +2133,13 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
+"name": "Tv Publica 1080 (G5) | 🇦🇷",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",
+"online": "true",
+"url": "https://g5.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
 "name": "Tv Publica (La14HD) | 🇦🇷",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",
 "online": "true",
@@ -2066,6 +2152,18 @@
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",
 "url": "https://www.vertvcable.com/channel.php?id=ch_67fc07e237b05",
 "embed": "true"
+},
+{
+"name": "Ciudad Magazine 1080 | 🇦🇷",
+"image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png",
+"url": "https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "13 Max | 🇦🇷",
+"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKqWh-FOwjxOLIRz6wjbj5ZSWV0Mj6iHIiLTzzQXC6UFHB-y3Hvh1IlyF8eMnx2ilAM8DsdMv1N0ncxFTWEWfQMUnIQl956uqmbYGfdzwFqBfKMS55GeoDYzBo7iIao-tSOLwhrCS5NGXUaD8XXgPc1nEpf4UIYmkF5ST4EeWVnf0GNGasFYz-GYNDmpk/s320/13-max2024.png",
+"url": "https://617c5175c970b.streamlock.net:4444/13maxhd/live13maxtvnuevo/chunklist_w406969846.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
 "name": "ATV | 🇵🇪",
@@ -2089,9 +2187,13 @@
 },
 {
 "name": "Willax | 🇵🇪",
+"info": "[Photo]",
+"online": "true",
 "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png",
-"url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(_QNNOxjd4F2uRaOiW1zqZBc0b4JkWrWi6Ryw3HJNGntsMi0YhlzV1zCAXMEaL5_MR5ivOwx328ElHBuQOkWf2omfNe28mLtrYXUPQUdS5_JfeV3lslmhzmlAnmU1xzeD)/cloud/3/x7x4dgx/s/live-1080.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "https://photocalltv.org",
+"url": "https://photocalltv.org/h4tw/dm?ch=willax",
+"isHost":"true"
 },
 {
 "name": "Tv Peru | 🇵🇪",
@@ -2112,19 +2214,41 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
+"name": "Caracol 1080 (181) | 🇨🇴",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
+"url": "http://181.78.14.26:8000/play/a00d",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "Caracol 1080 (MiHD) | 🇨🇴",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
+"online": "true",
+"referer": "https://mihd.tv/",
+"url": "https://mihd.tv/caracol-en-vivo-por-internet.html",
+"isHost": "true"
+},
+{
+"name": "Caracol (Live20) | 🇨🇴",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
+"url": "https://live20.bozztv.com/giatv/giatv-c1junfive/c1junfive/chunks.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "Caracol | 🇨🇴",
+"info": "[Topembed]",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://topembed.pw/",
+"url": "https://topembed.pw/channel/Caracol[Colombia]",
+"isHost": "true"
+},
+{
 "name": "Caracol (La14HD) | 🇨🇴",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
 "online": "true",
 "url": "https://la14hd.com/vivo/canales.php?stream=caracol",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "Caracol (MiHD) | 🇨🇴",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
-"online": "true",
-"referer": "https://mihd.tv/",
-"url": "https://mihd.tv/caracol-en-vivo-por-internet.html",
 "isHost": "true"
 },
 {
@@ -2163,7 +2287,6 @@
 "url": "https://172a014eac554c789ddc21bb0cc2185c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNMas/playlist.m3u8?ads.wurl_channel=926",
 "epgId": "rcn-mas"
 },
-
 {
 "name": "TeleAntioquia | 🇨🇴",
 "image": "https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200",
@@ -2342,6 +2465,30 @@
 "isHost": "true"
 },
 {
+"name": "Telemundo 51 Miami 1080 | 🇺🇸",
+"info": "[Tele]",
+"online": "true",
+"image": "https://i.imgur.com/9piuN0T.png",
+"url": "https://telegratuita.com/repro/?r=L3NwZWVkL3Q1MS5waHA=",
+"embed": "true"
+},
+{
+"name": "Telemundo 51 Noticias Florida | 🇺🇸",
+"info": "[NBCU]",
+"online": "true",
+"image": "https://i.imgur.com/9piuN0T.png",
+"url": "https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "Telemundo 52 Los Angeles 1080 | 🇺🇸",
+"info": "[Tele]",
+"online": "true",
+"image": "https://i.imgur.com/9piuN0T.png",
+"url": "https://telegratuita.com/repro/?r=L3NwZWVkL3Q1Mi5waHA=",
+"embed": "true"
+},
+{
 "name": "Telemundo 52 Los Angeles 720 | 🇺🇸",
 "info": "[Link]",
 "online": "true",
@@ -2386,14 +2533,6 @@
 "referer" : "https://andrenalynrushplay.cfd/",
 "url": "https://windnew.newkso.ru/wind/premium131/mono.m3u8",
 "isHost":""
-},
-{
-"name": "Telemundo 51 Noticias Florida | 🇺🇸",
-"info": "[NBCU]",
-"online": "true",
-"image": "https://i.imgur.com/9piuN0T.png",
-"url": "https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
 "name": "Telemundo 52 Noticias California | 🇺🇸",
@@ -2558,6 +2697,16 @@
 "image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
 "url": "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8",
 "userAgent": ""
+},
+{
+"name": "Chilevision 1080 | 🇨🇱",
+"info": "[Photo]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "https://photocalltv.org",
+"url": "https://photocalltv.org/h4tw/l1?ch=chilevision",
+"isHost":"true"
 },
 {
 "name": "Chilevision 1080 | 🇨🇱",
