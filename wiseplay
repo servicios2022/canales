@@ -1116,13 +1116,11 @@
 },
 {
 "name": "ECDF| 🇪🇨",
-"info": "[Tele]",
-"online": "true",
-"image": "https://www.xtrim.com.ec/wp-content/uploads/2024/09/ECDF.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "https://telegratuita.com",
-"url": "https://telegratuita.com/canal.php?stream=ecdf_ligapro",
-"isHost":"true"
+"info": "[La14HD]",
+"image": "https://i.imgur.com/xl7Sf50.png",
+"url": "https://la14hd.com/vivo/canal.php?stream=ecdf_ligapro",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
 },
 {
 "name": "Gol Peru (La14HD) | 🇵🇪",
