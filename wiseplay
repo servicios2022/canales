@@ -1630,10 +1630,20 @@
 "isHost": "true"
 },
 {
-"name": "Teledeporte 1080 | 🇪🇸",
-"image": "https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200",
+"name": "TDP 1080 | 🇪🇸",
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
 "url": "https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "TDP 720 | 🇪🇸",
+"info":"[Daddy]",
+"online":"true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "https://forcedtoplay.xyz/",
+"url": "https://rockhd.lol/live/stream-529.php",
+"isHost":"true"
 },
 {
 "name": "Real Madrid Tv | 🇪🇸",
