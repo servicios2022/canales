@@ -9,7 +9,14 @@
 "image": "https://i.gifer.com/origin/3c/3cf3bf4222ca02eadf81bf145261bfd0.gif",
 "stations":[
 
-
+{
+"name": "Chilevision 1080 | 🇨🇱",
+"info": "[Tele]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"url": "https://telegratuita.com/repro/?r=Ly90ZWxlZ3JhdHVpdGEuY29tL3NwZWVkL2ZveDFteC5waHA=",
+"embed": "true"
+},
 {
 "name": "TNT Sports Chile 720 | 🇨🇱",
 "info": "[RockHD]",
