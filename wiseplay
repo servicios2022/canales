@@ -1176,6 +1176,14 @@
 "isHost": "true"
 },
 {
+"name": "VTV Plus | 🇺🇾",
+"info": "[Nfsnew]",
+"online": "true",
+"image": "https://i.imgur.com/TyfMsBw.png",
+"url": "https://nfsnew.newkso.ru/nfs/premium391/mono.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
 "name": "TUDN (MiHD) | 🇲🇽",
 "image": "https://i.imgur.com/U6DKWV0.png",
 "online": "true",
