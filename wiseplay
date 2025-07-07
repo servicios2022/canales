@@ -921,6 +921,15 @@
 },
 {
 "name": "ESPN 3 1080 | 🇦🇷",
+"info": "[Streamtp]",
+"online": "true",
+"image": "https://i.imgur.com/y3VGGV0.png",
+"url": "https://streamtpglobal.com/global1.php?stream=espn3",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "ESPN 3 1080 | 🇦🇷",
 "info": "[La14HD]",
 "online": "true",
 "image": "https://i.imgur.com/y3VGGV0.png",
