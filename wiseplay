@@ -21,13 +21,23 @@
 },
 
 {
-"name": "Chilevision 1080 | 🇨🇱",
+"name": "C5555 | 🇨🇱",
 "info": "[Tele]",
 "online": "true",
 "image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
 "url": "https://telegratuita.com/repro/?r=L2NhbmFsLnBocD9zdHJlYW09Y2FuYWw1",
 "embed": "true"
 },
+{
+"name": "C7777 | 🇨🇱",
+"info": "[Tele]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"url": "https://telegratuita.com/repro/?r=L2NhbmFsLnBocD9zdHJlYW09YXp0ZWNhNw==",
+"embed": "true"
+},
+
+
 
 {
 "name": "Futbol Libre TV | 🇦🇷",
