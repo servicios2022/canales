@@ -9,53 +9,6 @@
 "image": "https://i.gifer.com/origin/3c/3cf3bf4222ca02eadf81bf145261bfd0.gif",
 "stations":[
 
-
-
-
-
-
-
-{
-"name": "Tudn0 | 🇨🇱",
-"info": "[RockHD]",
-"online": "true",
-"image": "https://i.imgur.com/f2glGr9.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "https://librefutboltv.su",
-"url": "https://librefutboltv.su/tudn/",
-"isHost":"true"
-},
-{
-"name": "tyc | 🇨🇱",
-"info": "[RockHD]",
-"online": "true",
-"image": "https://i.imgur.com/f2glGr9.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "https://librefutboltv.su",
-"url": "https://librefutboltv.su/tyc-sports/",
-"isHost":"true"
-},
-{
-"name": "antena | 🇨🇱",
-"info": "[RockHD]",
-"online": "true",
-"image": "https://i.imgur.com/f2glGr9.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "https://antenavenus.store",
-"url": "https://antenavenus.store/tntsportspremiumchile.php",
-"isHost":"true"
-},
-{
-"name": "tantena | 🇨🇱",
-"info": "[RockHD]",
-"online": "true",
-"image": "https://i.imgur.com/f2glGr9.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "https://antenavenus.store",
-"url": "https://antenavenus.store/tntsportsargentina.php",
-"isHost":"true"
-},
-
 {
 "name": "Futbol Libre TV | 🇦🇷",
 "info": "[Online]",
