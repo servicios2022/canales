@@ -274,6 +274,13 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
+"name": "PPV Eurocopa Femenina 4K | 🇪🇸",
+"info": "[La 1 TVE Acestream]",
+"online": "true",
+"image": "https://www.ceroacero.es/img/logos/competicoes/109_imgbank_ef_20241216161558.png",
+"url": "acestream://b7b83ac0d5e7e04a0f6538f5474745d90f8e3d59"
+},
+{
 "name": "PPV Eurocopa Femenina 1080 | 🇪🇸",
 "info": "[La 1 TVE Acestream]",
 "online": "true",
