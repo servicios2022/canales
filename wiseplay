@@ -21,56 +21,6 @@
         "url": "https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8",
         "isHost":""
         },
- {
-        "name": "M 111111111111 🇪🇸",
-        "info":"[webs]",
-        "online":"true",
-        "image": "https://i.postimg.cc/GhvMnHS2/movistar-deportes-2-Logo.png",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://webxzplay.cfd/",       
-        "url": "https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8",
-        "isHost":""
-        },
-
- {
-        "name": "M D333333333333333332 🇪🇸",
-        "info":"[Forced]",
-        "online":"true",
-        "image": "https://i.postimg.cc/GhvMnHS2/movistar-deportes-2-Logo.png",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://forcedtoplay.xyz",       
-        "url": "https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8",
-        "isHost":""
-        },
-
-
-{
-"name": "tv publica 1080 | 🇦🇷",
-"info": "[Dsports]",
-"online": "true",
-"image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg",
-"url": "https://api.m3use.projectmoose.xyz/m3u/DryKillLogic/Argentina/68123d80fc32c725356b0d38.m3u8?uid=DryKillLogic&pkey=hXBN6H",
-"userAgent": ""
-},
-{
-"name": "net | 🇦🇷",
-"info": "[Dsports]",
-"online": "true",
-"image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg",
-"url": "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
-"userAgent": ""
-},
-{
-"name": "canal 9 720 | 🇦🇷",
-"info": "[Dsports]",
-"online": "true",
-"image": "https://estaticos-cdn.prensaiberica.es/clip/6df646c4-3b14-41e0-9b49-51dfbabfed86_alta-libre-aspect-ratio_default_0.jpg",
-"url": "https://api.m3use.projectmoose.xyz/m3u/DryKillLogic/Argentina/681aefee626edc70d7214ca9.m3u8?uid=DryKillLogic&pkey=hXBN6H",
-"userAgent": ""
-},
-
-
-
 
 
 
@@ -2349,14 +2299,31 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
-"name": "Tv Publica 1080 (G5) | 🇦🇷",
+"name": "Canal 9 | 🇦🇷",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",
+"url": "https://api.m3use.projectmoose.xyz/m3u/DryKillLogic/Argentina/681aefee626edc70d7214ca9.m3u8?uid=DryKillLogic&pkey=hXBN6H",
+"userAgent": ""
+},
+{
+"name": "tv publica 1080 | 🇦🇷",
+"info": "[G5]",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",
 "online": "true",
 "url": "https://g5.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
-"name": "Tv Publica (La14HD) | 🇦🇷",
+"name": "Tv Publica 1080 | 🇦🇷",
+"info": "[M3use]",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",
+"url": "https://api.m3use.projectmoose.xyz/m3u/DryKillLogic/Argentina/68123d80fc32c725356b0d38.m3u8?uid=DryKillLogic&pkey=hXBN6H",
+"userAgent": ""
+},
+{
+"name": "Tv Publica | 🇦🇷",
+"info": "[La14HD]",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",
 "online": "true",
 "url": "https://la14hd.com/vivo/canales.php?stream=tvpublica",
@@ -2364,7 +2331,9 @@
 "isHost": "true"
 },
 {
-"name": "Tv Publica (VerTv) | 🇦🇷",
+"name": "Tv Publica | 🇦🇷",
+"info": "[Vertv]",
+"online": "true",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",
 "url": "https://www.vertvcable.com/channel.php?id=ch_67fc07e237b05",
 "embed": "true"
@@ -2380,6 +2349,13 @@
 "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKqWh-FOwjxOLIRz6wjbj5ZSWV0Mj6iHIiLTzzQXC6UFHB-y3Hvh1IlyF8eMnx2ilAM8DsdMv1N0ncxFTWEWfQMUnIQl956uqmbYGfdzwFqBfKMS55GeoDYzBo7iIao-tSOLwhrCS5NGXUaD8XXgPc1nEpf4UIYmkF5ST4EeWVnf0GNGasFYz-GYNDmpk/s320/13-max2024.png",
 "url": "https://617c5175c970b.streamlock.net:4444/13maxhd/live13maxtvnuevo/chunklist_w406969846.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "Net Tv | 🇦🇷",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/1200px-Net_TV_logo.png",
+"url": "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
+"userAgent": ""
 },
 {
 "name": "ATV | 🇵🇪",
