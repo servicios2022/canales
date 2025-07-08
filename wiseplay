@@ -610,6 +610,16 @@
 },
 {
 "name": "TNT Sports Chile 720 | 🇨🇱",
+"info": "[Andrena]",
+"online": "true",
+"image": "https://i.imgur.com/f2glGr9.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "https://andrenalynrushplay.cfd/",       
+"url": "https://dokko1new.newkso.ru/dokko1/premium642/mono.m3u8",
+"isHost":""
+},
+{
+"name": "TNT Sports Chile 720 | 🇨🇱",
 "info": "[RockHD]",
 "online": "true",
 "image": "https://i.imgur.com/f2glGr9.png",
@@ -662,6 +672,16 @@
 "image": "https://i.imgur.com/zfkBNdb.png",
 "url": "https://ddy6new.newkso.ru/ddy6/premium746/mono.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "TyC Sports | 🇦🇷",
+"info": "[Andrena]",
+"online": "true",
+"image": "https://i.imgur.com/zfkBNdb.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "https://andrenalynrushplay.cfd/",       
+"url": "https://ddy6new.newkso.ru/ddy6/premium746/mono.m3u8",
+"isHost":""
 },
 {
 "name": "TyC Sports | 🇦🇷",
@@ -1463,6 +1483,16 @@
 "isHost":"true"
 },
 {
+"name": "TUDN USA 720 | 🇺🇸",
+"info": "[Andrena]",
+"online": "true",
+"image": "https://i.imgur.com/U6DKWV0.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "https://andrenalynrushplay.cfd/",       
+"url": "https://windnew.newkso.ru/wind/premium66/mono.m3u8",
+"isHost":""
+},
+{
 "name": "TUDN USA (Streamdp) | 🇺🇸",
 "info": "[Streamdp]",
 "online": "true",
@@ -1508,13 +1538,22 @@
 },
 {
 "name": "ESPN Deportes | 🇺🇸",
+"info": "[Andrena]",
+"online": "true",
+"image": "https://i.imgur.com/cYvji3A.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "https://andrenalynrushplay.cfd/",       
+"url": "https://zekonew.newkso.ru/zeko/premium375/mono.m3u8",
+"isHost":""
+},
+{
+"name": "ESPN Deportes | 🇺🇸",
 "info": "[Cdnew]",
 "online": "true",
 "image": "https://i.imgur.com/cYvji3A.png",
 "url": "https://x4-cdnnew.newkso.ru/x4-cdn/mono86/mono.m3u8",
 "userAgent": ""
 },
-
 {
 "name": "ESPN Deportes 720 | 🇺🇸",
 "info": "[Topembed]",
@@ -1744,6 +1783,16 @@
 "isHost":"true"
 },
 {
+"name": "TDP 720 | 🇪🇸",
+"info":"[Andrena]",
+"online":"true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "https://andrenalynrushplay.cfd/",       
+"url": "https://dokko1new.newkso.ru/dokko1/premium529/mono.m3u8",
+"isHost":""
+},
+{
 "name": "Dazn F1 🇪🇸",
 "info":"[Daddy]",
 "online":"true",
@@ -1760,7 +1809,7 @@
 "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",  
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://andrenalynrushplay.cfd/",       
-"url": "https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8",
+"url": "https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8",
 "isHost":""
 },
 {
@@ -2788,6 +2837,16 @@
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png",
 "url": "http://187.190.55.136:5501/udp/225.1.10.133:15133",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "Unimas | 🇺🇸",
+"info": "[Andrena]",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"referer" : "https://andrenalynrushplay.cfd/",
+"url": "https://nfsnew.newkso.ru/nfs/premium133/mono.m3u8",
+"isHost":""
 },
 {
 "name": "America Tv | 🇺🇸",
