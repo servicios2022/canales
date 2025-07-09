@@ -2680,12 +2680,6 @@
 "epgId": "pelimex"
 },
 {
-"name": "Corazón",
-"image": "https://tvazteca.brightspotcdn.com/dims4/default/b49c943/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe7%2Ff9%2F3165356248e39a7d659b63aa8c03%2Fcorazon-1920x1080.jpg",
-"url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399",
-"epgId": "corazon"
-},
-{
 "name": "Clic",
 "image": "https://cdn.storage.foromedios.com/monthly_2023_08/large.AztecaClic-2023oficial.png.1be432f69a8742739f367f7a7b1964e8.png",
 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398",
