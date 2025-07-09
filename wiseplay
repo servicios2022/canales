@@ -2650,49 +2650,49 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
+"name": "Canal 6 CDMX | 🇲🇽",
+"image": "https://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png",
+"url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402",
+"epgId": "canal-6-cdmx"
+},
+{
 "name": "Estrella Tv | 🇲🇽",
 "image": "https://graph.facebook.com/EstrellaTVNetwork/picture?width=200&height=200",
 "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
-"name": "Canal 6 CDMX",
-"image": "https://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png",
-"url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402",
-"epgId": "canal-6-cdmx"
-},
-{
-"name": "Milenio Televisión",
+"name": "Milenio Televisión | 🇲🇽",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/640px-Milenio_Television.png",
 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401",
 "epgId": "milenio-television"
 },
 {
-"name": "Telediario Now",
+"name": "Telediario Now | 🇲🇽",
 "image": "https://www.lg.com/content/dam/channel/wcms/mx/2025/march/lg-channels/im%C3%A1genes-actualizadas/noticias/270325_LOGOS_LGCHANNELS_BLACK_003.png",
 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014",
 "epgId": "telediario-now"
 }, 
 {
-"name": "Pelimex",
+"name": "Pelimex | 🇲🇽",
 "image": "https://images.squarespace-cdn.com/content/v1/5ea862a8804f7204dfbb35fb/ac03fd6d-c360-4909-9162-8fbd6ff36ebc/Pelimex+logo+sq+large.jpg",
 "url": "https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184",
 "epgId": "pelimex"
 },
 {
-"name": "Clic",
+"name": "Clic | 🇲🇽",
 "image": "https://cdn.storage.foromedios.com/monthly_2023_08/large.AztecaClic-2023oficial.png.1be432f69a8742739f367f7a7b1964e8.png",
 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398",
 "epgId": "clic"
 },
 {
-"name": "Todo Cine",
+"name": "Todo Cine | 🇲🇽",
 "image": "https://pbs.twimg.com/profile_images/1737898344494559232/k-aAXjbx_200x200.jpg",
 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565",
 "epgId": "todo-cine"
 },
 {
-"name": "TeleFórmula",
+"name": "TeleFórmula | 🇲🇽",
 "image": "https://m.media-amazon.com/images/I/619X4kMohBL.png",
 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505",
 "epgId": "teleformula"
@@ -2701,7 +2701,7 @@
 "name": "Azteca 7 | 🇲🇽",
 "info": "[190]",
 "online": "true",
-"image": "https://imgur.com/a/WPTgPYK.png",
+"image": "https://i.imgur.com/vcv8H63.png",
 "url": "http://190.92.10.66:4000/play/a007/index.m3u8",
 "userAgent": ""
 },
@@ -2709,7 +2709,7 @@
 "name": "Azteca 7 | 🇲🇽",
 "info": "[RockHD]",
 "online": "true",
-"image": "https://imgur.com/a/WPTgPYK.png",
+"image": "https://i.imgur.com/vcv8H63.png",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://forcedtoplay.xyz/",
 "url": "https://rockhd.lol/live/stream-642.php",
@@ -2719,7 +2719,7 @@
 "name": "Azteca 7 | 🇲🇽",
 "info": "[Tutvlive]",
 "online": "true",
-"image": "https://imgur.com/a/WPTgPYK.png",
+"image": "https://i.imgur.com/vcv8H63.png",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://tutvlive.xyz",
 "url": "https://tutvlive.xyz/tvtodo/azteca-7.php",
@@ -2729,7 +2729,7 @@
 "name": "Azteca 7 | 🇲🇽",
 "info": "[Tele]",
 "online": "true",
-"image": "https://imgur.com/a/WPTgPYK.png",
+"image": "https://i.imgur.com/vcv8H63.png",
 "url": "https://telegratuita.com/repro/?r=L2NhbmFsLnBocD9zdHJlYW09YXp0ZWNhNw==",
 "embed": "true"
 },
