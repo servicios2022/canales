@@ -2357,12 +2357,6 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
-"name": "Telefe (Ddy6new) | 🇦🇷",
-"image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
-"url": "https://ddy6new.newkso.ru/ddy6/premium106/mono.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
 "name": "Telefe (Streamdp) | 🇦🇷",
 "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
 "online": "true",
@@ -2844,16 +2838,6 @@
 "isHost": "true"
 },
 {
-"name": "Telemundo 52 Los Angeles | 🇺🇸",
-"info": "[Andrena]",
-"online": "true",
-"image": "https://i.imgur.com/9piuN0T.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-"referer" : "https://andrenalynrushplay.cfd/",
-"url": "https://windnew.newkso.ru/wind/premium131/mono.m3u8",
-"isHost":""
-},
-{
 "name": "Telemundo 52 Noticias California | 🇺🇸",
 "info": "[D3i0aurg]",
 "online": "true",
@@ -2911,6 +2895,16 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
+"name": "Univision | 🇺🇸",
+"info": "[RockHD]",
+"online": "true",
+"image": "https://i.imgur.com/b5III2Y.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "https://forcedtoplay.xyz/",
+"url": "https://rockhd.lol/live/stream-132.php",
+"isHost":"true"
+},
+{
 "name": "Unimas | 🇺🇸",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png",
 "url": "http://187.190.55.136:5501/udp/225.1.10.133:15133",
@@ -2918,12 +2912,12 @@
 },
 {
 "name": "Unimas | 🇺🇸",
-"info": "[Andrena]",
+"info": "[RockHD]",
 "online": "true",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-"referer" : "https://andrenalynrushplay.cfd/",
-"url": "https://nfsnew.newkso.ru/nfs/premium133/mono.m3u8",
+"referer" : "https://forcedtoplay.xyz/",
+"url": "https://rockhd.lol/live/stream-133.php",
 "isHost":""
 },
 {
