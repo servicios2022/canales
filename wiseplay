@@ -63,75 +63,6 @@
 
 
 
-{
-"name": "56745845| 🇦🇷",
-"info": "[Online]",
-"online": "true",
-"image": "https://i.imgur.com/ehmvuI6.png",
-"url": "http://tv.zapping.life:8080/get.php?username=WWre1iLlli09384ks34&password=vhaGbZ4RXY&type=m3u_plus",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true"
-},
-{
-"name": "56745845| 🇦🇷",
-"online": "true",
-"image": "https://i.imgur.com/ehmvuI6.png",
-"url": "http://tv.zapping.life:8080/get.php?username=WWre1iLlli09384ks34&password=vhaGbZ4RXY&type=m3u_plus",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true"
-},
-{
-"name": "56745845| 🇦🇷",
-"info": "[Online]",
-"image": "https://i.imgur.com/ehmvuI6.png",
-"url": "http://tv.zapping.life:8080/get.php?username=WWre1iLlli09384ks34&password=vhaGbZ4RXY&type=m3u_plus",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true"
-},
-{
-"name": "56745845| 🇦🇷",
-"info": "[Online]",
-"online": "true",
-"url": "http://tv.zapping.life:8080/get.php?username=WWre1iLlli09384ks34&password=vhaGbZ4RXY&type=m3u_plus",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true"
-},
-{
-"name": "56745845| 🇦🇷",
-"info": "[Online]",
-"online": "true",
-"image": "https://i.imgur.com/ehmvuI6.png",
-"url": "http://tv.zapping.life:8080/get.php?username=WWre1iLlli09384ks34&password=vhaGbZ4RXY&type=m3u_plus",
-"playInNatPlayer": "true",
-"embed": "true"
-},
-{
-"name": "56745845| 🇦🇷",
-"info": "[Online]",
-"online": "true",
-"image": "https://i.imgur.com/ehmvuI6.png",
-"url": "http://tv.zapping.life:8080/get.php?username=WWre1iLlli09384ks34&password=vhaGbZ4RXY&type=m3u_plus",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"embed": "true"
-},
-{
-"name": "56745845| 🇦🇷",
- "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
-"url": "http://tv.zapping.life:8080/get.php?username=WWre1iLlli09384ks34&password=vhaGbZ4RXY&type=m3u_plus",
-"embed": "true"
-},
-{
-"name": "56745845| 🇦🇷",
- "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
-"url": "http://tv.zapping.life:8080/get.php?username=WWre1iLlli09384ks34&password=vhaGbZ4RXY&type=m3u_plus",
-"embed": "false"
-},
-
-
 
 
     {
@@ -3260,7 +3191,7 @@
 "info": "[Tele]",
 "online": "true",
 "image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-"url": "https://telegratuita.com/repro/?r=L21nby9jaHYucGhw",
+"url": "https://telegratuita.com/reproductor/?r=L21nby9jaHYucGhw",
 "embed": "true"
 },
 {
