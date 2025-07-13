@@ -757,6 +757,16 @@
 "isHost": "true"
 },
 {
+"name": "ESPN Premium Argentina 1080 | 🇦🇷",
+"info": "[Welivesport]",
+"online": "true",
+"image": "https://i.imgur.com/5qTHLGy.png",
+"url": "https://welivesport.shop/embed/espnpremarg.php",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "",
+"isHost":"true"
+},
+{
 "name": "ESPN Premium Argentina | 🇦🇷",
 "info": "[Miztv]",
 "online": "true",
