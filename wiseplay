@@ -415,106 +415,6 @@
 "isHost": "true"
 },
 {
-"name": "Dsports 720 | 🇦🇷",
-"info": "[104]",
-"online": "true",
-"image": "https://i.imgur.com/NUGOqdT.png",
-"url": "http://104.238.205.28:8989/278758_.m3u8",
-"userAgent": ""
-},
-{
-"name": "Dsports 720 | 🇦🇷",
-"info": "[200]",
-"online": "true",
-"image": "https://i.imgur.com/NUGOqdT.png",
-"url": "http://200.59.188.3:8000/play/a0xe",
-"userAgent": ""
-},
-{
-"name": "Dsports 720 | 🇦🇷",
-"info": "[Topembed]",
-"online": "true",
-"image": "https://i.imgur.com/NUGOqdT.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://topembed.pw/",
-"url": "https://topembed.pw/channel/DirecTVSports[Argentina]",
-"isHost": "true"
-},
-{
-"name": "Dsports 720 | 🇦🇷",
-"info": "[Topembed]",
-"online": "true",
-"image": "https://i.imgur.com/NUGOqdT.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://topembed.pw/",
-"url": "https://topembed.pw/channel/DirecTV[Ecuador]",
-"isHost": "true"
-},
-{
-"name": "Dsports | 🇦🇷",
-"info": "[Fuelcareer]",
-"online": "true",
-"image": "https://i.imgur.com/NUGOqdT.png",
-"referer": "https://tarjetarojaenvivo.lat/",
-"url": "https://fuelcareer.net/embed/4jva7tj642f9b",
-"isHost": "true"
-},
-{
-"name": "Dsports | 🇦🇷",
-"info": "[Laceaccept]",
-"online": "true",
-"image": "https://i.imgur.com/NUGOqdT.png",
-"referer": "https://tarjetarojaenvivo.lat/",
-"url": "https://laceaccept.net/embed/ehf5qe1r",
-"isHost": "true"
-},
-{
-"name": "Dsports | 🇦🇷",
-"info": "[La14HD]",
-"online": "true",
-"image": "https://i.imgur.com/NUGOqdT.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=dsports",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "Dsports | 🇦🇷",
-"info": "[Streamdp]",
-"online": "true",
-"image": "https://i.imgur.com/NUGOqdT.png",
-"url": "https://streamdp1.xyz/global1.php?channel=dsports",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "Dsports | 🇦🇷",
-"info": "[Link]",
-"online": "true",
-"image": "https://i.imgur.com/NUGOqdT.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://deporte-libre.link/",
-"url": "https://deporte-libre.link/en-vivo-online/dsports/embed2.php",
-"isHost": "true"
-},
-{
-"name": "Dsports 2 | 🇦🇷",
-"info": "[La14HD]",
-"online": "true",
-"image": "https://i.imgur.com/HI0yGFW.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=dsports2",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "Dsports 2 | 🇦🇷",
-"info": "[Streamdp]",
-"online": "true",
-"image": "https://i.imgur.com/HI0yGFW.png",
-"url": "https://streamdp1.xyz/global1.php?channel=dsports2",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
 "name": "ESPN Premium Chile 1080 | 🇨🇱",
 "info": "[190]",
 "online": "true",
@@ -530,6 +430,14 @@
 "referer": "https://mihd.tv/",
 "url": "https://mihd.tv/espn-premium-en-vivo-por-internet.html",
 "isHost": "true"
+},
+{
+"name": "ESPN Premium Argentina 1080 | 🇦🇷",
+"info": "[NXT]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+"url": "https://nxt.plus:8443/restreamstalker/mzfJKHLK86fy/11476.ts",
+"userAgent": ""
 },
 {
 "name": "ESPN Premium Argentina 1080 | 🇦🇷",
@@ -590,7 +498,7 @@
 "info": "[NXT]",
 "online": "true",
 "image": "https://i.imgur.com/ItEH0oC.png",
-"url": "https://nxt.plus:8443/restreamstalker/mzfJKHLK86fy/25121.ts",
+"url": "https://nxt.plus:8443/restreamstalker/mzfJKHLK86fy/213161.ts",
 "userAgent": ""
 },
 {
@@ -598,7 +506,7 @@
 "info": "[NXT]",
 "online": "true",
 "image": "https://i.imgur.com/ItEH0oC.png",
-"url": "https://nxt.plus:8443/restreamstalker/mzfJKHLK86fy/213161.ts",
+"url": "https://nxt.plus:8443/restreamstalker/mzfJKHLK86fy/25121.ts",
 "userAgent": ""
 },
 {
@@ -904,6 +812,106 @@
 "online": "true",
 "image": "https://i.imgur.com/YrVUJmp.png",
 "url": "https://streamdp1.xyz/global1.php?channel=espn7",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "Dsports 720 | 🇦🇷",
+"info": "[104]",
+"online": "true",
+"image": "https://i.imgur.com/NUGOqdT.png",
+"url": "http://104.238.205.28:8989/278758_.m3u8",
+"userAgent": ""
+},
+{
+"name": "Dsports 720 | 🇦🇷",
+"info": "[200]",
+"online": "true",
+"image": "https://i.imgur.com/NUGOqdT.png",
+"url": "http://200.59.188.3:8000/play/a0xe",
+"userAgent": ""
+},
+{
+"name": "Dsports 720 | 🇦🇷",
+"info": "[Topembed]",
+"online": "true",
+"image": "https://i.imgur.com/NUGOqdT.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://topembed.pw/",
+"url": "https://topembed.pw/channel/DirecTVSports[Argentina]",
+"isHost": "true"
+},
+{
+"name": "Dsports 720 | 🇦🇷",
+"info": "[Topembed]",
+"online": "true",
+"image": "https://i.imgur.com/NUGOqdT.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://topembed.pw/",
+"url": "https://topembed.pw/channel/DirecTV[Ecuador]",
+"isHost": "true"
+},
+{
+"name": "Dsports | 🇦🇷",
+"info": "[Fuelcareer]",
+"online": "true",
+"image": "https://i.imgur.com/NUGOqdT.png",
+"referer": "https://tarjetarojaenvivo.lat/",
+"url": "https://fuelcareer.net/embed/4jva7tj642f9b",
+"isHost": "true"
+},
+{
+"name": "Dsports | 🇦🇷",
+"info": "[Laceaccept]",
+"online": "true",
+"image": "https://i.imgur.com/NUGOqdT.png",
+"referer": "https://tarjetarojaenvivo.lat/",
+"url": "https://laceaccept.net/embed/ehf5qe1r",
+"isHost": "true"
+},
+{
+"name": "Dsports | 🇦🇷",
+"info": "[La14HD]",
+"online": "true",
+"image": "https://i.imgur.com/NUGOqdT.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=dsports",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "Dsports | 🇦🇷",
+"info": "[Streamdp]",
+"online": "true",
+"image": "https://i.imgur.com/NUGOqdT.png",
+"url": "https://streamdp1.xyz/global1.php?channel=dsports",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "Dsports | 🇦🇷",
+"info": "[Link]",
+"online": "true",
+"image": "https://i.imgur.com/NUGOqdT.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://deporte-libre.link/",
+"url": "https://deporte-libre.link/en-vivo-online/dsports/embed2.php",
+"isHost": "true"
+},
+{
+"name": "Dsports 2 | 🇦🇷",
+"info": "[La14HD]",
+"online": "true",
+"image": "https://i.imgur.com/HI0yGFW.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=dsports2",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "Dsports 2 | 🇦🇷",
+"info": "[Streamdp]",
+"online": "true",
+"image": "https://i.imgur.com/HI0yGFW.png",
+"url": "https://streamdp1.xyz/global1.php?channel=dsports2",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
