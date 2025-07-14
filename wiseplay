@@ -1917,6 +1917,30 @@
 "stations":[
 
 {
+"name": "Discovery Turbo 1080 | 🇦🇷",
+"info": "[Zapping]",
+"online": "true",
+"image": "https://1.bp.blogspot.com/-eJqGszkGWFI/XaukdxerPHI/AAAAAAAAAfw/Qa6E_CIqIO4-exGRGJYvJnohIQ7B2G-SQCLcBGAsYHQ/s200/14.png",
+"url": "http://tv.zapping.life:8080/HDPinguino123dkdkkDDFFDFa/al3q83JYkd/9830",
+"userAgent": ""
+},
+{
+"name": "Discovery Turbo 1080 | 🇦🇷",
+"info": "[NTX]",
+"online": "true",
+"image": "https://1.bp.blogspot.com/-eJqGszkGWFI/XaukdxerPHI/AAAAAAAAAfw/Qa6E_CIqIO4-exGRGJYvJnohIQ7B2G-SQCLcBGAsYHQ/s200/14.png",
+"url": "https://nxt.plus:8443/restreamstalker/mzfJKHLK86fy/914.ts",
+"userAgent": ""
+},
+{
+"name": "Discovery Turbo 1080 | 🇦🇷",
+"info": "[Directo]",
+"online": "true",
+"image": "https://1.bp.blogspot.com/-eJqGszkGWFI/XaukdxerPHI/AAAAAAAAAfw/Qa6E_CIqIO4-exGRGJYvJnohIQ7B2G-SQCLcBGAsYHQ/s200/14.png",
+"url": "http://directo.ddns.me:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/2690",
+"userAgent": ""
+},
+{
 "name": "AniRetro | 🇨🇱",
 "image": "https://cdn.m3u.cl/logo/1585_AniRetro.png",
 "url": "https://tv.arkeo.cl:19360/8000/8000.m3u8",
