@@ -586,6 +586,22 @@
 "isHost": "true"
 },
 {
+"name": "TNT Sports Argentina 1080 | 🇦🇷",
+"info": "[NXT]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+"url": "https://nxt.plus:8443/restreamstalker/mzfJKHLK86fy/25121.ts",
+"userAgent": ""
+},
+{
+"name": "TNT Sports Argentina 1080 | 🇦🇷",
+"info": "[NXT]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+"url": "https://nxt.plus:8443/restreamstalker/mzfJKHLK86fy/213161.ts",
+"userAgent": ""
+},
+{
 "name": "TNT Sports Argentina | 🇦🇷",
 "info": "[Miztv]",
 "online": "true",
