@@ -3049,6 +3049,12 @@
 "userAgent": ""
 },
 {
+"name": "La Metro TV | 🇨🇱",
+"image": "https://i.imgur.com/LweZElf.png",
+"url": "https://jireh-3-hls-video-cl-mundo.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/metropolitanatv/livestream1/chunks.m3u8",
+"userAgent": ""
+},
+{
 "name": "Puranoticia | 🇨🇱",
 "image": "https://puranoticia.pnt.cl/cms/imag/v1/logos/logo_main_white.png",
 "url": "https://pnt.janus.cl/playlist/stream.m3u8?s=hd&t=0&id=mcjn5syh&q=1&d=w",
