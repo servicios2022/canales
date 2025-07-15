@@ -1479,7 +1479,7 @@
 "isHost": "true"
 },
 {
-"name": "Bein Sports Ñ | 🇺🇸",
+"name": "Bein Sports Ñ 1080 | 🇺🇸",
 "info": "[Directo]",
 "online": "true",
 "image": "https://i.imgur.com/c4gfwhr.png",
@@ -1487,17 +1487,7 @@
 "userAgent": ""
 },
 {
-"name": "Bein Sports Ñ | 🇺🇸",
-"info": "[RockHD]",
-"online": "true",
-"image": "https://i.imgur.com/c4gfwhr.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "https://forcedtoplay.xyz/",
-"url": "https://rockhd.lol/live/stream-372.php",
-"isHost":"true"
-},
-{
-"name": "Bein Sports Ñ | 🇺🇸",
+"name": "Bein Sports Ñ 720 | 🇺🇸",
 "info": "[Miztv]",
 "online": "true",
 "image": "https://i.imgur.com/c4gfwhr.png",
@@ -1507,7 +1497,7 @@
 "isHost": "true"
 },
 {
-"name": "Bein Sports Ñ | 🇺🇸",
+"name": "Bein Sports Ñ 720 | 🇺🇸",
 "info": "[Tutvlive]",
 "online": "true",
 "image": "https://i.imgur.com/c4gfwhr.png",
@@ -1515,6 +1505,16 @@
 "referer": "https://miztv.top",
 "url": "https://tutvlive.xyz/tvtodo/bein-sports.php",
 "isHost": "true"
+},
+{
+"name": "Bein Sports Ñ 720 | 🇺🇸",
+"info": "[RockHD]",
+"online": "true",
+"image": "https://i.imgur.com/c4gfwhr.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "https://forcedtoplay.xyz/",
+"url": "https://rockhd.lol/live/stream-372.php",
+"isHost":"true"
 },
 {
 "name": "Bein Sports Extra Ñ 1080 (Xumo) | 🇺🇸",
