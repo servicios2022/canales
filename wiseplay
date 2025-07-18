@@ -140,7 +140,7 @@
 "info": "[Fox Sports 2]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
-"url": "https://telegratuita.com/repro/?r=Ly90ZWxlZ3JhdHVpdGEuY29tL3N0cmVhbS5waHA/aWQ9RlMyTVg=",
+"url": "https://telegratuita.com/reproductor/?r=Ly90ZWxlZ3JhdHVpdGEuY29tL3N0cmVhbS5waHA/aWQ9RlMyTVg=",
 "embed": "true"
 },
 {
@@ -1280,13 +1280,12 @@
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
-
 {
 "name": "Fox Sports MX | 🇲🇽",
 "info": "[Tele]",
 "online": "true",
 "image": "https://i.imgur.com/0xKNbhn.png",
-"url": "https://telegratuita.com/repro/?r=Ly90ZWxlZ3JhdHVpdGEuY29tL3NwZWVkL2ZveDFteC5waHA=",
+"url": "https://telegratuita.com/reproductor/?r=Ly90ZWxlZ3JhdHVpdGEuY29tL3NwZWVkL2ZveDFteC5waHA=",
 "embed": "true"
 },
 {
@@ -1294,7 +1293,7 @@
 "info": "[Tele]",
 "online": "true",
 "image": "https://i.imgur.com/16dSHEX.png",
-"url": "https://telegratuita.com/repro/?r=Ly90ZWxlZ3JhdHVpdGEuY29tL3N0cmVhbS5waHA/aWQ9RlMyTVg=",
+"url": "https://telegratuita.com/reproductor/?r=Ly90ZWxlZ3JhdHVpdGEuY29tL3N0cmVhbS5waHA/aWQ9RlMyTVg=",
 "embed": "true"
 },
 {
@@ -1302,7 +1301,7 @@
 "info": "[Tele]",
 "online": "true",
 "image": "https://i.imgur.com/8ZMDGlF.png",
-"url": "https://telegratuita.com/repro/?r=Ly90ZWxlZ3JhdHVpdGEuY29tL3NwZWVkL2ZveDNteC5waHA=",
+"url": "https://telegratuita.com/reproductor/?r=Ly90ZWxlZ3JhdHVpdGEuY29tL3NwZWVkL2ZveDNteC5waHA=",
 "embed": "true"
 },
 {
