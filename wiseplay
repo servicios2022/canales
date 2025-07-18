@@ -144,14 +144,6 @@
 "embed": "true"
 },
 {
-"name": "PPV Eventos UFC 720 | 🇲🇽",
-"info": "[Fs Premium]",
-"online": "true",
-"image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
-"url": "https://telegratuita.com/reproductor/?r=Ly90ZWxlZ3JhdHVpdGEuY29tL3Byby9mMXVzYS5waHA=",
-"embed": "true"
-},
-{
 "name": "PPV Eventos UFC 1080 | 🇪🇸",
 "info": "[Eurosports 2 Acestream 551]",
 "online": "true",
@@ -1318,14 +1310,6 @@
 "url": "https://la12hd.com/vivo/canal.php?stream=foxsportspremium",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
-},
-{
-"name": "FS Premium | 🇲🇽",
-"info": "[Fs Premium]",
-"online": "true",
-"image": "https://i.imgur.com/l1XDE9T.png",
-"url": "https://telegratuita.com/reproductor/?r=Ly90ZWxlZ3JhdHVpdGEuY29tL3Byby9mMXVzYS5waHA=",
-"embed": "true"
 },
 {
 "name": "TUDN USA 1080 | 🇺🇸",
