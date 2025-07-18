@@ -2659,14 +2659,6 @@
 "embed": "true"
 },
 {
-"name": "Canal 5 | 🇲🇽",
-"info": "[Tele]",
-"online": "true",
-"image": "https://i.imgur.com/ys8lTQ6.png",
-"url": "https://telegratuita.com/reproductor/?r=L3NwZWVkL2NhbmFsNS5waHA=",
-"embed": "true"
-},
-{
 "name": "Telemundo 47 New York 1080 | 🇺🇸",
 "info": "[Tele]",
 "online": "true",
@@ -2809,14 +2801,6 @@
 "referer" : "https://forcedtoplay.xyz/",
 "url": "https://rockhd.lol/live/stream-132.php",
 "isHost":"true"
-},
-{
-"name": "Univision | 🇺🇸",
-"info": "[Tele]",
-"online": "true",
-"image": "https://i.imgur.com/b5III2Y.png",
-"url": "https://telegratuita.com/reproductor/?r=L3NwZWVkL3VuaXZpc2lvbi5waHA=",
-"embed": "true"
 },
 {
 "name": "Unimas | 🇺🇸",
