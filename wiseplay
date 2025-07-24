@@ -2320,22 +2320,6 @@
 "userAgent": ""
 },
 {
-"name": "tv publica 1080 | 🇦🇷",
-"info": "[G5]",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",
-"online": "true",
-"url": "https://g5.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
-"name": "Tv Publica 1080 | 🇦🇷",
-"info": "[M3use]",
-"online": "true",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",
-"url": "https://api.m3use.projectmoose.xyz/m3u/DryKillLogic/Argentina/68123d80fc32c725356b0d38.m3u8?uid=DryKillLogic&pkey=hXBN6H",
-"userAgent": ""
-},
-{
 "name": "Tv Publica | 🇦🇷",
 "info": "[La14HD]",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",
@@ -2343,14 +2327,6 @@
 "url": "https://la14hd.com/vivo/canales.php?stream=tvpublica",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
-},
-{
-"name": "Tv Publica | 🇦🇷",
-"info": "[Vertv]",
-"online": "true",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",
-"url": "https://www.vertvcable.com/channel.php?id=ch_67fc07e237b05",
-"embed": "true"
 },
 {
 "name": "Ciudad Magazine 1080 | 🇦🇷",
