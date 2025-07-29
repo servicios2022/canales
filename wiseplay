@@ -61,7 +61,15 @@
 },
 
 
-
+{
+"name": "PPV Eventos34634 | 🇦🇷",
+"info": "[ESPN 5]",
+"online": "true",
+"image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
+"url": "http://127.0.0.1:6878/ace/getstream?id=3d376333ee90d6db3d413fc5764ef635882076f5",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
 
 
 
