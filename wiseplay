@@ -2897,6 +2897,22 @@
 "isHost": "true"
 },
 {
+"name": "Chilevision 720 | 🇨🇱",
+"info": "[Mds]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"url": "https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8",
+"userAgent": ""
+},
+{
+"name": "Chilevision 720 | 🇨🇱",
+"info": "[Mds]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"url": "https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8",
+"userAgent": ""
+},
+{
 "name": "Canal 13 720 | 🇨🇱",
 "info": "[Jireh]",
 "online": "true",
@@ -2931,22 +2947,6 @@
 "url": "https://www.tvn.cl/en-vivo",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": true
-},
-{
-"name": "TVN 720 | 🇨🇱",
-"info": "[Mds]",
-"online": "true",
-"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
-"url": "https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8",
-"userAgent": ""
-},
-{
-"name": "TVN 720 | 🇨🇱",
-"info": "[Mds]",
-"online": "true",
-"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
-"url": "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8",
-"userAgent": ""
 },
 {
 "name": "La Red | 🇨🇱",
