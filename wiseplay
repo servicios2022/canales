@@ -2888,15 +2888,6 @@
 "embed": "true"
 },
 {
-"name": "Chilevision 1080 | 🇨🇱",
-"info": "[Online]",
-"online": "true",
-"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-"referer": "https://www.chilevision.cl/",
-"url": "https://www.chilevision.cl/senal-online",
-"isHost": "true"
-},
-{
 "name": "Chilevision 720 | 🇨🇱",
 "info": "[Mds]",
 "online": "true",
@@ -2911,6 +2902,15 @@
 "image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
 "url": "https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8",
 "userAgent": ""
+},
+{
+"name": "Chilevision | 🇨🇱",
+"info": "[Online]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"referer": "https://www.chilevision.cl/",
+"url": "https://www.chilevision.cl/senal-online",
+"isHost": "true"
 },
 {
 "name": "Canal 13 720 | 🇨🇱",
