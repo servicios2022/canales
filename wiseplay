@@ -1709,6 +1709,14 @@
 "isHost": "true"
 },
 {
+"name": "TDP 1080 | 🇪🇸",
+"info":"[Cloud]",
+"online":"true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+"url": "https://d1cctoeg0n48w5.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/4bde8184-4226-40ca-8c0f-2b752d15746a/0.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
 "name": "TDP 720 | 🇪🇸",
 "info":"[Tutvlive]",
 "online":"true",
@@ -1992,7 +2000,7 @@
 {
 "name": "Z Tv | 🇨🇱",
 "image": "https://cdn.m3u.cl/logo/1604_ZTV_Anime.png",
-"url": "https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL",
+"url": "https://mitv.zplay.cl/Ztv/index.m3u8",
 "userAgent": ""
 },
 {
