@@ -2979,18 +2979,6 @@
 "userAgent": ""
 },
 {
-"name": "CNN Chile | 🇨🇱",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/250px-CNN_Chile_logo_2017.svg.png",
-"url": "https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR",
-"userAgent": ""
-},
-{
-"name": "CNN Chile | 🇨🇱",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/250px-CNN_Chile_logo_2017.svg.png",
-"url": "https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8",
-"userAgent": ""
-},
-{
 "name": "MegaNoticias | 🇨🇱",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/1200px-Meganoticias2019.png",
 "online": "true",
@@ -3008,6 +2996,12 @@
 "name": "T13 | 🇨🇱",
 "image": "https://cdn.m3u.cl/logo/1054_T13.png",
 "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
+"userAgent": ""
+},
+{
+"name": "T13 Radio | 🇨🇱",
+"image": "https://cdn.m3u.cl/logo/1198_T13_Radio.png",
+"url": "https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8",
 "userAgent": ""
 },
 {
@@ -3058,12 +3052,6 @@
 "name": "D13 | 🇨🇱",
 "image": "https://cdn.m3u.cl/logo/1199_D13.png",
 "url": "https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL",
-"userAgent": ""
-},
-{
-"name": "T13 Radio | 🇨🇱",
-"image": "https://cdn.m3u.cl/logo/1198_T13_Radio.png",
-"url": "https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8",
 "userAgent": ""
 },
 {
