@@ -450,11 +450,27 @@
 "isHost": "true"
 },
 {
-"name": "ESPN Premium Argentina 1080 | 🇦🇷",
-"info": "[NXT]",
+"name": "ESPN Premium Argentina 720 | 🇦🇷",
+"info": "[SDMX]",
 "online": "true",
 "image": "https://i.imgur.com/5qTHLGy.png",
-"url": "https://nxt.plus:8443/restreamstalker/mzfJKHLK86fy/11476.ts",
+"url": "http://sdmx.vip:80/yestv/eVW6aPPbUCD8/2121662",
+"userAgent": ""
+},
+{
+"name": "ESPN Premium Argentina 720 | 🇦🇷",
+"info": "[Zapping]",
+"online": "true",
+"image": "https://i.imgur.com/5qTHLGy.png",
+"url": "http://tv.zapping.life:8080/WWre1iLlli09384ks34/vhaGbZ4RXY/9549",
+"userAgent": ""
+},
+{
+"name": "ESPN Premium Argentina 720 | 🇦🇷",
+"info": "[Zapping]",
+"online": "true",
+"image": "https://i.imgur.com/5qTHLGy.png",
+"url": "http://tv.zapping.life:8080/WWre1iLlli09384ks34/vhaGbZ4RXY/9550",
 "userAgent": ""
 },
 {
