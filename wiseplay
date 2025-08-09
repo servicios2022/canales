@@ -1550,6 +1550,8 @@
 "userAgent": ""
 },
 
+
+
 {
 "name": "Movistar La Liga (Bleedfilter) | 🇪🇸",
 "image": "https://i.imgur.com/5lNTjn0.png",
@@ -1592,6 +1594,57 @@
 "url": "https://topembed.pw/channel/MLaliga[Spain]",
 "isHost": "true"
 },
+{
+"name": "Movistar La Liga 1080 | 🇪🇸",
+"info": "[Acestream elcano 947]",
+"online": "true",
+"image": "https://i.imgur.com/5lNTjn0.png",
+"url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947"
+},
+{
+"name": "Movistar La Liga 1080 | 🇪🇸",
+"info": "[Acestream elcano f1e]",
+"online": "true",
+"image": "https://i.imgur.com/5lNTjn0.png",
+"url": "acestream://c9321006921967d6258df6945f1d598a5c0cbf1e"
+},
+{
+"name": "Movistar La Liga 1080 | 🇪🇸",
+"info": "[Acestream elcano f74]",
+"online": "true",
+"image": "https://i.imgur.com/5lNTjn0.png",
+"url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74"
+},
+{
+"name": "Movistar La Liga FHD | 🇪🇸",
+"info": "[Acestream newera c45]",
+"online": "true",
+"image": "https://i.imgur.com/5lNTjn0.png",
+"url": "acestream://7e2f5e27994a90700e6c5b938d5face45577cc45"
+},
+{
+"name": "Movistar La Liga FHD | 🇪🇸",
+"info": "[Acestream newera 6b0]",
+"online": "true",
+"image": "https://i.imgur.com/5lNTjn0.png",
+"url": "acestream://10e451cb5bef2e34bf52cc48de811893528146b0"
+},
+{
+"name": "Movistar La Liga FHD | 🇪🇸",
+"info": "[Acestream elcano 92d]",
+"online": "true",
+"image": "https://i.imgur.com/5lNTjn0.png",
+"url": "acestream://d3de78aebe544611a2347f54d5796bd87f16c92d"
+},
+{
+"name": "Movistar La Liga FHD | 🇪🇸",
+"info": "[Acestream elcano 163]",
+"online": "true",
+"image": "https://i.imgur.com/5lNTjn0.png",
+"url": "acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163"
+},
+
+
 {
 "name": "DAZN La Liga 720 (Freckledine) | 🇪🇸",
 "image": "https://i.imgur.com/Mql5aBD.png",
@@ -1657,6 +1710,51 @@
 "isHost": "true"
 },
 {
+"name": "DAZN La Liga 1080 multiaudio | 🇪🇸",
+"info": "[Acestream elcano b05]",
+"online": "true",
+"image": "https://i.imgur.com/Mql5aBD.png",
+"url": "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05"
+},
+{
+"name": "DAZN La Liga FHD | 🇪🇸",
+"info": "[Acestream elcano f47]",
+"online": "true",
+"image": "https://i.imgur.com/Mql5aBD.png",
+"url": "acestream://110d441ddc9713a7452588770d2bc85504672f47"
+},
+{
+"name": "DAZN La Liga FHD | 🇪🇸",
+"info": "[Acestream elcano 70c]",
+"online": "true",
+"image": "https://i.imgur.com/Mql5aBD.png",
+"url": "acestream://ec29289b0b14756e686c03a501bae1efa05be70c"
+},
+{
+"name": "DAZN La Liga FHD | 🇪🇸",
+"info": "[Acestream elcano e0f]",
+"online": "true",
+"image": "https://i.imgur.com/Mql5aBD.png",
+"url": "acestream://6de4794cd02f88f14354b5996823413a59a1de0f"
+},
+{
+"name": "DAZN La Liga FHD | 🇪🇸",
+"info": "[Acestream newera 621]",
+"online": "true",
+"image": "https://i.imgur.com/Mql5aBD.png",
+"url": "acestream://4fa168d5401e4b2673100b237a976961b52cf621"
+},
+{
+"name": "DAZN La Liga FHD | 🇪🇸",
+"info": "[Acestream newera 3de]",
+"online": "true",
+"image": "https://i.imgur.com/Mql5aBD.png",
+"url": "acestream://96a8a772f150d9e57ca71a9765d2278c0c5423de"
+},
+
+
+
+{
 "name": "Movistar Liga de Campeones 720 (freckledine) | 🇪🇸",
 "image": "https://i.imgur.com/3PsaCB9.png",
 "online": "true",
@@ -1709,43 +1807,14 @@
 "isHost": "true"
 },
 {
-"name": "TDP 1080 | 🇪🇸",
-"info":"[Cloud]",
-"online":"true",
-"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
-"url": "https://d1cctoeg0n48w5.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/4bde8184-4226-40ca-8c0f-2b752d15746a/0.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+"name": "Liga de Campeones | 🇪🇸",
+"info": "[Acestream 370]",
+"online": "true",
+"image": "https://i.imgur.com/3PsaCB9.png",
+"url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
 },
-{
-"name": "TDP 720 | 🇪🇸",
-"info":"[Tutvlive]",
-"online":"true",
-"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "https://forcedtoplay.xyz/",
-"url": "https://tutvlive.xyz/tvtodo/teledeportes-tdp.php",
-"isHost":"true"
-},
-{
-"name": "TDP 720 | 🇪🇸",
-"info":"[DlHD]",
-"online":"true",
-"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "https://forcedtoplay.xyz/",
-"url": "https://dlhd.click/stream/stream-642.php",
-"isHost":"true"
-},
-{
-"name": "TDP 720 | 🇪🇸",
-"info":"[Miztv]",
-"online":"true",
-"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-"referer": "https://miztv.top",
-"url": "https://miztv.top/stream/stream-529.php",
-"isHost": "true"
-},
+
+
 {
 "name": "Dazn F1 🇪🇸",
 "info":"[DlHD]",
@@ -1776,113 +1845,8 @@
 "url": "https://tutvlive.xyz/tvtodo/daznf1.php",
 "isHost": "true"
 },
-{
-"name": "Real Madrid Tv | 🇪🇸",
-"image": "https://graph.facebook.com/RealMadrid/picture?width=200&height=200",
-"url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
 
-{
-"name": "DAZN La Liga 1080 multiaudio | 🇪🇸",
-"info": "[Acestream elcano b05]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05"
-},
-{
-"name": "DAZN La Liga FHD | 🇪🇸",
-"info": "[Acestream elcano f47]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://110d441ddc9713a7452588770d2bc85504672f47"
-},
-{
-"name": "DAZN La Liga FHD | 🇪🇸",
-"info": "[Acestream elcano 70c]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://ec29289b0b14756e686c03a501bae1efa05be70c"
-},
-{
-"name": "DAZN La Liga FHD | 🇪🇸",
-"info": "[Acestream elcano e0f]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://6de4794cd02f88f14354b5996823413a59a1de0f"
-},
-{
-"name": "DAZN La Liga FHD | 🇪🇸",
-"info": "[Acestream newera 621]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://4fa168d5401e4b2673100b237a976961b52cf621"
-},
-{
-"name": "DAZN La Liga FHD | 🇪🇸",
-"info": "[Acestream newera 3de]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://96a8a772f150d9e57ca71a9765d2278c0c5423de"
-},
 
-{
-"name": "Movistar La Liga 1080 | 🇪🇸",
-"info": "[Acestream elcano 947]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947"
-},
-{
-"name": "Movistar La Liga 1080 | 🇪🇸",
-"info": "[Acestream elcano f1e]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://c9321006921967d6258df6945f1d598a5c0cbf1e"
-},
-{
-"name": "Movistar La Liga 1080 | 🇪🇸",
-"info": "[Acestream elcano f74]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74"
-},
-{
-"name": "Movistar La Liga FHD | 🇪🇸",
-"info": "[Acestream newera c45]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://7e2f5e27994a90700e6c5b938d5face45577cc45"
-},
-{
-"name": "Movistar La Liga FHD | 🇪🇸",
-"info": "[Acestream newera 6b0]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://10e451cb5bef2e34bf52cc48de811893528146b0"
-},
-{
-"name": "Movistar La Liga FHD | 🇪🇸",
-"info": "[Acestream elcano 92d]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://d3de78aebe544611a2347f54d5796bd87f16c92d"
-},
-{
-"name": "Movistar La Liga FHD | 🇪🇸",
-"info": "[Acestream elcano 163]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163"
-},
-
-{
-"name": "Liga de Campeones | 🇪🇸",
-"info": "[Acestream 370]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
-},
 {
 "name": "DAZN F1 4K | 🇪🇸",
 "info": "[Acestream 2b8]",
@@ -1946,6 +1910,61 @@
 "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
 "url": "acestream://e779b17e30d5daa05ca25ab4e8c3150e582c6f25"
 },
+
+
+{
+"name": "TDP 1080 | 🇪🇸",
+"info":"[Cloud]",
+"online":"true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+"url": "https://d1cctoeg0n48w5.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/4bde8184-4226-40ca-8c0f-2b752d15746a/0.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "TDP 720 | 🇪🇸",
+"info":"[Tutvlive]",
+"online":"true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "https://forcedtoplay.xyz/",
+"url": "https://tutvlive.xyz/tvtodo/teledeportes-tdp.php",
+"isHost":"true"
+},
+{
+"name": "TDP 720 | 🇪🇸",
+"info":"[DlHD]",
+"online":"true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "https://forcedtoplay.xyz/",
+"url": "https://dlhd.click/stream/stream-642.php",
+"isHost":"true"
+},
+{
+"name": "TDP 720 | 🇪🇸",
+"info":"[Miztv]",
+"online":"true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+"referer": "https://miztv.top",
+"url": "https://miztv.top/stream/stream-529.php",
+"isHost": "true"
+},
+{
+"name": "TDP | 🇪🇸",
+"info": "[Acestream 230]",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+"url": "acestream://138b30c93e8a780ac490a4f6d2181c41f3670230"
+},
+{
+"name": "TDP | 🇪🇸",
+"info": "[Acestream 9ef]",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+"url": "acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef"
+}, 
+
 {
 "name": "Eurosports 2 | 🇪🇸",
 "info": "[Acestream 551]",
@@ -1967,20 +1986,7 @@
 "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
 "url": "acestream://2773b39926d15dd3d9495d94c4050604792d7031"
 },
-{
-"name": "Teledeporte | 🇪🇸",
-"info": "[Acestream 230]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://138b30c93e8a780ac490a4f6d2181c41f3670230"
-},
-{
-"name": "Teledeporte | 🇪🇸",
-"info": "[Acestream 9ef]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef"
-}, 
+
 {
 "name": "La 1 TVE | 🇪🇸",
 "info": "[Acestream 5a5]",
@@ -2023,7 +2029,12 @@
 "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
 "url": "acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf"
 }, 
-
+{
+"name": "Real Madrid Tv | 🇪🇸",
+"image": "https://graph.facebook.com/RealMadrid/picture?width=200&height=200",
+"url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
 
 
 
