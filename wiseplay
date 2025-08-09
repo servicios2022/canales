@@ -136,25 +136,32 @@
 "embed": "true"
 },
 {
-"name": "PPV Eventos UFC 1080 | 🇪🇸",
-"info": "[Eurosports 2 Acestream 551]",
+"name": "Eurosports 2 FHD | 🇪🇸",
+"info": "[Acestream elcano 551]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
 "url": "acestream://0585e09bb8ac9720e4c11934f1b184e309291551"
 },
 {
-"name": "PPV Eventos UFC 1080 | 🇪🇸",
-"info": "[Eurosports 2 Acestream ecc]",
+"name": "Eurosports 2 FHD | 🇪🇸",
+"info": "[Acestream elcano 53f]",
+"online": "true",
+"image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
+"url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f"
+},
+{
+"name": "Eurosports 2 FHD | 🇪🇸",
+"info": "[Acestream newera ecc]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
 "url": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc"
 },
 {
-"name": "PPV Eventos UFC 1080 | 🇪🇸",
-"info": "[Eurosports 2 Acestream 031]",
+"name": "Eurosports 2 FHD | 🇪🇸",
+"info": "[Acestream newera 372]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
-"url": "acestream://2773b39926d15dd3d9495d94c4050604792d7031"
+"url": "acestream://4b87a5b67f39dfc151a163ec8c08039520f0a372"
 },
 {
 "name": "PPV Eventos UFC 1080 | 🇲🇽",
@@ -1996,29 +2003,34 @@
 "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
 "url": "acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef"
 }, 
-
 {
-"name": "Eurosports 2 | 🇪🇸",
-"info": "[Acestream 551]",
+"name": "Eurosports 2 FHD | 🇪🇸",
+"info": "[Acestream elcano 551]",
 "online": "true",
 "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
 "url": "acestream://0585e09bb8ac9720e4c11934f1b184e309291551"
 },
 {
-"name": "Eurosports 2 | 🇪🇸",
-"info": "[Acestream ecc]",
+"name": "Eurosports 2 FHD | 🇪🇸",
+"info": "[Acestream elcano 53f]",
+"online": "true",
+"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
+"url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f"
+},
+{
+"name": "Eurosports 2 FHD | 🇪🇸",
+"info": "[Acestream newera ecc]",
 "online": "true",
 "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
 "url": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc"
 },
 {
-"name": "Eurosports 2 | 🇪🇸",
-"info": "[Acestream 031]",
+"name": "Eurosports 2 FHD | 🇪🇸",
+"info": "[Acestream newera 372]",
 "online": "true",
 "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://2773b39926d15dd3d9495d94c4050604792d7031"
+"url": "acestream://4b87a5b67f39dfc151a163ec8c08039520f0a372"
 },
-
 {
 "name": "Real Madrid Tv | 🇪🇸",
 "image": "https://graph.facebook.com/RealMadrid/picture?width=200&height=200",
