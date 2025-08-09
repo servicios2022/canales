@@ -1782,6 +1782,35 @@
 "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
+
+{
+"name": "DAZN La Liga | 🇪🇸",
+"info": "[Acestream b05]",
+"online": "true",
+"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
+"url": "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05"
+},
+{
+"name": "DAZN La Liga | 🇪🇸",
+"info": "[Acestream d1f]",
+"online": "true",
+"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
+"url": "acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f"
+},
+{
+"name": "DAZN La Liga | 🇪🇸",
+"info": "[Acestream 621]",
+"online": "true",
+"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
+"url": "acestream://4fa168d5401e4b2673100b237a976961b52cf621"
+},
+{
+"name": "DAZN La Liga | 🇪🇸",
+"info": "[Acestream 3de]",
+"online": "true",
+"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
+"url": "acestream://96a8a772f150d9e57ca71a9765d2278c0c5423de"
+},
 {
 "name": "DAZN La Liga | 🇪🇸",
 "info": "[Acestream f47]",
@@ -1802,6 +1831,50 @@
 "online": "true",
 "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
 "url": "acestream://6de4794cd02f88f14354b5996823413a59a1de0f"
+},
+
+
+{
+"name": "Movistar La Liga | 🇪🇸",
+"info": "[Acestream 947]",
+"online": "true",
+"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
+"url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947"
+},
+{
+"name": "Movistar La Liga | 🇪🇸",
+"info": "[Acestream f1e]",
+"online": "true",
+"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
+"url": "acestream://c9321006921967d6258df6945f1d598a5c0cbf1e"
+},
+{
+"name": "Movistar La Liga | 🇪🇸",
+"info": "[Acestream f74]",
+"online": "true",
+"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
+"url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74"
+},
+{
+"name": "Movistar La Liga | 🇪🇸",
+"info": "[Acestream c58]",
+"online": "true",
+"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
+"url": "acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58"
+},
+{
+"name": "Movistar La Liga | 🇪🇸",
+"info": "[Acestream c45]",
+"online": "true",
+"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
+"url": "acestream://7e2f5e27994a90700e6c5b938d5face45577cc45"
+},
+{
+"name": "Movistar La Liga | 🇪🇸",
+"info": "[Acestream 6b0]",
+"online": "true",
+"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
+"url": "acestream://10e451cb5bef2e34bf52cc48de811893528146b0"
 },
 {
 "name": "Movistar La Liga | 🇪🇸",
@@ -1838,9 +1911,6 @@
 "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
 "url": "acestream://cc9b7f5fe416069a2110da0909b0f915043c468b"
 },
-
-
-
 {
 "name": "Liga de Campeones | 🇪🇸",
 "info": "[Acestream 370]",
