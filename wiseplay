@@ -2336,7 +2336,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
-"name": "La 1 TVE | 🇪🇸",
+"name": "La 1 TVE FHD | 🇪🇸",
 "info": "[Acestream 5a5]",
 "online": "true",
 "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
@@ -2355,11 +2355,18 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
-"name": "La 2 | 🇪🇸",
+"name": "La 2 FHD | 🇪🇸",
 "info": "[Acestream ac5]",
 "online": "true",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1900px-Logo_La_2.svg.png",
 "url": "acestream://fc36c7249aef74e3ea579500efdfd7a98d8e9ac5"
+},
+{
+"name": "Antena 3 FHD | 🇪🇸",
+"info": "[Acestream 496]",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/2231px-Logo_Antena_3_2025_%28Naranja%29.svg.png",
+"url": "acestream://390b5b0fc49a811c5c5ebd6d195b08a48b1e8496"
 },
 
 
