@@ -529,18 +529,34 @@
 },
 {
 "name": "TNT Sports Argentina 1080 | 🇦🇷",
-"info": "[NXT]",
+"info": "[Zapping]",
 "online": "true",
 "image": "https://i.imgur.com/ItEH0oC.png",
-"url": "https://nxt.plus:8443/restreamstalker/mzfJKHLK86fy/213161.ts",
+"url": "http://tv.zapping.life:8080/WWre1iLlli09384ks34/vhaGbZ4RXY/7951",
 "userAgent": ""
 },
 {
-"name": "TNT Sports Argentina 1080 | 🇦🇷",
-"info": "[NXT]",
+"name": "TNT Sports Argentina 720 | 🇦🇷",
+"info": "[Zapping]",
 "online": "true",
 "image": "https://i.imgur.com/ItEH0oC.png",
-"url": "https://nxt.plus:8443/restreamstalker/mzfJKHLK86fy/25121.ts",
+"url": "http://tv.zapping.life:8080/WWre1iLlli09384ks34/vhaGbZ4RXY/7950",
+"userAgent": ""
+},
+{
+"name": "TNT Sports Argentina 720 | 🇦🇷",
+"info": "[SDMX]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+"url": "http://sdmx.vip:80/yestv/eVW6aPPbUCD8/155677",
+"userAgent": ""
+},
+{
+"name": "TNT Sports Argentina 720 | 🇦🇷",
+"info": "[SDMX]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+"url": "http://sdmx.vip:80/yestv/eVW6aPPbUCD8/17316",
 "userAgent": ""
 },
 {
