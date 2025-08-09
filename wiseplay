@@ -1976,14 +1976,6 @@
 "info": "[Tele]",
 "online": "true",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ETC_2016-actual.png/800px-ETC_2016-actual.png",
-"url": "https://telegratuita.com/live/etc.php",
-"embed": "true"
-},
-{
-"name": "ETC | 🇨🇱",
-"info": "[Tele]",
-"online": "true",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ETC_2016-actual.png/800px-ETC_2016-actual.png",
 "url": "https://telegratuita.com/reproductor/?r=L21nby9ldGMucGhw",
 "embed": "true"
 },
