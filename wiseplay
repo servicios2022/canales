@@ -2337,6 +2337,13 @@
 },
 {
 "name": "La 1 FHD | 🇪🇸",
+"info": "[Acestream newera b2d]",
+"online": "true",
+"image": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png",
+"url": "acestream://14d3d8570a11cbc27ba2c94499df6014b462cb2d"
+},
+{
+"name": "La 1 FHD | 🇪🇸",
 "info": "[Acestream newera 5a5]",
 "online": "true",
 "image": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png",
