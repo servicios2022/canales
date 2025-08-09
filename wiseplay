@@ -2336,6 +2336,13 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
+"name": "La 1 TVE | 🇪🇸",
+"info": "[Acestream 5a5]",
+"online": "true",
+"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
+"url": "acestream://8bdd29882fa2c2f9fe49e67b102934c9e293f5a5"
+},
+{
 "name": "La 2 | 🇪🇸",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1900px-Logo_La_2.svg.png",
 "url": "https://ztnr.rtve.es/ztnr/1688885.m3u8",
@@ -2348,12 +2355,18 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
-"name": "La 1 TVE | 🇪🇸",
-"info": "[Acestream 5a5]",
+"name": "La 2 | 🇪🇸",
+"info": "[Acestream ac5]",
 "online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://8bdd29882fa2c2f9fe49e67b102934c9e293f5a5"
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1900px-Logo_La_2.svg.png",
+"url": "acestream://fc36c7249aef74e3ea579500efdfd7a98d8e9ac5"
 },
+
+
+
+
+
+
 {
 "name": "Cuatro 1080 | 🇪🇸",
 "info": "[Acestream elcano 333]",
