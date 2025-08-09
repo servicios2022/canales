@@ -2368,12 +2368,6 @@
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/2231px-Logo_Antena_3_2025_%28Naranja%29.svg.png",
 "url": "acestream://390b5b0fc49a811c5c5ebd6d195b08a48b1e8496"
 },
-
-
-
-
-
-
 {
 "name": "Cuatro 1080 | 🇪🇸",
 "info": "[Acestream elcano 333]",
@@ -2382,8 +2376,8 @@
 "url": "acestream://8670df538a11c6ec97b3f634981ddc4409ca0333"
 },
 {
-"name": "Cuatro | 🇪🇸",
-"info": "[Acestream a91]",
+"name": "Cuatro FHD | 🇪🇸",
+"info": "[Acestream newera a91]",
 "online": "true",
 "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
 "url": "acestream://18f63b299de66029e17dc35e12f6c244e1979a91"
@@ -2397,7 +2391,7 @@
 },
 {
 "name": "Telecinco | 🇪🇸",
-"info": "[Acestream 75b]",
+"info": "[Acestream newera 75b]",
 "online": "true",
 "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
 "url": "acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b"
@@ -2408,6 +2402,13 @@
 "online": "true",
 "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
 "url": "acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf"
+}, 
+{
+"name": "La Sexta | 🇪🇸",
+"info": "[Acestream e31]",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/960px-La_Sexta_%28A3M%29.svg.png",
+"url": "acestream://1c6486082949172d1ffd318db8fb965dd5af7e31"
 }, 
 {
 "name": "Telefe 1080 (Viacon) | 🇦🇷",
