@@ -1783,11 +1783,25 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
-"name": "Liga de Campeones | 🇪🇸",
-"info": "[Acestream 370]",
+"name": "DAZN La Liga | 🇪🇸",
+"info": "[Acestream f47]",
 "online": "true",
 "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
+"url": "acestream://110d441ddc9713a7452588770d2bc85504672f47"
+},
+{
+"name": "DAZN La Liga | 🇪🇸",
+"info": "[Acestream 70c]",
+"online": "true",
+"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
+"url": "acestream://ec29289b0b14756e686c03a501bae1efa05be70c"
+},
+{
+"name": "DAZN La Liga | 🇪🇸",
+"info": "[Acestream e0f]",
+"online": "true",
+"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
+"url": "acestream://6de4794cd02f88f14354b5996823413a59a1de0f"
 },
 {
 "name": "Movistar La Liga | 🇪🇸",
@@ -1795,6 +1809,44 @@
 "online": "true",
 "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
 "url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947"
+},
+{
+"name": "Movistar La Liga | 🇪🇸",
+"info": "[Acestream 53f]",
+"online": "true",
+"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
+"url": "acestream://94d34491106e00394835c8cb68aa94481339b53f"
+},
+{
+"name": "Movistar La Liga | 🇪🇸",
+"info": "[Acestream 92d]",
+"online": "true",
+"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
+"url": "acestream://d3de78aebe544611a2347f54d5796bd87f16c92d"
+},
+{
+"name": "Movistar La Liga | 🇪🇸",
+"info": "[Acestream 163]",
+"online": "true",
+"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
+"url": "acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163"
+},
+{
+"name": "Movistar La Liga | 🇪🇸",
+"info": "[Acestream 68b]",
+"online": "true",
+"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
+"url": "acestream://cc9b7f5fe416069a2110da0909b0f915043c468b"
+},
+
+
+
+{
+"name": "Liga de Campeones | 🇪🇸",
+"info": "[Acestream 370]",
+"online": "true",
+"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
+"url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
 },
 {
 "name": "DAZN F1 4K | 🇪🇸",
