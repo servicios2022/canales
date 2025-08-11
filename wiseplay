@@ -2568,7 +2568,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
-"name": "Caracol 1080 (CDN) | 🇨🇴",
+"name": "Caracol (CDN) | 🇨🇴",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
 "online": "true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -2577,28 +2577,12 @@
 "isHost":"true"
 },
 {
-"name": "Caracol 1080 (MiHD) | 🇨🇴",
+"name": "Caracol (MiHD) | 🇨🇴",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
 "online": "true",
 "referer": "https://mihd.tv/",
 "url": "https://mihd.tv/caracol-en-vivo-por-internet.html",
 "isHost": "true"
-},
-{
-"name": "Caracol | 🇨🇴",
-"info": "[Topembed]",
-"online": "true",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://topembed.pw/",
-"url": "https://topembed.pw/channel/Caracol[Colombia]",
-"isHost": "true"
-},
-{
-"name": "Caracol (VerTv) | 🇨🇴",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
-"url": "https://www.vertvcable.com/channel.php?id=ch_67fc1f3626ca2",
-"embed": "true"
 },
 {
 "name": "Noticias Caracol | 🇨🇴",
