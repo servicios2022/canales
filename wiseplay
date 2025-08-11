@@ -2535,6 +2535,14 @@
 "name": "America Tv | 🇵🇪",
 "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png",
 "online": "true",
+"referer": "https://canalestvenvivo.com/",
+"url": "https://canalestvenvivo.com/canales/america/op1",
+"isHost": "true"
+},
+{
+"name": "America Tv | 🇵🇪",
+"image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png",
+"online": "true",
 "referer": "https://mihd.tv/",
 "url": "https://mihd.tv/america-tv-en-vivo-por-internet.html",
 "isHost": "true"
