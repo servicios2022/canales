@@ -63,10 +63,8 @@
 
 
 {
-"name": "Canal 13 720 | 🇨🇱",
-"info": "[Rudo]",
-"online": "true",
-"image": "https://i.imgur.com/RazPUFz.png",
+"name": "13 Internacional | 🇨🇱",
+"image": "https://cdn.m3u.cl/logo/1685_13_Internacional.png",
 "url": "https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/6fde7bfc-0933-4458-86fb-8661e81127f4:SCL2/variant/6111ad30657a583ad044dfe707c7e95d/bandwidth/2305600.m3u8",
 "userAgent": ""
 },
@@ -78,7 +76,7 @@
 "url": "https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/6fde7bfc-0933-4458-86fb-8661e81127f4:SCL2/variant/6111ad30657a583ad044dfe707c7e95d/bandwidth/2305600.m3u8",
 "embed": "",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://photocalltv.org/",
+"referer": "https://dai.google.com",
 "isHost": ""
 },
 {
@@ -88,7 +86,7 @@
 "image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://photocalltv.org",
-"url": "https://photocalltv.org/h4tw/l1?ch=chilevision",
+"url": "https://photocalltv.org/h4tw/l1?ch=tvn",
 "isHost":"true"
 },
 
