@@ -30,6 +30,16 @@
 "embed": "true"
 },
 {
+"name": "Futbo2 | 🇦🇷",
+"info": "[Online]",
+"online": "true",
+"image": "https://i.imgur.com/ehmvuI6.png",
+"url": "https://futbo2.click/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true"
+},
+{
 "name": "La14HD | 🇦🇷",
 "info": "[Online]",
 "online": "true",
@@ -49,27 +59,6 @@
 "playInNatPlayer": "true",
 "embed": "true"
 },
-{
-"name": "Tu Canal Deportivo | 🇦🇷",
-"info": "[Online]",
-"online": "true",
-"image": "https://i.imgur.com/ehmvuI6.png",
-"url": "https://elcanaldeportivo.com/agenda.php",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true"
-},
-{
-"name": "TNT Sports Chile 720 | 🇨🇱",
-"info": "[DLHD]",
-"online": "true",
-"image": "https://i.imgur.com/f2glGr9.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "https://forcedtoplay.xyz/",
-"url": "https://dlhd.click/stream/stream-642.php",
-"isHost":"true"
-},
-
 
 
 
@@ -118,15 +107,6 @@
 "info": "[Fox Sports]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
-"url": "https://streamtpglobal.com/global1.php?stream=fox1ar",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "PPV Eventos UFC 720 | 🇦🇷",
-"info": "[Fox Sports]",
-"online": "true",
-"image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
 "url": "https://la14hd.com/vivo/canales.php?stream=foxsports",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
@@ -156,25 +136,32 @@
 "embed": "true"
 },
 {
-"name": "PPV Eventos UFC 1080 | 🇪🇸",
-"info": "[Eurosports 2 Acestream 551]",
+"name": "Eurosports 2 FHD | 🇪🇸",
+"info": "[Acestream elcano 551]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
 "url": "acestream://0585e09bb8ac9720e4c11934f1b184e309291551"
 },
 {
-"name": "PPV Eventos UFC 1080 | 🇪🇸",
-"info": "[Eurosports 2 Acestream ecc]",
+"name": "Eurosports 2 FHD | 🇪🇸",
+"info": "[Acestream elcano 53f]",
+"online": "true",
+"image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
+"url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f"
+},
+{
+"name": "Eurosports 2 FHD | 🇪🇸",
+"info": "[Acestream newera ecc]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
 "url": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc"
 },
 {
-"name": "PPV Eventos UFC 1080 | 🇪🇸",
-"info": "[Eurosports 2 Acestream 031]",
+"name": "Eurosports 2 FHD | 🇪🇸",
+"info": "[Acestream newera 372]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
-"url": "acestream://2773b39926d15dd3d9495d94c4050604792d7031"
+"url": "acestream://4b87a5b67f39dfc151a163ec8c08039520f0a372"
 },
 {
 "name": "PPV Eventos UFC 1080 | 🇲🇽",
@@ -363,27 +350,36 @@
 "isHost": "true"
 },
 {
-"name": "TNT Sports Premium Chile 1080 | 🇨🇱",
-"info": "[Zapping]",
+"name": "TNT Sports Premium Chile 720 | 🇨🇱",
+"info": "[SDMX]",
 "online": "true",
 "image": "https://i.imgur.com/YTaeyss.png",
-"url": "http://tv.zapping.life:8080/WWre1iLlli09384ks34/vhaGbZ4RXY/9923",
+"url": "http://sdmx.vip:80/yestv/eVW6aPPbUCD8/25365",
 "userAgent": ""
 },
 {
-"name": "TNT Sports Premium Chile 1080 | 🇨🇱",
-"info": "[NTX]",
+"name": "TNT Sports Premium Chile 720 | 🇨🇱",
+"info": "[Zapping]",
 "online": "true",
 "image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://nxt.plus:8443/restreamstalker/mzfJKHLK86fy/262027.ts",
+"url": "http://tv.zapping.life:8080/WWre1iLlli09384ks34/vhaGbZ4RXY/9886",
 "userAgent": ""
+},
+{
+"name": "TNT Sports Premium Chile 720 | 🇨🇱",
+"info": "[Futbo2]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "https://futbo2.click/global1.php?id=tntsportschile",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
 },
 {
 "name": "TNT Sports Premium Chile 720 | 🇨🇱",
 "info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://streamtpglobal.com/global1.php?stream=tntsportschile",
+"url": "https://streamtpglobal.com/global2.php?stream=tntsportschile",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -425,23 +421,17 @@
 },
 {
 "name": "TNT Sports Chile 720 | 🇨🇱",
-"info": "[RockHD]",
+"info": "[DlHD]",
 "online": "true",
 "image": "https://i.imgur.com/f2glGr9.png",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://forcedtoplay.xyz/",
-"url": "https://rockhd.lol/live/stream-642.php",
+"url": "https://dlhd.click/stream/stream-642.php",
 "isHost":"true"
 },
-{
-"name": "TNT Sports Chile | 🇨🇱",
-"info": "[Tvplus]",
-"online": "true",
-"image": "https://i.imgur.com/f2glGr9.png",
-"referer": "https://www.tvplusgratis2.com/",
-"url": "https://www.tvplusgratis2.com/tnt-sports-chile-en-vivo.html",
-"isHost": "true"
-},
+
+
+
 {
 "name": "ESPN Premium Chile 1080 | 🇨🇱",
 "info": "[190]",
@@ -460,15 +450,31 @@
 "isHost": "true"
 },
 {
-"name": "ESPN Premium Argentina 1080 | 🇦🇷",
-"info": "[NXT]",
+"name": "ESPN Premium Argentina 720 | 🇦🇷",
+"info": "[SDMX]",
 "online": "true",
 "image": "https://i.imgur.com/5qTHLGy.png",
-"url": "https://nxt.plus:8443/restreamstalker/mzfJKHLK86fy/11476.ts",
+"url": "http://sdmx.vip:80/yestv/eVW6aPPbUCD8/2121662",
 "userAgent": ""
 },
 {
-"name": "ESPN Premium Argentina 1080 | 🇦🇷",
+"name": "ESPN Premium Argentina 720 | 🇦🇷",
+"info": "[Zapping]",
+"online": "true",
+"image": "https://i.imgur.com/5qTHLGy.png",
+"url": "http://tv.zapping.life:8080/WWre1iLlli09384ks34/vhaGbZ4RXY/9549",
+"userAgent": ""
+},
+{
+"name": "ESPN Premium Argentina 720 | 🇦🇷",
+"info": "[Zapping]",
+"online": "true",
+"image": "https://i.imgur.com/5qTHLGy.png",
+"url": "http://tv.zapping.life:8080/WWre1iLlli09384ks34/vhaGbZ4RXY/9550",
+"userAgent": ""
+},
+{
+"name": "ESPN Premium Argentina 720 | 🇦🇷",
 "info": "[Welivesport]",
 "online": "true",
 "image": "https://i.imgur.com/5qTHLGy.png",
@@ -487,12 +493,12 @@
 },
 {
 "name": "ESPN Premium Argentina | 🇦🇷",
-"info": "[RockHD]",
+"info": "[DlHD]",
 "online": "true",
 "image": "https://i.imgur.com/5qTHLGy.png",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://forcedtoplay.xyz/",
-"url": "https://rockhd.lol/live/stream-387.php",
+"url": "https://dlhd.click/stream/stream-387.php",
 "isHost":"true"
 },
 {
@@ -523,18 +529,34 @@
 },
 {
 "name": "TNT Sports Argentina 1080 | 🇦🇷",
-"info": "[NXT]",
+"info": "[Zapping]",
 "online": "true",
 "image": "https://i.imgur.com/ItEH0oC.png",
-"url": "https://nxt.plus:8443/restreamstalker/mzfJKHLK86fy/213161.ts",
+"url": "http://tv.zapping.life:8080/WWre1iLlli09384ks34/vhaGbZ4RXY/7951",
 "userAgent": ""
 },
 {
-"name": "TNT Sports Argentina 1080 | 🇦🇷",
-"info": "[NXT]",
+"name": "TNT Sports Argentina 720 | 🇦🇷",
+"info": "[Zapping]",
 "online": "true",
 "image": "https://i.imgur.com/ItEH0oC.png",
-"url": "https://nxt.plus:8443/restreamstalker/mzfJKHLK86fy/25121.ts",
+"url": "http://tv.zapping.life:8080/WWre1iLlli09384ks34/vhaGbZ4RXY/7950",
+"userAgent": ""
+},
+{
+"name": "TNT Sports Argentina 720 | 🇦🇷",
+"info": "[SDMX]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+"url": "http://sdmx.vip:80/yestv/eVW6aPPbUCD8/155677",
+"userAgent": ""
+},
+{
+"name": "TNT Sports Argentina 720 | 🇦🇷",
+"info": "[SDMX]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+"url": "http://sdmx.vip:80/yestv/eVW6aPPbUCD8/17316",
 "userAgent": ""
 },
 {
@@ -555,12 +577,12 @@
 },
 {
 "name": "TNT Sports Argentina | 🇦🇷",
-"info": "[RockHD]",
+"info": "[DlHD]",
 "online": "true",
 "image": "https://i.imgur.com/ItEH0oC.png",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://forcedtoplay.xyz/",
-"url": "https://rockhd.lol/live/stream-388.php",
+"url": "https://dlhd.click/stream/stream-388.php",
 "isHost":"true"
 },
 {
@@ -570,6 +592,15 @@
 "image": "https://i.imgur.com/ItEH0oC.png",
 "url": "https://laceaccept.net/embed/muha9xp8lgyom64",
 "referer": "https://tarjetarojaenvivo.lat/",
+"isHost": "true"
+},
+{
+"name": "TNT Sports Argentina | 🇦🇷",
+"info": "[Futbo2]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+"url": "https://futbo2.click/global1.php?id=tntsports",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
 {
@@ -592,12 +623,12 @@
 },
 {
 "name": "ESPN Argentina | 🇦🇷",
-"info": "[RockHD]",
+"info": "[DlHD]",
 "online": "true",
 "image": "https://i.imgur.com/MFhpD4D.png",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://forcedtoplay.xyz/",
-"url": "https://rockhd.lol/live/stream-149.php",
+"url": "https://dlhd.click/stream/stream-149.php",
 "isHost":"true"
 },
 {
@@ -693,12 +724,12 @@
 },
 {
 "name": "ESPN 2 | 🇦🇷",
-"info": "[RockHD]",
+"info": "[DlHD]",
 "online": "true",
 "image": "https://i.imgur.com/jq1s4to.png",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://forcedtoplay.xyz/",
-"url": "https://rockhd.lol/live/stream-150.php",
+"url": "https://dlhd.click/stream/stream-150.php",
 "isHost":"true"
 },
 {
@@ -973,12 +1004,12 @@
 },
 {
 "name": "TyC Sports | 🇦🇷",
-"info": "[RockHD]",
+"info": "[DlHD]",
 "online": "true",
 "image": "https://i.imgur.com/zfkBNdb.png",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://forcedtoplay.xyz/",
-"url": "https://rockhd.lol/live/stream-746.php",
+"url": "https://dlhd.click/stream/stream-746.php",
 "isHost":"true"
 },
 {
@@ -1104,12 +1135,12 @@
 },
 {
 "name": "FOX Sports 2 Argentina | 🇦🇷",
-"info": "[RockHD]",
+"info": "[DlHD]",
 "online": "true",
 "image": "https://i.imgur.com/KhwRTx4.png",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://forcedtoplay.xyz/",
-"url": "https://rockhd.lol/live/stream-788.php",
+"url": "https://dlhd.click/stream/stream-788.php",
 "isHost":"true"
 },
 {
@@ -1142,12 +1173,12 @@
 },
 {
 "name": "FOX Sports 3 Argentina | 🇦🇷",
-"info": "[RockHD]",
+"info": "[DlHD]",
 "online": "true",
 "image": "https://i.imgur.com/xbeQUV3.png",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://forcedtoplay.xyz/",
-"url": "https://rockhd.lol/live/stream-789.php",
+"url": "https://dlhd.click/stream/stream-789.php",
 "isHost":"true"
 },
 {
@@ -1160,7 +1191,7 @@
 },
 {
 "name": "ECDF| 🇪🇨",
-"info": "[RockHD]",
+"info": "[DlHD]",
 "online": "true",
 "image": "https://i.imgur.com/xl7Sf50.png",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -1204,12 +1235,12 @@
 },
 {
 "name": "Win Sports+ | 🇨🇴",
-"info": "[RockHD]",
+"info": "[DlHD]",
 "online": "true",
 "image": "https://i.imgur.com/rzpcdnf.png",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://forcedtoplay.xyz/",
-"url": "https://rockhd.lol/live/stream-392.php",
+"url": "https://dlhd.click/stream/stream-392.php",
 "isHost":"true"
 },
 {
@@ -1249,12 +1280,12 @@
 },
 {
 "name": "VTV Plus | 🇺🇾",
-"info": "[RockHD]",
+"info": "[DlHD]",
 "online": "true",
 "image": "https://i.imgur.com/TyfMsBw.png",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://forcedtoplay.xyz/",
-"url": "https://rockhd.lol/live/stream-391.php",
+"url": "https://dlhd.click/stream/stream-391.php",
 "isHost":"true"
 },
 {
@@ -1369,12 +1400,12 @@
 },
 {
 "name": "TUDN USA 720 | 🇺🇸",
-"info": "[RockHD]",
+"info": "[DlHD]",
 "online": "true",
 "image": "https://i.imgur.com/U6DKWV0.png",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://forcedtoplay.xyz/",
-"url": "https://rockhd.lol/live/stream-66.php",
+"url": "https://dlhd.click/stream/stream-66.php",
 "isHost":"true"
 },
 {
@@ -1451,12 +1482,12 @@
 },
 {
 "name": "ESPN Deportes 720 | 🇺🇸",
-"info": "[RockHD]",
+"info": "[DlHD]",
 "online": "true",
 "image": "https://i.imgur.com/cYvji3A.png",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://forcedtoplay.xyz/",
-"url": "https://rockhd.lol/live/stream-375.php",
+"url": "https://dlhd.click/stream/stream-375.php",
 "isHost":"true"
 },
 {
@@ -1527,12 +1558,12 @@
 },
 {
 "name": "Bein Sports Ñ 720 | 🇺🇸",
-"info": "[RockHD]",
+"info": "[DlHD]",
 "online": "true",
 "image": "https://i.imgur.com/c4gfwhr.png",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://forcedtoplay.xyz/",
-"url": "https://rockhd.lol/live/stream-372.php",
+"url": "https://dlhd.click/stream/stream-372.php",
 "isHost":"true"
 },
 {
@@ -1548,18 +1579,14 @@
 "userAgent": ""
 },
 
+
+
 {
 "name": "Movistar La Liga (Bleedfilter) | 🇪🇸",
 "image": "https://i.imgur.com/5lNTjn0.png",
 "url": "https://bleedfilter.net/embed/orfaxhrsmbdogv?color=45A5F4",
 "referer": "https://powerover.online/",
 "isHost": "true"
-},
-{
-"name": "Movistar La Liga (Gdplayer) | 🇪🇸",
-"image": "https://i.imgur.com/5lNTjn0.png",
-"url": "https://enz.gdplayertv.to/live-tv/movistar-laliga/?embed=1",
-"embed": "true"
 },
 {
 "name": "Movistar La Liga (Laceaccept) | 🇪🇸",
@@ -1590,6 +1617,57 @@
 "url": "https://topembed.pw/channel/MLaliga[Spain]",
 "isHost": "true"
 },
+{
+"name": "Movistar La Liga 1080 | 🇪🇸",
+"info": "[Acestream elcano 947]",
+"online": "true",
+"image": "https://i.imgur.com/5lNTjn0.png",
+"url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947"
+},
+{
+"name": "Movistar La Liga 1080 | 🇪🇸",
+"info": "[Acestream elcano f1e]",
+"online": "true",
+"image": "https://i.imgur.com/5lNTjn0.png",
+"url": "acestream://c9321006921967d6258df6945f1d598a5c0cbf1e"
+},
+{
+"name": "Movistar La Liga 1080 | 🇪🇸",
+"info": "[Acestream elcano f74]",
+"online": "true",
+"image": "https://i.imgur.com/5lNTjn0.png",
+"url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74"
+},
+{
+"name": "Movistar La Liga FHD | 🇪🇸",
+"info": "[Acestream newera c45]",
+"online": "true",
+"image": "https://i.imgur.com/5lNTjn0.png",
+"url": "acestream://7e2f5e27994a90700e6c5b938d5face45577cc45"
+},
+{
+"name": "Movistar La Liga FHD | 🇪🇸",
+"info": "[Acestream newera 6b0]",
+"online": "true",
+"image": "https://i.imgur.com/5lNTjn0.png",
+"url": "acestream://10e451cb5bef2e34bf52cc48de811893528146b0"
+},
+{
+"name": "Movistar La Liga FHD | 🇪🇸",
+"info": "[Acestream elcano 92d]",
+"online": "true",
+"image": "https://i.imgur.com/5lNTjn0.png",
+"url": "acestream://d3de78aebe544611a2347f54d5796bd87f16c92d"
+},
+{
+"name": "Movistar La Liga FHD | 🇪🇸",
+"info": "[Acestream elcano 163]",
+"online": "true",
+"image": "https://i.imgur.com/5lNTjn0.png",
+"url": "acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163"
+},
+
+
 {
 "name": "DAZN La Liga 720 (Freckledine) | 🇪🇸",
 "image": "https://i.imgur.com/Mql5aBD.png",
@@ -1655,6 +1733,51 @@
 "isHost": "true"
 },
 {
+"name": "DAZN La Liga 1080 multiaudio | 🇪🇸",
+"info": "[Acestream elcano b05]",
+"online": "true",
+"image": "https://i.imgur.com/Mql5aBD.png",
+"url": "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05"
+},
+{
+"name": "DAZN La Liga FHD | 🇪🇸",
+"info": "[Acestream elcano f47]",
+"online": "true",
+"image": "https://i.imgur.com/Mql5aBD.png",
+"url": "acestream://110d441ddc9713a7452588770d2bc85504672f47"
+},
+{
+"name": "DAZN La Liga FHD | 🇪🇸",
+"info": "[Acestream elcano 70c]",
+"online": "true",
+"image": "https://i.imgur.com/Mql5aBD.png",
+"url": "acestream://ec29289b0b14756e686c03a501bae1efa05be70c"
+},
+{
+"name": "DAZN La Liga FHD | 🇪🇸",
+"info": "[Acestream elcano e0f]",
+"online": "true",
+"image": "https://i.imgur.com/Mql5aBD.png",
+"url": "acestream://6de4794cd02f88f14354b5996823413a59a1de0f"
+},
+{
+"name": "DAZN La Liga FHD | 🇪🇸",
+"info": "[Acestream newera 621]",
+"online": "true",
+"image": "https://i.imgur.com/Mql5aBD.png",
+"url": "acestream://4fa168d5401e4b2673100b237a976961b52cf621"
+},
+{
+"name": "DAZN La Liga FHD | 🇪🇸",
+"info": "[Acestream newera 3de]",
+"online": "true",
+"image": "https://i.imgur.com/Mql5aBD.png",
+"url": "acestream://96a8a772f150d9e57ca71a9765d2278c0c5423de"
+},
+
+
+
+{
 "name": "Movistar Liga de Campeones 720 (freckledine) | 🇪🇸",
 "image": "https://i.imgur.com/3PsaCB9.png",
 "online": "true",
@@ -1707,43 +1830,22 @@
 "isHost": "true"
 },
 {
-"name": "TDP 720 | 🇪🇸",
-"info":"[Tutvlive]",
-"online":"true",
-"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "https://forcedtoplay.xyz/",
-"url": "https://tutvlive.xyz/tvtodo/teledeportes-tdp.php",
-"isHost":"true"
+"name": "Liga de Campeones | 🇪🇸",
+"info": "[Acestream 370]",
+"online": "true",
+"image": "https://i.imgur.com/3PsaCB9.png",
+"url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
 },
-{
-"name": "TDP 720 | 🇪🇸",
-"info":"[RockHD]",
-"online":"true",
-"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "https://forcedtoplay.xyz/",
-"url": "https://rockhd.lol/live/stream-642.php",
-"isHost":"true"
-},
-{
-"name": "TDP 720 | 🇪🇸",
-"info":"[Miztv]",
-"online":"true",
-"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-"referer": "https://miztv.top",
-"url": "https://miztv.top/stream/stream-529.php",
-"isHost": "true"
-},
+
+
 {
 "name": "Dazn F1 🇪🇸",
-"info":"[RockHD]",
+"info":"[DlHD]",
 "online":"true",
 "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",        
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
 "referer" : "https://forcedtoplay.xyz/",
-"url": "https://rockhd.lol/live/stream-537.php",
+"url": "https://dlhd.click/stream/stream-537.php",
 "isHost":"true"
 },
 {
@@ -1766,26 +1868,8 @@
 "url": "https://tutvlive.xyz/tvtodo/daznf1.php",
 "isHost": "true"
 },
-{
-"name": "Real Madrid Tv | 🇪🇸",
-"image": "https://graph.facebook.com/RealMadrid/picture?width=200&height=200",
-"url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
-"name": "Liga de Campeones | 🇪🇸",
-"info": "[Acestream 370]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
-},
-{
-"name": "Movistar La Liga | 🇪🇸",
-"info": "[Acestream 947]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947"
-},
+
+
 {
 "name": "DAZN F1 4K | 🇪🇸",
 "info": "[Acestream 2b8]",
@@ -1849,84 +1933,94 @@
 "image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
 "url": "acestream://e779b17e30d5daa05ca25ab4e8c3150e582c6f25"
 },
+
+
 {
-"name": "Eurosports 2 | 🇪🇸",
-"info": "[Acestream 551]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://0585e09bb8ac9720e4c11934f1b184e309291551"
+"name": "TDP 1080 | 🇪🇸",
+"info":"[Cloud]",
+"online":"true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+"url": "https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
-"name": "Eurosports 2 | 🇪🇸",
-"info": "[Acestream ecc]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc"
+"name": "TDP 720 | 🇪🇸",
+"info":"[Tutvlive]",
+"online":"true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "https://forcedtoplay.xyz/",
+"url": "https://tutvlive.xyz/tvtodo/teledeportes-tdp.php",
+"isHost":"true"
 },
 {
-"name": "Eurosports 2 | 🇪🇸",
-"info": "[Acestream 031]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://2773b39926d15dd3d9495d94c4050604792d7031"
+"name": "TDP 720 | 🇪🇸",
+"info":"[DlHD]",
+"online":"true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "https://forcedtoplay.xyz/",
+"url": "https://dlhd.click/stream/stream-642.php",
+"isHost":"true"
 },
 {
-"name": "Teledeporte | 🇪🇸",
+"name": "TDP 720 | 🇪🇸",
+"info":"[Miztv]",
+"online":"true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+"referer": "https://miztv.top",
+"url": "https://miztv.top/stream/stream-529.php",
+"isHost": "true"
+},
+{
+"name": "TDP | 🇪🇸",
 "info": "[Acestream 230]",
 "online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
 "url": "acestream://138b30c93e8a780ac490a4f6d2181c41f3670230"
 },
 {
-"name": "Teledeporte | 🇪🇸",
+"name": "TDP | 🇪🇸",
 "info": "[Acestream 9ef]",
 "online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
 "url": "acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef"
 }, 
 {
-"name": "La 1 TVE | 🇪🇸",
-"info": "[Acestream 5a5]",
+"name": "Eurosports 2 FHD | 🇪🇸",
+"info": "[Acestream elcano 551]",
 "online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://8bdd29882fa2c2f9fe49e67b102934c9e293f5a5"
+"image": "https://i.imgur.com/hvAxt4r.png",
+"url": "acestream://0585e09bb8ac9720e4c11934f1b184e309291551"
 },
 {
-"name": "Cuatro | 🇪🇸",
-"info": "[Acestream 333]",
+"name": "Eurosports 2 FHD | 🇪🇸",
+"info": "[Acestream elcano 53f]",
 "online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://8670df538a11c6ec97b3f634981ddc4409ca0333"
+"image": "https://i.imgur.com/hvAxt4r.png",
+"url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f"
 },
 {
-"name": "Cuatro | 🇪🇸",
-"info": "[Acestream a91]",
+"name": "Eurosports 2 FHD | 🇪🇸",
+"info": "[Acestream newera ecc]",
 "online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://18f63b299de66029e17dc35e12f6c244e1979a91"
+"image": "https://i.imgur.com/hvAxt4r.png",
+"url": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc"
 },
 {
-"name": "Telecinco | 🇪🇸",
-"info": "[Acestream 6f5]",
+"name": "Eurosports 2 FHD | 🇪🇸",
+"info": "[Acestream newera 372]",
 "online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://3d376333ee90d6db3d413fc5764ef635882076f5"
+"image": "https://i.imgur.com/hvAxt4r.png",
+"url": "acestream://4b87a5b67f39dfc151a163ec8c08039520f0a372"
 },
 {
-"name": "Telecinco | 🇪🇸",
-"info": "[Acestream 75b]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b"
+"name": "Real Madrid Tv | 🇪🇸",
+"image": "https://graph.facebook.com/RealMadrid/picture?width=200&height=200",
+"url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
-{
-"name": "Telecinco | 🇪🇸",
-"info": "[Acestream 7bf]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf"
-}, 
-
 
 
 
@@ -1938,28 +2032,12 @@
 "stations":[
 
 {
-"name": "Discovery Turbo 1080 | 🇦🇷",
-"info": "[Zapping]",
+"name": "ETC | 🇨🇱",
+"info": "[Tele]",
 "online": "true",
-"image": "https://1.bp.blogspot.com/-eJqGszkGWFI/XaukdxerPHI/AAAAAAAAAfw/Qa6E_CIqIO4-exGRGJYvJnohIQ7B2G-SQCLcBGAsYHQ/s200/14.png",
-"url": "http://tv.zapping.life:8080/HDPinguino123dkdkkDDFFDFa/al3q83JYkd/9830",
-"userAgent": ""
-},
-{
-"name": "Discovery Turbo 1080 | 🇦🇷",
-"info": "[NTX]",
-"online": "true",
-"image": "https://1.bp.blogspot.com/-eJqGszkGWFI/XaukdxerPHI/AAAAAAAAAfw/Qa6E_CIqIO4-exGRGJYvJnohIQ7B2G-SQCLcBGAsYHQ/s200/14.png",
-"url": "https://nxt.plus:8443/restreamstalker/mzfJKHLK86fy/914.ts",
-"userAgent": ""
-},
-{
-"name": "Discovery Turbo 1080 | 🇦🇷",
-"info": "[Directo]",
-"online": "true",
-"image": "https://1.bp.blogspot.com/-eJqGszkGWFI/XaukdxerPHI/AAAAAAAAAfw/Qa6E_CIqIO4-exGRGJYvJnohIQ7B2G-SQCLcBGAsYHQ/s200/14.png",
-"url": "http://directo.ddns.me:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/2690",
-"userAgent": ""
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ETC_2016-actual.png/800px-ETC_2016-actual.png",
+"url": "https://telegratuita.com/reproductor/?r=L21nby9ldGMucGhw",
+"embed": "true"
 },
 {
 "name": "AniRetro | 🇨🇱",
@@ -1990,7 +2068,7 @@
 {
 "name": "Z Tv | 🇨🇱",
 "image": "https://cdn.m3u.cl/logo/1604_ZTV_Anime.png",
-"url": "https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL",
+"url": "https://mitv.zplay.cl/Ztv/index.m3u8",
 "userAgent": ""
 },
 {
@@ -2276,15 +2354,91 @@
 {
 "name": "La 1 | 🇪🇸",
 "image": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png",
-"url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8",
+"url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "La 1 FHD | 🇪🇸",
+"info": "[Acestream newera b2d]",
+"online": "true",
+"image": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png",
+"url": "acestream://14d3d8570a11cbc27ba2c94499df6014b462cb2d"
+},
+{
+"name": "La 1 FHD | 🇪🇸",
+"info": "[Acestream newera 5a5]",
+"online": "true",
+"image": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png",
+"url": "acestream://8bdd29882fa2c2f9fe49e67b102934c9e293f5a5"
+},
+{
+"name": "La 2 | 🇪🇸",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1900px-Logo_La_2.svg.png",
+"url": "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
 "name": "La 2 | 🇪🇸",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1900px-Logo_La_2.svg.png",
-"url": "https://ztnr.rtve.es/ztnr/1688885.m3u8",
+"url": "https://d4g9wh8d4wiaw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/21d7f586-b1ea-4478-87a1-a64f664c5999/0.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
+{
+"name": "La 2 FHD | 🇪🇸",
+"info": "[Acestream newera ac5]",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1900px-Logo_La_2.svg.png",
+"url": "acestream://fc36c7249aef74e3ea579500efdfd7a98d8e9ac5"
+},
+{
+"name": "Antena 3 FHD | 🇪🇸",
+"info": "[Acestream newera 496]",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/2231px-Logo_Antena_3_2025_%28Naranja%29.svg.png",
+"url": "acestream://390b5b0fc49a811c5c5ebd6d195b08a48b1e8496"
+},
+{
+"name": "Cuatro FHD | 🇪🇸",
+"info": "[Acestream elcano 333]",
+"online": "true",
+"image": "https://images.seeklogo.com/logo-png/31/2/cuatro-logo-png_seeklogo-315005.png",
+"url": "acestream://8670df538a11c6ec97b3f634981ddc4409ca0333"
+},
+{
+"name": "Cuatro FHD | 🇪🇸",
+"info": "[Acestream newera a91]",
+"online": "true",
+"image": "https://images.seeklogo.com/logo-png/31/2/cuatro-logo-png_seeklogo-315005.png",
+"url": "acestream://18f63b299de66029e17dc35e12f6c244e1979a91"
+},
+{
+"name": "Telecinco FHD | 🇪🇸",
+"info": "[Acestream elcano 6f5]",
+"online": "true",
+"image": "https://i.imgur.com/YfLxO0l.png",
+"url": "acestream://3d376333ee90d6db3d413fc5764ef635882076f5"
+},
+{
+"name": "Telecinco FHD | 🇪🇸",
+"info": "[Acestream newera 75b]",
+"online": "true",
+"image": "https://i.imgur.com/YfLxO0l.png",
+"url": "acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b"
+},
+{
+"name": "Telecinco FHD | 🇪🇸",
+"info": "[Acestream newera 7bf]",
+"online": "true",
+"image": "https://i.imgur.com/YfLxO0l.png",
+"url": "acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf"
+}, 
+{
+"name": "La Sexta FHD | 🇪🇸",
+"info": "[Acestream newera e31]",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/960px-La_Sexta_%28A3M%29.svg.png",
+"url": "acestream://1c6486082949172d1ffd318db8fb965dd5af7e31"
+}, 
 {
 "name": "Telefe 1080 (Viacon) | 🇦🇷",
 "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
@@ -2375,6 +2529,14 @@
 "name": "America Tv | 🇵🇪",
 "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png",
 "online": "true",
+"referer": "https://canalestvenvivo.com/",
+"url": "https://canalestvenvivo.com/canales/america/op1",
+"isHost": "true"
+},
+{
+"name": "America Tv | 🇵🇪",
+"image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png",
+"online": "true",
 "referer": "https://mihd.tv/",
 "url": "https://mihd.tv/america-tv-en-vivo-por-internet.html",
 "isHost": "true"
@@ -2408,48 +2570,21 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
-"name": "Caracol 1080 (181) | 🇨🇴",
+"name": "Caracol (CDN) | 🇨🇴",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
-"url": "http://181.78.14.26:8000/play/a00d",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+"online": "true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "https://cdn.chatytvgratis.net/",
+"url": "https://cdn.chatytvgratis.net/caracoltabs.php",
+"isHost":"true"
 },
 {
-"name": "Caracol 1080 (MiHD) | 🇨🇴",
+"name": "Caracol (MiHD) | 🇨🇴",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
 "online": "true",
 "referer": "https://mihd.tv/",
 "url": "https://mihd.tv/caracol-en-vivo-por-internet.html",
 "isHost": "true"
-},
-{
-"name": "Caracol (Live20) | 🇨🇴",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
-"url": "https://live20.bozztv.com/giatv/giatv-c1junfive/c1junfive/chunks.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
-"name": "Caracol | 🇨🇴",
-"info": "[Topembed]",
-"online": "true",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://topembed.pw/",
-"url": "https://topembed.pw/channel/Caracol[Colombia]",
-"isHost": "true"
-},
-{
-"name": "Caracol (La14HD) | 🇨🇴",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
-"online": "true",
-"url": "https://la14hd.com/vivo/canales.php?stream=caracol",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "Caracol (VerTv) | 🇨🇴",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
-"url": "https://www.vertvcable.com/channel.php?id=ch_67fc1f3626ca2",
-"embed": "true"
 },
 {
 "name": "Noticias Caracol | 🇨🇴",
@@ -2480,6 +2615,15 @@
 "image": "https://i.imgur.com/MJzuRAN.png",
 "url": "https://172a014eac554c789ddc21bb0cc2185c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNMas/playlist.m3u8?ads.wurl_channel=926",
 "epgId": "rcn-mas"
+},
+{
+"name": "City Tv (CDN) | 🇨🇴",
+"image": "https://cdn.prod.website-files.com/5e503ae333bea4052b1c5811/5f46c53008a4b308c345eca1_citytv.png",
+"online": "true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "https://cdn.chatytvgratis.net/",
+"url": "https://cdn.chatytvgratis.net/citytvtabs.php",
+"isHost":"true"
 },
 {
 "name": "TeleAntioquia | 🇨🇴",
@@ -2627,12 +2771,12 @@
 },
 {
 "name": "Azteca 7 | 🇲🇽",
-"info": "[RockHD]",
+"info": "[DlHD]",
 "online": "true",
 "image": "https://i.imgur.com/vcv8H63.png",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://forcedtoplay.xyz/",
-"url": "https://rockhd.lol/live/stream-642.php",
+"url": "https://dlhd.click/stream/stream-642.php",
 "isHost":"true"
 },
 {
@@ -2814,12 +2958,12 @@
 },
 {
 "name": "Univision | 🇺🇸",
-"info": "[RockHD]",
+"info": "[DlHD]",
 "online": "true",
 "image": "https://i.imgur.com/b5III2Y.png",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://forcedtoplay.xyz/",
-"url": "https://rockhd.lol/live/stream-132.php",
+"url": "https://dlhd.click/stream/stream-132.php",
 "isHost":"true"
 },
 {
@@ -2830,12 +2974,12 @@
 },
 {
 "name": "Unimas | 🇺🇸",
-"info": "[RockHD]",
+"info": "[DlHD]",
 "online": "true",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
 "referer" : "https://forcedtoplay.xyz/",
-"url": "https://rockhd.lol/live/stream-133.php",
+"url": "https://dlhd.click/stream/stream-133.php",
 "isHost":""
 },
 {
@@ -2888,7 +3032,7 @@
 "embed": "true"
 },
 {
-"name": "Chilevision 1080 | 🇨🇱",
+"name": "Chilevision | 🇨🇱",
 "info": "[Online]",
 "online": "true",
 "image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
@@ -2933,20 +3077,14 @@
 "isHost": true
 },
 {
-"name": "TVN 720 | 🇨🇱",
-"info": "[Mds]",
+"name": "TVN 1080 | 🇨🇱",
+"info": "[Photo]",
 "online": "true",
 "image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
-"url": "https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8",
-"userAgent": ""
-},
-{
-"name": "TVN 720 | 🇨🇱",
-"info": "[Mds]",
-"online": "true",
-"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
-"url": "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8",
-"userAgent": ""
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "https://photocalltv.org",
+"url": "https://photocalltv.org/h4tw/l1?ch=tvn",
+"isHost":"true"
 },
 {
 "name": "La Red | 🇨🇱",
@@ -2979,18 +3117,6 @@
 "userAgent": ""
 },
 {
-"name": "CNN Chile | 🇨🇱",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/250px-CNN_Chile_logo_2017.svg.png",
-"url": "https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR",
-"userAgent": ""
-},
-{
-"name": "CNN Chile | 🇨🇱",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/250px-CNN_Chile_logo_2017.svg.png",
-"url": "https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8",
-"userAgent": ""
-},
-{
 "name": "MegaNoticias | 🇨🇱",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/1200px-Meganoticias2019.png",
 "online": "true",
@@ -3008,6 +3134,12 @@
 "name": "T13 | 🇨🇱",
 "image": "https://cdn.m3u.cl/logo/1054_T13.png",
 "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
+"userAgent": ""
+},
+{
+"name": "T13 Radio | 🇨🇱",
+"image": "https://cdn.m3u.cl/logo/1198_T13_Radio.png",
+"url": "https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8",
 "userAgent": ""
 },
 {
@@ -3058,12 +3190,6 @@
 "name": "D13 | 🇨🇱",
 "image": "https://cdn.m3u.cl/logo/1199_D13.png",
 "url": "https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL",
-"userAgent": ""
-},
-{
-"name": "T13 Radio | 🇨🇱",
-"image": "https://cdn.m3u.cl/logo/1198_T13_Radio.png",
-"url": "https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8",
 "userAgent": ""
 },
 {
