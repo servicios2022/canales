@@ -62,33 +62,8 @@
 
 
 
-{
-"name": "TNT Sports Premium Chile 720 | 🇨🇱",
-"info": "[La14HD]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://cdn.chatytvgratis.net/caracoltabs.php",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "TNT Sports Chile 720 | 🇨🇱",
-"info": "[Tutvlive]",
-"online": "true",
-"image": "https://i.imgur.com/f2glGr9.png",
-"url": "https://cdn.chatytvgratis.net/caracoltabs.php",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
-"name": "TNT Sports Chile 720 | 🇨🇱",
-"info": "[DlHD]",
-"online": "true",
-"image": "https://i.imgur.com/f2glGr9.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "https://cdn.chatytvgratis.net/",
-"url": "https://cdn.chatytvgratis.net/caracoltabs.php",
-"isHost":"true"
-},
+
+
 
 
 
@@ -2593,6 +2568,15 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
+"name": "Caracol 1080 (CDN) | 🇨🇴",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
+"online": "true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "https://cdn.chatytvgratis.net/",
+"url": "https://cdn.chatytvgratis.net/caracoltabs.php",
+"isHost":"true"
+},
+{
 "name": "Caracol 1080 (MiHD) | 🇨🇴",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
 "online": "true",
@@ -2645,6 +2629,15 @@
 "image": "https://i.imgur.com/MJzuRAN.png",
 "url": "https://172a014eac554c789ddc21bb0cc2185c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNMas/playlist.m3u8?ads.wurl_channel=926",
 "epgId": "rcn-mas"
+},
+{
+"name": "City Tv (CDN) | 🇨🇴",
+"image": "https://cdn.prod.website-files.com/5e503ae333bea4052b1c5811/5f46c53008a4b308c345eca1_citytv.png",
+"online": "true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "https://cdn.chatytvgratis.net/",
+"url": "https://cdn.chatytvgratis.net/citytvtabs.php",
+"isHost":"true"
 },
 {
 "name": "TeleAntioquia | 🇨🇴",
