@@ -350,7 +350,7 @@
 "isHost": "true"
 },
 {
-"name": "TNT Sports Premium Chile 1080| 🇨🇱",
+"name": "TNT Sports Premium Chile 1080 | 🇨🇱",
 "info": "[190]",
 "online": "true",
 "image": "https://i.imgur.com/YTaeyss.png",
@@ -358,11 +358,19 @@
 "userAgent": ""
 },
 {
-"name": "TNT Sports Premium Chile 1080| 🇨🇱",
+"name": "TNT Sports Premium Chile 1080 | 🇨🇱",
 "info": "[181]",
 "online": "true",
 "image": "https://i.imgur.com/YTaeyss.png",
 "url": "http://181.188.216.5:18000/play/a0ik/index.m3u8",
+"userAgent": ""
+},
+{
+"name": "TNT Sports Premium Chile 720 | 🇨🇱",
+"info": "[104]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "http://104.238.205.28:8989/278540_.m3u8",
 "userAgent": ""
 },
 {
@@ -466,6 +474,38 @@
 "isHost": "true"
 },
 {
+"name": "ESPN Premium Argentina 1080 | 🇦🇷",
+"info": "[181]",
+"online": "true",
+"image": "https://i.imgur.com/5qTHLGy.png",
+"url": "http://181.188.216.5:18000/play/a0fe/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "ESPN Premium Argentina 1080 | 🇦🇷",
+"info": "[179]",
+"online": "true",
+"image": "https://i.imgur.com/5qTHLGy.png",
+"url": "http://179.51.136.19:8000/play/a1ar/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "ESPN Premium Argentina 1080 | 🇦🇷",
+"info": "[190]",
+"online": "true",
+"image": "https://i.imgur.com/5qTHLGy.png",
+"url": "http://190.102.246.93:9005/play/a00x",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "ESPN Premium Argentina 1080 | 🇦🇷",
+"info": "[190]",
+"online": "true",
+"image": "https://i.imgur.com/5qTHLGy.png",
+"url": "http://190.102.246.93:9005/play/a029",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
 "name": "ESPN Premium Argentina 720 | 🇦🇷",
 "info": "[SDMX]",
 "online": "true",
@@ -549,6 +589,22 @@
 "online": "true",
 "image": "https://i.imgur.com/ItEH0oC.png",
 "url": "http://tv.zapping.life:8080/WWre1iLlli09384ks34/vhaGbZ4RXY/7951",
+"userAgent": ""
+},
+{
+"name": "TNT Sports Argentina 720 | 🇦🇷",
+"info": "[104]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+"url": "http://104.238.205.28:8989/278776_.m3u8",
+"userAgent": ""
+},
+{
+"name": "TNT Sports Argentina 720 | 🇦🇷",
+"info": "[104]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+"url": "http://104.238.205.28:8989/278777_.m3u8",
 "userAgent": ""
 },
 {
@@ -638,7 +694,7 @@
 "isHost": "true"
 },
 {
-"name": "ESPN Chile 1080 | 🇦🇷",
+"name": "ESPN Chile 1080 | 🇨🇱",
 "info": "[179]",
 "online": "true",
 "image": "https://i.imgur.com/MFhpD4D.png",
