@@ -3171,6 +3171,14 @@
 },
 {
 "name": "Mega 1080 | 🇨🇱",
+"info": "[Sitelco]",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
+"url": "http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/9",
+"userAgent": ""
+},
+{
+"name": "Mega 1080 | 🇨🇱",
 "info": "[Online]",
 "online": "true",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
@@ -3192,6 +3200,14 @@
 "online": "true",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
 "url": "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8",
+"userAgent": ""
+},
+{
+"name": "Chilevision 1080 | 🇨🇱",
+"info": "[Sitelco]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"url": "http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/11",
 "userAgent": ""
 },
 {
@@ -3248,6 +3264,14 @@
 "playOnLoad": "true"
 },
 {
+"name": "Canal 13 1080 | 🇨🇱",
+"info": "[Sitelco]",
+"online": "true",
+"image": "https://i.imgur.com/RazPUFz.png",
+"url": "http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/13",
+"userAgent": ""
+},
+{
 "name": "Canal 13 720 | 🇨🇱",
 "info": "[Jireh]",
 "online": "true",
@@ -3273,6 +3297,14 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "isHost": ""
+},
+{
+"name": "TVN 1080 | 🇨🇱",
+"info": "[Sitelco]",
+"online": "true",
+"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
+"url": "http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/7",
+"userAgent": ""
 },
 {
 "name": "TVN 1080 | 🇨🇱",
