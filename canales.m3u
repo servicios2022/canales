@@ -1,10 +1,10 @@
 
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",MEGA | 🇨🇱
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",MEGA 
 http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/9
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RazPUFz.png",CANAL 13 | 🇨🇱
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RazPUFz.png",CANAL 13 
 http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/13
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",CHV | 🇨🇱
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",CHV 
 http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/11
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",TVN | 🇨🇱
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",TVN 
 http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/7
