@@ -2904,6 +2904,12 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
+"name": "Mi Tyme Mexico | 🇲🇽",
+"image": "https://img.vidks.net/v2x/l/mytime-movie-brazil.webp?b105",
+"url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8",
+"epgId": "telediario-now"
+}, 
+{
 "name": "Imagen + | 🇲🇽",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/960px-Logo_Imagen_Televisi%C3%B3n_2016.png",
 "url": "https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8",
@@ -2946,9 +2952,21 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
-"name": "Azteca Internacional | 🇲🇽",
+"name": "Azteca Mundo | 🇲🇽",
 "image": "https://media.tvup.cloud/canales/color_lg_6523ab28416c1045648ebdcc.png",
 "url": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "Azteca Clip | 🇲🇽",
+"image": "https://media.tvup.cloud/canales/color_lg_6523ab28416c1045648ebdcc.png",
+"url": "https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "Azteca Cinema | 🇲🇽",
+"image": "https://media.tvup.cloud/canales/color_lg_6523ab28416c1045648ebdcc.png",
+"url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
