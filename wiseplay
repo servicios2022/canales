@@ -109,14 +109,6 @@
 },
 {
 "name": "PPV Eventos UFC 720 | 🇲🇽",
-"info": "[ESPN Deportes]",
-"online": "true",
-"image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
-"url": "https://miztv.top/stream/stream-375.php",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
-"name": "PPV Eventos UFC 720 | 🇲🇽",
 "info": "[Fox Sports 2]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
@@ -529,15 +521,6 @@
 },
 {
 "name": "ESPN Premium Argentina | 🇦🇷",
-"info": "[Miztv]",
-"online": "true",
-"image": "https://i.imgur.com/5qTHLGy.png",
-"referer" : "https://forcedtoplay.xyz/",
-"url": "https://miztv.top/stream/stream-387.php",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
-"name": "ESPN Premium Argentina | 🇦🇷",
 "info": "[Streamdp]",
 "online": "true",
 "image": "https://i.imgur.com/5qTHLGy.png",
@@ -706,16 +689,6 @@
 },
 {
 "name": "ESPN Argentina | 🇦🇷",
-"info": "[Miztv]",
-"online": "true",
-"image": "https://i.imgur.com/MFhpD4D.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-"referer": "https://miztv.top",
-"url": "https://miztv.top/stream/stream-149.php",
-"isHost": "true"
-},
-{
-"name": "ESPN Argentina | 🇦🇷",
 "info": "[190]",
 "online": "true",
 "image": "https://i.imgur.com/MFhpD4D.png",
@@ -829,16 +802,6 @@
 "image": "https://i.imgur.com/jq1s4to.png",
 "url": "https://la14hd.com/vivo/canales.php?stream=espn2",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "ESPN 2 | 🇦🇷",
-"info": "[Miztv]",
-"online": "true",
-"image": "https://i.imgur.com/jq1s4to.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-"referer": "https://miztv.top",
-"url": "https://miztv.top/stream/stream-150.php",
 "isHost": "true"
 },
 {
@@ -1259,16 +1222,6 @@
 "isHost": "true"
 },
 {
-"name": "Win Sports+ | 🇨🇴",
-"info": "[Miztv]",
-"online": "true",
-"image": "https://i.imgur.com/rzpcdnf.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-"referer": "https://miztv.top",
-"url": "https://miztv.top/stream/stream-392.php",
-"isHost": "true"
-},
-{
 "name": "Win Sports+ (Vertv) | 🇨🇴",
 "image": "https://i.imgur.com/rzpcdnf.png",
 "url": "https://www.vertvcable.com/channel.php?id=ch_67fb064818ab3",
@@ -1281,16 +1234,6 @@
 "image": "https://i.imgur.com/TyfMsBw.png",
 "url": "https://streamtpglobal.com/global1.php?stream=vtvplus",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "VTV Plus | 🇺🇾",
-"info": "[Miztv]",
-"online": "true",
-"image": "https://i.imgur.com/TyfMsBw.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-"referer": "https://miztv.top",
-"url": "https://miztv.top/stream/stream-391.php",
 "isHost": "true"
 },
 {
@@ -1407,16 +1350,6 @@
 },
 {
 "name": "TUDN USA 720 | 🇺🇸",
-"info": "[Miztv]",
-"online": "true",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-"referer": "https://miztv.top",
-"url": "https://miztv.top/stream/stream-66.php",
-"isHost": "true"
-},
-{
-"name": "TUDN USA 720 | 🇺🇸",
 "info": "[Streamingon]",
 "online": "true",
 "image": "https://i.imgur.com/U6DKWV0.png",
@@ -1450,14 +1383,6 @@
 "url": "https://la14hd.com/vivo/canales.php?stream=tudn_usa",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
-},
-{
-"name": "ESPN Deportes 720 | 🇺🇸",
-"info": "[Miztv]",
-"online": "true",
-"image": "https://i.imgur.com/cYvji3A.png",
-"url": "https://miztv.top/stream/stream-375.php",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
 "name": "ESPN Deportes | 🇺🇸",
@@ -1506,16 +1431,6 @@
 "userAgent": ""
 },
 {
-"name": "Bein Sports Ñ 720 | 🇺🇸",
-"info": "[Miztv]",
-"online": "true",
-"image": "https://i.imgur.com/c4gfwhr.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-"referer": "https://miztv.top",
-"url": "https://miztv.top/stream/stream-372.php",
-"isHost": "true"
-},
-{
 "name": "Bein Sports Extra Ñ 1080 (Xumo) | 🇺🇸",
 "image": "https://i.imgur.com/R8c4qIq.png",
 "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
@@ -1550,12 +1465,6 @@
 "url": "https://letcast.pro/steam.php?stream=4eLyr2RZq7v",
 "referer": "https://hyperstream.click/",
 "isHost": "true"
-},
-{
-"name": "Movistar La Liga (Miztv) | 🇪🇸",
-"image": "https://i.imgur.com/5lNTjn0.png",
-"url": "https://miztv.top/stream/stream-84.php",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
 "name": "Movistar La Liga (Topembed) | 🇪🇸",
@@ -1736,12 +1645,6 @@
 "isHost": "true"
 },
 {
-"name": "Movistar Liga de Campeones 720 (Miztv) | 🇪🇸",
-"image": "https://i.imgur.com/3PsaCB9.png",
-"url": "https://miztv.top/stream/stream-435.php",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
 "name": "Movistar Liga de Campeones 720 (Streamingon) | 🇪🇸",
 "image": "https://i.imgur.com/3PsaCB9.png",
 "online": "true",
@@ -1786,17 +1689,6 @@
 "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
 },
 
-
-{
-"name": "Dazn F1 🇪🇸",
-"info":"[Miztv]",
-"online":"true",
-"image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",   
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "https://forcedtoplay.xyz/",
-"url": "https://miztv.top/24-hours-channels.php",
-"isHost":"true"
-},
 
 
 {
@@ -1871,16 +1763,6 @@
 "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
 "url": "https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
-"name": "TDP 720 | 🇪🇸",
-"info":"[Miztv]",
-"online":"true",
-"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-"referer": "https://miztv.top",
-"url": "https://miztv.top/stream/stream-529.php",
-"isHost": "true"
 },
 {
 "name": "TDP | 🇪🇸",
@@ -2831,14 +2713,6 @@
 "isHost": "true"
 },
 {
-"name": "Telemundo 52 Los Angeles 720 | 🇺🇸",
-"info": "[Miztv]",
-"online": "true",
-"image": "https://i.imgur.com/9piuN0T.png",
-"url": "https://miztv.top/total/stream-131.php",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
 "name": "Telemundo 52 Los Angeles | 🇺🇸",
 "info": "[Telefull]",
 "online": "true",
@@ -2896,14 +2770,6 @@
 "referer": "https://deporte-libre.link",
 "url": "https://deporte-libre.link/stream/stream-132.php",
 "isHost": "true"
-},
-{
-"name": "Univision | 🇺🇸",
-"info": "[Miztv]",
-"online": "true",
-"image": "https://i.imgur.com/b5III2Y.png",
-"url": "https://miztv.top/stream/stream-132.php",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
 "name": "Univision 24/7 | 🇺🇸",
