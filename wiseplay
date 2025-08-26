@@ -117,14 +117,6 @@
 },
 {
 "name": "PPV Eventos UFC 720 | 🇲🇽",
-"info": "[ESPN Deportes]",
-"online": "true",
-"image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
-"url": "https://tutvlive.xyz/tvtodo/espn-deportes.php",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
-"name": "PPV Eventos UFC 720 | 🇲🇽",
 "info": "[Fox Sports 2]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
@@ -439,15 +431,6 @@
 "url": "https://dokko1new.newkso.ru/dokko1/premium642/mono.m3u8",
 "isHost":""
 },
-{
-"name": "TNT Sports Chile 720 | 🇨🇱",
-"info": "[Tutvlive]",
-"online": "true",
-"image": "https://i.imgur.com/f2glGr9.png",
-"url": "https://tutvlive.xyz/tvtodo/tnt-chile.php",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-
 
 
 
@@ -555,15 +538,6 @@
 },
 {
 "name": "ESPN Premium Argentina | 🇦🇷",
-"info": "[Tutvlive]",
-"online": "true",
-"image": "https://i.imgur.com/5qTHLGy.png",
-"referer" : "https://forcedtoplay.xyz/",
-"url": "https://tutvlive.xyz/tvtodo/espnpremiun.php",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
-"name": "ESPN Premium Argentina | 🇦🇷",
 "info": "[Streamdp]",
 "online": "true",
 "image": "https://i.imgur.com/5qTHLGy.png",
@@ -634,14 +608,6 @@
 "online": "true",
 "image": "https://i.imgur.com/ItEH0oC.png",
 "url": "https://miztv.top/stream/stream-388.php",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
-"name": "TNT Sports Argentina | 🇦🇷",
-"info": "[Tutvlive]",
-"online": "true",
-"image": "https://i.imgur.com/ItEH0oC.png",
-"url": "https://tutvlive.xyz/tvtodo/tnt-sports.php",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
@@ -727,16 +693,6 @@
 "image": "https://i.imgur.com/MFhpD4D.png",
 "url": "http://181.188.216.5:18000/play/a0gn/index.m3u8",
 "userAgent": ""
-},
-{
-"name": "ESPN Argentina | 🇦🇷",
-"info": "[Tutvlive]",
-"online": "true",
-"image": "https://i.imgur.com/MFhpD4D.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "https://forcedtoplay.xyz/",
-"url": "https://tutvlive.xyz/tvtodo/espn.php",
-"isHost":"true"
 },
 {
 "name": "ESPN Argentina | 🇦🇷",
@@ -895,14 +851,6 @@
 "isHost": "true"
 },
 {
-"name": "ESPN 2 | 🇦🇷",
-"info": "[Tutvlive]",
-"online": "true",
-"image": "https://i.imgur.com/jq1s4to.png",
-"url": "https://tutvlive.xyz/tvtodo/espn-2.php",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
 "name": "ESPN 3 1080 | 🇦🇷",
 "info": "[Streamtp]",
 "online": "true",
@@ -936,14 +884,6 @@
 "image": "https://i.imgur.com/y3VGGV0.png",
 "url": "http://190.60.37.118:4000/play/a02y",
 "userAgent": ""
-},
-{
-"name": "ESPN 3 | 🇦🇷",
-"info": "[Tutvlive]",
-"online": "true",
-"image": "https://i.imgur.com/y3VGGV0.png",
-"url": "https://tutvlive.xyz/tvtodo/espn-3.php",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
 "name": "ESPN 4 | 🇦🇷",
@@ -1119,14 +1059,6 @@
 },
 {
 "name": "TyC Sports 720 | 🇦🇷",
-"info": "[Tutvlive]",
-"online": "true",
-"image": "https://i.imgur.com/zfkBNdb.png",
-"url": "https://tutvlive.xyz/tvtodo/tyc-sports.php",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
-"name": "TyC Sports 720 | 🇦🇷",
 "info": "[Topembed]",
 "online": "true",
 "image": "https://i.imgur.com/zfkBNdb.png",
@@ -1143,16 +1075,6 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "https://telefullhd.com/",
 "url": "https://telefullhd.com/canales/tyc/op2.php",
-"isHost": "true"
-},
-{
-"name": "TyC Sports | 🇦🇷",
-"info": "[Miztv]",
-"online": "true",
-"image": "https://i.imgur.com/zfkBNdb.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-"referer": "https://miztv.top",
-"url": "https://tutvlive.xyz/tvtodo/tyc-sports.php",
 "isHost": "true"
 },
 {
@@ -1347,16 +1269,6 @@
 "isHost": "true"
 },
 {
-"name": "Win Sports+ | 🇨🇴",
-"info": "[Tutvlive]",
-"online": "true",
-"image": "https://i.imgur.com/rzpcdnf.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-"referer": "https://miztv.top",
-"url": "https://tutvlive.xyz/tvtodo/winsports.php",
-"isHost": "true"
-},
-{
 "name": "Win Sports+ (Vertv) | 🇨🇴",
 "image": "https://i.imgur.com/rzpcdnf.png",
 "url": "https://www.vertvcable.com/channel.php?id=ch_67fb064818ab3",
@@ -1505,16 +1417,6 @@
 },
 {
 "name": "TUDN USA 720 | 🇺🇸",
-"info": "[Tutvlive]",
-"online": "true",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "https://forcedtoplay.xyz/",
-"url": "https://tutvlive.xyz/tvtodo/tudn-usa.php",
-"isHost":"true"
-},
-{
-"name": "TUDN USA 720 | 🇺🇸",
 "info": "[Streamingon]",
 "online": "true",
 "image": "https://i.imgur.com/U6DKWV0.png",
@@ -1555,14 +1457,6 @@
 "online": "true",
 "image": "https://i.imgur.com/cYvji3A.png",
 "url": "https://miztv.top/stream/stream-375.php",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
-"name": "ESPN Deportes 720 | 🇺🇸",
-"info": "[Tutvlive]",
-"online": "true",
-"image": "https://i.imgur.com/cYvji3A.png",
-"url": "https://tutvlive.xyz/tvtodo/espn-deportes.php",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
@@ -1619,16 +1513,6 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
 "referer": "https://miztv.top",
 "url": "https://miztv.top/stream/stream-372.php",
-"isHost": "true"
-},
-{
-"name": "Bein Sports Ñ 720 | 🇺🇸",
-"info": "[Tutvlive]",
-"online": "true",
-"image": "https://i.imgur.com/c4gfwhr.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-"referer": "https://miztv.top",
-"url": "https://tutvlive.xyz/tvtodo/bein-sports.php",
 "isHost": "true"
 },
 {
@@ -1913,16 +1797,6 @@
 "url": "https://miztv.top/24-hours-channels.php",
 "isHost":"true"
 },
-{
-"name": "Dazn F1 🇪🇸",
-"info":"[Tutvlive]",
-"online":"true",
-"image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",   
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-"referer": "https://miztv.top",
-"url": "https://tutvlive.xyz/tvtodo/daznf1.php",
-"isHost": "true"
-},
 
 
 {
@@ -1997,16 +1871,6 @@
 "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
 "url": "https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
-"name": "TDP 720 | 🇪🇸",
-"info":"[Tutvlive]",
-"online":"true",
-"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "https://forcedtoplay.xyz/",
-"url": "https://tutvlive.xyz/tvtodo/teledeportes-tdp.php",
-"isHost":"true"
 },
 {
 "name": "TDP 720 | 🇪🇸",
@@ -2884,16 +2748,6 @@
 },
 {
 "name": "Az 7 | 🇲🇽",
-"info": "[Tutvlive]",
-"online": "true",
-"image": "https://i.imgur.com/vcv8H63.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "https://tutvlive.xyz",
-"url": "https://tutvlive.xyz/tvtodo/azteca-7.php",
-"isHost":"true"
-},
-{
-"name": "Az 7 | 🇲🇽",
 "info": "[Tele]",
 "online": "true",
 "image": "https://i.imgur.com/vcv8H63.png",
@@ -2982,14 +2836,6 @@
 "online": "true",
 "image": "https://i.imgur.com/9piuN0T.png",
 "url": "https://miztv.top/total/stream-131.php",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
-"name": "Telemundo 52 Los Angeles 720 | 🇺🇸",
-"info": "[Tutvlive]",
-"online": "true",
-"image": "https://i.imgur.com/9piuN0T.png",
-"url": "https://tutvlive.xyz/tvtodo/telemundo.php",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
