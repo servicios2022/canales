@@ -3366,6 +3366,12 @@
 "isHost":"true"
 },
 {
+"name": "TV Chile | 🇨🇱",
+"image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_de_TV_Chile.png",
+"url": "https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8",
+"userAgent": ""
+},
+{
 "name": "La Red | 🇨🇱",
 "image": "https://cdn.m3u.cl/logo/790_La_Red.png",
 "url": "https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8",
