@@ -2167,20 +2167,6 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
-"name": "La 1 FHD | 🇪🇸",
-"info": "[Acestream newera b2d]",
-"online": "true",
-"image": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png",
-"url": "acestream://14d3d8570a11cbc27ba2c94499df6014b462cb2d"
-},
-{
-"name": "La 1 FHD | 🇪🇸",
-"info": "[Acestream newera 5a5]",
-"online": "true",
-"image": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png",
-"url": "acestream://8bdd29882fa2c2f9fe49e67b102934c9e293f5a5"
-},
-{
 "name": "La 2 | 🇪🇸",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1900px-Logo_La_2.svg.png",
 "url": "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8",
@@ -2193,46 +2179,11 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
-"name": "La 2 FHD | 🇪🇸",
-"info": "[Acestream newera ac5]",
-"online": "true",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1900px-Logo_La_2.svg.png",
-"url": "acestream://fc36c7249aef74e3ea579500efdfd7a98d8e9ac5"
-},
-{
-"name": "Antena 3 FHD | 🇪🇸",
-"info": "[Acestream newera 496]",
-"online": "true",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/2231px-Logo_Antena_3_2025_%28Naranja%29.svg.png",
-"url": "acestream://390b5b0fc49a811c5c5ebd6d195b08a48b1e8496"
-},
-{
-"name": "Cuatro FHD | 🇪🇸",
-"info": "[Acestream elcano 333]",
-"online": "true",
-"image": "https://images.seeklogo.com/logo-png/31/2/cuatro-logo-png_seeklogo-315005.png",
-"url": "acestream://8670df538a11c6ec97b3f634981ddc4409ca0333"
-},
-{
-"name": "Cuatro FHD | 🇪🇸",
-"info": "[Acestream newera a91]",
-"online": "true",
-"image": "https://images.seeklogo.com/logo-png/31/2/cuatro-logo-png_seeklogo-315005.png",
-"url": "acestream://18f63b299de66029e17dc35e12f6c244e1979a91"
-},
-{
 "name": "Telecinco FHD | 🇪🇸",
 "info": "[Acestream elcano 6f5]",
 "online": "true",
 "image": "https://i.imgur.com/YfLxO0l.png",
 "url": "acestream://3d376333ee90d6db3d413fc5764ef635882076f5"
-},
-{
-"name": "Telecinco FHD | 🇪🇸",
-"info": "[Acestream newera 75b]",
-"online": "true",
-"image": "https://i.imgur.com/YfLxO0l.png",
-"url": "acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b"
 },
 {
 "name": "Telecinco FHD | 🇪🇸",
@@ -2242,12 +2193,12 @@
 "url": "acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf"
 }, 
 {
-"name": "La Sexta FHD | 🇪🇸",
-"info": "[Acestream newera e31]",
+"name": "Telecinco FHD | 🇪🇸",
+"info": "[Acestream newera 75b]",
 "online": "true",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/960px-La_Sexta_%28A3M%29.svg.png",
-"url": "acestream://1c6486082949172d1ffd318db8fb965dd5af7e31"
-}, 
+"image": "https://i.imgur.com/YfLxO0l.png",
+"url": "acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b"
+},
 {
 "name": "Telefe 1080 (Viacon) | 🇦🇷",
 "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
