@@ -1507,6 +1507,12 @@
 "userAgent": ""
 },
 {
+"name": "TUDN (Cord) | 🇲🇽",
+"image": "https://i.imgur.com/U6DKWV0.png",
+"url": "http://cord-cutter.net:8080/Rme2Fg/183926/11885",
+"userAgent": ""
+},
+{
 "name": "TUDN (MiHD) | 🇲🇽",
 "image": "https://i.imgur.com/U6DKWV0.png",
 "online": "true",
@@ -2428,7 +2434,14 @@
 "image": "https://provider-static.plex.tv/epg/cms/production/60eab046-387c-433c-8034-1f7216758198/NOVELISIMA_HorzHero_-_Ali_Clausen.jpg",
 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380",
 "epgId": "novelisima"
-}, {
+}, 
+ {
+"name": "Televisa Novelas",
+"image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Logotipo_de_Televisa_%281990-1998%29.png",
+"url": "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
+"epgId": "novelisima"
+}, 
+{
 "name": "C4 en Alerta",
 "image": "https://images.pluto.tv/channels/673f7446030a2c0008231bc3/featuredImage_1751039268240.jpg",
 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420",
