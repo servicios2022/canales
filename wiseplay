@@ -2292,6 +2292,12 @@
 "epgId": "pitufo-tv"
 },
 {
+"name": "Sony Cine",
+"image": "https://i.imgur.com/3hizOyc.jpeg",
+"url": "https://a-cdn.klowdtv.com:443/803B48A/a-klowdtv.com/live1/cine_720p/playlist.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
 "name": "Runtime",
 "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_es_1920x1080_0.jpg",
 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152",
