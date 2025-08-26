@@ -2904,15 +2904,45 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
-"name": "ADN40 | 🇲🇽",
+"name": "Imagen + | 🇲🇽",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/960px-Logo_Imagen_Televisi%C3%B3n_2016.png",
+"url": "https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8",
+"epgId": "telediario-now"
+}, 
+{
+"name": "ADN 40 | 🇲🇽",
 "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Adn40_2022.png",
 "url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
-"name": "Las Estrellas | 🇲🇽",
-"image": "https://i.imgur.com/g5ShxZ7.png",
-"url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
+"name": "Telediario Now | 🇲🇽",
+"image": "https://www.lg.com/content/dam/channel/wcms/mx/2025/march/lg-channels/im%C3%A1genes-actualizadas/noticias/270325_LOGOS_LGCHANNELS_BLACK_003.png",
+"url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014",
+"epgId": "telediario-now"
+}, 
+{
+"name": "Teleformula | 🇲🇽",
+"image": "https://m.media-amazon.com/images/I/619X4kMohBL.png",
+"url": "https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8",
+"epgId": "telediario-now"
+}, 
+{
+"name": "Foro Tv | 🇲🇽",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/N%2B_Foro_2024.svg/2560px-N%2B_Foro_2024.svg.png",
+"url": "https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "Estrella Tv | 🇲🇽",
+"image": "https://graph.facebook.com/EstrellaTVNetwork/picture?width=200&height=200",
+"url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "Estrella Tv | 🇲🇽",
+"image": "https://graph.facebook.com/EstrellaTVNetwork/picture?width=200&height=200",
+"url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
@@ -2940,24 +2970,6 @@
 "epgId": "canal-6-cdmx"
 },
 {
-"name": "Estrella Tv | 🇲🇽",
-"image": "https://graph.facebook.com/EstrellaTVNetwork/picture?width=200&height=200",
-"url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
-"name": "Foro Tv | 🇲🇽",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/N%2B_Foro_2024.svg/2560px-N%2B_Foro_2024.svg.png",
-"url": "https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
-"name": "Estrella Tv | 🇲🇽",
-"image": "https://graph.facebook.com/EstrellaTVNetwork/picture?width=200&height=200",
-"url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
 "name": "Milenio Televisión | 🇲🇽",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/640px-Milenio_Television.png",
 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401",
@@ -2969,12 +2981,6 @@
 "url": "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8?uid=2i2bzPvKsEJ65OkOU6MbUwS0nQjEAxB7&sid=HN5SEWatl6lcA0kVSszqu3mpk35ney4P&pid=7RwOzwLBfqdEpmIE5PoQHI6Y6Sq2nmni&an=screen&at=web-app&av=v5.2.201&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=300x150&without_cookies=false&dnt=true.m3u8",
 "epgId": "milenio-television"
 },
-{
-"name": "Telediario Now | 🇲🇽",
-"image": "https://www.lg.com/content/dam/channel/wcms/mx/2025/march/lg-channels/im%C3%A1genes-actualizadas/noticias/270325_LOGOS_LGCHANNELS_BLACK_003.png",
-"url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014",
-"epgId": "telediario-now"
-}, 
 {
 "name": "Pelimex | 🇲🇽",
 "image": "https://images.squarespace-cdn.com/content/v1/5ea862a8804f7204dfbb35fb/ac03fd6d-c360-4909-9162-8fbd6ff36ebc/Pelimex+logo+sq+large.jpg",
@@ -3203,6 +3209,18 @@
 "referer" : "https://forcedtoplay.xyz/",
 "url": "https://dlhd.click/stream/stream-132.php",
 "isHost":"true"
+},
+{
+"name": "Univision 24/7 | 🇺🇸",
+"image": "https://www.univision.com/api/image/x/us/noticias/noticias-univision-24-7-gratis",
+"url": "https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "Univision 24/7 | 🇺🇸",
+"image": "https://www.univision.com/api/image/x/us/noticias/noticias-univision-24-7-gratis",
+"url": "https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
 "name": "Unimas | 🇺🇸",
