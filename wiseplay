@@ -2554,6 +2554,12 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
+"name": "TVE Internacional| 🇪🇸",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2084px-Logo_TVE-Internacional.svg.png",
+"url": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
 "name": "La 1 | 🇪🇸",
 "image": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png",
 "url": "https://ztnr.rtve.es/ztnr/1688877.m3u8",
