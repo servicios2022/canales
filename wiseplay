@@ -2934,6 +2934,12 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
+"name": "Estrella Tv | 🇲🇽",
+"image": "https://graph.facebook.com/EstrellaTVNetwork/picture?width=200&height=200",
+"url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
 "name": "Milenio Televisión | 🇲🇽",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/640px-Milenio_Television.png",
 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401",
@@ -3614,6 +3620,18 @@
 "image": "https://cdn.m3u.cl/logo/1651_TeleZeta_Tropical.png",
 "url": "https://stream.telezeta.cl/live/index.m3u8",
 "userAgent": ""
+},
+{
+"name": "La Voz Grupera | 🇲🇽",
+"image": "https://i.imgur.com/Ku1CEeb.png",
+"url": "https://cloudvideo.servers10.com:8081/8128/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "Teleritmo | 🇲🇽",
+"image": "https://directostv.teleame.com/wp-content/uploads/2017/10/Teleritmo-en-vivo-Online-1.png",
+"url": "https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
 "name": "Tropical Ranchero | 🇨🇱",
