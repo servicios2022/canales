@@ -2555,6 +2555,12 @@
 "epgId": "todo-crimen"
 },
 {
+"name": "Cocina Andalucia | 🇪🇸",
+"image": "https://i.ibb.co/LrnwFnz/andacocina.png",
+"url": "https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
 "name": "El País",
 "image": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/2ed79327-afc6-47cb-9e5a-5b8c67aa60ff.jpeg",
 "number": "907",
@@ -2918,12 +2924,6 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
-"name": "Mi Tyme Mexico | 🇲🇽",
-"image": "https://img.vidks.net/v2x/l/mytime-movie-brazil.webp?b105",
-"url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8",
-"epgId": "telediario-now"
-}, 
-{
 "name": "Imagen + | 🇲🇽",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/960px-Logo_Imagen_Televisi%C3%B3n_2016.png",
 "url": "https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8",
@@ -3008,17 +3008,17 @@
 "epgId": "todo-cine"
 },
 {
+"name": "Tastemade | 🇲🇽",
+"image": "https://i.ibb.co/LrnwFnz/andacocina.png",
+"url": "https://amg00047-tastemade-tastemadees16international24i-ono-h4pdz.amagi.tv/playlist/amg00047-tastemade-tastemadees16international24i-ono/cb513d177b6c638c84cb3678d1d3d091a65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600e66413e1ad668db7907b2ce08ed0868280811fa99c365db9a1309b2dd112a2ab4710e16b81705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434ff9081fa6f901fde0e54345c81ff9f34315c03044e4835cc9ca1abc87dc459d4a960bae46c4cea59bb041d4d7d33ab652b163470b743fddd57d919f04b78c9b243bce702c0b4f04e3a5defc193e870a4759feac9aea35a94b978a71b39d56d176f09f0b8aeb11c83a91a32585a1fbec434d2fa5c0547355d88fc2a4da45fe39fb99d884f37c6e8dfe54594acc7fd1212a42e3952aaf3ea267fa85228bf45a1c34d69041948ff0c4875036f0fd57a8f4c7e241664b730510925caf9f63cf269d7cad8e2020520d77ac9643c582d64c7a021dcfe85aa578ce7fc22c8a942e423077e798ab4deffb4f1fed39696eec2ef8d51960b6150b89233cff5727baf69dd2ec948ad4ff0f37b9df8817b13faffd26dbf817b1367c780cb7e02356410c2c84b5263e1d34e210b185efa1551c09e0f382cbf00219496b44035cdbb7a920cbd99b690a0088130770641c12a101d442d61406557d9e5080fa493cae2e1500caeb7f5153679388968484ddc50df549d6ddee3020351637f363450566c1b9805cb269182f340dce593314e549091baab8c6e7908c6b8eaf65ac39701d2c90a3400f5a04010e60fcb166d34ced9a19cbf99b08b6afe775768431b0141e99a2bb5ff9e092d24108d2c67a16659edf22854325c819d121eb83298da834e67d86b4ec18e8b569a5e3a2b80530c43835f6d0022220/195/1920x1080_4716800/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
 "name": "Az Corazón",
 "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/corazon_1920x1080.png",
 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826",
 "epgId": "corazon"
 }, 
-{
-"name": "Az Mundo | 🇲🇽",
-"image": "https://media.tvup.cloud/canales/color_lg_6523ab28416c1045648ebdcc.png",
-"url": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
 {
 "name": "Az Clip | 🇲🇽",
 "image": "https://media.tvup.cloud/canales/color_lg_6523ab28416c1045648ebdcc.png",
@@ -3026,16 +3026,16 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
-"name": "Az Cinema | 🇲🇽",
-"image": "https://media.tvup.cloud/canales/color_lg_6523ab28416c1045648ebdcc.png",
-"url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
 "name": "Az Internacional | 🇲🇽",
 "image": "https://media.tvup.cloud/canales/color_lg_6523ab28416c1045648ebdcc.png",
 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397",
 "epgId": "azteca-internacional"
+},
+{
+"name": "Az Internacional | 🇲🇽",
+"image": "https://media.tvup.cloud/canales/color_lg_6523ab28416c1045648ebdcc.png",
+"url": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
 "name": "Az Internacional | 🇲🇽",
