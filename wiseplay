@@ -1501,6 +1501,12 @@
 "isHost": "true"
 },
 {
+"name": "Azteca Deportes | 🇲🇽",
+"image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png",
+"url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6582f002a620e3000813b329/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&",
+"userAgent": ""
+},
+{
 "name": "TUDN (MiHD) | 🇲🇽",
 "image": "https://i.imgur.com/U6DKWV0.png",
 "online": "true",
@@ -2973,6 +2979,12 @@
 "name": "Azteca Internacional | 🇲🇽",
 "image": "https://media.tvup.cloud/canales/color_lg_6523ab28416c1045648ebdcc.png",
 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397",
+"epgId": "azteca-internacional"
+},
+{
+"name": "Azteca Internacional | 🇲🇽",
+"image": "https://media.tvup.cloud/canales/color_lg_6523ab28416c1045648ebdcc.png",
+"url": "https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D",
 "epgId": "azteca-internacional"
 },
 {
