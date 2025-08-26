@@ -2946,6 +2946,12 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
+"name": "Foro Tv | 🇲🇽",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/N%2B_Foro_2024.svg/2560px-N%2B_Foro_2024.svg.png",
+"url": "https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
 "name": "Estrella Tv | 🇲🇽",
 "image": "https://graph.facebook.com/EstrellaTVNetwork/picture?width=200&height=200",
 "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8",
