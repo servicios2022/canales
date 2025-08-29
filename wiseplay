@@ -2914,15 +2914,15 @@
 "userAgent": ""
 },
 {
-"name": "TVR | 🇨🇱",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVR_Chile_%282025%29.svg/250px-TVR_Chile_%282025%29.svg.png",
-"url": "https://unlimited2-cl-isp.dps.live/tvr/tvr.smil/tvr/livestream1/chunks.m3u8",
-"userAgent": ""
-},
-{
 "name": "TV+ | 🇨🇱",
 "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",
 "url": "https://jireh-2-hls-video-cl-mundo.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream2/chunks.m3u8",
+"userAgent": ""
+},
+{
+"name": "TVR | 🇨🇱",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TVR_Chile_%282025%29.svg/250px-TVR_Chile_%282025%29.svg.png",
+"url": "https://unlimited2-cl-isp.dps.live/tvr/tvr.smil/tvr/livestream1/chunks.m3u8",
 "userAgent": ""
 },
 {
