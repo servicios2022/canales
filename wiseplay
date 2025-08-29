@@ -52,8 +52,35 @@
 },
 
 
-
-
+{
+"name": "TNT Sports Premium Chile 720 | 🇨🇱",
+"info": "[La14HD]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "https://teledeportes.top/glz.php?get=https://rereyano.ru/player/3/53",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "TNT Sports Chile 720 | 🇨🇱",
+"info": "[Dokko]",
+"online": "true",
+"image": "https://i.imgur.com/f2glGr9.png",     
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "https://teledeportes.top",
+"url": "https://teledeportes.top/glz.php?get=https://rereyano.ru/player/3/53",
+"isHost":""
+},
+{
+"name": "TNT Sports Chile 720 | 🇨🇱",
+"info": "[Dokko]",
+"online": "true",
+"image": "https://i.imgur.com/f2glGr9.png",     
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "https://rereyano.ru",
+"url": "https://teledeportes.top/glz.php?get=https://rereyano.ru/player/3/53",
+"isHost":""
+},
 
 
 
