@@ -2824,43 +2824,11 @@
 },
 {
 "name": "Chilevision 1080 | 🇨🇱",
-"info": "[Photo]",
-"online": "true",
-"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "https://photocalltv.org",
-"url": "https://photocalltv.org/h4tw/l1?ch=chilevision",
-"isHost":"true"
-},
-{
-"name": "Chilevision 1080 | 🇨🇱",
 "info": "[Tele]",
 "online": "true",
 "image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
 "url": "https://telegratuita.com/reproductor/?r=L21nby9jaHYucGhw",
 "embed": "true"
-},
-{
-"name": "Chilevision | 🇨🇱",
-"info": "[Online]",
-"online": "true",
-"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-"referer": "https://www.chilevision.cl/",
-"url": "https://www.chilevision.cl/senal-online",
-"isHost": "true"
-},
-{
-"name": "Chilevision 1080 | 🇨🇱",
-"info": "[Online]",
-"online": "true",
-"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://www.chilevision.cl/",
-"url": "https://www.chilevision.cl/senal-online",
-"isHost": "true",
-"autoplay": "true",
-"autoStart": "true",
-"playOnLoad": "true"
 },
 {
 "name": "Chilevision Contigo | 🇨🇱",
@@ -2924,32 +2892,9 @@
 "isHost": true
 },
 {
-"name": "TVN 1080 | 🇨🇱",
-"info": "[Photo]",
-"online": "true",
-"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://photocalltv.org/",
-"url": "https://photocalltv.org/h4tw/l1?ch=tvn",
-"isHost": "true",
-"autoplay": "true",
-"autoStart": "true",
-"playOnLoad": "true"
-},
-{
-"name": "TVN 1080 | 🇨🇱",
-"info": "[Photo]",
-"online": "true",
-"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "https://photocalltv.org",
-"url": "https://photocalltv.org/h4tw/l1?ch=tvn",
-"isHost":"true"
-},
-{
 "name": "TV Chile | 🇨🇱",
 "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_de_TV_Chile.png",
-"url": "https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8",
+"url": "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8",
 "userAgent": ""
 },
 {
