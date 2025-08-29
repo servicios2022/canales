@@ -1373,6 +1373,15 @@
 },
 {
 "name": "ESPN Deportes | 🇺🇸",
+"info": "[Wagon]",
+"online": "true",
+"image": "https://i.imgur.com/cYvji3A.png",
+"url" :  "https://wagontorch.net/embed/x2qidlx7",
+"referer" : "https://buzztv.futbol/",
+"isHost":"true" 
+}, 
+{
+"name": "ESPN Deportes | 🇺🇸",
 "info": "[Fuelcaller]",
 "online": "true",
 "image": "https://i.imgur.com/cYvji3A.png",
@@ -1405,13 +1414,6 @@
 
 
 
-{
-"name": "Movistar La Liga 720 (Wagon) | 🇪🇸",
-"image": "https://i.imgur.com/5lNTjn0.png",
-"url" :  "https://wagontorch.net/embed/x2qidlx7",
-"referer" : "https://buzztv.futbol/",
-"isHost":"true" 
-}, 
 {
 "name": "Movistar La Liga (Allover) | 🇪🇸",
 "image": "https://i.imgur.com/5lNTjn0.png",
