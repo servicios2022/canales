@@ -2898,21 +2898,9 @@
 "userAgent": ""
 },
 {
-"name": "La Red | 🇨🇱",
-"image": "https://cdn.m3u.cl/logo/790_La_Red.png",
-"url": "https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8",
-"userAgent": ""
-},
-{
 "name": "TV+ | 🇨🇱",
-"image": "https://cdn-w.tvdaldia.cl/logos/cartelera-tv/tvmas.png",
+"image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",
 "url": "https://jireh-2-hls-video-cl-mundo.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream2/chunks.m3u8",
-"userAgent": ""
-},
-{
-"name": "TVMas 2 | 🇨🇱",
-"image": "https://cdn.m3u.cl/logo/1243_TVMas2.png",
-"url": "https://marine2.miplay.cl/tateti/playlist.m3u8",
 "userAgent": ""
 },
 {
@@ -2925,6 +2913,12 @@
 "name": "Tevex | 🇨🇱",
 "image": "https://tevex.cl/wp-content/uploads/2021/01/cropped-tevex_icon.png",
 "url": "https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8",
+"userAgent": ""
+},
+{
+"name": "La Red | 🇨🇱",
+"image": "https://cdn.m3u.cl/logo/790_La_Red.png",
+"url": "https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8",
 "userAgent": ""
 },
 {
