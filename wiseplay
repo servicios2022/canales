@@ -1062,6 +1062,15 @@
 },
 {
 "name": "ESPN Deportes 720 | 🇺🇸",
+"info": "[La14HD]",
+"online": "true",
+"image": "https://i.imgur.com/cYvji3A.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=espndeportes",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "ESPN Deportes 720 | 🇺🇸",
 "info": "[Wagon]",
 "online": "true",
 "image": "https://i.imgur.com/cYvji3A.png",
