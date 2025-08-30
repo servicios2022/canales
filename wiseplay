@@ -1079,7 +1079,13 @@
 },
 
 
-
+{
+"name": "Movistar La Liga UHD | 🇪🇸",
+"info": "[Acestream elcano 5cf]",
+"online": "true",
+"image": "https://i.imgur.com/5lNTjn0.png",
+"url": "acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf"
+},
 {
 "name": "Movistar La Liga 1080 | 🇪🇸",
 "info": "[Acestream elcano 947]",
