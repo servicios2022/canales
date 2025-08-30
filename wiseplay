@@ -1198,6 +1198,13 @@
 },
 {
 "name": "Movistar La Liga 1080 | 🇪🇸",
+"info": "[Acestream elcano f74]",
+"online": "true",
+"image": "https://i.imgur.com/5lNTjn0.png",
+"url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74"
+},
+{
+"name": "Movistar La Liga 1080 | 🇪🇸",
 "info": "[Acestream elcano f1e]",
 "online": "true",
 "image": "https://i.imgur.com/5lNTjn0.png",
@@ -1205,77 +1212,49 @@
 },
 {
 "name": "Movistar La Liga 1080 | 🇪🇸",
-"info": "[Acestream elcano f74]",
-"online": "true",
-"image": "https://i.imgur.com/5lNTjn0.png",
-"url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74"
-},
-{
-"name": "Movistar La Liga FHD | 🇪🇸",
-"info": "[Acestream newera c45]",
-"online": "true",
-"image": "https://i.imgur.com/5lNTjn0.png",
-"url": "acestream://7e2f5e27994a90700e6c5b938d5face45577cc45"
-},
-{
-"name": "Movistar La Liga FHD | 🇪🇸",
-"info": "[Acestream newera 6b0]",
-"online": "true",
-"image": "https://i.imgur.com/5lNTjn0.png",
-"url": "acestream://10e451cb5bef2e34bf52cc48de811893528146b0"
-},
-{
-"name": "Movistar La Liga FHD | 🇪🇸",
 "info": "[Acestream elcano 92d]",
 "online": "true",
 "image": "https://i.imgur.com/5lNTjn0.png",
 "url": "acestream://d3de78aebe544611a2347f54d5796bd87f16c92d"
 },
 {
-"name": "Movistar La Liga FHD | 🇪🇸",
-"info": "[Acestream elcano 163]",
+"name": "Movistar La Liga 1080 | 🇪🇸",
+"info": "[Acestream newera c45]",
 "online": "true",
 "image": "https://i.imgur.com/5lNTjn0.png",
-"url": "acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163"
+"url": "acestream://7e2f5e27994a90700e6c5b938d5face45577cc45"
+},
+{
+"name": "Movistar La Liga 1080 | 🇪🇸",
+"info": "[Acestream newera 6b0]",
+"online": "true",
+"image": "https://i.imgur.com/5lNTjn0.png",
+"url": "acestream://10e451cb5bef2e34bf52cc48de811893528146b0"
 },
 
 {
-"name": "DAZN La Liga 1080 multiaudio | 🇪🇸",
-"info": "[Acestream elcano b05]",
-"online": "true",
-"image": "https://i.imgur.com/Mql5aBD.png",
-"url": "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05"
-},
-{
-"name": "DAZN La Liga FHD | 🇪🇸",
-"info": "[Acestream elcano f47]",
-"online": "true",
-"image": "https://i.imgur.com/Mql5aBD.png",
-"url": "acestream://110d441ddc9713a7452588770d2bc85504672f47"
-},
-{
-"name": "DAZN La Liga FHD | 🇪🇸",
-"info": "[Acestream elcano 70c]",
-"online": "true",
-"image": "https://i.imgur.com/Mql5aBD.png",
-"url": "acestream://ec29289b0b14756e686c03a501bae1efa05be70c"
-},
-{
-"name": "DAZN La Liga FHD | 🇪🇸",
-"info": "[Acestream elcano e0f]",
-"online": "true",
-"image": "https://i.imgur.com/Mql5aBD.png",
-"url": "acestream://6de4794cd02f88f14354b5996823413a59a1de0f"
-},
-{
-"name": "DAZN La Liga FHD | 🇪🇸",
+"name": "DAZN La Liga 1080 | 🇪🇸",
 "info": "[Acestream newera 621]",
 "online": "true",
 "image": "https://i.imgur.com/Mql5aBD.png",
 "url": "acestream://4fa168d5401e4b2673100b237a976961b52cf621"
 },
 {
-"name": "DAZN La Liga FHD | 🇪🇸",
+"name": "DAZN La Liga 1080 | 🇪🇸",
+"info": "[Acestream elcano f47]",
+"online": "true",
+"image": "https://i.imgur.com/Mql5aBD.png",
+"url": "acestream://110d441ddc9713a7452588770d2bc85504672f47"
+},
+{
+"name": "DAZN La Liga 1080 | 🇪🇸",
+"info": "[Acestream elcano 70c]",
+"online": "true",
+"image": "https://i.imgur.com/Mql5aBD.png",
+"url": "acestream://ec29289b0b14756e686c03a501bae1efa05be70c"
+},
+{
+"name": "DAZN La Liga 1080 | 🇪🇸",
 "info": "[Acestream newera 3de]",
 "online": "true",
 "image": "https://i.imgur.com/Mql5aBD.png",
@@ -1288,72 +1267,6 @@
 "online": "true",
 "image": "https://i.imgur.com/3PsaCB9.png",
 "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
-},
-
-
-
-{
-"name": "DAZN F1 4K | 🇪🇸",
-"info": "[Acestream 2b8]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://7e1523ccfaac00800e67bd0b97c428810104b2b8"
-},
-{
-"name": "DAZN F1 | 🇪🇸",
-"info": "[Acestream 6d1]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1"
-},
-{
-"name": "DAZN F1 | 🇪🇸",
-"info": "[Acestream a69]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69"
-},
-{
-"name": "DAZN F1 | 🇪🇸",
-"info": "[Acestream e55]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55"
-},
-{
-"name": "DAZN F1 | 🇪🇸",
-"info": "[Acestream b29]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://6422e8bc34282871634c81947be093c04ad1bb29"
-},
-{
-"name": "DAZN F1 | 🇪🇸",
-"info": "[Acestream 553]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://c9c18ae7a9dafba1caae5beb22060f9c92bba553"
-},
-{
-"name": "DAZN F1 | 🇪🇸",
-"info": "[Acestream 494]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://515efd8115482bda8d92aa6df9a882a5e5797494"
-},
-{
-"name": "DAZN F1 | 🇪🇸",
-"info": "[Acestream 790]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://d27584ebe5128c8033cb6fdc806a994fbd17b790"
-},
-{
-"name": "DAZN F1 | 🇪🇸",
-"info": "[Acestream f25]",
-"online": "true",
-"image": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-"url": "acestream://e779b17e30d5daa05ca25ab4e8c3150e582c6f25"
 },
 
 
