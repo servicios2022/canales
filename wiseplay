@@ -1053,6 +1053,12 @@
 "userAgent": ""
 },
 {
+"name": "TUDN (104) | 🇲🇽",
+"image": "https://i.imgur.com/U6DKWV0.png",
+"url": "http://104.238.205.28:8989/278570_.m3u8",
+"userAgent": ""
+},
+{
 "name": "ESPN (Streamtp) | 🇲🇽",
 "image": "https://i.imgur.com/MFhpD4D.png",
 "url": "https://streamtp11.com/global1.php?stream=espnmx",
