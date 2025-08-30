@@ -1195,15 +1195,35 @@
 "url": "acestream://6538b79ce0da657d8455d1da6a5f342398899a0e"
 },
 
-
-
+{
+"name": "Liga de Campeones | 🇪🇸",
+"info": "[Acestream bc9]",
+"online": "true",
+"image": "https://i.imgur.com/3PsaCB9.png",
+"url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9"
+},
+{
+"name": "Liga de Campeones | 🇪🇸",
+"info": "[Acestream 15f]",
+"online": "true",
+"image": "https://i.imgur.com/3PsaCB9.png",
+"url": "acestream://2b51710cee513e8939785fa3e7980f32d4e0415f"
+},
+{
+"name": "Liga de Campeones | 🇪🇸",
+"info": "[Acestream 06e]",
+"online": "true",
+"image": "https://i.imgur.com/3PsaCB9.png",
+"url": "acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e"
+},
 {
 "name": "Liga de Campeones | 🇪🇸",
 "info": "[Acestream 370]",
 "online": "true",
 "image": "https://i.imgur.com/3PsaCB9.png",
-"url": "acestream://eb6ffec065b26259ad3d1811e0bbb0a5332ed276"
+"url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
 },
+
 
 
 {
