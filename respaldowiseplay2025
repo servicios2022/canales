@@ -97,6 +97,15 @@
 "isHost": "true"
 },
 {
+"name": "PPV Eventos UFC 720 | 🇲🇽",
+"info": "[ESPN Deportes]",
+"online": "true",
+"image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=espndeportes",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
 "name": "PPV Eventos UFC 720 | 🇦🇷",
 "info": "[Fox Sports]",
 "online": "true",
