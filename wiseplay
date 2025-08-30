@@ -1041,63 +1041,6 @@
 "isHost": "true"
 },
 {
-"name": "ECDF| 🇪🇨",
-"info": "[La14HD]",
-"image": "https://i.imgur.com/xl7Sf50.png",
-"url": "https://la14hd.com/vivo/canal.php?stream=ecdf_ligapro",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "Gol Peru (La14HD) | 🇵🇪",
-"image": "https://i.imgur.com/xl7Sf50.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=golperu",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "Gol Tv (La14HD) | 🇵🇪",
-"image": "https://i.imgur.com/Pry7jUx.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=goltv",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "Liga 1 Max (La14HD) | 🇵🇪",
-"image": "https://i.imgur.com/Wdtecos.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=liga1max",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "Liga 1 Max (VerTV) | 🇵🇪",
-"image": "https://i.imgur.com/Wdtecos.png",
-"url": "https://www.vertvcable.com/channel.php?id=ch_67fb0d0aa03d6",
-"embed": "true"
-},
-{
-"name": "Win Sports+ (Streamdp) | 🇨🇴",
-"image": "https://i.imgur.com/rzpcdnf.png",
-"url": "https://streamdp2.xyz/global.php?channel=winplus",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "Win Sports+ (Vertv) | 🇨🇴",
-"image": "https://i.imgur.com/rzpcdnf.png",
-"url": "https://www.vertvcable.com/channel.php?id=ch_67fb064818ab3",
-"embed": "true"
-},
-{
-"name": "VTV Plus | 🇺🇾",
-"info": "[Streamtp]",
-"online": "true",
-"image": "https://i.imgur.com/TyfMsBw.png",
-"url": "https://streamtpglobal.com/global1.php?stream=vtvplus",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
 "name": "Azteca Deportes | 🇲🇽",
 "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png",
 "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6582f002a620e3000813b329/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&",
@@ -1110,24 +1053,9 @@
 "userAgent": ""
 },
 {
-"name": "TUDN (MiHD) | 🇲🇽",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"online": "true",
-"referer": "https://mihd.tv/",
-"url": "https://mihd.tv/tudn-en-vivo-por-internet.html",
-"isHost": "true"
-},
-{
-"name": "TUDN (Jointexploit) | 🇲🇽",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"url": "https://jointexploit.net/embed/k13h15p8ue",
-"referer": "https://buzztv.futbol/",
-"isHost": "true"
-},
-{
-"name": "TUDN (Streamdp) | 🇲🇽",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"url": "https://streamdp2.xyz/global.php?channel=tudnmx",
+"name": "ESPN (Streamtp) | 🇲🇽",
+"image": "https://i.imgur.com/MFhpD4D.png",
+"url": "https://streamtp11.com/global1.php?stream=espnmx",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -1135,6 +1063,13 @@
 "name": "ESPN (Streamdp) | 🇲🇽",
 "image": "https://i.imgur.com/MFhpD4D.png",
 "url": "https://streamdp2.xyz/global.php?channel=espnmx",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "ESPN (La14HD) | 🇲🇽",
+"image": "https://i.imgur.com/MFhpD4D.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=espnmx",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -1177,6 +1112,13 @@
 "embed": "true"
 },
 {
+"name": "Fox Deportes (Jointexploit) | 🇲🇽",
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png",
+"url": "https://jointexploit.net/embed/k13h15p8ue",
+"referer": "https://buzztv.futbol/",
+"isHost": "true"
+},
+{
 "name": "Fox Deportes (Tubi) | 🇲🇽",
 "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png",
 "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8",
@@ -1200,48 +1142,47 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
-"name": "TUDN USA 1080 | 🇺🇸",
-"info": "[Topembed]",
-"online": "true",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://topembed.pw/",
-"url": "https://topembed.pw/channel/TUDN[USA]",
-"isHost": "true",
-"image": "https://i.imgur.com/U6DKWV0.png"
-},
-{
-"name": "TUDN USA 720 | 🇺🇸",
-"info": "[Streamingon]",
+"name": "TUDN USA | 🇺🇸",
+"info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/U6DKWV0.png",
-"referer": "https://streamingon.org/",
-"url": "https://streamingon.org/embed/hd-1.php",
-"isHost": "true"
-},
-{
-"name": "TUDN USA 720 | 🇺🇸",
-"info": "[Superior]",
-"online": "true",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"url" :  "https://superiorcrop.net/embed/x2qidlx7",
-"referer" : "https://buzztv.futbol/",
-"isHost":"true"
-},
-{
-"name": "TUDN USA (Streamdp) | 🇺🇸",
-"info": "[Streamdp]",
-"online": "true",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"url": "https://streamdp2.xyz/global.php?channel=tudn_usa",
+"url": "https://streamtp11.com/global1.php?stream=tudn_usa",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
 {
-"name": "TUDN USA (La14HD) | 🇺🇸",
+"name": "TUDN USA | 🇺🇸",
+"info": "[Streamtp]",
+"online": "true",
+"image": "https://i.imgur.com/U6DKWV0.png",
+"url": "https://streamdp2.xyz/global1.php?channel=tudn_usa",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "TUDN USA | 🇺🇸",
 "info": "[La14HD]",
 "online": "true",
 "image": "https://i.imgur.com/U6DKWV0.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=tudn_usa",
+"url": "https://la14hd.com/vivo/canales.php?stream=tudn",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "TUDN USA | 🇺🇸",
+"info": "[Roja]",
+"online": "true",
+"image": "https://i.imgur.com/U6DKWV0.png",
+"url": "https://rojadirectatve.com/sw.html?get=https://rojadirectatve.com/repro/tudnusa.html",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "TUDN USA | 🇺🇸",
+"info": "[Roja]",
+"online": "true",
+"image": "https://i.imgur.com/U6DKWV0.png",
+"url": "https://rojadirectatve.com/repro/tudnusa.html",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
