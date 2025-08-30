@@ -50,7 +50,16 @@
 "playInNatPlayer": "true",
 "embed": "true"
 },
-
+{
+"name": "Streamtp | 🇦🇷",
+"info": "[Online]",
+"online": "true",
+"image": "https://i.imgur.com/ehmvuI6.png",
+"url": "https://streamtp11.com/eventos.html",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true"
+},
 
 
 
