@@ -540,16 +540,6 @@
 },
 {
 "name": "ESPN Argentina | 🇦🇷",
-"info": "[Topembed]",
-"online": "true",
-"image": "https://i.imgur.com/MFhpD4D.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://topembed.pw/",
-"url": "https://topembed.pw/channel/ESPN[Argentina]",
-"isHost": "true"
-},
-{
-"name": "ESPN Argentina | 🇦🇷",
 "info": "[190]",
 "online": "true",
 "image": "https://i.imgur.com/MFhpD4D.png",
@@ -798,26 +788,6 @@
 "userAgent": ""
 },
 {
-"name": "Dsports 720 | 🇦🇷",
-"info": "[Topembed]",
-"online": "true",
-"image": "https://i.imgur.com/NUGOqdT.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://topembed.pw/",
-"url": "https://topembed.pw/channel/DirecTVSports[Argentina]",
-"isHost": "true"
-},
-{
-"name": "Dsports 720 | 🇦🇷",
-"info": "[Topembed]",
-"online": "true",
-"image": "https://i.imgur.com/NUGOqdT.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://topembed.pw/",
-"url": "https://topembed.pw/channel/DirecTV[Ecuador]",
-"isHost": "true"
-},
-{
 "name": "Dsports | 🇦🇷",
 "info": "[Fuelcareer]",
 "online": "true",
@@ -879,16 +849,6 @@
 "image": "https://i.imgur.com/HI0yGFW.png",
 "url": "https://streamdp2.xyz/global.php?channel=dsports2",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "TyC Sports 720 | 🇦🇷",
-"info": "[Topembed]",
-"online": "true",
-"image": "https://i.imgur.com/zfkBNdb.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://topembed.pw/",
-"url": "https://topembed.pw/channel/TYCSports[Argentina]",
 "isHost": "true"
 },
 {
@@ -1310,54 +1270,6 @@
 "url": "acestream://96a8a772f150d9e57ca71a9765d2278c0c5423de"
 },
 
-
-
-{
-"name": "Movistar Liga de Campeones 720 (freckledine) | 🇪🇸",
-"image": "https://i.imgur.com/3PsaCB9.png",
-"online": "true",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://www.elixx.xyz/",
-"url": "https://freckledine.net/embed/x2qidlx7",
-"isHost": "true"
-},
-{
-"name": "Movistar Liga de Campeones 720 (Streamingon) | 🇪🇸",
-"image": "https://i.imgur.com/3PsaCB9.png",
-"online": "true",
-"referer": "https://streamingon.org/",
-"url": "https://streamingon.org/embed/hd-1.php",
-"isHost": "true"
-},
-{
-"name": "Movistar Liga de Campeones 720 (Topembed) | 🇪🇸",
-"image": "https://i.imgur.com/3PsaCB9.png",
-"online": "true",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://topembed.pw/",
-"url": "https://topembed.pw/channel/MovistarLigadeCampeones1[Spain]",
-"isHost": "true"
-},
-{
-"name": "Movistar Liga de Campeones (Catchthrust) | 🇪🇸",
-"image": "https://i.imgur.com/3PsaCB9.png",
-"url": "https://catchthrust.net/embed/opthng68di66m",
-"referer": "https://tarjetarojaenvivo.lat/",
-"isHost": "true"
-},
-{
-"name": "Movistar Liga de Campeones (Jointexplot) | 🇪🇸",
-"image": "https://i.imgur.com/3PsaCB9.png",
-"url": "https://jointexploit.net/embed/x2qidlx7",
-"referer": "https://buzztv.futbol/",
-"isHost": "true"
-},
-{
-"name": "Movistar Liga de Campeones (Supertipzz) | 🇪🇸",
-"image": "https://i.imgur.com/3PsaCB9.png",
-"url": "https://supertipzz.online/tip/6.php",
-"isHost": "true"
-},
 {
 "name": "Liga de Campeones | 🇪🇸",
 "info": "[Acestream 370]",
