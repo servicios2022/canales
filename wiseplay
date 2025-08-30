@@ -1157,7 +1157,6 @@
 "image": "https://i.imgur.com/Mql5aBD.png",
 "url": "acestream://96a8a772f150d9e57ca71a9765d2278c0c5423de"
 },
-
 {
 "name": "DAZN La Liga 1080 | 🇪🇸",
 "info": "[Acestream newera 3de]",
@@ -1165,7 +1164,34 @@
 "image": "https://i.imgur.com/Mql5aBD.png",
 "url": "acestream://96a8a772f150d9e57ca71a9765d2278c0c5423de"
 },
-
+{
+"name": "Movistar Liga de Campeones | 🇪🇸",
+"info": "[Acestream bc9]",
+"online": "true",
+"image": "https://i.imgur.com/3PsaCB9.png",
+"url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9"
+},
+{
+"name": "Movistar Liga de Campeones | 🇪🇸",
+"info": "[Acestream 15f]",
+"online": "true",
+"image": "https://i.imgur.com/3PsaCB9.png",
+"url": "acestream://2b51710cee513e8939785fa3e7980f32d4e0415f"
+},
+{
+"name": "Movistar Liga de Campeones | 🇪🇸",
+"info": "[Acestream 06e]",
+"online": "true",
+"image": "https://i.imgur.com/3PsaCB9.png",
+"url": "acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e"
+},
+{
+"name": "Movistar Liga de Campeones | 🇪🇸",
+"info": "[Acestream 370]",
+"online": "true",
+"image": "https://i.imgur.com/3PsaCB9.png",
+"url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
+},
 {
 "name": "DAZN 1 1080 | 🇪🇸",
 "info": "[Acestream elcano 276]",
@@ -1278,38 +1304,6 @@
 "image": "https://i.imgur.com/rBdHZYv.png",
 "url": "acestream://6a11eb510edc5b3581c5c97883c44563eb894b1b"
 },
-
-
-{
-"name": "Liga de Campeones | 🇪🇸",
-"info": "[Acestream bc9]",
-"online": "true",
-"image": "https://i.imgur.com/3PsaCB9.png",
-"url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9"
-},
-{
-"name": "Liga de Campeones | 🇪🇸",
-"info": "[Acestream 15f]",
-"online": "true",
-"image": "https://i.imgur.com/3PsaCB9.png",
-"url": "acestream://2b51710cee513e8939785fa3e7980f32d4e0415f"
-},
-{
-"name": "Liga de Campeones | 🇪🇸",
-"info": "[Acestream 06e]",
-"online": "true",
-"image": "https://i.imgur.com/3PsaCB9.png",
-"url": "acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e"
-},
-{
-"name": "Liga de Campeones | 🇪🇸",
-"info": "[Acestream 370]",
-"online": "true",
-"image": "https://i.imgur.com/3PsaCB9.png",
-"url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
-},
-
-
 
 {
 "name": "TDP 1080 | 🇪🇸",
