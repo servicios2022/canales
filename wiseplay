@@ -52,6 +52,41 @@
 },
 
 
+{
+"name": "TDP 1080 | 🇪🇸",
+"info":"[Cloud]",
+"online":"true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+"url": "http://190.92.10.66:4000/play/a007/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "TDP 1080 | 🇪🇸",
+"info":"[Cloud]",
+"online":"true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+"url": "http://190.92.10.66:4000/play/a007",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "TNT Sports Premium Chile 720 | 🇨🇱",
+"info": "[104]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "http://190.92.10.66:4000/play/a007/index.m3u8",
+"userAgent": ""
+},
+{
+"name": "TNT Sports Premium Chile 720 | 🇨🇱",
+"info": "[104]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "http://190.92.10.66:4000/play/a007",
+"userAgent": ""
+},
+
+
+
 
 ]},
 {"name": "DEPORTES",
