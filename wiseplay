@@ -1218,17 +1218,6 @@
 
 
 {
-"name": "Movistar La Liga 720 | 🇪🇸",
-"info": "[Allover]",
-"online": "true",
-"image": "https://i.imgur.com/5lNTjn0.png",
-"url" :  "https://new.allover.top/hembedplayer/fcafdgsg4sza/4/500/400",
-"referer" : "https://new.allover.top/fcafdgsg4sza",
-"isHost":"true"
-},
-
-
-{
 "name": "Movistar La Liga 1080 | 🇪🇸",
 "info": "[Acestream elcano 947]",
 "online": "true",
@@ -1278,71 +1267,6 @@
 "url": "acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163"
 },
 
-
-{
-"name": "DAZN La Liga 720 (Freckledine) | 🇪🇸",
-"image": "https://i.imgur.com/Mql5aBD.png",
-"url": "https://freckledine.net/embed/x2qidlx7",
-"referer": "https://www.elixx.xyz/",
-"isHost": "true"
-},
-{
-"name": "DAZN La Liga 720 (Jointexploit) | 🇪🇸",
-"image": "https://i.imgur.com/Mql5aBD.png",
-"url": "https://jointexploit.net/embed/x2qidlx7",
-"referer": "https://buzztv.futbol/",
-"isHost": "true"
-},
-{
-"name": "DAZN La Liga 720 (Topembed) | 🇪🇸",
-"image": "https://i.imgur.com/Mql5aBD.png",
-"online": "true",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://topembed.pw/",
-"url": "https://topembed.pw/channel/DAZNLaliga[Spain]",
-"isHost": "true"
-},
-{
-"name": "DAZN La Liga 720 (Wagontorch) | 🇪🇸",
-"image": "https://i.imgur.com/Mql5aBD.png",
-"url": "https://wagontorch.net/embed/x2qidlx7",
-"referer": "https://buzztv.futbol/",
-"isHost": "true"
-},
-{
-"name": "DAZN La Liga (Fuelcarrer) | 🇪🇸",
-"image": "https://i.imgur.com/Mql5aBD.png",
-"online": "true",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://tarjetarojaenvivo.lat/",
-"url": "https://fuelcareer.net/embed/5k7zb7n",
-"isHost": "true"
-},
-{
-"name": "DAZN La Liga (Laceaccept) | 🇪🇸",
-"image": "https://i.imgur.com/Mql5aBD.png",
-"online": "true",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://tarjetarojaenvivo.lat/",
-"url": "https://laceaccept.net/embed/w2iuo",
-"isHost": "true"
-},
-{
-"name": "DAZN La Liga (Letscast) | 🇪🇸",
-"image": "https://i.imgur.com/Mql5aBD.png",
-"url": "https://letscast.pro/steam.php?stream=YJ8krnYwZrR",
-"referer": "https://livestreams.click/",
-"isHost": "true"
-},
-{
-"name": "DAZN La Liga (Welivesport) | 🇪🇸",
-"image": "https://i.imgur.com/Mql5aBD.png",
-"url": "https://welivesport.shop/embed/daznlaliga.php",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"online": "true",
-"isHost": "true"
-},
 {
 "name": "DAZN La Liga 1080 multiaudio | 🇪🇸",
 "info": "[Acestream elcano b05]",
