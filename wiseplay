@@ -217,114 +217,6 @@
 },
 
 {
-"name": "Eventos MAX 1 TNT Sports Chile | 🇨🇱",
-"info": "[Streamtp]",
-"online": "true",
-"image": "https://i.imgur.com/lszKlpm.png",
-"url": "https://streamtpglobal.com/global1.php?stream=max1",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "Eventos MAX 1 TNT Sports Chile | 🇨🇱",
-"info": "[Streamdp]",
-"online": "true",
-"image": "https://i.imgur.com/lszKlpm.png",
-"url": "https://streamdp2.xyz/global.php?channel=max1",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "Eventos MAX 1 TNT Sports Chile | 🇨🇱",
-"info": "[La14HD]",
-"online": "true",
-"image": "https://i.imgur.com/lszKlpm.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=max1",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "Eventos MAX 2 TNT Sports Chile | 🇨🇱",
-"info": "[Streamtp]",
-"online": "true",
-"image": "https://i.imgur.com/lszKlpm.png",
-"url": "https://streamtpglobal.com/global1.php?stream=max2",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "Eventos MAX 2 TNT Sports Chile | 🇨🇱",
-"info": "[Streamdp]",
-"online": "true",
-"image": "https://i.imgur.com/lszKlpm.png",
-"url": "https://streamdp2.xyz/global.php?channel=max2",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "Eventos MAX 2 TNT Sports Chile | 🇨🇱",
-"info": "[La14HD]",
-"online": "true",
-"image": "https://i.imgur.com/lszKlpm.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=max2",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "Eventos MAX 3 TNT Sports Chile | 🇨🇱",
-"info": "[Streamtp]",
-"online": "true",
-"image": "https://i.imgur.com/lszKlpm.png",
-"url": "https://streamtpglobal.com/global1.php?stream=max3",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "Eventos MAX 3 TNT Sports Chile | 🇨🇱",
-"info": "[Streamdp]",
-"online": "true",
-"image": "https://i.imgur.com/lszKlpm.png",
-"url": "https://streamdp2.xyz/global.php?channel=max3",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "Eventos MAX 3 TNT Sports Chile | 🇨🇱",
-"info": "[La14HD]",
-"online": "true",
-"image": "https://i.imgur.com/lszKlpm.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=max3",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "Eventos MAX 4 TNT Sports Chile | 🇨🇱",
-"info": "[Streamtp]",
-"online": "true",
-"image": "https://i.imgur.com/lszKlpm.png",
-"url": "https://streamtpglobal.com/global1.php?stream=max4",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "Eventos MAX 4 TNT Sports Chile | 🇨🇱",
-"info": "[Streamdp]",
-"online": "true",
-"image": "https://i.imgur.com/lszKlpm.png",
-"url": "https://streamdp2.xyz/global.php?channel=max4",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "Eventos MAX 4 TNT Sports Chile | 🇨🇱",
-"info": "[La14HD]",
-"online": "true",
-"image": "https://i.imgur.com/lszKlpm.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=max4",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
 "name": "TNT Sports Premium Chile 1080 | 🇨🇱",
 "info": "[179]",
 "online": "true",
@@ -382,37 +274,10 @@
 "isHost": "true"
 },
 {
-"name": "TNT Sports Premium Chile 720 | 🇨🇱",
-"info": "[Futbo2]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://futbo2.click/global1.php?id=tntsportschile",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "TNT Sports Premium Chile 720 | 🇨🇱",
-"info": "[Streamtp]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://streamtpglobal.com/global2.php?stream=tntsportschile",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "TNT Sports Premium Chile 720 | 🇨🇱",
-"info": "[La14HD]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=tntsportschile",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
 "name": "TNT Sports Chile 720 | 🇨🇱",
 "info": "[Dokko]",
 "online": "true",
-"image": "https://i.imgur.com/f2glGr9.png",     
+"image": "https://i.imgur.com/YTaeyss.png", 
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://andrenalynrushplay.cfd/",
 "url": "https://dokko1new.newkso.ru/dokko1/premium642/mono.m3u8",
