@@ -2032,20 +2032,20 @@
 "embed": "true"
 },
 {
+"name": "Telemundo 49 Noticias Florida | 🇺🇸",
+"info": "[NBCU]",
+"online": "true",
+"image": "https://i.imgur.com/9piuN0T.png",
+"url": "https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
 "name": "Telemundo 51 Miami 1080 | 🇺🇸",
 "info": "[Tele]",
 "online": "true",
 "image": "https://i.imgur.com/9piuN0T.png",
 "url": "https://telegratuita.com/reproductor/?r=L3NwZWVkL3Q1MS5waHA=",
 "embed": "true"
-},
-{
-"name": "Telemundo 51 Noticias Florida | 🇺🇸",
-"info": "[NBCU]",
-"online": "true",
-"image": "https://i.imgur.com/9piuN0T.png",
-"url": "https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
 "name": "Telemundo 52 Los Angeles 1080 | 🇺🇸",
@@ -2056,13 +2056,13 @@
 "embed": "true"
 },
 {
-"name": "Telemundo 52 Los Angeles 720 | 🇺🇸",
-"info": "[Link]",
+"name": "Telemundo | 🇺🇸",
+"info": "[Cable]",
 "online": "true",
 "image": "https://i.imgur.com/9piuN0T.png",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-"referer": "https://deporte-libre.link",
-"url": "https://deporte-libre.link/stream/stream-131.php",
+"referer": "https://www.cablevisionhd.com/",
+"url": "https://telegratuita.com/latam.php?canal=telemundo",
 "isHost": "true"
 },
 {
