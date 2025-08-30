@@ -1169,24 +1169,6 @@
 "isHost": "true"
 },
 {
-"name": "TUDN USA | 🇺🇸",
-"info": "[Roja]",
-"online": "true",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"url": "https://rojadirectatve.com/sw.html?get=https://rojadirectatve.com/repro/tudnusa.html",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "TUDN USA | 🇺🇸",
-"info": "[Roja]",
-"online": "true",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"url": "https://rojadirectatve.com/repro/tudnusa.html",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
 "name": "ESPN Deportes 720 | 🇺🇸",
 "info": "[Wagon]",
 "online": "true",
