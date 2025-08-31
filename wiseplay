@@ -2251,6 +2251,15 @@
 },
 {
 "name": "Univision | 🇺🇸",
+"info": "[Streamtp]",
+"online": "true",
+"image": "https://i.imgur.com/b5III2Y.png",
+"url": "https://streamtp11.com/global1.php?stream=univision_usa",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "Univision | 🇺🇸",
 "info": "[Link]",
 "online": "true",
 "image": "https://i.imgur.com/b5III2Y.png",
