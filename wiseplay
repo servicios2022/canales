@@ -71,7 +71,7 @@
 "stations":[
 
 {
-"name": "PPV Eventos UFC 1080 | 🇨🇱",
+"name": "PPV UFC 1080 | 🇨🇱",
 "info": "[ESPN Premium]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
@@ -79,7 +79,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
-"name": "PPV Eventos UFC 720 | 🇦🇷",
+"name": "PPV UFC 720 | 🇦🇷",
 "info": "[ESPN 5]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
@@ -88,7 +88,7 @@
 "isHost": "true"
 },
 {
-"name": "PPV Eventos UFC 720 | 🇦🇷",
+"name": "PPV UFC 720 | 🇦🇷",
 "info": "[Disney+ 5]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
@@ -97,7 +97,7 @@
 "isHost": "true"
 },
 {
-"name": "PPV Eventos UFC 720 | 🇦🇷",
+"name": "PPV UFC 720 | 🇦🇷",
 "info": "[Fox Sports]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
@@ -106,7 +106,7 @@
 "isHost": "true"
 },
 {
-"name": "PPV Eventos UFC 720 | 🇲🇽",
+"name": "PPV UFC 720 | 🇲🇽",
 "info": "[ESPN Deportes]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
@@ -115,7 +115,7 @@
 "isHost": "true"
 },
 {
-"name": "PPV Eventos UFC 720 | 🇲🇽",
+"name": "PPV UFC 720 | 🇲🇽",
 "info": "[Fox Sports 2]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
@@ -123,25 +123,25 @@
 "embed": "true"
 },
 {
-"name": "PPV Eventos UFC 720 | 🇪🇸",
+"name": "PPV UFC 1080 | 🇲🇽",
+"info": "[Fox Premium]",
+"online": "true",
+"image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
+"url": "acestream://9efe41de7f5dcafc9395591feb959832e09683ff"
+},
+{
+"name": "PPV UFC 1080 | 🇪🇸",
 "info": "[Eurosport 2]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
 "url": "acestream://0585e09bb8ac9720e4c11934f1b184e309291551"
 },
 {
-"name": "PPV Eventos UFC 720 | 🇪🇸",
+"name": "PPV UFC 1080 | 🇪🇸",
 "info": "[Eurosport 2]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
 "url": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc"
-},
-{
-"name": "PPV Eventos UFC 1080 | 🇲🇽",
-"info": "[Fox Premium]",
-"online": "true",
-"image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
-"url": "acestream://9efe41de7f5dcafc9395591feb959832e09683ff"
 },
 
 {
@@ -1298,6 +1298,35 @@
 "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
 "url": "acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef"
 }, 
+{
+"name": "Eurosports 1 1080 | 🇪🇸",
+"info": "[Acestream d0e]",
+"online": "true",
+"image": "https://i.imgur.com/F82rsYt.png",
+"url": "acestream://c3da6c4f91d9d10ade00318a869435e19f204d0e"
+},
+{
+"name": "Eurosports 1 1080 | 🇪🇸",
+"info": "[Acestream 1d3]",
+"online": "true",
+"image": "https://i.imgur.com/F82rsYt.png",
+"url": "acestream://cfa75ade53810dac64411b22d56c3d4582a221d3"
+},
+{
+"name": "Eurosports 1 1080 | 🇪🇸",
+"info": "[Acestream 909]",
+"online": "true",
+"image": "https://i.imgur.com/F82rsYt.png",
+"url": "acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909"
+},
+{
+"name": "Eurosports 1 1080 | 🇪🇸",
+"info": "[Acestream 05d]",
+"online": "true",
+"image": "https://i.imgur.com/F82rsYt.png",
+"url": "acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d"
+},
+
 {
 "name": "Eurosports 2 1080 | 🇪🇸",
 "info": "[Acestream 551]",
