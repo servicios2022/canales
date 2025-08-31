@@ -282,8 +282,6 @@
 "isHost":""
 },
 
-
-
 {
 "name": "ESPN Premium Chile 1080 | 🇨🇱",
 "info": "[190]",
@@ -293,36 +291,31 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
-"name": "ESPN Premium Argentina 1080 | 🇦🇷",
-"info": "[181]",
+"name": "ESPN Premium Argentina | 🇦🇷",
+"info": "[Streamdp]",
 "online": "true",
 "image": "https://i.imgur.com/5qTHLGy.png",
-"url": "http://181.188.216.5:18000/play/a0fe/index.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+"url": "https://streamdp2.xyz/global1.php?channel=espnpremium",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
 },
 {
-"name": "ESPN Premium Argentina 1080 | 🇦🇷",
-"info": "[179]",
+"name": "ESPN Premium Argentina | 🇦🇷",
+"info": "[La14HD]",
 "online": "true",
 "image": "https://i.imgur.com/5qTHLGy.png",
-"url": "http://179.51.136.19:8000/play/a1ar/index.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+"url": "https://la14hd.com/vivo/canales.php?stream=espnpremium",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
 },
 {
-"name": "ESPN Premium Argentina 1080 | 🇦🇷",
-"info": "[190]",
+"name": "ESPN Premium Argentina | 🇦🇷",
+"info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/5qTHLGy.png",
-"url": "http://190.102.246.93:9005/play/a00x",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
-"name": "ESPN Premium Argentina 1080 | 🇦🇷",
-"info": "[190]",
-"online": "true",
-"image": "https://i.imgur.com/5qTHLGy.png",
-"url": "http://190.102.246.93:9005/play/a029",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+"url": "https://streamtp11.com/global1.php?stream=espnpremium",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
 },
 {
 "name": "ESPN Premium Argentina 720 | 🇦🇷",
@@ -367,24 +360,6 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "",
 "isHost":"true"
-},
-{
-"name": "ESPN Premium Argentina | 🇦🇷",
-"info": "[Streamdp]",
-"online": "true",
-"image": "https://i.imgur.com/5qTHLGy.png",
-"url": "https://streamdp2.xyz/global1.php?channel=espnpremium",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "ESPN Premium Argentina | 🇦🇷",
-"info": "[La14HD]",
-"online": "true",
-"image": "https://i.imgur.com/5qTHLGy.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=espnpremium",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
 },
 {
 "name": "TNT Sports Argentina 1080 | 🇦🇷",
