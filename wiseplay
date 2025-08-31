@@ -1265,6 +1265,35 @@
 },
 
 {
+"name": "M+ Vamos | 🇪🇸",
+"info": "[Acestream 40b]",
+"online": "true",
+"image": "https://i.imgur.com/NWKEmqh.png",
+"url": "acestream://c7c81acdd1a03ecc418c94c2f28e2adb0556c40b"
+},
+{
+"name": "M+ Vamos | 🇪🇸",
+"info": "[Acestream 933]",
+"online": "true",
+"image": "https://i.imgur.com/NWKEmqh.png",
+"url": "acestream://3b2a8b41e7097c16b0468b42d7de0320886fa933"
+},
+{
+"name": "M+ Vamos | 🇪🇸",
+"info": "[Acestream eae]",
+"online": "true",
+"image": "https://i.imgur.com/NWKEmqh.png",
+"url": "acestream://2940120bf034db79a7f5849846ccea0255172eae"
+},
+{
+"name": "M+ Vamos | 🇪🇸",
+"info": "[Acestream 548]",
+"online": "true",
+"image": "https://i.imgur.com/NWKEmqh.png",
+"url": "acestream://651d6be899d1fafa107a265a9dc00ff914c1b548"
+},
+
+{
 "name": "La Liga Tv Hypermotion | 🇪🇸",
 "info": "[Acestream be0]",
 "online": "true",
