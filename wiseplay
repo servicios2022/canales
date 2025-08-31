@@ -88,7 +88,7 @@
 "isHost": "true"
 },
 {
-"name": "PPV Eventos UFC 720 | 🇲🇽",
+"name": "PPV Eventos UFC 720 | 🇦🇷",
 "info": "[Disney+ 5]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
@@ -107,6 +107,15 @@
 },
 {
 "name": "PPV Eventos UFC 720 | 🇲🇽",
+"info": "[ESPN Deportes]",
+"online": "true",
+"image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=espndeportes",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "PPV Eventos UFC 720 | 🇲🇽",
 "info": "[Fox Sports 2]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
@@ -114,14 +123,14 @@
 "embed": "true"
 },
 {
-"name": "PPV Eventos UFC 720 | 🇲🇽",
+"name": "PPV Eventos UFC 720 | 🇪🇸",
 "info": "[Eurosport 2]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
 "url": "acestream://0585e09bb8ac9720e4c11934f1b184e309291551"
 },
 {
-"name": "PPV Eventos UFC 720 | 🇲🇽",
+"name": "PPV Eventos UFC 720 | 🇪🇸",
 "info": "[Eurosport 2]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
@@ -134,6 +143,7 @@
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
 "url": "acestream://9efe41de7f5dcafc9395591feb959832e09683ff"
 },
+
 {
 "name": "Eventos DISNEY+ 1 | 🇦🇷",
 "image": "https://i.imgur.com/gw2wQrr.png",
