@@ -97,15 +97,6 @@
 "isHost": "true"
 },
 {
-"name": "PPV Eventos UFC 720 | 🇲🇽",
-"info": "[ESPN Deportes]",
-"online": "true",
-"image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=espndeportes",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
 "name": "PPV Eventos UFC 720 | 🇦🇷",
 "info": "[Fox Sports]",
 "online": "true",
@@ -124,14 +115,14 @@
 },
 {
 "name": "Eurosports 2 FHD | 🇪🇸",
-"info": "[Acestream elcano 551]",
+"info": "[Acestream 551]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
 "url": "acestream://0585e09bb8ac9720e4c11934f1b184e309291551"
 },
 {
 "name": "Eurosports 2 FHD | 🇪🇸",
-"info": "[Acestream newera ecc]",
+"info": "[Acestream ecc]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
 "url": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc"
@@ -272,6 +263,15 @@
 "isHost": "true"
 },
 {
+"name": "TNT Sports Premium Chile 720 | 🇨🇱",
+"info": "[Streamtp]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "https://streamtp11.com/global1.php?stream=tntsportschile",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
 "name": "TNT Sports Chile 720 | 🇨🇱",
 "info": "[Dokko]",
 "online": "true",
@@ -282,8 +282,6 @@
 "isHost":""
 },
 
-
-
 {
 "name": "ESPN Premium Chile 1080 | 🇨🇱",
 "info": "[190]",
@@ -293,36 +291,31 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
-"name": "ESPN Premium Argentina 1080 | 🇦🇷",
-"info": "[181]",
+"name": "ESPN Premium Argentina | 🇦🇷",
+"info": "[Streamdp]",
 "online": "true",
 "image": "https://i.imgur.com/5qTHLGy.png",
-"url": "http://181.188.216.5:18000/play/a0fe/index.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+"url": "https://streamdp2.xyz/global1.php?channel=espnpremium",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
 },
 {
-"name": "ESPN Premium Argentina 1080 | 🇦🇷",
-"info": "[179]",
+"name": "ESPN Premium Argentina | 🇦🇷",
+"info": "[La14HD]",
 "online": "true",
 "image": "https://i.imgur.com/5qTHLGy.png",
-"url": "http://179.51.136.19:8000/play/a1ar/index.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+"url": "https://la14hd.com/vivo/canales.php?stream=espnpremium",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
 },
 {
-"name": "ESPN Premium Argentina 1080 | 🇦🇷",
-"info": "[190]",
+"name": "ESPN Premium Argentina | 🇦🇷",
+"info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/5qTHLGy.png",
-"url": "http://190.102.246.93:9005/play/a00x",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
-"name": "ESPN Premium Argentina 1080 | 🇦🇷",
-"info": "[190]",
-"online": "true",
-"image": "https://i.imgur.com/5qTHLGy.png",
-"url": "http://190.102.246.93:9005/play/a029",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+"url": "https://streamtp11.com/global1.php?stream=espnpremium",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
 },
 {
 "name": "ESPN Premium Argentina 720 | 🇦🇷",
@@ -367,24 +360,6 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "",
 "isHost":"true"
-},
-{
-"name": "ESPN Premium Argentina | 🇦🇷",
-"info": "[Streamdp]",
-"online": "true",
-"image": "https://i.imgur.com/5qTHLGy.png",
-"url": "https://streamdp2.xyz/global1.php?channel=espnpremium",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "ESPN Premium Argentina | 🇦🇷",
-"info": "[La14HD]",
-"online": "true",
-"image": "https://i.imgur.com/5qTHLGy.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=espnpremium",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
 },
 {
 "name": "TNT Sports Argentina 1080 | 🇦🇷",
@@ -1087,88 +1062,289 @@
 "userAgent": ""
 },
 
-
-
 {
-"name": "Movistar La Liga 1080 | 🇪🇸",
-"info": "[Acestream elcano 947]",
-"online": "true",
-"image": "https://i.imgur.com/5lNTjn0.png",
-"url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947"
-},
-{
-"name": "Movistar La Liga 1080 | 🇪🇸",
-"info": "[Acestream elcano f74]",
-"online": "true",
-"image": "https://i.imgur.com/5lNTjn0.png",
-"url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74"
-},
-{
-"name": "Movistar La Liga 1080 | 🇪🇸",
-"info": "[Acestream elcano f1e]",
+"name": "M+ La Liga UHD | 🇪🇸",
+"info": "[Acestream f1e]",
 "online": "true",
 "image": "https://i.imgur.com/5lNTjn0.png",
 "url": "acestream://c9321006921967d6258df6945f1d598a5c0cbf1e"
 },
 {
-"name": "Movistar La Liga 1080 | 🇪🇸",
-"info": "[Acestream elcano 92d]",
+"name": "M+ La Liga 1080 | 🇪🇸",
+"info": "[Acestream 947]",
+"online": "true",
+"image": "https://i.imgur.com/5lNTjn0.png",
+"url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947"
+},
+{
+"name": "M+ La Liga 1080 | 🇪🇸",
+"info": "[Acestream f74]",
+"online": "true",
+"image": "https://i.imgur.com/5lNTjn0.png",
+"url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74"
+},
+{
+"name": "M+ La Liga 1080 | 🇪🇸",
+"info": "[Acestream f1e]",
+"online": "true",
+"image": "https://i.imgur.com/5lNTjn0.png",
+"url": "acestream://c9321006921967d6258df6945f1d598a5c0cbf1e"
+},
+{
+"name": "M+ La Liga 1080 | 🇪🇸",
+"info": "[Acestream 92d]",
 "online": "true",
 "image": "https://i.imgur.com/5lNTjn0.png",
 "url": "acestream://d3de78aebe544611a2347f54d5796bd87f16c92d"
 },
-{
-"name": "Movistar La Liga 1080 | 🇪🇸",
-"info": "[Acestream newera c45]",
-"online": "true",
-"image": "https://i.imgur.com/5lNTjn0.png",
-"url": "acestream://7e2f5e27994a90700e6c5b938d5face45577cc45"
-},
-{
-"name": "Movistar La Liga 1080 | 🇪🇸",
-"info": "[Acestream newera 6b0]",
-"online": "true",
-"image": "https://i.imgur.com/5lNTjn0.png",
-"url": "acestream://10e451cb5bef2e34bf52cc48de811893528146b0"
-},
 
 {
 "name": "DAZN La Liga 1080 | 🇪🇸",
-"info": "[Acestream newera 621]",
+"info": "[Acestream 621]",
 "online": "true",
 "image": "https://i.imgur.com/Mql5aBD.png",
 "url": "acestream://4fa168d5401e4b2673100b237a976961b52cf621"
 },
 {
 "name": "DAZN La Liga 1080 | 🇪🇸",
-"info": "[Acestream elcano f47]",
+"info": "[Acestream f47]",
 "online": "true",
 "image": "https://i.imgur.com/Mql5aBD.png",
 "url": "acestream://110d441ddc9713a7452588770d2bc85504672f47"
 },
 {
 "name": "DAZN La Liga 1080 | 🇪🇸",
-"info": "[Acestream elcano 70c]",
+"info": "[Acestream 70c]",
 "online": "true",
 "image": "https://i.imgur.com/Mql5aBD.png",
 "url": "acestream://ec29289b0b14756e686c03a501bae1efa05be70c"
 },
 {
 "name": "DAZN La Liga 1080 | 🇪🇸",
-"info": "[Acestream newera 3de]",
+"info": "[Acestream 3de]",
 "online": "true",
 "image": "https://i.imgur.com/Mql5aBD.png",
 "url": "acestream://96a8a772f150d9e57ca71a9765d2278c0c5423de"
 },
+{
+"name": "DAZN La Liga 2 1080 | 🇪🇸",
+"info": "[Acestream ba8]",
+"online": "true",
+"image": "https://i.imgur.com/V7TegwP.png",
+"url": "acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8"
+},
+{
+"name": "DAZN La Liga 2 1080 | 🇪🇸",
+"info": "[Acestream ee3]",
+"online": "true",
+"image": "https://i.imgur.com/V7TegwP.png",
+"url": "acestream://635b61c1f240449163260cd914d10d886a54fee3"
+},
+{
+"name": "DAZN La Liga 2 1080 | 🇪🇸",
+"info": "[Acestream af5]",
+"online": "true",
+"image": "https://i.imgur.com/V7TegwP.png",
+"url": "acestream://ae16a8f004b1287ee1f53263ab265f72bba0daf5"
+},
+{
+"name": "DAZN La Liga 2 1080 | 🇪🇸",
+"info": "[Acestream d36]",
+"online": "true",
+"image": "https://i.imgur.com/V7TegwP.png",
+"url": "acestream://c976c7b37964322752db562b4ad65515509c8d36"
+},
 
 {
-"name": "Liga de Campeones | 🇪🇸",
+"name": "M+ Liga de Campeones | 🇪🇸",
+"info": "[Acestream bc9]",
+"online": "true",
+"image": "https://i.imgur.com/3PsaCB9.png",
+"url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9"
+},
+{
+"name": "M+ Liga de Campeones | 🇪🇸",
+"info": "[Acestream 15f]",
+"online": "true",
+"image": "https://i.imgur.com/3PsaCB9.png",
+"url": "acestream://2b51710cee513e8939785fa3e7980f32d4e0415f"
+},
+{
+"name": "M+ Liga de Campeones | 🇪🇸",
+"info": "[Acestream 06e]",
+"online": "true",
+"image": "https://i.imgur.com/3PsaCB9.png",
+"url": "acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e"
+},
+{
+"name": "M+ Liga de Campeones | 🇪🇸",
 "info": "[Acestream 370]",
 "online": "true",
 "image": "https://i.imgur.com/3PsaCB9.png",
 "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
 },
+{
+"name": "DAZN 1 1080 | 🇪🇸",
+"info": "[Acestream elcano 276]",
+"online": "true",
+"image": "https://i.imgur.com/e3en715.png",
+"url": "acestream://eb6ffec065b26259ad3d1811e0bbb0a5332ed276"
+},
+{
+"name": "DAZN 1 1080 | 🇪🇸",
+"info": "[Acestream 784]",
+"online": "true",
+"image": "https://i.imgur.com/e3en715.png",
+"url": "acestream://7ba1f321f4d0791b7ebd42f41a07c1cd1479e784"
+},
+{
+"name": "DAZN 1 1080 | 🇪🇸",
+"info": "[Acestream 151]",
+"online": "true",
+"image": "https://i.imgur.com/e3en715.png",
+"url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151"
+},
+{
+"name": "DAZN 1 1080 | 🇪🇸",
+"info": "[Acestream a0e]",
+"online": "true",
+"image": "https://i.imgur.com/e3en715.png",
+"url": "acestream://6538b79ce0da657d8455d1da6a5f342398899a0e"
+},
+{
+"name": "DAZN 2 1080 | 🇪🇸",
+"info": "[Acestream 8ab]",
+"online": "true",
+"image": "https://i.imgur.com/1GX8iBp.png",
+"url": "acestream://ae68a0835039fab28fd2314108fabd4fab33b8ab"
+},
+{
+"name": "DAZN 2 1080 | 🇪🇸",
+"info": "[Acestream dc5]",
+"online": "true",
+"image": "https://i.imgur.com/1GX8iBp.png",
+"url": "acestream://9adf7ac6531788ec022dbc14b77e1367f6c5bdc5"
+},
+{
+"name": "DAZN 2 1080 | 🇪🇸",
+"info": "[Acestream a35]",
+"online": "true",
+"image": "https://i.imgur.com/1GX8iBp.png",
+"url": "acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35"
+},
+{
+"name": "DAZN 2 1080 | 🇪🇸",
+"info": "[Acestream 97d]",
+"online": "true",
+"image": "https://i.imgur.com/1GX8iBp.png",
+"url": "acestream://fb2dd566824658eeab27aae19a01c09430f1a97d"
+},
+{
+"name": "DAZN 3 1080 | 🇪🇸",
+"info": "[Acestream df9]",
+"online": "true",
+"image": "https://i.imgur.com/geHF3cL.png",
+"url": "acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9"
+},
+{
+"name": "DAZN 3 1080 | 🇪🇸",
+"info": "[Acestream eb1]",
+"online": "true",
+"image": "https://i.imgur.com/geHF3cL.png",
+"url": "acestream://d641cd0fca0f467b3130754a091e2f4d22e68eb1"
+},
+{
+"name": "DAZN 3 1080 | 🇪🇸",
+"info": "[Acestream b28]",
+"online": "true",
+"image": "https://i.imgur.com/geHF3cL.png",
+"url": "acestream://8a86cd6152154a25ad4b76523160552a40313b28"
+},
+{
+"name": "DAZN 3 1080 | 🇪🇸",
+"info": "[Acestream 5ba]",
+"online": "true",
+"image": "https://i.imgur.com/geHF3cL.png",
+"url": "acestream://6fb944e8985881ae6db89667aca6362e746255b6"
+},
+{
+"name": "DAZN 4 1080 | 🇪🇸",
+"info": "[Acestream 3b8]",
+"online": "true",
+"image": "https://i.imgur.com/rBdHZYv.png",
+"url": "acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8"
+},
+{
+"name": "DAZN 4 1080 | 🇪🇸",
+"info": "[Acestream 1f0]",
+"online": "true",
+"image": "https://i.imgur.com/rBdHZYv.png",
+"url": "acestream://7e27e46c25d4308d16098d9dc67fcd8736e8c1f0"
+},
+{
+"name": "DAZN 4 1080 | 🇪🇸",
+"info": "[Acestream af5]",
+"online": "true",
+"image": "https://i.imgur.com/rBdHZYv.png",
+"url": "acestream://c015d37d1ead8155b1e7b97e743a1fe9850f0af5"
+},
+{
+"name": "DAZN 4 1080 | 🇪🇸",
+"info": "[Acestream b1b]",
+"online": "true",
+"image": "https://i.imgur.com/rBdHZYv.png",
+"url": "acestream://6a11eb510edc5b3581c5c97883c44563eb894b1b"
+},
 
+{
+"name": "La Liga Tv Hypermotion | 🇪🇸",
+"info": "[Acestream be0]",
+"online": "true",
+"image": "https://i.imgur.com/PKp1IS4.png",
+"url": "acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0"
+},
+{
+"name": "La Liga Tv Hypermotion | 🇪🇸",
+"info": "[Acestream 8cd]",
+"online": "true",
+"image": "https://i.imgur.com/PKp1IS4.png",
+"url": "acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd"
+},
+{
+"name": "La Liga Tv Hypermotion | 🇪🇸",
+"info": "[Acestream 5b9]",
+"online": "true",
+"image": "https://i.imgur.com/PKp1IS4.png",
+"url": "acestream://f15f997f457e49ad9697e65cf2d78db26ee875b9"
+},
+{
+"name": "La Liga Tv Hypermotion | 🇪🇸",
+"info": "[Acestream 135]",
+"online": "true",
+"image": "https://i.imgur.com/PKp1IS4.png",
+"url": "acestream://ff38b875b60074d60edb64cf10d09b32370a7135"
+},
+{
+"name": "Gol Tv 1080 | 🇪🇸",
+"info": "[Acestream a3a]",
+"online": "true",
+"image": "https://i.imgur.com/I5zUqed.png",
+"url": "acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a"
+},
+{
+"name": "Gol Tv 1080 | 🇪🇸",
+"info": "[Acestream 612]",
+"online": "true",
+"image": "https://i.imgur.com/I5zUqed.png",
+"url": "acestream://9fb99c40a2c45d5c5342b30626eb56140f980612"
+},
+{
+"name": "Gol Tv 1080 | 🇪🇸",
+"info": "[Acestream f93]",
+"online": "true",
+"image": "https://i.imgur.com/I5zUqed.png",
+"url": "acestream://73094658f0a3ed523c0e188de67a7a690c0d4f93"
+},
 
 {
 "name": "TDP 1080 | 🇪🇸",
@@ -1179,49 +1355,49 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
-"name": "TDP | 🇪🇸",
+"name": "TDP 1080 | 🇪🇸",
 "info": "[Acestream 230]",
 "online": "true",
 "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
 "url": "acestream://138b30c93e8a780ac490a4f6d2181c41f3670230"
 },
 {
-"name": "TDP | 🇪🇸",
+"name": "TDP 1080 | 🇪🇸",
 "info": "[Acestream 9ef]",
 "online": "true",
 "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
 "url": "acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef"
 }, 
 {
-"name": "Eurosports 2 FHD | 🇪🇸",
-"info": "[Acestream elcano 551]",
+"name": "Eurosports 2 1080 | 🇪🇸",
+"info": "[Acestream 551]",
 "online": "true",
 "image": "https://i.imgur.com/hvAxt4r.png",
 "url": "acestream://0585e09bb8ac9720e4c11934f1b184e309291551"
 },
 {
-"name": "Eurosports 2 FHD | 🇪🇸",
-"info": "[Acestream elcano 53f]",
+"name": "Eurosports 2 1080 | 🇪🇸",
+"info": "[Acestream 53f]",
 "online": "true",
 "image": "https://i.imgur.com/hvAxt4r.png",
 "url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f"
 },
 {
-"name": "Eurosports 2 FHD | 🇪🇸",
-"info": "[Acestream newera ecc]",
+"name": "Eurosports 2 1080 | 🇪🇸",
+"info": "[Acestream ecc]",
 "online": "true",
 "image": "https://i.imgur.com/hvAxt4r.png",
 "url": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc"
 },
 {
-"name": "Eurosports 2 FHD | 🇪🇸",
-"info": "[Acestream newera 372]",
+"name": "Eurosports 2 1080 | 🇪🇸",
+"info": "[Acestream 372]",
 "online": "true",
 "image": "https://i.imgur.com/hvAxt4r.png",
 "url": "acestream://4b87a5b67f39dfc151a163ec8c08039520f0a372"
 },
 {
-"name": "Real Madrid Tv | 🇪🇸",
+"name": "Real Madrid Tv 1080 | 🇪🇸",
 "image": "https://graph.facebook.com/RealMadrid/picture?width=200&height=200",
 "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
@@ -1716,14 +1892,6 @@
 "isHost": "true"
 },
 {
-"name": "America Tv | 🇵🇪",
-"image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png",
-"online": "true",
-"referer": "https://mihd.tv/",
-"url": "https://mihd.tv/america-tv-en-vivo-por-internet.html",
-"isHost": "true"
-},
-{
 "name": "Willax | 🇵🇪",
 "info": "[Photo]",
 "online": "true",
@@ -1759,14 +1927,6 @@
 "referer" : "https://cdn.chatytvgratis.net/",
 "url": "https://cdn.chatytvgratis.net/caracoltabs.php",
 "isHost":"true"
-},
-{
-"name": "Caracol (MiHD) | 🇨🇴",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png",
-"online": "true",
-"referer": "https://mihd.tv/",
-"url": "https://mihd.tv/caracol-en-vivo-por-internet.html",
-"isHost": "true"
 },
 {
 "name": "Noticias Caracol | 🇨🇴",
@@ -2049,57 +2209,6 @@
 "embed": "true"
 },
 {
-"name": "Telemundo 47 New York 1080 | 🇺🇸",
-"info": "[Tele]",
-"online": "true",
-"image": "https://i.imgur.com/9piuN0T.png",
-"url": "https://telegratuita.com/reproductor/?r=L3NwZWVkL3Q0Ny5waHA=",
-"embed": "true"
-},
-{
-"name": "Telemundo 47 New York 1080 | 🇺🇸",
-"info": "[MiHD]",
-"online": "true",
-"image": "https://i.imgur.com/9piuN0T.png",
-"referer": "https://mihd.tv/",
-"url": "https://mihd.tv/telemundo-51-en-vivo-por-internet.html",
-"isHost": "true"
-},
-{
-"name": "Telemundo 51 Miami 1080 | 🇺🇸",
-"info": "[Tele]",
-"online": "true",
-"image": "https://i.imgur.com/9piuN0T.png",
-"url": "https://telegratuita.com/reproductor/?r=L3NwZWVkL3Q1MS5waHA=",
-"embed": "true"
-},
-{
-"name": "Telemundo 51 Noticias Florida | 🇺🇸",
-"info": "[NBCU]",
-"online": "true",
-"image": "https://i.imgur.com/9piuN0T.png",
-"url": "https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
-"name": "Telemundo 52 Los Angeles 1080 | 🇺🇸",
-"info": "[Tele]",
-"online": "true",
-"image": "https://i.imgur.com/9piuN0T.png",
-"url": "https://telegratuita.com/reproductor/?r=L3NwZWVkL3Q1Mi5waHA=",
-"embed": "true"
-},
-{
-"name": "Telemundo 52 Los Angeles 720 | 🇺🇸",
-"info": "[Link]",
-"online": "true",
-"image": "https://i.imgur.com/9piuN0T.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-"referer": "https://deporte-libre.link",
-"url": "https://deporte-libre.link/stream/stream-131.php",
-"isHost": "true"
-},
-{
 "name": "Telemundo 52 Los Angeles | 🇺🇸",
 "info": "[Telefull]",
 "online": "true",
@@ -2110,6 +2219,24 @@
 "isHost": "true"
 },
 {
+"name": "Telemundo 52 Los Angeles | 🇺🇸",
+"info": "[Cable]",
+"online": "true",
+"image": "https://i.imgur.com/9piuN0T.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+"referer": "https://www.cablevisionhd.com/",
+"url": "https://telegratuita.com/latam.php?canal=telemundo",
+"isHost": "true"
+},
+{
+"name": "Telemundo 49 Noticias Florida | 🇺🇸",
+"info": "[NBCU]",
+"online": "true",
+"image": "https://i.imgur.com/9piuN0T.png",
+"url": "https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
 "name": "Telemundo 52 Noticias California | 🇺🇸",
 "info": "[D3i0aurg]",
 "online": "true",
@@ -2118,19 +2245,34 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
+"name": "Telemundo 47 New York 1080 | 🇺🇸",
+"info": "[Tele]",
+"online": "true",
+"image": "https://i.imgur.com/9piuN0T.png",
+"url": "https://telegratuita.com/reproductor/?r=L3NwZWVkL3Q0Ny5waHA=",
+"embed": "true"
+},
+{
+"name": "Telemundo 51 Miami 1080 | 🇺🇸",
+"info": "[Tele]",
+"online": "true",
+"image": "https://i.imgur.com/9piuN0T.png",
+"url": "https://telegratuita.com/reproductor/?r=L3NwZWVkL3Q1MS5waHA=",
+"embed": "true"
+},
+{
+"name": "Telemundo 52 Los Angeles 1080 | 🇺🇸",
+"info": "[Tele]",
+"online": "true",
+"image": "https://i.imgur.com/9piuN0T.png",
+"url": "https://telegratuita.com/reproductor/?r=L3NwZWVkL3Q1Mi5waHA=",
+"embed": "true"
+},
+{
 "name": "Telemundo Puerto Rico (Nbc) | 🇺🇸",
 "image": "https://i.imgur.com/9piuN0T.png",
 "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
 "userAgent": ""
-},
-{
-"name": "Univision | 🇺🇸",
-"info": "[MiHD]",
-"online": "true",
-"image": "https://i.imgur.com/b5III2Y.png",
-"referer": "https://mihd.tv/",
-"url": "https://mihd.tv/univision-en-vivo-por-internet.html",
-"isHost": "true"
 },
 {
 "name": "Univision 1080 (45) | 🇺🇸",
@@ -2146,6 +2288,15 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
 "referer": "https://www.telegratishd.com",
 "url": "https://www.telegratishd.com/univision-en-vivo.html",
+"isHost": "true"
+},
+{
+"name": "Univision | 🇺🇸",
+"info": "[Streamtp]",
+"online": "true",
+"image": "https://i.imgur.com/b5III2Y.png",
+"url": "https://streamtp11.com/global1.php?stream=univision_usa",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
 {
