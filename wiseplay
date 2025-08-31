@@ -2209,12 +2209,24 @@
 "embed": "true"
 },
 {
-"name": "Telemundo 47 New York 1080 | 🇺🇸",
-"info": "[Tele]",
+"name": "Telemundo 52 Los Angeles | 🇺🇸",
+"info": "[Telefull]",
 "online": "true",
 "image": "https://i.imgur.com/9piuN0T.png",
-"url": "https://telegratuita.com/reproductor/?r=L3NwZWVkL3Q0Ny5waHA=",
-"embed": "true"
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://telefullhd.com/",
+"url": "https://telefullhd.com/canales/telemundo/op2.php",
+"isHost": "true"
+},
+{
+"name": "Telemundo 52 Los Angeles | 🇺🇸",
+"info": "[Cable]",
+"online": "true",
+"image": "https://i.imgur.com/9piuN0T.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+"referer": "https://www.cablevisionhd.com/",
+"url": "https://telegratuita.com/latam.php?canal=telemundo",
+"isHost": "true"
 },
 {
 "name": "Telemundo 49 Noticias Florida | 🇺🇸",
@@ -2223,6 +2235,22 @@
 "image": "https://i.imgur.com/9piuN0T.png",
 "url": "https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "Telemundo 52 Noticias California | 🇺🇸",
+"info": "[D3i0aurg]",
+"online": "true",
+"image": "https://i.imgur.com/9piuN0T.png",
+"url": "https://d3i0aurg3nyoct.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/c7829e2c-fae1-49f0-b549-a2c0e887e672/3.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "Telemundo 47 New York 1080 | 🇺🇸",
+"info": "[Tele]",
+"online": "true",
+"image": "https://i.imgur.com/9piuN0T.png",
+"url": "https://telegratuita.com/reproductor/?r=L3NwZWVkL3Q0Ny5waHA=",
+"embed": "true"
 },
 {
 "name": "Telemundo 51 Miami 1080 | 🇺🇸",
@@ -2239,34 +2267,6 @@
 "image": "https://i.imgur.com/9piuN0T.png",
 "url": "https://telegratuita.com/reproductor/?r=L3NwZWVkL3Q1Mi5waHA=",
 "embed": "true"
-},
-{
-"name": "Telemundo | 🇺🇸",
-"info": "[Cable]",
-"online": "true",
-"image": "https://i.imgur.com/9piuN0T.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-"referer": "https://www.cablevisionhd.com/",
-"url": "https://telegratuita.com/latam.php?canal=telemundo",
-"isHost": "true"
-},
-{
-"name": "Telemundo 52 Los Angeles | 🇺🇸",
-"info": "[Telefull]",
-"online": "true",
-"image": "https://i.imgur.com/9piuN0T.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://telefullhd.com/",
-"url": "https://telefullhd.com/canales/telemundo/op2.php",
-"isHost": "true"
-},
-{
-"name": "Telemundo 52 Noticias California | 🇺🇸",
-"info": "[D3i0aurg]",
-"online": "true",
-"image": "https://i.imgur.com/9piuN0T.png",
-"url": "https://d3i0aurg3nyoct.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/c7829e2c-fae1-49f0-b549-a2c0e887e672/3.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
 "name": "Telemundo Puerto Rico (Nbc) | 🇺🇸",
