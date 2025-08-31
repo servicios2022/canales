@@ -1095,34 +1095,6 @@
 },
 
 {
-"name": "M+ Liga de Campeones | 🇪🇸",
-"info": "[Acestream bc9]",
-"online": "true",
-"image": "https://i.imgur.com/3PsaCB9.png",
-"url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9"
-},
-{
-"name": "M+ Liga de Campeones | 🇪🇸",
-"info": "[Acestream 15f]",
-"online": "true",
-"image": "https://i.imgur.com/3PsaCB9.png",
-"url": "acestream://2b51710cee513e8939785fa3e7980f32d4e0415f"
-},
-{
-"name": "M+ Liga de Campeones | 🇪🇸",
-"info": "[Acestream 06e]",
-"online": "true",
-"image": "https://i.imgur.com/3PsaCB9.png",
-"url": "acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e"
-},
-{
-"name": "M+ Liga de Campeones | 🇪🇸",
-"info": "[Acestream 370]",
-"online": "true",
-"image": "https://i.imgur.com/3PsaCB9.png",
-"url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
-},
-{
 "name": "DAZN 1 1080 | 🇪🇸",
 "info": "[Acestream elcano 276]",
 "online": "true",
@@ -1234,6 +1206,65 @@
 "image": "https://i.imgur.com/rBdHZYv.png",
 "url": "acestream://6a11eb510edc5b3581c5c97883c44563eb894b1b"
 },
+
+{
+"name": "M+ Liga de Campeones | 🇪🇸",
+"info": "[Acestream 370]",
+"online": "true",
+"image": "https://i.imgur.com/3PsaCB9.png",
+"url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
+},
+{
+"name": "M+ Liga de Campeones | 🇪🇸",
+"info": "[Acestream bc9]",
+"online": "true",
+"image": "https://i.imgur.com/3PsaCB9.png",
+"url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9"
+},
+{
+"name": "M+ Liga de Campeones | 🇪🇸",
+"info": "[Acestream 15f]",
+"online": "true",
+"image": "https://i.imgur.com/3PsaCB9.png",
+"url": "acestream://2b51710cee513e8939785fa3e7980f32d4e0415f"
+},
+{
+"name": "M+ Liga de Campeones | 🇪🇸",
+"info": "[Acestream 06e]",
+"online": "true",
+"image": "https://i.imgur.com/3PsaCB9.png",
+"url": "acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e"
+},
+{
+"name": "M+ Liga de Campeones | 🇪🇸",
+"info": "[Acestream bd0]",
+"online": "true",
+"image": "https://i.imgur.com/3PsaCB9.png",
+"url": "acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0"
+},
+{
+"name": "M+ Liga de Campeones | 🇪🇸",
+"info": "[Acestream 7c2]",
+"online": "true",
+"image": "https://i.imgur.com/3PsaCB9.png",
+"url": "acestream://680187938f9305cce3ae240298f10e8695bf77c2"
+},
+{
+"name": "M+ Liga de Campeones | 🇪🇸",
+"info": "[Acestream 1d6]",
+"online": "true",
+"image": "https://i.imgur.com/3PsaCB9.png",
+"url": "acestream://5c15c639207a080183b12fa63282b409c07401d6"
+},
+{
+"name": "M+ Liga de Campeones | 🇪🇸",
+"info": "[Acestream 2cc]",
+"online": "true",
+"image": "https://i.imgur.com/3PsaCB9.png",
+"url": "acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc"
+},
+
+
 
 {
 "name": "La Liga Tv Hypermotion | 🇪🇸",
