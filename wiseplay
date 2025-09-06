@@ -62,40 +62,7 @@
 },
 
 
-#EXTINF:-1,La Red HD
-http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/4
-#EXTINF:-1,TV+ HD
-http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/152
-#EXTINF:-1,TVmas2
-http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/264
-#EXTINF:-1,UCV
-http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/97
-#EXTINF:-1,UCV2
-http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/98
-#EXTINF:-1,TVN HD
-http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/7
-#EXTINF:-1,Mega HD
-http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/9
-#EXTINF:-1,Mega 2
-http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/299
-#EXTINF:-1,Mega Ficción
-http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/304
-#EXTINF:-1,Mega Tiempo
-http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/306
-#EXTINF:-1,CHV HD
-http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/11
-#EXTINF:-1,UCHILETV
-http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/240
-#EXTINF:-1,Canal 13 HD
-http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/13
-#EXTINF:-1,13 C
-http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/302
-#EXTINF:-1,Rec 13
-http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/303
-#EXTINF:-1,TVR
-http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/61
-#EXTINF:-1,Autonoma TV HD
-http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/16
+
 
 
 ]},
