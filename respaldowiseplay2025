@@ -15,7 +15,7 @@
 "info": "[Online]",
 "online": "true",
 "image": "https://i.imgur.com/ehmvuI6.png",
-"url": "https://librefutboltv.su/agenda/",
+"url": "https://librefutboltv.su/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"
@@ -25,7 +25,17 @@
 "info": "[Online]",
 "online": "true",
 "image": "https://i.imgur.com/ehmvuI6.png",
-"url": "https://librefutbol-hd.com/agenda.html?v=1752806394037",
+"url": "https://futbollibre.mx/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true"
+},
+{
+"name": "Streamtp | 🇦🇷",
+"info": "[Online]",
+"online": "true",
+"image": "https://i.imgur.com/ehmvuI6.png",
+"url": "https://streamtp22.com/eventos.html",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"
@@ -35,7 +45,7 @@
 "info": "[Online]",
 "online": "true",
 "image": "https://i.imgur.com/ehmvuI6.png",
-"url": "https://la14hd.com/eventos/",
+"url": "https://la14hd.com//eventos/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"
@@ -50,16 +60,9 @@
 "playInNatPlayer": "true",
 "embed": "true"
 },
-{
-"name": "Streamtp | 🇦🇷",
-"info": "[Online]",
-"online": "true",
-"image": "https://i.imgur.com/ehmvuI6.png",
-"url": "https://streamtp11.com/eventos.html",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true"
-},
+
+
+
 
 
 
@@ -246,6 +249,15 @@
 "image": "https://i.imgur.com/YTaeyss.png",
 "url": "http://104.238.205.28:8989/278540_.m3u8",
 "userAgent": ""
+},
+{
+"name": "TNT Sports Premium Chile 720 | 🇨🇱",
+"info": "[La14HD]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=tntsportschile",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
 },
 {
 "name": "TNT Sports Premium Chile 720 | 🇨🇱",
@@ -1086,34 +1098,6 @@
 },
 
 {
-"name": "M+ Liga de Campeones | 🇪🇸",
-"info": "[Acestream bc9]",
-"online": "true",
-"image": "https://i.imgur.com/3PsaCB9.png",
-"url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9"
-},
-{
-"name": "M+ Liga de Campeones | 🇪🇸",
-"info": "[Acestream 15f]",
-"online": "true",
-"image": "https://i.imgur.com/3PsaCB9.png",
-"url": "acestream://2b51710cee513e8939785fa3e7980f32d4e0415f"
-},
-{
-"name": "M+ Liga de Campeones | 🇪🇸",
-"info": "[Acestream 06e]",
-"online": "true",
-"image": "https://i.imgur.com/3PsaCB9.png",
-"url": "acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e"
-},
-{
-"name": "M+ Liga de Campeones | 🇪🇸",
-"info": "[Acestream 370]",
-"online": "true",
-"image": "https://i.imgur.com/3PsaCB9.png",
-"url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
-},
-{
 "name": "DAZN 1 1080 | 🇪🇸",
 "info": "[Acestream elcano 276]",
 "online": "true",
@@ -1227,6 +1211,157 @@
 },
 
 {
+"name": "M+ Liga de Campeones | 🇪🇸",
+"info": "[Acestream (N) 370]",
+"online": "true",
+"image": "https://i.imgur.com/qFGXd5e.png",
+"url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
+},
+{
+"name": "M+ Liga de Campeones | 🇪🇸",
+"info": "[Acestream (N) 2cc]",
+"online": "true",
+"image": "https://i.imgur.com/qFGXd5e.png",
+"url": "acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc"
+},
+{
+"name": "M+ Liga de Campeones | 🇪🇸",
+"info": "[Acestream (N) bd0]",
+"online": "true",
+"image": "https://i.imgur.com/qFGXd5e.png",
+"url": "acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0"
+},
+{
+"name": "M+ Liga de Campeones | 🇪🇸",
+"info": "[Acestream (C) 15f]",
+"online": "true",
+"image": "https://i.imgur.com/qFGXd5e.png",
+"url": "acestream://2b51710cee513e8939785fa3e7980f32d4e0415f"
+},
+{
+"name": "M+ Liga de Campeones | 🇪🇸",
+"info": "[Acestream (N) 7c2]",
+"online": "true",
+"image": "https://i.imgur.com/qFGXd5e.png",
+"url": "acestream://680187938f9305cce3ae240298f10e8695bf77c2"
+},
+{
+"name": "M+ Liga de Campeones | 🇪🇸",
+"info": "[Acestream (N) 1d6]",
+"online": "true",
+"image": "https://i.imgur.com/qFGXd5e.png",
+"url": "acestream://5c15c639207a080183b12fa63282b409c07401d6"
+},
+{
+"name": "M+ Liga de Campeones | 🇪🇸",
+"info": "[Acestream (C) bc9]",
+"online": "true",
+"image": "https://i.imgur.com/qFGXd5e.png",
+"url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9"
+},
+{
+"name": "M+ Liga de Campeones | 🇪🇸",
+"info": "[Acestream (C) 06e]",
+"online": "true",
+"image": "https://i.imgur.com/qFGXd5e.png",
+"url": "acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e"
+},
+
+{
+"name": "M+ Liga de Campeones 2 | 🇪🇸",
+"info": "[Acestream 9c5]",
+"online": "true",
+"image": "https://i.imgur.com/0srQ5lE.png",
+"url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5"
+},
+{
+"name": "M+ Liga de Campeones 2 | 🇪🇸",
+"info": "[Acestream ccb]",
+"online": "true",
+"image": "https://i.imgur.com/0srQ5lE.png",
+"url": "acestream://c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb"
+},
+{
+"name": "M+ Liga de Campeones 2 | 🇪🇸",
+"info": "[Acestream 49f]",
+"online": "true",
+"image": "https://i.imgur.com/0srQ5lE.png",
+"url": "acestream://4fc6d0331830ad8743abab2fe2473b63bdfbc49f"
+},
+{
+"name": "M+ Liga de Campeones 2 | 🇪🇸",
+"info": "[Acestream bdf]",
+"online": "true",
+"image": "https://i.imgur.com/0srQ5lE.png",
+"url": "acestream://33c009a025508cb2186b9ce36279640bb2507bdf"
+},
+
+{
+"name": "M+ Liga de Campeones 3 | 🇪🇸",
+"info": "[Acestream bc7]",
+"online": "true",
+"image": "https://i.imgur.com/1mP3ncR.png",
+"url": "acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7"
+},
+{
+"name": "M+ Liga de Campeones 3 | 🇪🇸",
+"info": "[Acestream 84d]",
+"online": "true",
+"image": "https://i.imgur.com/1mP3ncR.png",
+"url": "acestream://17b8bc4bf8e29547b0071c742e3d7da3bcbc484d"
+},
+{
+"name": "M+ Liga de Campeones 3 | 🇪🇸",
+"info": "[Acestream 52c]",
+"online": "true",
+"image": "https://i.imgur.com/1mP3ncR.png",
+"url": "acestream://b96a9b23b5343ca748e126c9257f42e204d3f52c"
+},
+{
+"name": "M+ Liga de Campeones 3 | 🇪🇸",
+"info": "[Acestream 0f9]",
+"online": "true",
+"image": "https://i.imgur.com/1mP3ncR.png",
+"url": "acestream://cfc371890bfb502737a26de5215e50929c52d0f9"
+},
+{
+"name": "M+ Liga de Campeones 4 | 🇪🇸",
+"info": "[Acestream c29]",
+"online": "true",
+"image": "https://i.imgur.com/NJ1ExLx.png",
+"url": "acestream://77998f8161373611ff6b348e7eda5b4e97d3ec29"
+},
+
+{
+"name": "M+ Vamos | 🇪🇸",
+"info": "[Acestream 40b]",
+"online": "true",
+"image": "https://i.imgur.com/NWKEmqh.png",
+"url": "acestream://c7c81acdd1a03ecc418c94c2f28e2adb0556c40b"
+},
+{
+"name": "M+ Vamos | 🇪🇸",
+"info": "[Acestream 933]",
+"online": "true",
+"image": "https://i.imgur.com/NWKEmqh.png",
+"url": "acestream://3b2a8b41e7097c16b0468b42d7de0320886fa933"
+},
+{
+"name": "M+ Vamos | 🇪🇸",
+"info": "[Acestream eae]",
+"online": "true",
+"image": "https://i.imgur.com/NWKEmqh.png",
+"url": "acestream://2940120bf034db79a7f5849846ccea0255172eae"
+},
+{
+"name": "M+ Vamos | 🇪🇸",
+"info": "[Acestream 548]",
+"online": "true",
+"image": "https://i.imgur.com/NWKEmqh.png",
+"url": "acestream://651d6be899d1fafa107a265a9dc00ff914c1b548"
+},
+
+{
 "name": "La Liga Tv Hypermotion | 🇪🇸",
 "info": "[Acestream be0]",
 "online": "true",
@@ -1274,6 +1409,115 @@
 "online": "true",
 "image": "https://i.imgur.com/I5zUqed.png",
 "url": "acestream://73094658f0a3ed523c0e188de67a7a690c0d4f93"
+},
+
+{
+"name": "M+ Deportes 1080 | 🇪🇸",
+"info": "[Acestream 4a4]",
+"online": "true",
+"image": "https://i.imgur.com/TrlLdPr.png",
+"url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4"
+},
+{
+"name": "M+ Deportes 1080 | 🇪🇸",
+"info": "[Acestream 71a]",
+"online": "true",
+"image": "https://i.imgur.com/TrlLdPr.png",
+"url": "acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a"
+},
+{
+"name": "M+ Deportes 1080 | 🇪🇸",
+"info": "[Acestream 55d]",
+"online": "true",
+"image": "https://i.imgur.com/TrlLdPr.png",
+"url": "acestream://332d8fdeb9c51385230b8c9448e047ccc4a6355d"
+},
+{
+"name": "M+ Deportes 1080 | 🇪🇸",
+"info": "[Acestream 7e5]",
+"online": "true",
+"image": "https://i.imgur.com/TrlLdPr.png",
+"url": "acestream://f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5"
+},
+
+{
+"name": "M+ Deportes 2 1080 | 🇪🇸",
+"info": "[Acestream 2b0]",
+"online": "true",
+"image": "https://i.imgur.com/OLlz8dg.png",
+"url": "acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0"
+},
+{
+"name": "M+ Deportes 2 1080 | 🇪🇸",
+"info": "[Acestream 98c]",
+"online": "true",
+"image": "https://i.imgur.com/OLlz8dg.png",
+"url": "acestream://edd06f11e1cef292a1d795e15207ef2f580e298c"
+},
+{
+"name": "M+ Deportes 2 1080 | 🇪🇸",
+"info": "[Acestream 5a3]",
+"online": "true",
+"image": "https://i.imgur.com/OLlz8dg.png",
+"url": "acestream://6e212a916c83638268047dd2757c95b14f7d25a3"
+},
+{
+"name": "M+ Deportes 2 1080 | 🇪🇸",
+"info": "[Acestream 366]",
+"online": "true",
+"image": "https://i.imgur.com/OLlz8dg.png",
+"url": "acestream://438991226c3bc6a06e7bfda9bea9f769957dc366"
+},
+
+{
+"name": "M+ Deportes 3 1080 | 🇪🇸",
+"info": "[Acestream 903]",
+"online": "true",
+"image": "https://i.imgur.com/ZsWFp4J.png",
+"url": "acestream://799c6b5ee1cf41af077d14e3f9c45a32697eb903"
+},
+{
+"name": "M+ Deportes 3 1080 | 🇪🇸",
+"info": "[Acestream 6f7]",
+"online": "true",
+"image": "https://i.imgur.com/ZsWFp4J.png",
+"url": "acestream://d5271a967767f761c8812c4b6195dd40f20126f7"
+},
+{
+"name": "M+ Deportes 3 1080 | 🇪🇸",
+"info": "[Acestream 534]",
+"online": "true",
+"image": "https://i.imgur.com/ZsWFp4J.png",
+"url": "acestream://2fd410c5d89e7a627cd3785685b7915b8e4bd534"
+},
+
+{
+"name": "Movistar Plus+ 1080 | 🇪🇸",
+"info": "[Acestream b78]",
+"online": "true",
+"image": "https://i.imgur.com/ZsWFp4J.png",
+"url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78"
+},
+{
+"name": "Movistar Plus+ 1080 | 🇪🇸",
+"info": "[Acestream f70]",
+"online": "true",
+"image": "https://i.imgur.com/ZsWFp4J.png",
+"url": "acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70"
+},
+{
+"name": "Movistar Plus+ 1080 | 🇪🇸",
+"info": "[Acestream 33b]",
+"online": "true",
+"image": "https://i.imgur.com/ZsWFp4J.png",
+"url": "acestream://b6ffbbc72a5b6b579faf79ebac229af7a25b933b"
+},
+{
+"name": "Movistar Plus+ 1080 | 🇪🇸",
+"info": "[Acestream 51a]",
+"online": "true",
+"image": "https://i.imgur.com/ZsWFp4J.png",
+"url": "acestream://5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a"
 },
 
 {
@@ -1722,6 +1966,20 @@
 "image": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png",
 "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "La 1 | 🇪🇸",
+"info": "[Acestream 0ba]",
+"online": "true",
+"image": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png",
+"url": "acestream://7597d4feb3195079ffa606cf23a183d626ee40ba"
+},
+{
+"name": "La 1 | 🇪🇸",
+"info": "[Acestream 40c]",
+"online": "true",
+"image": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png",
+"url": "acestream://dad5e0e0825cb3e410008f1c4252387b868e740c"
 },
 {
 "name": "La 2 | 🇪🇸",
@@ -2332,6 +2590,20 @@
 "image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
 "url": "http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/11",
 "userAgent": ""
+},
+
+{
+"name": "Chilevision 1080 | 🇨🇱",
+"info": "[Online]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://www.chilevision.cl",
+"url": "https://www.chilevision.cl/senal-online",
+"isHost": "true",
+"autoplay": "true",
+"autoStart": "true",
+"playOnLoad": "true"
 },
 {
 "name": "Chilevision 1080 | 🇨🇱",
