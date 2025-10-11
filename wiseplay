@@ -1617,11 +1617,11 @@
 
 {
 "name": "ETC | 🇨🇱",
-"info": "[Tele]",
+"info": "[Sitelco]",
 "online": "true",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ETC_2016-actual.png/800px-ETC_2016-actual.png",
-"url": "https://telegratuita.com/reproductor/?r=L21nby9ldGMucGhw",
-"embed": "true"
+"url": "http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/300",
+"userAgent": ""
 },
 {
 "name": "AniRetro | 🇨🇱",
@@ -2015,12 +2015,6 @@
 "url": "acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b"
 },
 {
-"name": "Telefe 1080 (Viacon) | 🇦🇷",
-"image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
-"url": "https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild1.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
 "name": "Telefe 1080 (187) | 🇦🇷",
 "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
 "url": "http://187.190.55.136:5501/udp/225.1.1.240:5240",
@@ -2053,22 +2047,7 @@
 "url": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
-{
-"name": "Canal 9 | 🇦🇷",
-"online": "true",
-"image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",
-"url": "https://api.m3use.projectmoose.xyz/m3u/DryKillLogic/Argentina/681aefee626edc70d7214ca9.m3u8?uid=DryKillLogic&pkey=hXBN6H",
-"userAgent": ""
-},
-{
-"name": "Tv Publica | 🇦🇷",
-"info": "[La14HD]",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",
-"online": "true",
-"url": "https://la14hd.com/vivo/canales.php?stream=tvpublica",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
+
 {
 "name": "Ciudad Magazine 1080 | 🇦🇷",
 "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png",
