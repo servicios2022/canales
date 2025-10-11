@@ -15,7 +15,7 @@
 "info": "[Online]",
 "online": "true",
 "image": "https://i.imgur.com/ehmvuI6.png",
-"url": "https://librefutboltv.su/agenda/",
+"url": "https://librefutboltv.su/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"
@@ -25,7 +25,17 @@
 "info": "[Online]",
 "online": "true",
 "image": "https://i.imgur.com/ehmvuI6.png",
-"url": "https://librefutbol-hd.com/agenda.html?v=1752806394037",
+"url": "https://futbollibre.mx/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true"
+},
+{
+"name": "Streamtp | 🇦🇷",
+"info": "[Online]",
+"online": "true",
+"image": "https://i.imgur.com/ehmvuI6.png",
+"url": "https://streamtp22.com/eventos.html",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"
@@ -35,7 +45,7 @@
 "info": "[Online]",
 "online": "true",
 "image": "https://i.imgur.com/ehmvuI6.png",
-"url": "https://la14hd.com/eventos/",
+"url": "https://la14hd.com//eventos/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"
@@ -50,16 +60,7 @@
 "playInNatPlayer": "true",
 "embed": "true"
 },
-{
-"name": "Streamtp | 🇦🇷",
-"info": "[Online]",
-"online": "true",
-"image": "https://i.imgur.com/ehmvuI6.png",
-"url": "https://streamtp11.com/eventos.html",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true"
-},
+
 
 
 
