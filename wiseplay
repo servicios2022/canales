@@ -2607,16 +2607,24 @@
 },
 {
 "name": "Chilevision 1080 | 🇨🇱",
-"info": "[Photo]",
+"info": "[Online]",
 "online": "true",
 "image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://photocalltv.org/",
-"url": "https://photocalltv.org/h4tw/l1?ch=chilevision",
+"referer": "https://www.vertvcable.com",
+"url": "https://www.vertvcable.com/channel.php?id=ch_6885874ce5c12&token=ChileTvApp.com",
 "isHost": "true",
 "autoplay": "true",
 "autoStart": "true",
 "playOnLoad": "true"
+},
+{
+"name": "Chilevision 1080 | 🇨🇱",
+"info": "[Tele]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"url": "https://www.vertvcable.com/channel.php?id=ch_6885874ce5c12&token=ChileTvApp.com",
+"embed": "true"
 },
 {
 "name": "Chilevision 1080 | 🇨🇱",
