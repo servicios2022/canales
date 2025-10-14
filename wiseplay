@@ -2623,10 +2623,18 @@
 },
 {
 "name": "TVN 1080 | 🇨🇱",
-"info": "[138]",
+"info": "[181]",
 "online": "true",
 "image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
-"url": "http://138.94.3.22:8000/play/a03j/index.m3u8",
+"url": "http://181.188.216.5:18000/play/a0ih/index.m3u8",
+"userAgent": ""
+},
+{
+"name": "TVN 1080 | 🇨🇱",
+"info": "[190]",
+"online": "true",
+"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
+"url": "http://190.60.37.118:4000/play/a00j",
 "userAgent": ""
 },
 {
