@@ -2529,7 +2529,10 @@
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
 "referer": "https://www.mega.cl/",
 "url": "https://www.mega.cl/senal-en-vivo/",
-"isHost": "true"
+"isHost": "true",
+"autoplay": "true",
+"autoStart": "true",
+"playOnLoad": "true"
 },
 {
 "name": "Mega 720 | 🇨🇱",
