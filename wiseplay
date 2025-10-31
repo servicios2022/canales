@@ -2078,6 +2078,13 @@
 "name": "America Tv | 🇵🇪",
 "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png",
 "online": "true",
+"url": "https://live-evg5.tv360.bitel.com.pe/bitel/america_tv_abr/bitel/america_tv_720p/chunks.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "America Tv | 🇵🇪",
+"image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png",
+"online": "true",
 "referer": "https://canalestvenvivo.com/",
 "url": "https://canalestvenvivo.com/canales/america/op1",
 "isHost": "true"
