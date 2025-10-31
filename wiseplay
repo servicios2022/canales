@@ -63,7 +63,29 @@
 
 
 
-
+{
+"name": "2espns | 🇨🇱",
+"image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png",
+"url": "https://nskzbm.futebol12.nexus/espn/tracks-v1a1/mono.ts.m3u8",
+"userAgent": ""
+},
+{
+"name": "Cespn | 🇨🇱",
+"info": "[Tele]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"url": "https://g.globalox.xyz/p/co.html?txt=espn",
+"embed": "true"
+},
+{
+"name": "espn| 🇦🇷",
+"info": "[ESPN 5]",
+"online": "true",
+"image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
+"url": "https://g.globalox.xyz/p/co.html?txt=espn",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
 {
 "name": "espn mx1| 🇨🇱",
 "info": "[Tele]",
