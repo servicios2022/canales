@@ -61,6 +61,25 @@
 "embed": "true"
 },
 
+
+
+
+{
+"name": "espn mx1| 🇨🇱",
+"info": "[Tele]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"url": "https://g.globalox.xyz/p/co.html?txt=espn",
+"embed": "true"
+},
+{
+"name": "espn mx2| 🇨🇱",
+"info": "[Tele]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"url": "https://futbollibrelibre.com/canales.php?stream=espn",
+"embed": "true"
+},
 {
 "name": "Chilevision 1080 | 🇨🇱",
 "info": "[Online]",
