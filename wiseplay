@@ -35,7 +35,7 @@
 "info": "[Online]",
 "online": "true",
 "image": "https://i.imgur.com/ehmvuI6.png",
-"url": "https://streamtp22.com/eventos.html",
+"url": "https://streamtpmedia.com/eventos.html",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"
@@ -46,16 +46,6 @@
 "online": "true",
 "image": "https://i.imgur.com/ehmvuI6.png",
 "url": "https://la14hd.com//eventos/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true"
-},
-{
-"name": "Streamdp | 🇦🇷",
-"info": "[Online]",
-"online": "true",
-"image": "https://i.imgur.com/ehmvuI6.png",
-"url": "https://streamdp2.xyz/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"
@@ -361,15 +351,6 @@
 },
 {
 "name": "TNT Sports Premium Chile 720 | 🇨🇱",
-"info": "[Streamdp]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://streamdp2.xyz/global1.php?channel=TNTCL",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "TNT Sports Premium Chile 720 | 🇨🇱",
 "info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/YTaeyss.png",
@@ -395,15 +376,6 @@
 "image": "https://i.imgur.com/5qTHLGy.png",
 "url": "http://190.102.246.93:9005/play/a00x",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
-"name": "ESPN Premium Argentina | 🇦🇷",
-"info": "[Streamdp]",
-"online": "true",
-"image": "https://i.imgur.com/5qTHLGy.png",
-"url": "https://streamdp2.xyz/global1.php?channel=espnpremium",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
 },
 {
 "name": "ESPN Premium Argentina | 🇦🇷",
@@ -466,24 +438,6 @@
 "image": "https://i.imgur.com/ItEH0oC.png",
 "url": "https://laceaccept.net/embed/muha9xp8lgyom64",
 "referer": "https://tarjetarojaenvivo.lat/",
-"isHost": "true"
-},
-{
-"name": "TNT Sports Argentina | 🇦🇷",
-"info": "[Streamdp]",
-"online": "true",
-"image": "https://i.imgur.com/ItEH0oC.png",
-"url": "https://streamdp2.xyz/global1.php?channel=tntar",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "TNT Sports Argentina | 🇦🇷",
-"info": "[Streamdp]",
-"online": "true",
-"image": "https://i.imgur.com/ItEH0oC.png",
-"url": "https://streamdp2.xyz/global1.php?channel=tntsports",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
 {
@@ -571,20 +525,20 @@
 },
 {
 "name": "ESPN Argentina | 🇦🇷",
+"info": "[Streamtp]",
+"online": "true",
+"image": "https://i.imgur.com/MFhpD4D.png",
+"url": "https://streamtpmedia.com/global1.php?stream=espn",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "ESPN Argentina | 🇦🇷",
 "info": "[Laceaccept]",
 "online": "true",
 "image": "https://i.imgur.com/MFhpD4D.png",
 "url": "https://laceaccept.net/embed/aiif5sr0kjzo8qe",
 "referer": "https://tarjetarojaenvivo.lat/",
-"isHost": "true"
-},
-{
-"name": "ESPN Argentina | 🇦🇷",
-"info": "[Streamdp]",
-"online": "true",
-"image": "https://i.imgur.com/MFhpD4D.png",
-"url": "https://streamdp2.xyz/global1.php?channel=espn",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
 {
@@ -671,19 +625,10 @@
 },
 {
 "name": "ESPN 2 | 🇦🇷",
-"info": "[Streamdp]",
-"online": "true",
-"image": "https://i.imgur.com/jq1s4to.png",
-"url": "https://streamdp2.xyz/global1.php?channel=espn2",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "ESPN 3 1080 | 🇦🇷",
 "info": "[Streamtp]",
 "online": "true",
-"image": "https://i.imgur.com/y3VGGV0.png",
-"url": "https://streamtpglobal.com/global1.php?stream=espn3",
+"image": "https://i.imgur.com/jq1s4to.png",
+"url": "https://streamtpmedia.com/global1.php?stream=espn2",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -698,10 +643,10 @@
 },
 {
 "name": "ESPN 3 1080 | 🇦🇷",
-"info": "[Streamdp]",
+"info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/y3VGGV0.png",
-"url": "https://streamdp2.xyz/global1.php?channel=espn3",
+"url": "https://streamtpmedia.com/global1.php?stream=espn3",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -724,10 +669,10 @@
 },
 {
 "name": "ESPN 4 | 🇦🇷",
-"info": "[Streamdp]",
+"info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/yxAlH81.png",
-"url": "https://streamdp2.xyz/global1.php?channel=espn4",
+"url": "https://streamtpmedia.com/global1.php?stream=espn4",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -742,10 +687,10 @@
 },
 {
 "name": "ESPN 5 | 🇦🇷",
-"info": "[Streamdp]",
+"info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/D65r7VG.png",
-"url": "https://streamdp2.xyz/global1.php?channel=espn5",
+"url": "https://streamtpmedia.com/global1.php?stream=espn5",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -760,10 +705,10 @@
 },
 {
 "name": "ESPN 6 | 🇦🇷",
-"info": "[Streamdp]",
+"info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/Y5ERC73.png",
-"url": "https://streamdp2.xyz/global1.php?channel=espn6",
+"url": "https://streamtpmedia.com/global1.php?stream=espn6",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -778,10 +723,10 @@
 },
 {
 "name": "ESPN 7 | 🇦🇷",
-"info": "[Streamdp]",
+"info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/YrVUJmp.png",
-"url": "https://streamdp2.xyz/global1.php?channel=espn7",
+"url": "https://streamtpmedia.com/global1.php?stream=espn7",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -814,10 +759,10 @@
 },
 {
 "name": "Dsports | 🇦🇷",
-"info": "[Streamdp]",
+"info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/NUGOqdT.png",
-"url": "https://streamdp2.xyz/global1.php?channel=dsports",
+"url": "https://streamtpmedia.com/global1.php?stream=dsports",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -842,10 +787,10 @@
 },
 {
 "name": "Dsports 2 | 🇦🇷",
-"info": "[Streamdp]",
+"info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/HI0yGFW.png",
-"url": "https://streamdp2.xyz/global1.php?channel=dsports2",
+"url": "https://streamtpmedia.com/global1.php?stream=dsports2",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -861,15 +806,6 @@
 },
 {
 "name": "TyC Sports | 🇦🇷",
-"info": "[Streamdp]",
-"online": "true",
-"image": "https://i.imgur.com/zfkBNdb.png",
-"url": "https://streamdp2.xyz/global1.php?channel=tycsports",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "TyC Sports | 🇦🇷",
 "info": "[La14HD]",
 "online": "true",
 "image": "https://i.imgur.com/zfkBNdb.png",
@@ -878,18 +814,11 @@
 "isHost": "true"
 },
 {
-"name": "TyC Sports Internacional | 🇦🇷",
-"info": "[Streamdp]",
+"name": "TyC Sports | 🇦🇷",
+"info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/zfkBNdb.png",
-"url": "https://streamdp2.xyz/global1.php?channel=tycinternacional",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "FOX Sports Argentina (Streamtp) | 🇦🇷",
-"image": "https://i.imgur.com/nX9GsSh.png",
-"url": "https://streamtpglobal.com/global1.php?stream=fox1ar",
+"url": "https://streamtpmedia.com/global1.php?stream=tycsports",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -901,9 +830,9 @@
 "isHost": "true"
 },
 {
-"name": "FOX Sports 2 Argentina (Streamdp) | 🇦🇷",
-"image": "https://i.imgur.com/KhwRTx4.png",
-"url": "https://streamdp2.xyz/global1.php?channel=fox2ar",
+"name": "FOX Sports Argentina (Streamtp) | 🇦🇷",
+"image": "https://i.imgur.com/nX9GsSh.png",
+"url": "https://streamtpglobal.com/global1.php?stream=fox1ar",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -915,9 +844,9 @@
 "isHost": "true"
 },
 {
-"name": "FOX Sports 3 Argentina (Streamdp) | 🇦🇷",
-"image": "https://i.imgur.com/xbeQUV3.png",
-"url": "https://streamdp2.xyz/global1.php?channel=fox3ar",
+"name": "FOX Sports 2 Argentina (Streamtp) | 🇦🇷",
+"image": "https://i.imgur.com/KhwRTx4.png",
+"url": "https://streamtpmedia.com/global1.php?stream=fox2ar",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -925,6 +854,13 @@
 "name": "FOX Sports 3 Argentina (La14HD) | 🇦🇷",
 "image": "https://i.imgur.com/xbeQUV3.png",
 "url": "https://la14hd.com/vivo/canales.php?stream=foxsports3",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "FOX Sports 3 Argentina (Streamtp) | 🇦🇷",
+"image": "https://i.imgur.com/xbeQUV3.png",
+"url": "https://streamtpmedia.com/global1.php?stream=fox3ar",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -954,13 +890,6 @@
 "isHost": "true"
 },
 {
-"name": "ESPN (Streamdp) | 🇲🇽",
-"image": "https://i.imgur.com/MFhpD4D.png",
-"url": "https://streamdp2.xyz/global1.php?channel=espnmx",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
 "name": "ESPN (La14HD) | 🇲🇽",
 "image": "https://i.imgur.com/MFhpD4D.png",
 "url": "https://la14hd.com/vivo/canales.php?stream=espnmx",
@@ -968,16 +897,16 @@
 "isHost": "true"
 },
 {
-"name": "ESPN 2 (Streamdp) | 🇲🇽",
+"name": "ESPN 2 (Streamtp) | 🇲🇽",
 "image": "https://i.imgur.com/jq1s4to.png",
-"url": "https://streamdp2.xyz/global1.php?channel=espn2mx",
+"url": "https://streamtpmedia.com/global1.php?stream=espn2mx",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
 {
-"name": "ESPN 3 (Streamdp) | 🇲🇽",
+"name": "ESPN 3 (Streamtp) | 🇲🇽",
 "image": "https://i.imgur.com/y3VGGV0.png",
-"url": "https://streamdp2.xyz/global1.php?channel=espn3mx",
+"url": "https://streamtpmedia.com/global1.php?stream=espn3mx",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -1041,15 +970,6 @@
 "online": "true",
 "image": "https://i.imgur.com/U6DKWV0.png",
 "url": "https://streamtpmedia.com/global1.php?stream=tudn_usa",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "TUDN USA | 🇺🇸",
-"info": "[Streamdp]",
-"online": "true",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"url": "https://streamdp2.xyz/global1.php?channel=tudn_usa",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
