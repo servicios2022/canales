@@ -257,6 +257,80 @@
 "playOnLoad": "true"
 },
 {
+"name": "TNT Sports Argentina | 🇦🇷",
+"info": "[Laceaccpt]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+"url": "https://envivolibre.com/canal.php?stream=tntsports",
+"referer": "https://librefutboltv.su/es/tnt-sports/",
+"isHost": "true"
+},
+{
+"name": "TNT Sports Argentina | 🇦🇷",
+"info": "[Laceaccpt]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+"url": "https://envivolibre.com/canal.php?stream=tntsports",
+"referer": "https://librefutboltv.su",
+"isHost": "true"
+},
+{
+"name": "TNT Sports Argentina 1080 | 🇦🇷",
+"info": "[LIbre]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://librefutboltv.su",
+"url": "https://envivolibre.com/canal.php?stream=tntsports",
+"isHost": "true",
+"autoplay": "true",
+"autoStart": "true",
+"playOnLoad": "true"
+},
+{
+"name": "TNT Sports Argentina | 🇦🇷",
+"info": "[Streamtp]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+"url": "https://librefutboltv.su/es/tnt-sports/",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "TNT Sports Argentina | 🇦🇷",
+"info": "[Streamtp]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+"url": "https://envivolibre.com/canal.php?stream=tntsports",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "Fox Sports 3 MX | 🇲🇽",
+"info": "[Tele]",
+"online": "true",
+"image": "https://i.imgur.com/8ZMDGlF.png",
+"url": "https://librefutboltv.su/es/tnt-sports/",
+"embed": "true"
+},
+{
+"name": "TDP 1080 | 🇪🇸",
+"info":"[Cloud]",
+"online":"true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+"url": "https://librefutboltv.su/es/tnt-sports/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+
+
+
+
+
+
+
+
+
+{
 "name": "TNT Sports Argentina 720 | 🇦🇷",
 "info": "[104]",
 "online": "true",
