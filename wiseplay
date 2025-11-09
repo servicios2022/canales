@@ -330,6 +330,15 @@
 },
 {
 "name": "ESPN Argentina | 🇦🇷",
+"info": "[Wagon]",
+"online": "true",
+"image": "https://i.imgur.com/MFhpD4D.png",
+"url" :  "https://wagontorch.net/embed/x2qidlx7",
+"referer" : "https://buzztv.futbol/",
+"isHost":"true" 
+                         },
+{
+"name": "ESPN Argentina | 🇦🇷",
 "info": "[La14HD]",
 "online": "true",
 "image": "https://i.imgur.com/MFhpD4D.png",
