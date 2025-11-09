@@ -52,112 +52,6 @@
 },
 
 
-
-{
-"name": "2espns | 🇨🇱",
-"image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png",
-"url": "https://nskzbm.futebol12.nexus/espn/tracks-v1a1/mono.ts.m3u8",
-"userAgent": ""
-},
-{
-"name": "Cespn | 🇨🇱",
-"info": "[Tele]",
-"online": "true",
-"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-"url": "https://g.globalox.xyz/p/co.html?txt=espn",
-"embed": "true"
-},
-{
-"name": "espn| 🇦🇷",
-"info": "[ESPN 5]",
-"online": "true",
-"image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
-"url": "https://g.globalox.xyz/p/co.html?txt=espn",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "espn mx1| 🇨🇱",
-"info": "[Tele]",
-"online": "true",
-"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-"url": "https://g.globalox.xyz/p/co.html?txt=espn",
-"embed": "true"
-},
-{
-"name": "espn mx2| 🇨🇱",
-"info": "[Tele]",
-"online": "true",
-"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-"url": "https://futbollibrelibre.com/canales.php?stream=espn",
-"embed": "true"
-},
-{
-"name": "Chilevision 1080 | 🇨🇱",
-"info": "[Online]",
-"online": "true",
-"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://www.telefuthd.com",
-"url": "https://xyz.globalox.xyz/p/amzn.html?txt=mx_canal5",
-"isHost": "true",
-"autoplay": "true",
-"autoStart": "true",
-"playOnLoad": "true"
-},
-{
-"name": "Chilevision 1080 | 🇨🇱",
-"info": "[Tele]",
-"online": "true",
-"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-"url": "https://xyz.globalox.xyz/p/amzn.html?txt=mx_canal5",
-"embed": "true"
-},
-{
-"name": "PPV UFC 720 | 🇦🇷",
-"info": "[ESPN 5]",
-"online": "true",
-"image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
-"url": "https://streamtpmedia.com/global1.php?stream=canal5mx",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "Chilevision 1080 | 🇨🇱",
-"info": "[Online]",
-"online": "true",
-"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://futbollibrelibre.com",
-"url": "https://futbollibrelibre.com/canales.php?stream=canal5",
-"isHost": "true",
-"autoplay": "true",
-"autoStart": "true",
-"playOnLoad": "true"
-},
-{
-"name": "Chilevision 1080 | 🇨🇱",
-"info": "[Tele]",
-"online": "true",
-"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-"url": "https://futbollibrelibre.com/canales.php?stream=canal5",
-"embed": "true"
-},
-{
-"name": "PPV UFC 720 | 🇦🇷",
-"info": "[ESPN 5]",
-"online": "true",
-"image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=canal5",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-
-
-
-
-
-
 ]},
 {"name": "DEPORTES",
 "image": "https://static.wixstatic.com/media/603da4_cff0a56da59a43ba88f862dbee0ae230~mv2.gif",
@@ -177,15 +71,6 @@
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
 "url": "https://streamtpmedia.com/global1.php?stream=espn5",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "PPV UFC 720 | 🇦🇷",
-"info": "[Disney+ 5]",
-"online": "true",
-"image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
-"url": "https://streamtpmedia.com/global1.php?stream=disney5",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -792,6 +677,16 @@
 "url": "https://streamtpmedia.com/global1.php?stream=fox3ar",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
+},
+
+
+{
+"name": "Canal 5 | 🇲🇽",
+"info": "[Tele]",
+"online": "true",
+"image": "https://i.imgur.com/kF3SyOi.png",
+"url": "https://xyz.globalox.xyz/p/amzn.html?txt=mx_canal5",
+"embed": "true"
 },
 {
 "name": "Azteca Deportes | 🇲🇽",
