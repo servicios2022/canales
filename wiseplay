@@ -252,7 +252,15 @@
 "referer": "https://librefutboltv.su/es/tnt-sports/",
 "isHost": "true"
 },
-
+{
+"name": "TNT Sports Argentina | 🇦🇷",
+"info": "[Libre2]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+"url": "https://stgruber.world/prob5.php?stream=tntsports",
+"referer": "https://futbollibre-hd.cl/hd/tnt-sports/",
+"isHost": "true"
+},
 {
 "name": "TNT Sports Argentina 720 | 🇦🇷",
 "info": "[104]",
