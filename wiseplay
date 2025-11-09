@@ -51,6 +51,48 @@
 "embed": "true"
 },
 
+
+{
+"name": "Chilevision 1080 | 🇨🇱",
+"info": "[Online]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://www.tvspacehd.com",
+"url": "https://www.tvspacehd.com/2023/01/chilevision.html",
+"isHost": "true",
+"autoplay": "true",
+"autoStart": "true",
+"playOnLoad": "true"
+},
+{
+"name": "Chilevision 1080 | 🇨🇱",
+"info": "[Online]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://www.tvspacehd.com",
+"url": "https://ontve.click/player/vdo/?id=CHV_CL",
+"isHost": "true",
+"autoplay": "true",
+"autoStart": "true",
+"playOnLoad": "true"
+},
+{
+"name": "Chilevision 1080 | 🇨🇱",
+"info": "[Online]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://www.chilevision.cl/",
+"url": "https://ontve.click/player/vdo/?id=CHV_CL",
+"isHost": "true",
+"autoplay": "true",
+"autoStart": "true",
+"playOnLoad": "true"
+},
+
+
 {
 "name": "telemundo | 🇦🇷",
 "info": "[Global]",
