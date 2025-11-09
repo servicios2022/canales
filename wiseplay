@@ -222,6 +222,15 @@
 "isHost": "true"
 },
 {
+"name": "ESPN Premium Argentina 1080 | 🇨🇱",
+"info": "[libre]",
+"online": "true",
+"image": "https://i.imgur.com/5qTHLGy.png",
+"url": "https://stgruber.world/prob5.php?stream=espnpremium",
+"referer": "https://futbollibre-hd.cl/hd/espn-premium/",
+"isHost": "true"
+},
+{
 "name": "ESPN Premium Argentina | 🇦🇷",
 "info": "[La14HD]",
 "online": "true",
