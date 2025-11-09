@@ -232,6 +232,14 @@
 },
 {
 "name": "ESPN Premium Argentina | 🇦🇷",
+"info": "[Global]",
+"online": "true",
+"image": "https://i.imgur.com/5qTHLGy.png",
+"url": "https://xyz.globalox.xyz/p/o.html?txt=espnpremium",
+"embed": "true"
+},
+{
+"name": "ESPN Premium Argentina | 🇦🇷",
 "info": "[La14HD]",
 "online": "true",
 "image": "https://i.imgur.com/5qTHLGy.png",
@@ -249,6 +257,14 @@
 "isHost": "true"
 },
 
+{
+"name": "TNT Sports Argentina 1080 | 🇦🇷",
+"info": "[Global]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+"url": "https://xyz.globalox.xyz/p/o.html?txt=tntsportspremium",
+"embed": "true"
+},
 {
 "name": "TNT Sports Argentina 1080 | 🇦🇷",
 "info": "[45]",
