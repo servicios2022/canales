@@ -1,5 +1,5 @@
 {
-"name": "TV GRATIS 2025",
+"name": "TV GRATIS OCTUBRE 2025",
 "author": "📺Para reproducir algunos canales necesita instalar ACESTREAM📺",
 "image": "https://i.pinimg.com/originals/5d/ea/a7/5deaa7bbf3cba51ed0f8b628c80393fc.gif",
 "info": "Wiseplay - Acestream",
@@ -63,6 +63,106 @@
 
 
 
+{
+"name": "2espns | 🇨🇱",
+"image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png",
+"url": "https://nskzbm.futebol12.nexus/espn/tracks-v1a1/mono.ts.m3u8",
+"userAgent": ""
+},
+{
+"name": "Cespn | 🇨🇱",
+"info": "[Tele]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"url": "https://g.globalox.xyz/p/co.html?txt=espn",
+"embed": "true"
+},
+{
+"name": "espn| 🇦🇷",
+"info": "[ESPN 5]",
+"online": "true",
+"image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
+"url": "https://g.globalox.xyz/p/co.html?txt=espn",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "espn mx1| 🇨🇱",
+"info": "[Tele]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"url": "https://g.globalox.xyz/p/co.html?txt=espn",
+"embed": "true"
+},
+{
+"name": "espn mx2| 🇨🇱",
+"info": "[Tele]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"url": "https://futbollibrelibre.com/canales.php?stream=espn",
+"embed": "true"
+},
+{
+"name": "Chilevision 1080 | 🇨🇱",
+"info": "[Online]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://www.telefuthd.com",
+"url": "https://xyz.globalox.xyz/p/amzn.html?txt=mx_canal5",
+"isHost": "true",
+"autoplay": "true",
+"autoStart": "true",
+"playOnLoad": "true"
+},
+{
+"name": "Chilevision 1080 | 🇨🇱",
+"info": "[Tele]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"url": "https://xyz.globalox.xyz/p/amzn.html?txt=mx_canal5",
+"embed": "true"
+},
+{
+"name": "PPV UFC 720 | 🇦🇷",
+"info": "[ESPN 5]",
+"online": "true",
+"image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
+"url": "https://streamtp22.com/global1.php?stream=canal5mx",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "Chilevision 1080 | 🇨🇱",
+"info": "[Online]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://futbollibrelibre.com",
+"url": "https://futbollibrelibre.com/canales.php?stream=canal5",
+"isHost": "true",
+"autoplay": "true",
+"autoStart": "true",
+"playOnLoad": "true"
+},
+{
+"name": "Chilevision 1080 | 🇨🇱",
+"info": "[Tele]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"url": "https://futbollibrelibre.com/canales.php?stream=canal5",
+"embed": "true"
+},
+{
+"name": "PPV UFC 720 | 🇦🇷",
+"info": "[ESPN 5]",
+"online": "true",
+"image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=canal5",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+
 
 
 
@@ -86,7 +186,7 @@
 "info": "[ESPN 5]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=espn5",
+"url": "https://streamtp22.com/global1.php?stream=espn5",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -95,7 +195,7 @@
 "info": "[Disney+ 5]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=disney5",
+"url": "https://streamtp22.com/global1.php?stream=disney5",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -104,7 +204,7 @@
 "info": "[Fox Sports]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=foxsports",
+"url": "https://streamtp22.com/global1.php?stream=foxsports",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -113,7 +213,7 @@
 "info": "[ESPN Deportes]",
 "online": "true",
 "image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=espndeportes",
+"url": "https://streamtp22.com/global1.php?stream=espndeportes",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -150,70 +250,70 @@
 {
 "name": "Eventos DISNEY+ 1 | 🇦🇷",
 "image": "https://i.imgur.com/gw2wQrr.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=disney1",
+"url": "https://streamtp22.com/global1.php?stream=disney1",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
 {
 "name": "Eventos DISNEY+ 2 | 🇦🇷",
 "image": "https://i.imgur.com/gw2wQrr.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=disney2",
+"url": "https://streamtp22.com/global1.php?stream=disney2",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
 {
 "name": "Eventos DISNEY+ 3 | 🇦🇷",
 "image": "https://i.imgur.com/gw2wQrr.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=disney3",
+"url": "https://streamtp22.com/global1.php?stream=disney3",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
 {
 "name": "Eventos DISNEY+ 4 | 🇦🇷",
 "image": "https://i.imgur.com/gw2wQrr.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=disney4",
+"url": "https://streamtp22.com/global1.php?stream=disney4",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
 {
 "name": "Eventos DISNEY+ 5 | 🇦🇷",
 "image": "https://i.imgur.com/gw2wQrr.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=disney5",
+"url": "https://streamtp22.com/global1.php?stream=disney5",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
 {
 "name": "Eventos DISNEY+ 6 | 🇦🇷",
 "image": "https://i.imgur.com/gw2wQrr.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=disney6",
+"url": "https://streamtp22.com/global1.php?stream=disney6",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
 {
 "name": "Eventos DISNEY+ 7 | 🇦🇷",
 "image": "https://i.imgur.com/gw2wQrr.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=disney7",
+"url": "https://streamtp22.com/global1.php?stream=disney7",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
 {
 "name": "Eventos DISNEY+ 8 | 🇦🇷",
 "image": "https://i.imgur.com/gw2wQrr.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=disney8",
+"url": "https://streamtp22.com/global1.php?stream=disney8",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
 {
 "name": "Eventos DISNEY+ 9 | 🇦🇷",
 "image": "https://i.imgur.com/gw2wQrr.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=disney9",
+"url": "https://streamtp22.com/global1.php?stream=disney9",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
 {
 "name": "Eventos DISNEY+ 10 | 🇦🇷",
 "image": "https://i.imgur.com/gw2wQrr.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=disney10",
+"url": "https://streamtp22.com/global1.php?stream=disney10",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -273,7 +373,7 @@
 "info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://streamtp11.com/global1.php?stream=tntsportschile",
+"url": "https://streamtp22.com/global1.php?stream=tntsportschile",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -319,7 +419,7 @@
 "info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/5qTHLGy.png",
-"url": "https://streamtp11.com/global1.php?stream=espnpremium",
+"url": "https://streamtp22.com/global1.php?stream=espnpremium",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -400,7 +500,7 @@
 "info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/ItEH0oC.png",
-"url": "https://streamtp11.com/global1.php?stream=tntsports",
+"url": "https://streamtp22.com/global1.php?stream=tntsports",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -849,7 +949,7 @@
 {
 "name": "ESPN (Streamtp) | 🇲🇽",
 "image": "https://i.imgur.com/MFhpD4D.png",
-"url": "https://streamtp11.com/global1.php?stream=espnmx",
+"url": "https://streamtp22.com/global1.php?stream=espnmx",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -940,7 +1040,7 @@
 "info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/U6DKWV0.png",
-"url": "https://streamtp11.com/global1.php?stream=tudn_usa",
+"url": "https://streamtp22.com/global1.php?stream=tudn_usa",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -1616,14 +1716,6 @@
 "stations":[
 
 {
-"name": "ETC | 🇨🇱",
-"info": "[Tele]",
-"online": "true",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ETC_2016-actual.png/800px-ETC_2016-actual.png",
-"url": "https://telegratuita.com/reproductor/?r=L21nby9ldGMucGhw",
-"embed": "true"
-},
-{
 "name": "AniRetro | 🇨🇱",
 "image": "https://cdn.m3u.cl/logo/1585_AniRetro.png",
 "url": "https://tv.arkeo.cl:19360/8000/8000.m3u8",
@@ -2015,12 +2107,6 @@
 "url": "acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b"
 },
 {
-"name": "Telefe 1080 (Viacon) | 🇦🇷",
-"image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
-"url": "https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild1.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-},
-{
 "name": "Telefe 1080 (187) | 🇦🇷",
 "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
 "url": "http://187.190.55.136:5501/udp/225.1.1.240:5240",
@@ -2053,22 +2139,7 @@
 "url": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
-{
-"name": "Canal 9 | 🇦🇷",
-"online": "true",
-"image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",
-"url": "https://api.m3use.projectmoose.xyz/m3u/DryKillLogic/Argentina/681aefee626edc70d7214ca9.m3u8?uid=DryKillLogic&pkey=hXBN6H",
-"userAgent": ""
-},
-{
-"name": "Tv Publica | 🇦🇷",
-"info": "[La14HD]",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",
-"online": "true",
-"url": "https://la14hd.com/vivo/canales.php?stream=tvpublica",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
+
 {
 "name": "Ciudad Magazine 1080 | 🇦🇷",
 "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png",
@@ -2098,6 +2169,13 @@
 "name": "Latina | 🇵🇪",
 "image": "https://cdn.m3u.cl/logo/1657_Latina.png",
 "url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?PlaylistM3UCL",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "America Tv | 🇵🇪",
+"image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png",
+"online": "true",
+"url": "https://live-evg5.tv360.bitel.com.pe/bitel/america_tv_abr/bitel/america_tv_720p/chunks.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 },
 {
@@ -2512,7 +2590,7 @@
 "info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/b5III2Y.png",
-"url": "https://streamtp11.com/global1.php?stream=univision_usa",
+"url": "https://streamtp22.com/global1.php?stream=univision_usa",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -2552,10 +2630,10 @@
 },
 {
 "name": "Mega 1080 | 🇨🇱",
-"info": "[Sitelco]",
+"info": "[216]",
 "online": "true",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
-"url": "http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/9",
+"url": "http://216.155.88.4:8100/play/a00t/index.m3u8",
 "userAgent": ""
 },
 {
@@ -2565,7 +2643,10 @@
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
 "referer": "https://www.mega.cl/",
 "url": "https://www.mega.cl/senal-en-vivo/",
-"isHost": "true"
+"isHost": "true",
+"autoplay": "true",
+"autoStart": "true",
+"playOnLoad": "true"
 },
 {
 "name": "Mega 720 | 🇨🇱",
@@ -2585,13 +2666,12 @@
 },
 {
 "name": "Chilevision 1080 | 🇨🇱",
-"info": "[Sitelco]",
+"info": "[216]",
 "online": "true",
 "image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-"url": "http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/11",
+"url": "http://216.155.88.4:8100/play/a00v/index.m3u8",
 "userAgent": ""
 },
-
 {
 "name": "Chilevision 1080 | 🇨🇱",
 "info": "[Online]",
@@ -2607,23 +2687,10 @@
 },
 {
 "name": "Chilevision 1080 | 🇨🇱",
-"info": "[Photo]",
-"online": "true",
-"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://photocalltv.org/",
-"url": "https://photocalltv.org/h4tw/l1?ch=chilevision",
-"isHost": "true",
-"autoplay": "true",
-"autoStart": "true",
-"playOnLoad": "true"
-},
-{
-"name": "Chilevision 1080 | 🇨🇱",
 "info": "[Tele]",
 "online": "true",
 "image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-"url": "https://telegratuita.com/reproductor/?r=L21nby9jaHYucGhw",
+"url": "https://telegratuita.org/repro/?r=L21nby9jaHYucGhw",
 "embed": "true"
 },
 {
@@ -2637,10 +2704,10 @@
 },
 {
 "name": "Canal 13 1080 | 🇨🇱",
-"info": "[Sitelco]",
+"info": "[216]",
 "online": "true",
 "image": "https://i.imgur.com/RazPUFz.png",
-"url": "http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/13",
+"url": "http://216.155.88.4:8100/play/a00w/index.m3u8",
 "userAgent": ""
 },
 {
@@ -2672,10 +2739,10 @@
 },
 {
 "name": "TVN 1080 | 🇨🇱",
-"info": "[Sitelco]",
+"info": "[216]",
 "online": "true",
 "image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
-"url": "http://ip.sitelco.cl:25461/pamela@tclogistic.cl/979586478/7",
+"url": "http://216.155.88.4:8100/play/a00u/index.m3u8",
 "userAgent": ""
 },
 {
@@ -2697,10 +2764,18 @@
 },
 {
 "name": "TVN 1080 | 🇨🇱",
-"info": "[138]",
+"info": "[181]",
 "online": "true",
 "image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
-"url": "http://138.94.3.22:8000/play/a03j/index.m3u8",
+"url": "http://181.188.216.5:18000/play/a0ih/index.m3u8",
+"userAgent": ""
+},
+{
+"name": "TVN 1080 | 🇨🇱",
+"info": "[190]",
+"online": "true",
+"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
+"url": "http://190.60.37.118:4000/play/a00j",
 "userAgent": ""
 },
 {
@@ -3005,12 +3080,6 @@
 "name": "Radio Rosa FM | 🇨🇱",
 "image": "https://cdn.m3u.cl/logo/1422_Radio_Rosa_FM.png",
 "url": "https://tv.arkeo.cl:1936/rosafm/rosafm/playlist.m3u8",
-"userAgent": ""
-},
-{
-"name": "Atacama Noticias 1080 | 🇨🇱",
-"image": "https://i.imgur.com/mFKrWvy.png",
-"url": "https://v2.tustreaming.cl/atacamanoticias/tracks-v1a1/mono.m3u8",
 "userAgent": ""
 },
 {
