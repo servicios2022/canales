@@ -1,5 +1,3 @@
-- STREAMID
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ✅ TEST DE VELOCIDAD STREAMID
@@ -9,6 +7,31 @@ https://speedtest.streamid.tv/
 http://internacional.grupogtd.com/
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+SOLUCIÓN CUANDO NO CARGAN LOS CANALES EN SAMSUNG, CAMBIAR DNS
+https://www.youtube.com/watch?v=cXnZFPS8iCo
+https://www.youtube.com/watch?v=ON15IBObidQ
+
+DNS GOOGLE
+8.8.8.8
+
+SOLUCIÓN CUANDO NO CARGAN LOS CANALES EN LG, CAMBIAR DNS
+https://www.youtube.com/watch?v=W62teuGwhtw
+
+DNS GOOGLE
+8.8.8.8
+
+SOLUCIÓN CUANDO NO CARGAN O VAN LENTOS LOS CANALES EN LG, DESACTIVAR EL IPV6
+https://www.youtube.com/watch?v=afO3pSQULcI
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+GENERADOR PARA VER EL CONTENIDO DE STREAMID
+
+https://indiopicaro.site/veotv/iptv_final.html
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 GENERADOR DE LA LISTA
 
@@ -35,11 +58,6 @@ http://lista.premiumstore.biz/aco/?USER=USUARIO|CONTRASEÑA|N|S|S
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-DNS CUANDO NO ESTA BANEADA LA IP Y NO CARGA (ESPAÑA - COLOMBIA - ECUADOR)
-http://tv.pstore-tv.com:8080/
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 ✅ DNS OFICIALES
 
 http://tv.streamid.tv:8080
@@ -47,10 +65,8 @@ http://iptv.premiumstore.biz:8080
 http://tv.streamid.ga:8080
 http://tv.pstore-tv.com:8080
 
-NUEVA DNS FUNCIONANDO EN ESPAÑA.
+NUEVO DNS FUNCIONANDO EN ESPAÑA (actualizada)
 http://vt.streamid.tv:8080/
-
-http://tv2.streamid.tv:8080 (Parece que ya no sigue)
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -172,25 +188,70 @@ ROKU
 
 ✅ BUSCAR STREAMID (exclusivo del servicio)
 
+
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 CODIGOS PARA DOWNLOADER EN ANDROID
 
-399430 IPTV SMARTERS PRO
+399430 IPTV SMARTERS PRO
 591178 IPTV SMARTERS 4.0.5
 678061 - 593051 XCIPTV 
-166480 - 246523 - 3871695 SHAMELTV
+246523 (Latest stable) SHAMELTV
 2075336 STREAMID V3 (Recomendada)
 750435 STREAMID TV PLUS
 
-402367 DRUIDAPLAY OFICIAL
-670495 CEDRIC TV OFICIAL
-284831 UKIKU
 514367 - 511693 - 766023 IBO PLAYER
 208292 - 530032 IPTV STREAM PLAYER 
 817260 TMP
 904586 - 28544 Smarttube
 207721 - 793928 Ott Navigator premium
 201229 Lazer Play
-166480 - 246523 - 3871695 ShamelTV
-738979 Unimote (control  cajas ATV)
+738979 Unimote (control  cajas ATV)
+
+
+
+
+OTROS CODIGOS ACTUALIZADOS:
+
+123 Live Sport: 686804
+AdAway: 504109
+APKTime: 21254
+AppLinked: 475057
+Aptoide: 75880
+Aurora Store: 631082
+BOB Player: 624821
+Cricfy TV: 1655538
+DefSquid: 33479
+Dezor: 400570
+ExpressVPN: 291587
+FileSynced: 27642
+FilmPlus: 52193
+GSE Smart IPTV: 133966
+HDO BOX: 795281
+hide.me VPN: 905874
+IBO Player: 511693
+iMPlayer: 82375
+IPTV Smarters: 8400291
+IPVanish VPN: 697672
+MX Player: 894749
+Ola TV: 120207
+OnStream: 814529
+Opera: 99187
+PIA VPN: 48649
+Rokkr: 316812
+Speedify: 836255
+Syncler: 88306
+Smart IPTV: 75340
+SmartTube: 28544
+Surfshark VPN: 46836
+Tea Sports Live: 62733
+Televizo: 474318
+TiviMate: 272483
+Unlinked: 10381
+Viva TV: 805991
+VPN Minitor Dot: 912985
+VPN Safety Dot: 18051
+Weyd: 74052
+Windscribe: 531458
+Zoog VPN: 320538
