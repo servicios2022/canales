@@ -1381,35 +1381,7 @@
 "url": "https://telegratuita.com/reproductor/?r=L2NhbmFsLnBocD9zdHJlYW09Y2FuYWw1",
 "embed": "true"
 },
-{
-"name": "Telemundo 52 Los Angeles | 🇺🇸",
-"info": "[Telefull]",
-"online": "true",
-"image": "https://i.imgur.com/9piuN0T.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://telefullhd.com/",
-"url": "https://telefullhd.net/canales/telemundo/op2.php",
-"isHost": "true"
-},
-{
-"name": "Telemundo 52 Los Angeles | 🇺🇸",
-"info": "[Telefull]",
-"online": "true",
-"image": "https://i.imgur.com/9piuN0T.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://telefullhd.com/",
-"url": "https://telefullhd.net/mpd2.php?id=telemundo-op2",
-"isHost": "true"
-},
-{
-"name": "3333 | 🇺🇸",
-"info": "[Cable]",
-"online": "true",
-"image": "https://i.imgur.com/9piuN0T.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-"url": "https://telefullhd.net/canales/telemundo/op2.php",
-"embed": "true"
-},
+
 
 
 
@@ -1425,19 +1397,19 @@
 "isHost": "true"
 },
 {
-"name": "Telemundo 47 New York 1080 | 🇺🇸",
+"name": "Telemundo 1080 | 🇺🇸",
 "info": "[Tele]",
 "online": "true",
 "image": "https://i.imgur.com/9piuN0T.png",
-"url": "https://telegratuita.com/reproductor/?r=L3NwZWVkL3Q0Ny5waHA=",
+"url": "https://telegratuita.org/repro/?r=L2lwdHYucGhwP2NoYW5uZWw9dGVsZW11bmRvMQ==",
 "embed": "true"
 },
 {
-"name": "Telemundo 51 Miami 1080 | 🇺🇸",
+"name": "Telemundo 1080 | 🇺🇸",
 "info": "[Tele]",
 "online": "true",
 "image": "https://i.imgur.com/9piuN0T.png",
-"url": "https://telegratuita.com/reproductor/?r=L3NwZWVkL3Q1MS5waHA=",
+"url": "https://telegratuita.org/repro/?r=L2lwdHYucGhwP2NoYW5uZWw9dGVsZW11bmRvMg==",
 "embed": "true"
 },
 {
@@ -1445,10 +1417,17 @@
 "info": "[Tele]",
 "online": "true",
 "image": "https://i.imgur.com/9piuN0T.png",
-"url": "https://telegratuita.com/reproductor/?r=L3NwZWVkL3Q1Mi5waHA=",
+"url": "https://telegratuita.org/repro/?r=L2lwdHYucGhwP2NoYW5uZWw9dGVsZW11bmRvMw==",
+"embed": "true"
+},
+{
+"name": "Telemundo 52 Los Angeles 1080 | 🇺🇸",
+"info": "[Tele]",
+"online": "true",
+"image": "https://i.imgur.com/9piuN0T.png",
+"url": "https://telegratuita.org/repro/?r=L2xhdGFtLnBocD9jYW5hbD10ZWxlbXVuZG8=",
 "embed": "true"
 }
-
 
 
 
