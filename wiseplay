@@ -60,6 +60,15 @@
 "stations":[
 
 {
+"name": "Max Tnt Sports | 🇨🇱",
+"info": "[La14HD]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "https://la14hd.com/vivo/canal.php?stream=max1",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
 "name": "TNT Sports Premium Chile 720 | 🇨🇱",
 "info": "[La14HD]",
 "online": "true",
