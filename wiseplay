@@ -1388,9 +1388,32 @@
 "image": "https://i.imgur.com/9piuN0T.png",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "https://telefullhd.com/",
-"url": "https://telefullhd.com/canales/telemundo/op2.php",
+"url": "https://telefullhd.net/canales/telemundo/op2.php",
 "isHost": "true"
 },
+{
+"name": "Telemundo 52 Los Angeles | 🇺🇸",
+"info": "[Telefull]",
+"online": "true",
+"image": "https://i.imgur.com/9piuN0T.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://telefullhd.com/",
+"url": "https://telefullhd.net/mpd2.php?id=telemundo-op2",
+"isHost": "true"
+},
+{
+"name": "3333 | 🇺🇸",
+"info": "[Cable]",
+"online": "true",
+"image": "https://i.imgur.com/9piuN0T.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+"url": "https://telefullhd.net/canales/telemundo/op2.php",
+"embed": "true"
+},
+
+
+
+
 {
 "name": "Telemundo 52 Los Angeles | 🇺🇸",
 "info": "[Cable]",
@@ -1424,42 +1447,9 @@
 "image": "https://i.imgur.com/9piuN0T.png",
 "url": "https://telegratuita.com/reproductor/?r=L3NwZWVkL3Q1Mi5waHA=",
 "embed": "true"
-},
-{
-"name": "Univision | 🇺🇸",
-"info": "[Tele]",
-"online": "true",
-"image": "https://i.imgur.com/b5III2Y.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-"referer": "https://www.telegratishd.com",
-"url": "https://www.telegratishd.com/univision-en-vivo.html",
-"isHost": "true"
-},
-{
-"name": "Univision | 🇺🇸",
-"info": "[Streamtp]",
-"online": "true",
-"image": "https://i.imgur.com/b5III2Y.png",
-"url": "https://streamtpmedia.com/global1.php?stream=univision_usa",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "Univision | 🇺🇸",
-"info": "[Link]",
-"online": "true",
-"image": "https://i.imgur.com/b5III2Y.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-"referer": "https://deporte-libre.link",
-"url": "https://deporte-libre.link/stream/stream-132.php",
-"isHost": "true"
-},
-{
-"name": "Univision 24/7 | 🇺🇸",
-"image": "https://www.univision.com/api/image/x/us/noticias/noticias-univision-24-7-gratis",
-"url": "https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 }
+
+
 
 
 
