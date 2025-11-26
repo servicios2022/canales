@@ -1382,31 +1382,6 @@
 "embed": "true"
 },
 
-
-
-
-
-{
-"name": "Telemundo 52 Los Angeles | 🇺🇸",
-"info": "[Cable]",
-"online": "true",
-"image": "https://i.imgur.com/9piuN0T.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
-"referer": "https://www.cablevisionhd.com/",
-"url": "https://www.cablevisionhd.com/stream/telemundo51.php",
-"isHost": "true"
-},
-{
-"name": "T685 | 🇺🇸",
-"info": "[Tele]",
-"online": "true",
-"image": "https://i.imgur.com/9piuN0T.png",
-"url": "https://www.cablevisionhd.com/stream/telemundo51.php",
-"embed": "true"
-},
-
-
-
 {
 "name": "Telemundo 1080 | 🇺🇸",
 "info": "[Tele]",
