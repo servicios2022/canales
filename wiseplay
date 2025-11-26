@@ -77,6 +77,16 @@
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
+},
+       "name": "ESPN Premium 🇦🇷",
+        "info":"[CDN]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",
+        "url": "https://cdnlatam.sysedge-delivery.com/ESPN_PREMIUM_HD/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
 {
         "name": "ESPN Premium 🇦🇷",
         "info":"[Tele]",
@@ -131,7 +141,16 @@
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
-
+},
+     "name": "TNT Sports Argentina 1080 | 🇦🇷",
+"info": "[CDN]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+        "url": "https://cdnlatam.sysedge-delivery.com/TNT_SPORTS_HD/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "isHost":""
+        },
 {
 "name": "TNT Sports Argentina 1080 | 🇦🇷",
 "info": "[Global]",
@@ -488,6 +507,17 @@
         "referer" : "",
         "online":"true",
         "isHost":"true"
+        },
+},
+"name": "TyC Sports | 🇦🇷",
+"info": "[CDN]",
+"online": "true",
+"image": "https://i.imgur.com/zfkBNdb.png",
+        "url": "https://cdnlatam.sysedge-delivery.com/TYC_SPORTS_CACHE_2/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
         },
 {
 "name": "TyC Sports | 🇦🇷",
