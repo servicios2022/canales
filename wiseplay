@@ -292,7 +292,7 @@
 {
 "name": "ESPN 3 🇦🇷",
 "info":"[Laceaccept]",
-"image": "https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",
+"image": "https://i.imgur.com/y3VGGV0.png",
 "url" : "https://laceaccept.net/embed/r23llp",
 "referer" : "https://tarjetarojaenvivo.lat/",
 "isHost":"true"
@@ -300,7 +300,7 @@
 {
 "name": "ESPN 3 🇦🇷",
 "info":"[Cable]",
-"image": "https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",
+"image": "https://i.imgur.com/y3VGGV0.png",
 "url": "https://www.cablevisionhd.com/espn-3-en-vivo.html",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "",
@@ -398,26 +398,6 @@
 "isHost": "true"
 },
 {
-"name": "Dsports 🇦🇷",
-"info":"[Tele]",
-"image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
-"url": "https://www.telegratishd.com/directv-sports-en-vivo.html",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "",
-"online":"true",
-"embed": "",
-"isHost":"true"
-},
-{
-"name": "Dsports | 🇦🇷",
-"info": "[Fuelcareer]",
-"online": "true",
-"image": "https://i.imgur.com/NUGOqdT.png",
-"referer": "https://tarjetarojaenvivo.lat/",
-"url": "https://fuelcareer.net/embed/4jva7tj642f9b",
-"isHost": "true"
-},
-{
 "name": "Dsports | 🇦🇷",
 "info": "[Laceaccept]",
 "online": "true",
@@ -446,6 +426,17 @@
 },
 {
 "name": "Dsports | 🇦🇷",
+"info":"[Tele]",
+"image": "https://i.imgur.com/NUGOqdT.png",
+"url": "https://www.telegratishd.com/directv-sports-en-vivo.html",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "",
+"online":"true",
+"embed": "",
+"isHost":"true"
+},
+{
+"name": "Dsports | 🇦🇷",
 "info": "[Link]",
 "online": "true",
 "image": "https://i.imgur.com/NUGOqdT.png",
@@ -457,7 +448,7 @@
 {
 "name": "Dsports 2 🇦🇷" ,
 "info":"[Tele]",
-"image": "https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png",
+"image": "https://i.imgur.com/HI0yGFW.png",
 "url": "https://www.telegratishd.com/directv-sports-2-en-vivo.html",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "",
@@ -483,7 +474,7 @@
 "isHost": "true"
 },
 {
-"name": "Dsports + 🇦🇷",
+"name": "Dsports+ | 🇦🇷",
 "info":"[Tele]",
 "image": "https://i.postimg.cc/Z5d8cYvC/DSports.webp",
 "url": "https://www.telegratishd.com/directv-sports-plus-en-vivo.html",
@@ -493,7 +484,7 @@
 "isHost":"true"
 },
 {
-"name": "TyC Sports | 🇦🇷",
+"name": "TyC Sports 720 | 🇦🇷",
 "info": "[CDN]",
 "online": "true",
 "image": "https://i.imgur.com/zfkBNdb.png",
@@ -572,34 +563,12 @@
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
-
-
-
-
-
-
-
-
-{
-"name": "Canal 5 | 🇲🇽",
-"info": "[Tele]",
-"online": "true",
-"image": "https://i.imgur.com/kF3SyOi.png",
-"url": "https://xyz.globalox.xyz/p/amzn.html?txt=mx_canal5",
-"embed": "true"
-},
 {
 "name": "TUDN (Tele) | 🇲🇽",
 "image": "https://i.imgur.com/U6DKWV0.png",
 "url": "https://www.telegratishd.com/tudn-en-vivo.html",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "isHost":"true"
-},
-{
-"name": "TUDN (Cord) | 🇲🇽",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"url": "http://cord-cutter.net:8080/Rme2Fg/183926/11885",
-"userAgent": ""
 },
 {
 "name": "ESPN (Streamtp) | 🇲🇽",
@@ -630,47 +599,7 @@
 "isHost": "true"
 },
 {
-"name": "Fox Sports MX | 🇲🇽",
-"info": "[Tele]",
-"online": "true",
-"image": "https://i.imgur.com/0xKNbhn.png",
-"url": "https://telegratuita.com/reproductor/?r=Ly90ZWxlZ3JhdHVpdGEuY29tL3NwZWVkL2ZveDFteC5waHA=",
-"embed": "true"
-},
-{
-"name": "Fox Sports 2 MX | 🇲🇽",
-"info": "[Tele]",
-"online": "true",
-"image": "https://i.imgur.com/16dSHEX.png",
-"url": "https://telegratuita.com/reproductor/?r=Ly90ZWxlZ3JhdHVpdGEuY29tL3N0cmVhbS5waHA/aWQ9RlMyTVg=",
-"embed": "true"
-},
-{
-"name": "Fox Sports 3 MX | 🇲🇽",
-"info": "[Tele]",
-"online": "true",
-"image": "https://i.imgur.com/8ZMDGlF.png",
-"url": "https://telegratuita.com/reproductor/?r=Ly90ZWxlZ3JhdHVpdGEuY29tL3NwZWVkL2ZveDNteC5waHA=",
-"embed": "true"
-},
-{
-"name": "Fox Deportes (Jointexploit) | 🇲🇽",
-"image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png",
-"url": "https://jointexploit.net/embed/k13h15p8ue",
-"referer": "https://buzztv.futbol/",
-"isHost": "true"
-},
-{
-"name": "FS Premium | 🇲🇽",
-"info": "[La14HD]",
-"online": "true",
-"image": "https://i.imgur.com/l1XDE9T.png",
-"url": "https://la12hd.com/vivo/canal.php?stream=foxsportspremium",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "TUDN USA | 🇺🇸",
+"name": "TUDN USA 720 | 🇺🇸",
 "info": "[Ava]",
 "online": "true",
 "image": "https://i.imgur.com/U6DKWV0.png",
@@ -717,15 +646,6 @@
 "isHost": "true"
 },
 {
-"name": "ESPN Deportes 720 | 🇺🇸",
-"info": "[Wagon]",
-"online": "true",
-"image": "https://i.imgur.com/cYvji3A.png",
-"url" :  "https://wagontorch.net/embed/x2qidlx7",
-"referer" : "https://buzztv.futbol/",
-"isHost":"true"
-},
-{
 "name": "ESPN Deportes | 🇺🇸",
 "info": "[Fuelcaller]",
 "online": "true",
@@ -735,12 +655,6 @@
 "url": "https://fuelcareer.net/embed/lf445b",
 "isHost": "true"
 },
-
-
-
-
-
-
 {
 "name": "M+ La Liga UHD | 🇪🇸",
 "info": "[Acestream f1e]",
