@@ -816,11 +816,25 @@
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
+
+
+
+
+
 {
-"name": "Azteca Deportes | 🇲🇽",
-"image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png",
-"url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6582f002a620e3000813b329/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&",
-"userAgent": ""
+"name": "Canal 5 | 🇲🇽",
+"info": "[Tele]",
+"online": "true",
+"image": "https://i.imgur.com/kF3SyOi.png",
+"url": "https://xyz.globalox.xyz/p/amzn.html?txt=mx_canal5",
+"embed": "true"
+},
+{
+"name": "TUDN (Tele) | 🇲🇽",
+"image": "https://i.imgur.com/U6DKWV0.png",
+"url": "https://www.telegratishd.com/tudn-en-vivo.html",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"isHost":"true"
 },
 {
 "name": "TUDN (Cord) | 🇲🇽",
@@ -829,22 +843,9 @@
 "userAgent": ""
 },
 {
-"name": "TUDN (104) | 🇲🇽",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"url": "http://104.238.205.28:8989/278570_.m3u8",
-"userAgent": ""
-},
-{
 "name": "ESPN (Streamtp) | 🇲🇽",
 "image": "https://i.imgur.com/MFhpD4D.png",
-"url": "https://streamtp22.com/global1.php?stream=espnmx",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "ESPN (Streamdp) | 🇲🇽",
-"image": "https://i.imgur.com/MFhpD4D.png",
-"url": "https://streamdp2.xyz/global1.php?channel=espnmx",
+"url": "https://streamtpmedia.com/global1.php?stream=espnmx",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -856,16 +857,16 @@
 "isHost": "true"
 },
 {
-"name": "ESPN 2 (Streamdp) | 🇲🇽",
+"name": "ESPN 2 (Streamtp) | 🇲🇽",
 "image": "https://i.imgur.com/jq1s4to.png",
-"url": "https://streamdp2.xyz/global1.php?channel=espn2mx",
+"url": "https://streamtpmedia.com/global1.php?stream=espn2mx",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
 {
-"name": "ESPN 3 (Streamdp) | 🇲🇽",
+"name": "ESPN 3 (Streamtp) | 🇲🇽",
 "image": "https://i.imgur.com/y3VGGV0.png",
-"url": "https://streamdp2.xyz/global1.php?channel=espn3mx",
+"url": "https://streamtpmedia.com/global1.php?stream=espn3mx",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -901,12 +902,6 @@
 "isHost": "true"
 },
 {
-"name": "Fox Deportes (Tubi) | 🇲🇽",
-"image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png",
-"url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8",
-"userAgent": ""
-},
-{
 "name": "FS Premium | 🇲🇽",
 "info": "[La14HD]",
 "online": "true",
@@ -916,28 +911,22 @@
 "isHost": "true"
 },
 {
-"name": "TUDN USA 1080 | 🇺🇸",
-"info": "[190]",
+"name": "TUDN USA | 🇺🇸",
+"info": "[Ava]",
 "online": "true",
 "image": "https://i.imgur.com/U6DKWV0.png",
-"url": "http://190.92.10.66:4000/play/a002/index.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"origin": "https://ava.karmakurama.com",
+"referer": "https://ava.karmakurama.com",
+"url": "https://ava.karmakurama.com/wind/premium66/mono.m3u8",
+"isHost":""
 },
 {
 "name": "TUDN USA | 🇺🇸",
 "info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/U6DKWV0.png",
-"url": "https://streamtp22.com/global1.php?stream=tudn_usa",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "TUDN USA | 🇺🇸",
-"info": "[Streamdp]",
-"online": "true",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"url": "https://streamdp2.xyz/global1.php?channel=tudn_usa",
+"url": "https://streamtpmedia.com/global1.php?stream=tudn_usa",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -948,6 +937,15 @@
 "image": "https://i.imgur.com/U6DKWV0.png",
 "url": "https://la14hd.com/vivo/canales.php?stream=tudn",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "TUDN USA | 🇺🇸",
+"info": "[Libre]",
+"online": "true",
+"image": "https://i.imgur.com/U6DKWV0.png",
+"url": "https://vivozly.com/canal.php?stream=tudn_usa",
+"referer": "https://librefutboltv.su/es/tudn/",
 "isHost": "true"
 },
 {
@@ -966,8 +964,8 @@
 "image": "https://i.imgur.com/cYvji3A.png",
 "url" :  "https://wagontorch.net/embed/x2qidlx7",
 "referer" : "https://buzztv.futbol/",
-"isHost":"true" 
-}, 
+"isHost":"true"
+},
 {
 "name": "ESPN Deportes | 🇺🇸",
 "info": "[Fuelcaller]",
@@ -978,6 +976,11 @@
 "url": "https://fuelcareer.net/embed/lf445b",
 "isHost": "true"
 },
+
+
+
+
+
 
 {
 "name": "M+ La Liga UHD | 🇪🇸",
