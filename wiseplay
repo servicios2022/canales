@@ -220,7 +220,15 @@
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
-
+{
+"name": "TNT Sports Argentina | 🇦🇷",
+"info": "[Wagon]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+"url" :  "https://wagontorch.net/embed/x2qidlx7",
+"referer" : "https://buzztv.futbol/",
+"isHost":"true" 
+}, 
 
 
 
