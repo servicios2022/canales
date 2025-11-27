@@ -56,7 +56,7 @@
 
 
 {
-"name": "TNT ARGENTINA PRUEBAS | 🇺🇸",
+"name": "TNT ARGENTINA | 🇺🇸",
 "info": "[Ava]",
 "online": "true",
 "image": "https://i.imgur.com/U6DKWV0.png",
@@ -67,7 +67,7 @@
 "isHost":""
 },
 {
-"name": "TNT CHILE PRUEBAS | 🇺🇸",
+"name": "TNT CHILE | 🇺🇸",
 "info": "[Ava]",
 "online": "true",
 "image": "https://i.imgur.com/U6DKWV0.png",
@@ -77,9 +77,6 @@
 "url": "https://ava.karmakurama.com/dokko1/premium642/mono.m3u8",
 "isHost":""
 },
-
-
-
 {
 "name": "ESPN Deportes | 🇺🇸",
 "info": "[Ava]",
@@ -88,7 +85,7 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "origin": "https://ava.karmakurama.com",
 "referer": "https://ava.karmakurama.com",
-"url": "https://ddh2new.newkso.ru/ddh2/premium375/mono.m3u8",
+"url": "https://ava.karmakurama.com/ddh2/premium375/mono.m3u8",
 "isHost":""
 },
 
@@ -227,142 +224,6 @@
 
 
 
-
-
-
-
-{
-"name": "TNT CHILE PRUEBAS | 🇺🇸",
-"info": "[Ava]",
-"online": "true",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"origin": "https://ava.karmakurama.com",
-"referer": "https://ava.karmakurama.com",
-"url": "https://ava.karmakurama.com/dokko1/premium642/mono.m3u8",
-"isHost":""
-},
-{
-"name": "TNT CHILE PRUEBAS | 🇺🇸",
-"info": "[Ava]",
-"online": "true",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"origin": "https://ava.karmakurama.com",
-"referer": "https://ava.karmakurama.com",
-"url": "https://ava.karmakurama.com/dokko1/premium642/mono.m3u8",
-"isHost":""
-},
-{
-"name": "TNT CHILE PRUEBAS | 🇺🇸",
-"info": "[Ava]",
-"online": "true",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"origin": "https://ava.karmakurama.com",
-"referer": "https://ava.karmakurama.com",
-"url": "https://ava.karmakurama.com/dokko1/premium642/mono.m3u8",
-"isHost":""
-},
-{
-"name": "TNT CHILE PRUEBAS | 🇺🇸",
-"info": "[Ava]",
-"online": "true",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"origin": "https://ava.karmakurama.com",
-"referer": "https://ava.karmakurama.com",
-"url": "https://ava.karmakurama.com/dokko1/premium642/mono.m3u8",
-"isHost":""
-},
-{
-"name": "TNT CHILE PRUEBAS | 🇺🇸",
-"info": "[Ava]",
-"online": "true",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"origin": "https://ava.karmakurama.com",
-"referer": "https://ava.karmakurama.com",
-"url": "https://ava.karmakurama.com/dokko1/premium642/mono.m3u8",
-"isHost":""
-},
-{
-"name": "TNT CHILE PRUEBAS | 🇺🇸",
-"info": "[Ava]",
-"online": "true",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"origin": "https://ava.karmakurama.com",
-"referer": "https://ava.karmakurama.com",
-"url": "https://ava.karmakurama.com/dokko1/premium642/mono.m3u8",
-"isHost":""
-},
-{
-"name": "TNT CHILE PRUEBAS | 🇺🇸",
-"info": "[Ava]",
-"online": "true",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"origin": "https://ava.karmakurama.com",
-"referer": "https://ava.karmakurama.com",
-"url": "https://ava.karmakurama.com/dokko1/premium642/mono.m3u8",
-"isHost":""
-},
-{
-"name": "TNT CHILE PRUEBAS | 🇺🇸",
-"info": "[Ava]",
-"online": "true",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"origin": "https://ava.karmakurama.com",
-"referer": "https://ava.karmakurama.com",
-"url": "https://ava.karmakurama.com/dokko1/premium642/mono.m3u8",
-"isHost":""
-},
-{
-"name": "TNT CHILE PRUEBAS | 🇺🇸",
-"info": "[Ava]",
-"online": "true",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"origin": "https://ava.karmakurama.com",
-"referer": "https://ava.karmakurama.com",
-"url": "https://ava.karmakurama.com/dokko1/premium642/mono.m3u8",
-"isHost":""
-},
-{
-"name": "TNT CHILE PRUEBAS | 🇺🇸",
-"info": "[Ava]",
-"online": "true",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"origin": "https://ava.karmakurama.com",
-"referer": "https://ava.karmakurama.com",
-"url": "https://ava.karmakurama.com/dokko1/premium642/mono.m3u8",
-"isHost":""
-},
-{
-"name": "TNT CHILE PRUEBAS | 🇺🇸",
-"info": "[Ava]",
-"online": "true",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"origin": "https://ava.karmakurama.com",
-"referer": "https://ava.karmakurama.com",
-"url": "https://ava.karmakurama.com/dokko1/premium642/mono.m3u8",
-"isHost":""
-},
-{
-"name": "TNT CHILE PRUEBAS | 🇺🇸",
-"info": "[Ava]",
-"online": "true",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"origin": "https://ava.karmakurama.com",
-"referer": "https://ava.karmakurama.com",
-"url": "https://ava.karmakurama.com/dokko1/premium642/mono.m3u8",
-"isHost":""
-},
 
 
 
