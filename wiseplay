@@ -9,9 +9,8 @@
 "image": "https://i.gifer.com/origin/3c/3cf3bf4222ca02eadf81bf145261bfd0.gif",
 "stations":[
 
-
 {
-"name": "Libre Futbol TV | 🇦🇷",
+"name": "Libre Futbol TV Argentina | 🇦🇷",
 "info": "[Online]",
 "online": "true",
 "image": "https://i.imgur.com/ehmvuI6.png",
@@ -21,7 +20,7 @@
 "embed": "true"
 },
 {
-"name": "Libre Futbol TV | 🇦🇷",
+"name": "Libre Futbol TV Mexico | 🇦🇷",
 "info": "[Online]",
 "online": "true",
 "image": "https://i.imgur.com/ehmvuI6.png",
@@ -35,7 +34,7 @@
 "info": "[Online]",
 "online": "true",
 "image": "https://i.imgur.com/ehmvuI6.png",
-"url": "https://streamtp22.com/eventos.html",
+"url": "https://streamtpmedia.com/eventos.html",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"
@@ -50,118 +49,7 @@
 "playInNatPlayer": "true",
 "embed": "true"
 },
-{
-"name": "Streamdp | 🇦🇷",
-"info": "[Online]",
-"online": "true",
-"image": "https://i.imgur.com/ehmvuI6.png",
-"url": "https://streamdp2.xyz/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true"
-},
 
-
-
-{
-"name": "2espns | 🇨🇱",
-"image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png",
-"url": "https://nskzbm.futebol12.nexus/espn/tracks-v1a1/mono.ts.m3u8",
-"userAgent": ""
-},
-{
-"name": "Cespn | 🇨🇱",
-"info": "[Tele]",
-"online": "true",
-"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-"url": "https://g.globalox.xyz/p/co.html?txt=espn",
-"embed": "true"
-},
-{
-"name": "espn| 🇦🇷",
-"info": "[ESPN 5]",
-"online": "true",
-"image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
-"url": "https://g.globalox.xyz/p/co.html?txt=espn",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "espn mx1| 🇨🇱",
-"info": "[Tele]",
-"online": "true",
-"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-"url": "https://g.globalox.xyz/p/co.html?txt=espn",
-"embed": "true"
-},
-{
-"name": "espn mx2| 🇨🇱",
-"info": "[Tele]",
-"online": "true",
-"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-"url": "https://futbollibrelibre.com/canales.php?stream=espn",
-"embed": "true"
-},
-{
-"name": "Chilevision 1080 | 🇨🇱",
-"info": "[Online]",
-"online": "true",
-"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://www.telefuthd.com",
-"url": "https://xyz.globalox.xyz/p/amzn.html?txt=mx_canal5",
-"isHost": "true",
-"autoplay": "true",
-"autoStart": "true",
-"playOnLoad": "true"
-},
-{
-"name": "Chilevision 1080 | 🇨🇱",
-"info": "[Tele]",
-"online": "true",
-"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-"url": "https://xyz.globalox.xyz/p/amzn.html?txt=mx_canal5",
-"embed": "true"
-},
-{
-"name": "PPV UFC 720 | 🇦🇷",
-"info": "[ESPN 5]",
-"online": "true",
-"image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
-"url": "https://streamtp22.com/global1.php?stream=canal5mx",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "Chilevision 1080 | 🇨🇱",
-"info": "[Online]",
-"online": "true",
-"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://futbollibrelibre.com",
-"url": "https://futbollibrelibre.com/canales.php?stream=canal5",
-"isHost": "true",
-"autoplay": "true",
-"autoStart": "true",
-"playOnLoad": "true"
-},
-{
-"name": "Chilevision 1080 | 🇨🇱",
-"info": "[Tele]",
-"online": "true",
-"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-"url": "https://futbollibrelibre.com/canales.php?stream=canal5",
-"embed": "true"
-},
-{
-"name": "PPV UFC 720 | 🇦🇷",
-"info": "[ESPN 5]",
-"online": "true",
-"image": "https://m.media-amazon.com/images/I/21o-XGlGl9L.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=canal5",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
 
 
 
