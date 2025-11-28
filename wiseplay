@@ -56,11 +56,56 @@
 "stations":[
 
 {
-"name": "Max Tnt Sports | 🇨🇱",
+"name": "Max Tnt Sports 1 | 🇨🇱",
 "info": "[La14HD]",
 "online": "true",
 "image": "https://i.imgur.com/lszKlpm.png",
 "url": "https://la14hd.com/vivo/canal.php?stream=max1",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "Max Tnt Sports 1 | 🇨🇱",
+"info": "[Streamtp]",
+"online": "true",
+"image": "https://i.imgur.com/lszKlpm.png",
+"url": "https://streamtpmedia.com/global1.php?stream=max1",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "Max Tnt Sports 2 | 🇨🇱",
+"info": "[La14HD]",
+"online": "true",
+"image": "https://i.imgur.com/lszKlpm.png",
+"url": "https://la14hd.com/vivo/canal.php?stream=max2",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "Max Tnt Sports 2 | 🇨🇱",
+"info": "[Streamtp]",
+"online": "true",
+"image": "https://i.imgur.com/lszKlpm.png",
+"url": "https://streamtpmedia.com/global1.php?stream=max2",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "Max Tnt Sports 3 | 🇨🇱",
+"info": "[La14HD]",
+"online": "true",
+"image": "https://i.imgur.com/lszKlpm.png",
+"url": "https://la14hd.com/vivo/canal.php?stream=max3",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "Max Tnt Sports 3 | 🇨🇱",
+"info": "[Streamtp]",
+"online": "true",
+"image": "https://i.imgur.com/lszKlpm.png",
+"url": "https://streamtpmedia.com/global1.php?stream=max3",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
