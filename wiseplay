@@ -110,6 +110,70 @@
 "isHost": "true"
 },
 {
+"name": "TNT Sports Premium Chile 1080 | 🇨🇱",
+"info": "[38]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "http://38.183.182.166:8000/play/a0vv/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "",
+"isHost":""
+},
+{
+"name": "TNT Sports Premium Chile 1080 | 🇨🇱",
+"info": "[158]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "http://158.172.217.237:8000/play/a0nr/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "",
+"isHost":""
+},
+{
+"name": "TNT Sports Premium Chile 1080 | 🇨🇱",
+"info": "[189]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "http://189.50.210.3:8008/play/a074/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "",
+"isHost":""
+},
+{
+"name": "TNT Sports Premium Chile 1080 | 🇨🇱",
+"info": "[189]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "http://189.50.210.3:8008/play/a031/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "",
+"isHost":""
+},
+{
+"name": "TNT Sports Premium Chile 1080 | 🇨🇱",
+"info": "[189]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "http://189.50.210.3:8008/play/a07c/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "",
+"isHost":""
+},
+{
+"name": "TNT Sports Premium Chile 1080 | 🇨🇱",
+"info": "[189]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "http://189.50.210.3:8008/play/a07c/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "",
+"isHost":""
+},
+
+
+
+
+{
 "name": "TNT Sports Premium Chile 720 | 🇨🇱",
 "info": "[FutbolLibre]",
 "online": "true",
