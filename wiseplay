@@ -57,65 +57,8 @@
 
 
 
-{
-"name": "ESPN Deportes | 🇺🇸",
-"info": "[Ava]",
-"online": "true",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"origin": "https://ava.karmakurama.com",
-"referer": "https://ava.karmakurama.com",
-"url": "https://ava.karmakurama.com/ddh2/premium375/mono.m3u8",
-"isHost":""
-},
 
-{
-"name": "ESPN Extra Argentina | 🇦🇷",
-"info": "[Ava]",
-"online": "true",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"origin": "https://ava.karmakurama.com",
-"referer": "https://ava.karmakurama.com",
-"url": "https://ava.karmakurama.com/dokko1/premium798/mono.m3u8",
-"isHost":""
-},
 
-{
-"name": "ESPN Premium Argentina | 🇦🇷",
-"info": "[Ava]",
-"online": "true",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"origin": "https://ava.karmakurama.com",
-"referer": "https://ava.karmakurama.com",
-"url": "https://ava.karmakurama.com/wind/premium387/mono.m3u8",
-"isHost":""
-},
-
-{
-"name": "ESPN SUR | 🇦🇷",
-"info": "[Ava]",
-"online": "true",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"origin": "https://ava.karmakurama.com",
-"referer": "https://ava.karmakurama.com",
-"url": "https://ava.karmakurama.com/ddy6/premium149/mono.m3u8",
-"isHost":""
-},
-
-{
-"name": "ESPN 2 SUR | 🇦🇷",
-"info": "[Ava]",
-"online": "true",
-"image": "https://i.imgur.com/U6DKWV0.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"origin": "https://ava.karmakurama.com",
-"referer": "https://ava.karmakurama.com",
-"url": "https://ava.karmakurama.com/wind/premium150/mono.m3u8",
-"isHost":""
-},
 
 {
 "name": "FOX Deportes USA | 🇺🇸",
@@ -304,6 +247,17 @@
 },
 {
 "name": "ESPN Premium Argentina | 🇦🇷",
+"info": "[Ava]",
+"online": "true",
+"image": "https://i.imgur.com/5qTHLGy.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"origin": "https://ava.karmakurama.com",
+"referer": "https://ava.karmakurama.com",
+"url": "https://ava.karmakurama.com/wind/premium387/mono.m3u8",
+"isHost":""
+},
+{
+"name": "ESPN Premium Argentina | 🇦🇷",
 "info": "[Global]",
 "online": "true",
 "image": "https://i.imgur.com/5qTHLGy.png",
@@ -386,6 +340,17 @@
 "isHost":""
 },
 {
+"name": "ESPN 1080 | 🇦🇷",
+"info":"[CDN]",
+"online":"true",
+"image": "https://i.imgur.com/MFhpD4D.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"origin": "https://ava.karmakurama.com",
+"referer": "https://ava.karmakurama.com",
+"url": "https://ava.karmakurama.com/ddy6/premium149/mono.m3u8",
+"isHost":""
+},
+{
 "name": "ESPN Argentina | 🇦🇷",
 "info": "[La14HD]",
 "online": "true",
@@ -461,6 +426,17 @@
 "url": "https://streamtpmedia.com/global1.php?stream=espn2",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
+},
+{
+"name": "ESPN 2 | 🇦🇷",
+"info": "[Streamtp]",
+"online": "true",
+"image": "https://i.imgur.com/jq1s4to.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"origin": "https://ava.karmakurama.com",
+"referer": "https://ava.karmakurama.com",
+"url": "https://ava.karmakurama.com/wind/premium150/mono.m3u8",
+"isHost":""
 },
 {
 "name": "ESPN 3 🇦🇷",
@@ -808,6 +784,17 @@
 "url": "https://vivozly.com/canal.php?stream=tudn_usa",
 "referer": "https://librefutboltv.su/es/tudn/",
 "isHost": "true"
+},
+{
+"name": "ESPN Deportes 720 | 🇺🇸",
+"info": "[Ava]",
+"online": "true",
+"image": "https://i.imgur.com/cYvji3A.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"origin": "https://ava.karmakurama.com",
+"referer": "https://ava.karmakurama.com",
+"url": "https://ava.karmakurama.com/ddh2/premium375/mono.m3u8",
+"isHost":""
 },
 {
 "name": "ESPN Deportes 720 | 🇺🇸",
