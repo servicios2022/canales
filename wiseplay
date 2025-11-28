@@ -781,6 +781,15 @@
 "isHost":""
 },
 {
+"name": "Win Sports+ | 🇦🇷",
+"info": "[Streamtp]",
+"online": "true",
+"image": "https://i.imgur.com/rzpcdnf.png",
+"url": "https://streamtpmedia.com/global1.php?stream=winplus",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
 "name": "TUDN (Tele) | 🇲🇽",
 "image": "https://i.imgur.com/U6DKWV0.png",
 "url": "https://www.telegratishd.com/tudn-en-vivo.html",
