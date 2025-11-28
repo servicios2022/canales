@@ -200,7 +200,7 @@
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
- {
+{
 "name": "TNT Sports Premium Chile | 🇨🇱",
 "info": "[Tutvlive]",
 "online": "true",
@@ -232,11 +232,11 @@
 {
 "name": "ESPN Premium Argentina | 🇦🇷",
 "info":"[Tele]",
+"online":"true",
 "image": "https://i.imgur.com/5qTHLGy.png",
 "url": "https://www.telegratishd.com/espn-premium-en-vivo.html",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "",
-"online":"true",
 "isHost":"true"
 },
 {
@@ -268,6 +268,14 @@
 "url": "https://ava.karmakurama.com/wind/premium387/mono.m3u8",
 "isHost":""
 },
+{
+"name": "ESPN Premium Argentina | 🇦🇷",
+"info": "[Tutvlive]",
+"online": "true",
+"image": "https://i.imgur.com/5qTHLGy.png",
+"url" : "https://tutvlive.xyz/tvtodo/espnpremiun.php",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+}, 
 {
 "name": "ESPN Premium Argentina | 🇦🇷",
 "info": "[Global]",
@@ -334,6 +342,14 @@
 "isHost":"true" 
 }, 
 {
+"name": "TNT Sports Argentina | 🇦🇷",
+"info": "[Tutvlive]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+"url" : "https://tutvlive.xyz/tvtodo/tnt-sports.php",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+}, 
+{
 "name": "TNT Sports Argentina 1080 | 🇦🇷",
 "info": "[Global]",
 "online": "true",
@@ -364,6 +380,14 @@
 },
 {
 "name": "ESPN Argentina | 🇦🇷",
+"info": "[Tutvlive]",
+"online": "true",
+"image": "https://i.imgur.com/MFhpD4D.png",
+"url" : "https://tutvlive.xyz/tvtodo/espn.php",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+}, 
+{
+"name": "ESPN Argentina | 🇦🇷",
 "info": "[La14HD]",
 "online": "true",
 "image": "https://i.imgur.com/MFhpD4D.png",
@@ -381,7 +405,7 @@
 "isHost": "true"
 },
 {
-"name": "ESPN 🇦🇷",
+"name": "ESPN Argentina| 🇦🇷",
 "info":"[Tele]",
 "image": "https://i.imgur.com/MFhpD4D.png",
 "url": "https://www.telegratishd.com/espn-en-vivo.html",
@@ -392,7 +416,7 @@
 "isHost":"true"
 },
 {
-"name": "ESPN 🇦🇷",
+"name": "ESPN Argentina | 🇦🇷",
 "info":"[Tele]",
 "image": "https://i.imgur.com/MFhpD4D.png",
 "url": "https://www.telegratishd.com/espn-3-en-vivo.html",
@@ -451,6 +475,14 @@
 "isHost":""
 },
 {
+"name": "ESPN 2 | 🇦🇷",
+"info": "[Tutvlive]",
+"online": "true",
+"image": "https://i.imgur.com/jq1s4to.png",
+"url" : "https://tutvlive.xyz/tvtodo/espn-2.php",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+}, 
+{
 "name": "ESPN 3 🇦🇷",
 "info":"[Laceaccept]",
 "image": "https://i.imgur.com/y3VGGV0.png",
@@ -486,6 +518,14 @@
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
+{
+"name": "ESPN 3 1080 | 🇦🇷",
+"info": "[Tutvlive]",
+"online": "true",
+"image": "https://i.imgur.com/y3VGGV0.png",
+"url" : "https://tutvlive.xyz/tvtodo/espn-3.php",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+}, 
 {
 "name": "ESPN 4 | 🇦🇷",
 "info": "[La14HD]",
@@ -606,6 +646,14 @@
 "url": "https://deporte-libre.link/en-vivo-online/dsports/embed2.php",
 "isHost": "true"
 },
+{
+"name": "Dsports | 🇦🇷",
+"info": "[Tutvlive]",
+"online": "true",
+"image": "https://i.imgur.com/NUGOqdT.png",
+"url" : "https://tutvlive.xyz/tvtodo/dsports.php",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+}, 
 {
 "name": "Dsports 2 🇦🇷" ,
 "info":"[Tele]",
@@ -902,6 +950,15 @@
 "url": "https://fuelcareer.net/embed/lf445b",
 "isHost": "true"
 },
+{
+"name": "ESPN Deportes | 🇺🇸",
+"info": "[Tutvlive]",
+"online": "true",
+"image": "https://i.imgur.com/cYvji3A.png",
+"url" : "https://tutvlive.xyz/tvtodo/espn-deportes.php",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+}, 
+
 {
 "name": "M+ La Liga UHD | 🇪🇸",
 "info": "[Acestream f1e]",
