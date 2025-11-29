@@ -53,35 +53,6 @@
 
 
 
-
-
-
-
-{
-"name": "TNT Sports PremiLum Chile 720 | 🇨🇱",
-"info": "[Streamtp]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://liveruparojs.icu/channel17",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ]},
 {"name": "DEPORTES",
 "image": "https://static.wixstatic.com/media/603da4_cff0a56da59a43ba88f862dbee0ae230~mv2.gif",
@@ -485,6 +456,15 @@
 "url" : "https://tutvlive.xyz/tvtodo/tnt-sports.php",
 "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 }, 
+{
+"name": "TNT Sports Argentina | 🇦🇷",
+"info": "[Liver]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+"url": "https://liveruparojs.icu/channel17",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
 {
 "name": "TNT Sports Argentina 1080 | 🇦🇷",
 "info": "[Global]",
