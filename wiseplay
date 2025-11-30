@@ -1042,12 +1042,12 @@
 },
 {
 "name": "TUDN USA | 🇺🇸",
-"info": "[Libre]",
+"info": "[Tvplus]",
 "online": "true",
 "image": "https://i.imgur.com/U6DKWV0.png",
-"url": "https://vivozly.com/canal.php?stream=tudn_usa",
-"referer": "https://librefutboltv.su/es/tudn/",
-"isHost": "true"
+"url": "https://www.tvplusgratis2.com/tudn-en-vivo.html",     
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"isHost":"true"
 },
 {
 "name": "ESPN Deportes 720 | 🇺🇸",
