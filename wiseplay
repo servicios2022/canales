@@ -1075,7 +1075,16 @@
 "url" : "https://tutvlive.xyz/tvtodo/espn-deportes.php",
 "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 }, 
-
+{
+"name": "Sky Sports La Liga 720  | 🇺🇸",
+"info":"[CDN]",
+"image": "https://i.imgur.com/JzCd0T5.png",
+"url": "https://cdnlatam.sysedge-delivery.com/SKY_SPORTS_CACHE1/index.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "",
+"online":"true",
+"isHost":""
+},
 
 {
 "name": "M+ La Liga UHD | 🇪🇸",
