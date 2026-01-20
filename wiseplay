@@ -203,7 +203,24 @@
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
-
+{
+"name": "TNT Sports Premium Chile | 🇨🇱",
+"info": "[Sportsonline]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "https://sportsonline.cv/channels/hd/hd8.php",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "TNT Sports Premium Chile | 🇨🇱",
+"info": "[Yeah]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "https://yeahpanel.shop/tv/stream-642.php",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
 
 {
 "name": "TNT Sports Premium Chile 1080 | 🇨🇱",
