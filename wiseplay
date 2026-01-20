@@ -221,6 +221,50 @@
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
+{
+"name": "TNT Sports Premium Chile | 🇨🇱",
+"info": "[Ovogoal]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "https://ovogoal.cfd/hubplay/stream-642.php",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "TNT Sports Premium Chile 1080 | 🇨🇱",
+"info": "[Ovogoal]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"origin": "https://epicplayplay.cfd/",
+"referer": "https://epicplayplay.cfd/",
+"url": "https://ovogoal.cfd/hubplay/stream-642.php",
+"isHost":""
+},
+{
+"name": "TNT Sports Premium Chile 1080 | 🇨🇱",
+"info": "[Ovogoal]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"origin": "https://epicplayplay.cfd/",
+"url": "https://ovogoal.cfd/hubplay/stream-642.php",
+"isHost":""
+},
+{
+"name": "TNT Sports Premium Chile 1080 | 🇨🇱",
+"info": "[Ovogoal]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://epicplayplay.cfd/",
+"url": "https://ovogoal.cfd/hubplay/stream-642.php",
+"isHost":""
+},
+
+
+
+
 
 {
 "name": "TNT Sports Premium Chile 1080 | 🇨🇱",
