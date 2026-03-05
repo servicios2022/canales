@@ -1267,25 +1267,25 @@
 "isHost": ""
 },
 {
-"name": "TVN | 🇨🇱",
+"name": "TVN 1 | 🇨🇱",
 "info": "[Online]",
 "online": "true",
 "image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
 "url": "https://www.tvn.cl/en-vivo",
 "embed": "",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
+"referer": "https://www.tvn.cl",
 "isHost": ""
 },
 {
-"name": "TVN | 🇨🇱",
+"name": "TVN 2 | 🇨🇱",
 "info": "[Online]",
 "online": "true",
 "image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
 "url": "https://www.tvn.cl/",
 "embed": "",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
+"referer": "https://www.tvn.cl",
 "isHost": ""
 },
 {
