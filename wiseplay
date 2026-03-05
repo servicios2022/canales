@@ -74,64 +74,13 @@
 "stations":[
 
 {
-"name": "TNT Sports Premium Chile 1080 | 🇨🇱",
-"info": "[177]",
+"name": "TNT Sports Premium Chile 720 | 🇨🇱",
+"info": "[Tvplus]",
 "online": "true",
 "image": "https://i.imgur.com/YTaeyss.png",
-"url": "http://177.128.113.1:8000/play/a04n",
+"url": "https://www.tvplusgratis2.com/tnt-sports-chile-en-vivo.html",     
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "",
-"isHost":""
-},
-{
-"name": "TNT Sports Premium Chile 1080 | 🇨🇱",
-"info": "[189]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "http://189.50.210.3:8008/play/a07c/index.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "",
-"isHost":""
-},
-{
-"name": "TNT Sports Premium Chile 1080 | 🇨🇱",
-"info": "[179]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "http://179.63.6.12:9000/play/a06w",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "",
-"isHost":""
-},
-{
-"name": "TNT Sports Premium Chile 1080 | 🇨🇱",
-"info": "[189]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "http://189.50.210.3:8008/play/a031/index.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "",
-"isHost":""
-},
-{
-"name": "TNT Sports Premium Chile 1080 | 🇨🇱",
-"info": "[189]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "http://189.50.210.3:8008/play/a074/index.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "",
-"isHost":""
-},
-{
-"name": "TNT Sports Premium Chile 1080 | 🇨🇱",
-"info": "[8]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "http://8.243.126.131:8000/play/a0k4/index.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "",
-"isHost":""
+"isHost":"true"
 },
 
 {
@@ -199,15 +148,7 @@
 "url" : "https://tutvlive.xyz/tvtodo/tnt-chile.php",
 "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 }, 
-{
-"name": "TNT Sports Premium Chile 720 | 🇨🇱",
-"info": "[Tvplus]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://www.tvplusgratis2.com/tnt-sports-chile-en-vivo.html",     
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"isHost":"true"
-},
+
 
 {
 "name": "ESPN Premium Chile 1080 | 🇨🇱",
