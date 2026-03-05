@@ -96,7 +96,7 @@
 "info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://streamtp10.com/global1.php?stream=tntsportschile",
+"url": "https://streamtp10.com/global2.php?stream=tntsportschile",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -121,100 +121,6 @@
 
 
 
-
-
-{
-"name": "ESPN Premium Chile 1080 | 🇨🇱",
-"info":"[8]",
-"image": "https://i.imgur.com/5qTHLGy.png",
-"url": "http://8.243.126.131:8000/play/a053/index.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "",
-"online":"true",
-"isHost":""
-},
-{
-"name": "ESPN Premium Chile 1080 | 🇨🇱",
-"info":"[8]",
-"image": "https://i.imgur.com/5qTHLGy.png",
-"url": "http://8.243.126.131:8000/play/a0ku/index.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "",
-"online":"true",
-"isHost":""
-},
-{
-"name": "ESPN Premium Chile 1080 | 🇨🇱",
-"info":"[38]",
-"image": "https://i.imgur.com/5qTHLGy.png",
-"url": "http://38.210.3.64:8090/play/a0ke",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "",
-"online":"true",
-"isHost":""
-},
-{
-"name": "ESPN Premium Chile 1080 | 🇨🇱",
-"info":"[179]",
-"image": "https://i.imgur.com/5qTHLGy.png",
-"url": "http://179.51.136.19:8000/play/a1ar/index.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "",
-"online":"true",
-"isHost":""
-},
-{
-"name": "ESPN Premium Chile 1080 | 🇨🇱",
-"info":"[179]",
-"image": "https://i.imgur.com/5qTHLGy.png",
-"url": "http://179.51.136.19:8000/play/a1ml/index.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "",
-"online":"true",
-"isHost":""
-},
-{
-"name": "ESPN Premium Chile 1080 | 🇨🇱",
-"info":"[179]",
-"image": "https://i.imgur.com/5qTHLGy.png",
-"url": "http://179.63.6.12:9000/play/a02r",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "",
-"online":"true",
-"isHost":""
-},
-{
-"name": "ESPN Premium Chile 1080 | 🇨🇱",
-"info":"[189]",
-"image": "https://i.imgur.com/5qTHLGy.png",
-"url": "http://189.50.210.3:8008/play/a04l/index.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "",
-"online":"true",
-"isHost":""
-},
-{
-"name": "ESPN Premium Chile 1080 | 🇨🇱",
-"info":"[189]",
-"image": "https://i.imgur.com/5qTHLGy.png",
-"url": "http://189.50.210.3:8008/play/a07q/index.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "",
-"online":"true",
-"isHost":""
-},
-
-
-{
-"name": "ESPN Premium Argentina 1080 | 🇦🇷",
-"info":"[190]",
-"image": "https://i.imgur.com/5qTHLGy.png",
-"url": "http://190.104.67.2:234/play/a086/index.m3u8",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "",
-"online":"true",
-"isHost":""
-},
 {
 "name": "ESPN Premium Argentina 720 | 🇦🇷",
 "info":"[CDN]",
@@ -249,7 +155,7 @@
 "info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/5qTHLGy.png",
-"url": "https://streamtpcloud.com/global1.php?stream=espnpremium",
+"url": "https://streamtp10.com/global2.php?stream=espnpremium",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -324,7 +230,7 @@
 "info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/ItEH0oC.png",
-"url": "https://streamtpcloud.com/global1.php?stream=tntsports",
+"url": "https://streamtp10.com/global2.php?stream=tntsports",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -405,7 +311,7 @@
 "info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/MFhpD4D.png",
-"url": "https://streamtpcloud.com/global1.php?stream=espn",
+"url": "https://streamtp10.com/global2.php?stream=espn",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -445,7 +351,7 @@
 "info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/jq1s4to.png",
-"url": "https://streamtpcloud.com/global1.php?stream=espn2",
+"url": "https://streamtp10.com/global2.php?stream=espn2",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -501,7 +407,7 @@
 "info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/y3VGGV0.png",
-"url": "https://streamtpcloud.com/global1.php?stream=espn3",
+"url": "https://streamtp10.com/global2.php?stream=espn3",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -545,7 +451,7 @@
 "info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/yxAlH81.png",
-"url": "https://streamtpcloud.com/global1.php?stream=espn4",
+"url": "https://streamtp10.com/global2.php?stream=espn4",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -563,7 +469,7 @@
 "info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/D65r7VG.png",
-"url": "https://streamtpcloud.com/global1.php?stream=espn5",
+"url": "https://streamtp10.com/global2.php?stream=espn5",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -581,7 +487,7 @@
 "info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/Y5ERC73.png",
-"url": "https://streamtpcloud.com/global1.php?stream=espn6",
+"url": "https://streamtp10.com/global2.php?stream=espn6",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -599,7 +505,7 @@
 "info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/YrVUJmp.png",
-"url": "https://streamtpcloud.com/global1.php?stream=espn7",
+"url": "https://streamtp10.com/global2.php?stream=espn7",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -626,7 +532,7 @@
 "info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/NUGOqdT.png",
-"url": "https://streamtpcloud.com/global1.php?stream=dsports",
+"url": "https://streamtp10.com/global2.php?stream=dsports",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -673,7 +579,7 @@
 "info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/HI0yGFW.png",
-"url": "https://streamtpcloud.com/global1.php?stream=dsports2",
+"url": "https://streamtp10.com/global2.php?stream=dsports2",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -711,7 +617,7 @@
 "info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/zfkBNdb.png",
-"url": "https://streamtpcloud.com/global1.php?stream=tycsports",
+"url": "https://streamtp10.com/global2.php?stream=tycsports",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -761,7 +667,7 @@
 {
 "name": "FOX Sports 2 Argentina (Streamtp) | 🇦🇷",
 "image": "https://i.imgur.com/KhwRTx4.png",
-"url": "https://streamtpcloud.com/global1.php?stream=fox2ar",
+"url": "https://streamtp10.com/global2.php?stream=fox2ar",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -786,7 +692,7 @@
 {
 "name": "FOX Sports 3 Argentina (Streamtp) | 🇦🇷",
 "image": "https://i.imgur.com/xbeQUV3.png",
-"url": "https://streamtpcloud.com/global1.php?stream=fox3ar",
+"url": "https://streamtp10.com/global2.php?stream=fox3ar",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -828,7 +734,7 @@
 "info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/rzpcdnf.png",
-"url": "https://streamtpcloud.com/global1.php?stream=winplus",
+"url": "https://streamtp10.com/global2.php?stream=winplus",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -842,7 +748,7 @@
 {
 "name": "ESPN (Streamtp) | 🇲🇽",
 "image": "https://i.imgur.com/MFhpD4D.png",
-"url": "https://streamtpcloud.com/global1.php?stream=espnmx",
+"url": "https://streamtp10.com/global2.php?stream=espnmx",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -856,14 +762,14 @@
 {
 "name": "ESPN 2 (Streamtp) | 🇲🇽",
 "image": "https://i.imgur.com/jq1s4to.png",
-"url": "https://streamtpcloud.com/global1.php?stream=espn2mx",
+"url": "https://streamtp10.com/global2.php?stream=espn2mx",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
 {
 "name": "ESPN 3 (Streamtp) | 🇲🇽",
 "image": "https://i.imgur.com/y3VGGV0.png",
-"url": "https://streamtpcloud.com/global1.php?stream=espn3mx",
+"url": "https://streamtp10.com/global2.php?stream=espn3mx",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
@@ -883,7 +789,7 @@
 "info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/U6DKWV0.png",
-"url": "https://streamtpcloud.com/global1.php?stream=tudn_usa",
+"url": "https://streamtp10.com/global2.php?stream=tudn_usa",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
