@@ -1267,11 +1267,29 @@
 "isHost": ""
 },
 {
-"name": "TVN  | 🇨🇱",
+"name": "TVN | 🇨🇱",
 "info": "[Online]",
 "online": "true",
 "image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
 "url": "https://www.tvn.cl/",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": true
+},
+{
+"name": "TVN 22| 🇨🇱",
+"info": "[Online]",
+"online": "true",
+"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
+"url": "https://www.tvn.cl/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+"isHost": true
+},
+{
+"name": "TVN33 | 🇨🇱",
+"info": "[Online]",
+"online": "true",
+"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
+"url": "https://www.tvn.cl/en-vivo",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": true
 },
@@ -1281,9 +1299,10 @@
 "online": "true",
 "image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
 "url": "https://www.tvn.cl/en-vivo",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
 "isHost": true
 },
+
 {
 "name": "America Tv | 🇦🇷",
 "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
