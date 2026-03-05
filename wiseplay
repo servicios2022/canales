@@ -1289,6 +1289,15 @@
 "isHost": ""
 },
 {
+"name": "TVN 3 | 🇨🇱",
+"info": "[Online]",
+"online": "true",
+"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
+"url": "https://www.tvn.cl/",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": true
+},
+{
 "name": "America Tv | 🇦🇷",
 "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
 "online": "true",
