@@ -1154,7 +1154,7 @@
 "stations":[
 
 {
-"name": "Mega 1080 | 🇨🇱",
+"name": "MEGA | 🇨🇱",
 "info": "[Online]",
 "online": "true",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
@@ -1166,7 +1166,39 @@
 "playOnLoad": "true"
 },
 {
-"name": "Chilevision 1080 | 🇨🇱",
+"name": "MEGA | 🇨🇱",
+"info": "[ISP]",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
+"url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "MEGA | 🇨🇱",
+"info": "[Movistar]",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
+"url": "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "CHV | 🇨🇱",
+"info": "[DPS]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"url": "https://redirector.dps.live/hls/chv/playlist.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "CHV | 🇨🇱",
+"info": "[Rudo]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "CHV | 🇨🇱",
 "info": "[Online]",
 "online": "true",
 "image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
@@ -1179,7 +1211,7 @@
 "playOnLoad": "true"
 },
 {
-"name": "Chilevision 1080 | 🇨🇱",
+"name": "CHV | 🇨🇱",
 "info": "[Vertv]",
 "online": "true",
 "image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
@@ -1187,7 +1219,7 @@
 "embed": "true"
 },
 {
-"name": "Chilevision 1080 | 🇨🇱",
+"name": "CHV | 🇨🇱",
 "info": "[Tele]",
 "online": "true",
 "image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
@@ -1195,8 +1227,24 @@
 "embed": "true"
 },
 {
-"name": "Canal 13 720 | 🇨🇱",
-"info": "[m3u]",
+"name": "CANAL 13 | 🇨🇱",
+"info": "[DPS]",
+"online": "true",
+"image": "https://i.imgur.com/RazPUFz.png",
+"url": "https://redirector.dps.live/hls/13cl/playlist.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "CANAL 13 | 🇨🇱",
+"info": "[Rudo]",
+"online": "true",
+"image": "https://i.imgur.com/RazPUFz.png",
+"url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/playlist.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "CANAL 13 | 🇨🇱",
+"info": "[M3u]",
 "online": "true",
 "image": "https://i.imgur.com/RazPUFz.png",
 "url": "https://m3u.cl/channel/c13.php",
