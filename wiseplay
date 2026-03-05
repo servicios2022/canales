@@ -1183,6 +1183,19 @@
 },
 {
 "name": "CHV | 🇨🇱",
+"info": "[Online]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://www.chilevision.cl",
+"url": "https://www.chilevision.cl/senal-online",
+"isHost": "true",
+"autoplay": "true",
+"autoStart": "true",
+"playOnLoad": "true"
+},
+{
+"name": "CHV | 🇨🇱",
 "info": "[DPS]",
 "online": "true",
 "image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
@@ -1199,19 +1212,6 @@
 },
 {
 "name": "CHV | 🇨🇱",
-"info": "[Online]",
-"online": "true",
-"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://www.chilevision.cl",
-"url": "https://www.chilevision.cl/senal-online",
-"isHost": "true",
-"autoplay": "true",
-"autoStart": "true",
-"playOnLoad": "true"
-},
-{
-"name": "CHV | 🇨🇱",
 "info": "[Vertv]",
 "online": "true",
 "image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
@@ -1225,6 +1225,19 @@
 "image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
 "url": "https://telegratuita.org/repro/?r=L21nby9jaHYucGhw",
 "embed": "true"
+},
+{
+"name": "CANAL 13 | 🇨🇱",
+"info": "[Online]",
+"online": "true",
+"image": "https://i.imgur.com/RazPUFz.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://www.13.cl",
+"url": "https://www.13.cl/en-vivo",
+"isHost": "true",
+"autoplay": "true",
+"autoStart": "true",
+"playOnLoad": "true"
 },
 {
 "name": "CANAL 13 | 🇨🇱",
@@ -1254,26 +1267,26 @@
 "isHost": ""
 },
 {
-"name": "CANAL 13 | 🇨🇱",
+"name": "TVN | 🇨🇱",
 "info": "[Online]",
 "online": "true",
-"image": "https://i.imgur.com/RazPUFz.png",
+"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
+"url": "https://www.tvn.cl/en-vivo",
+"embed": "",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://www.13.cl",
-"url": "https://www.13.cl/en-vivo",
-"isHost": "true",
-"autoplay": "true",
-"autoStart": "true",
-"playOnLoad": "true"
+"referer": "",
+"isHost": ""
 },
 {
-"name": "TVN 1080 | 🇨🇱",
+"name": "TVN | 🇨🇱",
 "info": "[Online]",
 "online": "true",
 "image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
 "url": "https://www.tvn.cl/",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": true
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
 },
 {
 "name": "America Tv | 🇦🇷",
