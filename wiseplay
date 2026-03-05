@@ -82,56 +82,26 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "isHost":"true"
 },
-
 {
-"name": "TNT Sports Premium Chile Max 1 | 🇨🇱",
+"name": "TNT Sports Premium Chile | 🇨🇱",
+"info": "[TutvHD]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "https://tvtvhd.com/canales.php?stream=tntsportschile",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "TNT Sports Premium Chile | 🇨🇱",
 "info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://streamtpcloud.com/global1.php?stream=max1",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "TNT Sports Premium Chile Max 1 | 🇨🇱",
-"info": "[Streamvv33]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://streamvv33.lat/global1.php?channel=max1",
+"url": "https://streamtp10.com/global1.php?stream=tntsportschile",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
 {
 "name": "TNT Sports Premium Chile | 🇨🇱",
-"info": "[Streamvv33]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://streamvv33.lat/global1.php?channel=tntcl",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "TNT Sports Premium Chile | 🇨🇱",
-"info": "[Sportsonline]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://sportsonline.cv/channels/hd/hd8.php",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-
-
-{
-"name": "TNT Sports Premium Chile 1080 | 🇨🇱",
-"info": "[FutbolLibre]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://futbollibrelibre.com/canales.php?stream=tntsportschile",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "TNT Sports Premium Chile 1080 | 🇨🇱",
 "info": "[La14HD]",
 "online": "true",
 "image": "https://i.imgur.com/YTaeyss.png",
@@ -140,41 +110,12 @@
 "isHost": "true"
 },
 
-{
-"name": "TNT Sports Premium Chile 720 1 | 🇨🇱",
-"info": "[Tutvlive]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url" : "https://tutvlive.xyz/tvtodo/tnt-chile.php",
-"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-}, 
-{
-"name": "TNT Sports Premium Chile 720 2 | 🇨🇱",
-"info": "[Tutvlive]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url" : "https://tutvlive.xyz/tvtodo/tnt-chile.php",
-"referer" : "https://tutvlive.xyz",
-"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-}, 
-{
-"name": "TNT Sports Premium Chile 720 3 | 🇨🇱",
-"info": "[Tutvlive]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url" : "https://tutvlive.xyz/mpd/tvfhd.php?sTL1?id=83",
-"referer" : "https://tutvlive.xyz",
-"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-}, 
-{
-"name": "TNT Sports Premium Chile 720 4 | 🇨🇱",
-"info": "[Tutvlive]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url" : "https://tutvlive.xyz",
-"referer" : "https://tutvlive.xyz/mpd/tvfhd.php?sTL1?id=83",
-"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-}, 
+
+
+
+
+
+
 
 
 
