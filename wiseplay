@@ -79,7 +79,6 @@
 "info": "[Tutvlive]",
 "online": "true",
 "referer" : "https://tutvlive.xyz",
-"embed": "true",
 "isHost":"true",
 "image": "https://i.imgur.com/YTaeyss.png",
 "url" : "https://tutvlive.xyz/tvtodo/tnt-chile.php",
@@ -110,7 +109,6 @@
 "image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
 "url": "https://tutvlive.xyz/tvtodo/tnt-chile.php",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"embed": "true",
 "isHost": true
 },
 
