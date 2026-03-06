@@ -66,7 +66,53 @@
 
 
 
-
+{
+"name": "TNT Sports Premium Chile 720 1| 🇨🇱",
+"info": "[Tutvlive]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url" : "https://tutvlive.xyz/tvtodo/tnt-chile.php",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "TNT Sports Premium Chile 720 2| 🇨🇱",
+"info": "[Tutvlive]",
+"online": "true",
+"referer" : "https://tutvlive.xyz",
+"embed": "true",
+"isHost":"true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url" : "https://tutvlive.xyz/tvtodo/tnt-chile.php",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "TVN 1| 🇨🇱",
+"info": "[Online]",
+"online": "true",
+"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
+"url": "https://tutvlive.xyz/tvtodo/tnt-chile.php",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
+"isHost": true
+},
+{
+"name": "TVN 2| 🇨🇱",
+"info": "[Online]",
+"online": "true",
+"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
+"url": "https://tutvlive.xyz/tvtodo/tnt-chile.php",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": true
+},
+{
+"name": "TVN3| 🇨🇱",
+"info": "[Online]",
+"online": "true",
+"image": "https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png",
+"url": "https://tutvlive.xyz/tvtodo/tnt-chile.php",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"embed": "true",
+"isHost": true
+},
 
 
 
