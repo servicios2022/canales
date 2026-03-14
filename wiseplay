@@ -204,6 +204,15 @@
 
 {
 "name": "ESPN 2 | 🇦🇷",
+"info": "[Dish]",
+"online": "true",
+"image": "https://i.imgur.com/jq1s4to.png",
+"url" : "https://dishtrainer.net/embed/ke1144883x9k0n",
+"referer" : "https://bolaloca.my/",
+"isHost": "true"
+},
+{
+"name": "ESPN 2 | 🇦🇷",
 "info": "[La14HD]",
 "online": "true",
 "image": "https://i.imgur.com/jq1s4to.png",
@@ -221,6 +230,15 @@
 "isHost": "true"
 },
 
+{
+"name": "ESPN 3 1080 | 🇦🇷",
+"info": "[Dish]",
+"online": "true",
+"image": "https://i.imgur.com/y3VGGV0.png",
+"url" : "https://dishtrainer.net/embed/r23llp",
+"referer" : "https://bolaloca.my/",
+"isHost": "true"
+},
 {
 "name": "ESPN 3 1080 | 🇦🇷",
 "info": "[La14HD]",
