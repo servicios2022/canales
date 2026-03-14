@@ -78,15 +78,7 @@
 "image": "https://static.wixstatic.com/media/603da4_cff0a56da59a43ba88f862dbee0ae230~mv2.gif",
 "stations":[
 
-{
-"name": "TNT Sports Premium Chile | 🇨🇱",
-"info": "[Tvplus]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://www.tvplusgratis2.com/tnt-sports-chile-en-vivo.html",     
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"isHost":"true"
-},
+
 {
 "name": "TNT Sports Premium Chile | 🇨🇱",
 "info": "[TutvHD]",
@@ -98,19 +90,28 @@
 },
 {
 "name": "TNT Sports Premium Chile | 🇨🇱",
-"info": "[Streamtp]",
+"info": "[La14HD]",
 "online": "true",
 "image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://streamtp10.com/global2.php?stream=tntsportschile",
+"url": "https://la14hd.com/vivo/canales.php?stream=tntsportschile",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
 {
 "name": "TNT Sports Premium Chile | 🇨🇱",
-"info": "[La14HD]",
+"info": "[Tvplus]",
 "online": "true",
 "image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=tntsportschile",
+"url": "https://www.tvplusgratis2.com/tnt-sports-chile-en-vivo.html",     
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"isHost":"true"
+},
+{
+"name": "TNT Sports Premium Chile | 🇨🇱",
+"info": "[Streamtp]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "https://streamtp10.com/global2.php?stream=tntsportschile",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
