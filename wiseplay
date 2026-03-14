@@ -117,10 +117,37 @@
 },
 
 {
+"name": "TNT Sports Max 1 | 🇨🇱",
+"info": "[Streamtp]",
+"online": "true",
+"image": "https://i.imgur.com/4kmBG7Z.png",
+"url": "https://streamtp10.com/global1.php?stream=max1",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "TNT Sports Max 2 | 🇨🇱",
+"info": "[Streamtp]",
+"online": "true",
+"image": "https://i.imgur.com/4kmBG7Z.png",
+"url": "https://streamtp10.com/global1.php?stream=max2",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "TNT Sports Max 3 | 🇨🇱",
+"info": "[Streamtp]",
+"online": "true",
+"image": "https://i.imgur.com/4kmBG7Z.png",
+"url": "https://streamtp10.com/global1.php?stream=max3",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
 "name": "TNT Sports Max 4 | 🇨🇱",
 "info": "[Streamtp]",
 "online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
+"image": "https://i.imgur.com/4kmBG7Z.png",
 "url": "https://streamtp10.com/global1.php?stream=max4",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
