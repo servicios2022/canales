@@ -145,6 +145,15 @@
 "isHost": "true"
 },
 
+ {
+"name": "TNT Sports Argentina | 🇦🇷",
+"info": "[Dish]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+"url" : "https://dishtrainer.net/embed/muha9xp8lgyom64",
+"referer" : "https://bolaloca.my/",
+"isHost":"true"
+}, 
 {
 "name": "TNT Sports Argentina | 🇦🇷",
 "info": "[La14HD]",
@@ -526,6 +535,15 @@
 "isHost": "true"
 },
 
+{
+"name": "TUDN USA | 🇺🇸",
+"info": "[Dish]",
+"online": "true",
+"image": "https://i.imgur.com/U6DKWV0.png",
+"url": "https://dishtrainer.net/embed/105qqn",
+"referer" : "https://bolaloca.my/",
+"isHost": "true"   
+},
 {
 "name": "TUDN USA | 🇺🇸",
 "info": "[Streamtp]",
