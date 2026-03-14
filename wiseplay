@@ -645,6 +645,16 @@
 "url": "acestream://d3de78aebe544611a2347f54d5796bd87f16c92d"
 },
 
+
+
+{
+"name": "DAZN La Liga 1080 | 🇪🇸",
+"info": "[CDN]",
+"online": "true",
+"image": "https://i.imgur.com/Mql5aBD.png",
+"url" :  "https://cdnstremgo-s.com/hls/futbol1.m3u8",
+"userAgent" : ""
+},
 {
 "name": "DAZN La Liga 1080 | 🇪🇸",
 "info": "[Acestream b05]",
