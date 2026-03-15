@@ -63,68 +63,6 @@
 
 
 
-{
-  "name": "Sky Liga MX",
-  "url": "https://teledeportes.org/eventos/?r=L3Bydi5waHA/aWQ9c2t5bGlnYQ==",
-  "referer": "https://teledeportes.org/",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-  "name": "Sky Liga MX HD",
-  "url": "https://teledeportes.org/eventos/?r=L3Bydi5waHA/aWQ9c2t5bGlnYQ==",
-  "referer": "https://teledeportes.org/eventos/",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-  "origin": "https://teledeportes.org",
-  "logo": "https://i.imgur.com/skyliga.png"
-},
-{
-  "name": "Sky Liga MX",
-  "url": "https://teledeportes.org/eventos/?r=L3Bydi5waHA/aWQ9c2t5bGlnYQ==",
-    "Referer": "https://teledeportes.org/eventos/",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-    "Origin": "https://teledeportes.org",
-    "Accept": "*/*",
-    "Accept-Language": "es-MX,es;q=0.9",
-    "Accept-Encoding": "gzip, deflate, br",
-    "Connection": "keep-alive",
-    "Sec-Fetch-Dest": "empty",
-    "Sec-Fetch-Mode": "cors",
-    "Sec-Fetch-Site": "same-origin"
-  },
-{
-  "name": "Sky Liga MX",
-  "url": "https://teledeportes.org/prv.php?id=skyliga",
-  "referer": "https://teledeportes.org/eventos/",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-  "origin": "https://teledeportes.org",
-  "logo": "https://i.imgur.com/skyliga.png"
-},
-{
-  "name": "Sky Liga MX HD",
-  "url": "https://teledeportes.org/eventos/?r=L3Bydi5waHA/aWQ9c2t5bGlnYQ==",
-  "type": "m3u8",
-  "referer": "https://teledeportes.org/eventos/",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-    "Referer": "https://teledeportes.org/eventos/",
-    "Origin": "https://teledeportes.org",
-    "Accept": "application/vnd.apple.mpegurl, application/x-mpegurl, */*"
-},
-{
-  "name": "Sky Liga MX",
-  "url": "https://teledeportes.org/eventos/?r=L3Bydi5waHA/aWQ9c2t5bGlnYQ==",
-  "type": "iframe",
-  "referer": "https://teledeportes.org/eventos/",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-  "origin": "https://teledeportes.org",
-  "sandbox": "allow-scripts allow-same-origin allow-popups",
-  "allowfullscreen": true
-},
-
-
-
-
-
-
 
 
 
@@ -146,6 +84,27 @@
 "url": "https://teledeportes.org/eventos/?r=L3Bydi5waHA/aWQ9c2t5bGlnYQ==",
 "embed": "true"
 },
+
+{
+"name": "Az 7 | 🇲🇽",
+"info": "[Tele]",
+"online": "true",
+  "type": "web",
+"image": "https://i.imgur.com/vcv8H63.png",
+"url": "https://teledeportes.org/eventos/?r=L3Bydi5waHA/aWQ9c2t5bGlnYQ==",
+"embed": "true"
+},
+{
+"name": "Az 7 | 🇲🇽",
+"info": "[Tele]",
+"online": "true",
+  "type": "web",
+"image": "https://i.imgur.com/vcv8H63.png",
+  "referer": "https://teledeportes.org",
+"url": "https://teledeportes.org/eventos/?r=L3Bydi5waHA/aWQ9c2t5bGlnYQ==",
+"embed": "true"
+},
+
 
 
 
