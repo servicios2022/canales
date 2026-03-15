@@ -63,45 +63,6 @@
 
 
 
-
-
-{
-  "name": "X1111",
-  "url": "https://liveon3.zip/play.php?id=13",
-  "type": "web",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-  "referer": "https://xuperlive.com/",
-  "group": "DEPORTES"
-}, 
-
-
-{
-  "name": "Xupe2222213",
-  "url": "https://liveon3.zip/play.php?id=13",
-  "type": "iframe",
-  "type": "web",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-  "referer": "https://xuperlive.com/",
-  "origin": "https://xuperlive.com"
-}, 
-{
-  "name": "Xupe33333",
-  "url": "https://liveon3.zip/play.php?id=13",
-  "type": "web",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-  "referer": "https://xuperlive.com/",
-  "origin": "https://xuperlive.com"
-}, 
-
-
-
-
-
-
-
-
-
-
 ]},
 {"name": "DEPORTES",
 "image": "https://static.wixstatic.com/media/603da4_cff0a56da59a43ba88f862dbee0ae230~mv2.gif",
