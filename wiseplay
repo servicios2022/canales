@@ -88,7 +88,7 @@
 "isHost": "true"
 },
 {
-"name": "TNT Sports Premium Chile | 🇨🇱",
+"name": "TNT Sports Premium Chile 720 | 🇨🇱",
 "info": "[ElCanal]",
 "online": "true",
 "image": "https://i.imgur.com/YTaeyss.png",
@@ -177,7 +177,7 @@
 
 
 {
-"name": "ESPN Premium Argentina | 🇦🇷",
+"name": "ESPN Premium Argentina 720 | 🇦🇷",
 "info":"[ElCanal]",
 "online":"true",
 "image": "https://i.imgur.com/5qTHLGy.png",
@@ -185,6 +185,15 @@
   "type": "web",
   "referer": "https://elcanaldeportivo.com/",
   "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "ESPN Premium Argentina 720 | 🇦🇷",
+"info": "[La14HD]",
+"online": "true",
+"image": "https://i.imgur.com/5qTHLGy.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=espnpremium",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
 },
 {
 "name": "ESPN Premium Argentina | 🇦🇷",
@@ -208,15 +217,6 @@
 },
 {
 "name": "ESPN Premium Argentina | 🇦🇷",
-"info": "[La14HD]",
-"online": "true",
-"image": "https://i.imgur.com/5qTHLGy.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=espnpremium",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "ESPN Premium Argentina | 🇦🇷",
 "info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/5qTHLGy.png",
@@ -225,7 +225,16 @@
 "isHost": "true"
 },
 
-
+{
+"name": "TNT Sports Argentina | 🇦🇷",
+"info": "[ElCanal]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+  "url": "https://elcanaldeportivo.com/ver/tntsports.php",
+  "type": "web",
+  "referer": "https://elcanaldeportivo.com/",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
 {
 "name": "TNT Sports Argentina | 🇦🇷",
 "info": "[Bola]",
