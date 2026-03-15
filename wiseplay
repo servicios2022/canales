@@ -1438,29 +1438,6 @@
 },
 {
 "name": "CHV | 🇨🇱",
-"info": "[Online]",
-"online": "true",
-"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://www.chilevision.cl",
-"url": "https://www.chilevision.cl/senal-online",
-"isHost": "true",
-"autoplay": "true",
-"autoStart": "true",
-"playOnLoad": "true"
-},
-{
-"name": "CHV prueba | 🇨🇱",
-"info": "[Online]",
-"online": "true",
-"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
-  "url": "https://www.chilevision.cl/senal-online",
-  "type": "web",
-  "referer": "https://www.chilevision.cl/",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-"name": "CHV | 🇨🇱",
 "info": "[DPS]",
 "online": "true",
 "image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
@@ -1474,6 +1451,19 @@
 "image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
 "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+},
+{
+"name": "CHV | 🇨🇱",
+"info": "[Online]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://www.chilevision.cl",
+"url": "https://www.chilevision.cl/senal-online",
+"isHost": "true",
+"autoplay": "true",
+"autoStart": "true",
+"playOnLoad": "true"
 },
 {
 "name": "CANAL 13 | 🇨🇱",
