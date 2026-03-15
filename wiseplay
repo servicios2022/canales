@@ -232,6 +232,15 @@
 
 {
 "name": "ESPN 2 | 🇦🇷",
+"info": "[Tutv]",
+"online": "true",
+"image": "https://i.imgur.com/jq1s4to.png",
+"url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "ESPN 2 | 🇦🇷",
 "info": "[Bola]",
 "online": "true",
 "image": "https://i.imgur.com/jq1s4to.png",
@@ -269,7 +278,16 @@
 },
 
 {
-"name": "ESPN 3 1080 | 🇦🇷",
+"name": "ESPN 3 | 🇦🇷",
+"info": "[Tutv]",
+"online": "true",
+"image": "https://i.imgur.com/y3VGGV0.png",
+"url": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "ESPN 3 | 🇦🇷",
 "info": "[Bola]",
 "online": "true",
 "image": "https://i.imgur.com/y3VGGV0.png",
@@ -279,7 +297,7 @@
   "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
 {
-"name": "ESPN 3 1080 | 🇦🇷",
+"name": "ESPN 3 | 🇦🇷",
 "info": "[Dish]",
 "online": "true",
 "image": "https://i.imgur.com/y3VGGV0.png",
@@ -288,7 +306,7 @@
 "isHost": "true"
 },
 {
-"name": "ESPN 3 1080 | 🇦🇷",
+"name": "ESPN 3 | 🇦🇷",
 "info": "[La14HD]",
 "online": "true",
 "image": "https://i.imgur.com/y3VGGV0.png",
@@ -297,7 +315,7 @@
 "isHost": "true"
 },
 {
-"name": "ESPN 3 1080 | 🇦🇷",
+"name": "ESPN 3 | 🇦🇷",
 "info": "[Streamtp]",
 "online": "true",
 "image": "https://i.imgur.com/y3VGGV0.png",
@@ -306,7 +324,7 @@
 "isHost": "true"
 },
 {
-"name": "ESPN 3 1080 | 🇦🇷",
+"name": "ESPN 3 | 🇦🇷",
 "info":"[Tele]",
 "image": "https://i.imgur.com/y3VGGV0.png",
 "url": "https://www.telegratishd.com/espn-3-en-vivo.html",
