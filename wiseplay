@@ -79,8 +79,20 @@
   "referer": "https://bolaloca.my",
   "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
-
-
+{
+  "name": "Tespnl",
+  "url": "https://bolaloca.my/player/3/76",
+  "type": "web",
+  "referer": "https://bolaloca.my",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+  "name": "Tetudnl",
+  "url": "https://bolaloca.my/player/3/68",
+  "type": "web",
+  "referer": "https://bolaloca.my",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
 
 
 
