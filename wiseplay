@@ -61,6 +61,10 @@
 },
 
 
+
+
+
+
 {
   "name": "TNT Sports Chile (ccanaldepo)",
   "url": "https://elcanaldeportivo.com/ver/cdfpremium.php",
@@ -102,7 +106,68 @@
   "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
   "logo": "https://i.imgur.com/qVZJd7s.png"
 },
+ {
+        "name": "LaLiga Tv 🇪🇸",
+        "info": "[Daddy]",
+        "online": "true",
+        "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
+        "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "url": "https://tutvlive.xyz/tvtodo/tnt-chile.php",
+        "isHost":"true"
+        },
 
+ {
+        "name": "LaLiga Tv 🇪🇸",
+        "info": "[Daddy]",
+        "online": "true",
+        "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
+  "referer": "https://tutvlive.xyz/",
+        "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "url": "https://tutvlive.xyz/tvtodo/tnt-chile.php",
+        "isHost":"true"
+        },
+ {
+        "name": "LaLiga Tv 🇪🇸",
+        "info": "[Daddy]",
+        "online": "true",
+  "type": "web",
+        "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
+  "referer": "https://tutvlive.xyz/",
+        "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "url": "https://tutvlive.xyz/tvtodo/tnt-chile.php",
+        "isHost":"true"
+        },
+{
+        "name": "LaLiga Tv 🇪🇸",
+        "info": "[Daddy]",
+        "online": "true",
+  "type": "web",
+        "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
+  "referer": "https://tutvlive.xyz/",
+        "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "url": "https://tutvlive.xyz/tvtodo/tnt-chile.php"
+
+        },
+
+{
+        "name": "LaLiga Tv 🇪🇸",
+        "info": "[Daddy]",
+        "online": "true",
+  "type": "web",
+        "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
+        "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "url": "https://tutvlive.xyz/tvtodo/tnt-chile.php",
+        "isHost":"true"
+        },
+{
+        "name": "LaL2346634463🇪🇸",
+        "info": "[Daddy]",
+        "online": "true",
+        "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
+        "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "url": "https://tutvlive.xyz/tvtodo/tnt-chile.php",
+        "isHost":"true"
+        },
 
 {
   "name": "TNT Sports Chile (642)",
@@ -148,6 +213,15 @@
   "referer": "https://elcanaldeportivo.com/",
   "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
+
+
+
+
+
+
+
+
+
 
 
 
