@@ -109,26 +109,20 @@
 },
 
 {
-  "name": "111 (CDF Premium)",
+  "name": "16666 (tudn)",
   "url": "https://l2l2.link/ch?id=30",
   "type": "web",
-  "referer": "https://l2l2.link/",
+  "referer": "https://bolaloca.my",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+  "name": "555 (tudn)",
+  "url": "https://l2l2.link/ch?id=30",
+  "type": "web",
+  "referer": "https://elcanaldeportivo.com/",
   "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
 
-{
-  "name": "1st Streams - C435743",
-  "url": "https://1ststreams.shop/stream/stream-642.php",
-  "referer": "https://1ststreams.shop/",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-  "name": "222 (CD07",
-  "url": "https://1ststreams.shop/stream/stream-642.php",
-  "type": "web",
-  "referer": "https://1ststreams.shop/",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
 
 
 
