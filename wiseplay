@@ -75,30 +75,33 @@
   "referer": "https://bolaloca.my",
   "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
+
+
 {
-  "name": "TNT Sports Chile (tutvo)",
-  "url": "https://tutvlive.xyz/tvtodo/tnt-chile.php",
-  "type": "web",
-  "referer": "https://bolaloca.my",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-  "name": "TNT Sports Chile (tutvo)",
-  "url": "https://tutvlive.xyz/tvtodo/tnt-chile.php",
-  "type": "web",
-  "referer": "https://elcanaldeportivo.com/",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-  "name": "TNT Sports Chile (tutvo)",
+  "name": "TNT Sports Chile (t222)",
   "url": "https://tutvlive.xyz/tvtodo/tnt-chile.php",
   "type": "web",
   "referer": "https://tutvlive.xyz",
   "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
-
-
-
+{
+  "name": "TNT Sports Chile (t333)",
+  "url": "https://tutvlive.xyz/tvtodo/tnt-chile.php",
+  "referer": "https://tutvlive.xyz",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+  "name": "TNT Sports Chile (t333)",
+  "url": "https://tutvlive.xyz/tvtodo/tnt-chile.php",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+  "name": "TNT Sports Chile",
+  "url": "https://tutvlive.xyz/tvtodo/tnt-chile.php",
+  "referer": "https://tutvlive.xyz/",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+  "logo": "https://i.imgur.com/qVZJd7s.png"
+},
 
 
 {
