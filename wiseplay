@@ -66,12 +66,12 @@
 {
   "name": "Sky Liga MX",
   "logo": "https://i.imgur.com/skyliga.png",
+  "origin": "https://teledeportes.org",
   "url": "https://teledeportes.org/prv.php?id=skyliga",
   "referer": "https://teledeportes.org/",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-  "origin": "https://teledeportes.org"
-
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
+
 {
 "name": "TNT Sports Premium Chile 720 | 🇨🇱",
 "info": "[ElCanal]",
