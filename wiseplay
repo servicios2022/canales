@@ -172,107 +172,6 @@
 "isHost": "true"
 },
 
-
-
-
-
-{
-"name": "ESPN Premium Argentina 720 | 🇦🇷",
-"info":"[ElCanal]",
-"online":"true",
-"image": "https://i.imgur.com/5qTHLGy.png",
-  "url": "https://elcanaldeportivo.com/ver/espnpremium.php",
-  "type": "web",
-  "referer": "https://elcanaldeportivo.com/",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-"name": "ESPN Premium Argentina 720 | 🇦🇷",
-"info": "[La14HD]",
-"online": "true",
-"image": "https://i.imgur.com/5qTHLGy.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=espnpremium",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "ESPN Premium Argentina | 🇦🇷",
-"info":"[Bola]",
-"online":"true",
-"image": "https://i.imgur.com/5qTHLGy.png",
-  "url": "https://bolaloca.my/player/3/76",
-  "type": "web",
-  "referer": "https://bolaloca.my",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-"name": "ESPN Premium Argentina | 🇦🇷",
-"info":"[Tele]",
-"online":"true",
-"image": "https://i.imgur.com/5qTHLGy.png",
-"url": "https://www.telegratishd.com/espn-premium-en-vivo.html",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer" : "",
-"isHost":"true"
-},
-{
-"name": "ESPN Premium Argentina | 🇦🇷",
-"info": "[Streamtp]",
-"online": "true",
-"image": "https://i.imgur.com/5qTHLGy.png",
-"url": "https://streamtp10.com/global2.php?stream=espnpremium",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-
-{
-"name": "TNT Sports Argentina | 🇦🇷",
-"info": "[ElCanal]",
-"online": "true",
-"image": "https://i.imgur.com/ItEH0oC.png",
-  "url": "https://elcanaldeportivo.com/ver/tntsports.php",
-  "type": "web",
-  "referer": "https://elcanaldeportivo.com/",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-"name": "TNT Sports Argentina | 🇦🇷",
-"info": "[Bola]",
-"online": "true",
-"image": "https://i.imgur.com/ItEH0oC.png",
-  "url": "https://bolaloca.my/player/3/75",
-  "type": "web",
-  "referer": "https://bolaloca.my",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-"name": "TNT Sports Argentina | 🇦🇷",
-"info": "[Dish]",
-"online": "true",
-"image": "https://i.imgur.com/ItEH0oC.png",
-"url" : "https://dishtrainer.net/embed/muha9xp8lgyom64",
-"referer" : "https://bolaloca.my/",
-"isHost":"true"
-}, 
-{
-"name": "TNT Sports Argentina | 🇦🇷",
-"info": "[La14HD]",
-"online": "true",
-"image": "https://i.imgur.com/ItEH0oC.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=tntsports",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "TNT Sports Argentina | 🇦🇷",
-"info": "[Streamtp]",
-"online": "true",
-"image": "https://i.imgur.com/ItEH0oC.png",
-"url": "https://streamtp10.com/global2.php?stream=tntsports",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-
 {
 "name": "ESPN Argentina | 🇦🇷",
 "info": "[Bola]",
@@ -478,6 +377,104 @@
 "online": "true",
 "image": "https://i.imgur.com/YrVUJmp.png",
 "url": "https://streamtp10.com/global2.php?stream=espn7",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+
+
+{
+"name": "ESPN Premium Argentina 720 | 🇦🇷",
+"info":"[ElCanal]",
+"online":"true",
+"image": "https://i.imgur.com/5qTHLGy.png",
+  "url": "https://elcanaldeportivo.com/ver/espnpremium.php",
+  "type": "web",
+  "referer": "https://elcanaldeportivo.com/",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "ESPN Premium Argentina 720 | 🇦🇷",
+"info": "[La14HD]",
+"online": "true",
+"image": "https://i.imgur.com/5qTHLGy.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=espnpremium",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "ESPN Premium Argentina | 🇦🇷",
+"info":"[Bola]",
+"online":"true",
+"image": "https://i.imgur.com/5qTHLGy.png",
+  "url": "https://bolaloca.my/player/3/76",
+  "type": "web",
+  "referer": "https://bolaloca.my",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "ESPN Premium Argentina | 🇦🇷",
+"info":"[Tele]",
+"online":"true",
+"image": "https://i.imgur.com/5qTHLGy.png",
+"url": "https://www.telegratishd.com/espn-premium-en-vivo.html",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "",
+"isHost":"true"
+},
+{
+"name": "ESPN Premium Argentina | 🇦🇷",
+"info": "[Streamtp]",
+"online": "true",
+"image": "https://i.imgur.com/5qTHLGy.png",
+"url": "https://streamtp10.com/global2.php?stream=espnpremium",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+
+{
+"name": "TNT Sports Argentina | 🇦🇷",
+"info": "[ElCanal]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+  "url": "https://elcanaldeportivo.com/ver/tntsports.php",
+  "type": "web",
+  "referer": "https://elcanaldeportivo.com/",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "TNT Sports Argentina | 🇦🇷",
+"info": "[Bola]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+  "url": "https://bolaloca.my/player/3/75",
+  "type": "web",
+  "referer": "https://bolaloca.my",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "TNT Sports Argentina | 🇦🇷",
+"info": "[Dish]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+"url" : "https://dishtrainer.net/embed/muha9xp8lgyom64",
+"referer" : "https://bolaloca.my/",
+"isHost":"true"
+}, 
+{
+"name": "TNT Sports Argentina | 🇦🇷",
+"info": "[La14HD]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=tntsports",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "TNT Sports Argentina | 🇦🇷",
+"info": "[Streamtp]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+"url": "https://streamtp10.com/global2.php?stream=tntsports",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
