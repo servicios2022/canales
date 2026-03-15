@@ -93,8 +93,20 @@
   "referer": "https://bolaloca.my",
   "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
-
-
+{
+  "name": "tntl",
+  "url": "https://bolaloca.my/player/3/75",
+  "type": "web",
+  "referer": "https://bolaloca.my",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+  "name": "tzaping",
+  "url": "https://bolaloca.my/player/3/86",
+  "type": "web",
+  "referer": "https://bolaloca.my",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
 
 
 
