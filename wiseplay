@@ -68,8 +68,6 @@
   "referer": "https://elcanaldeportivo.com/",
   "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
-
-
 {
   "name": "TNT Sports Chile (CDF Premium)",
   "url": "https://bolaloca.my/player/3/83",
@@ -77,6 +75,8 @@
   "referer": "https://bolaloca.my",
   "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
+
+
 
 {
   "name": "TNT Sports Chile (CDF Premium)",
@@ -108,7 +108,13 @@
   "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
 
-
+{
+  "name": "111 (CDF Premium)",
+  "url": "https://l2l2.link/ch?id=30",
+  "type": "web",
+  "referer": "https://l2l2.link/",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
 
 
 
