@@ -784,6 +784,45 @@
 "isHost": "true"
 },
 
+
+
+{
+"name": "M+ La Liga | 🇪🇸",
+"info": "[Dish]",
+"online": "true",
+"image": "https://i.imgur.com/5lNTjn0.png",
+"url" :  "https://dishtrainer.net/embed/8xjdm9xmx8ys",
+"referer" : "https://bolaloca.my/",
+"isHost":"true"
+},
+{
+"name": "M+ La Liga | 🇪🇸",
+"info": "[Articulate]",
+"online": "true",
+"image": "https://i.imgur.com/5lNTjn0.png",
+"url" :  "https://articulatebreak.net/embed/w5ujxpxue",
+"referer" : "https://bolaloca.my/",
+"isHost":"true"
+},
+{
+"name": "M+ La Liga | 🇪🇸",
+"info": "[Tone]",
+"online": "true",
+"image": "https://i.imgur.com/5lNTjn0.png",
+"url" :  "https://toneassertive.net/embed/orfaxhrsmbdogv?color=45A5F4",
+"referer" : "https://hardtv.site/",
+"isHost" : "true"
+},
+{
+"name": "M+ La Liga | 🇪🇸",
+"info": "[Obs]",
+"online": "true",
+"image": "https://i.imgur.com/5lNTjn0.png",
+"url" :  "https://obstream.pro/sabri.php?stream=sabrouchmlaliga",
+"referer" : "https://welivesports.shop/",
+"isHost":"true"  
+},
+
 {
 "name": "M+ La Liga UHD | 🇪🇸",
 "info": "[Acestream f1e]",
