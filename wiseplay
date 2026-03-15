@@ -61,6 +61,13 @@
 },
 
 
+{
+  "name": "TNT Sports Chile (CDF Premium)",
+  "url": "https://elcanaldeportivo.com/ver/cdfpremium.php",
+  "type": "web",
+  "referer": "https://elcanaldeportivo.com/",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
 
 
 
@@ -149,6 +156,15 @@
 "online": "true",
 "image": "https://i.imgur.com/4kmBG7Z.png",
 "url": "https://streamtp10.com/global1.php?stream=max4",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "TNT Sports Max 5 | 🇨🇱",
+"info": "[Streamtp]",
+"online": "true",
+"image": "https://i.imgur.com/4kmBG7Z.png",
+"url": "https://streamtp10.com/global1.php?stream=max5",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
