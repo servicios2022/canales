@@ -66,37 +66,34 @@
 
 
 {
-  "name": "X654658568856546",
+  "name": "X1111",
   "url": "https://liveon3.zip/play.php?id=13",
   "type": "web",
   "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
   "referer": "https://xuperlive.com/",
   "group": "DEPORTES"
 }, 
+
+
 {
-  "name": "Xuper Live Canal 13",
-  "url": "https://liveon3.zip/play.php?id=13",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-  "referer": "https://xuperlive.com/",
-  "origin": "https://xuperlive.com",
-    "Accept": "*/*",
-    "Accept-Language": "es-ES,es;q=0.9",
-    "Connection": "keep-alive"
-  }, {
-  "name": "Xuper Live Canal 13",
-  "url": "https://liveon3.zip/play.php?id=13",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-  "referer": "https://liveon3.zip/",
-  "origin": "https://xuperlive.com",
-    "Referer": "https://xuperlive.com/"
-  },{
-  "name": "Xuper Live Canal 13",
+  "name": "Xupe2222213",
   "url": "https://liveon3.zip/play.php?id=13",
   "type": "iframe",
+  "type": "web",
   "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
   "referer": "https://xuperlive.com/",
   "origin": "https://xuperlive.com"
 }, 
+{
+  "name": "Xupe33333",
+  "url": "https://liveon3.zip/play.php?id=13",
+  "type": "web",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+  "referer": "https://xuperlive.com/",
+  "origin": "https://xuperlive.com"
+}, 
+
+
 {
   "name": "Tripple Stream 642",
   "url": "https://tripplestream.shop/myplayer/stream-642.php",
