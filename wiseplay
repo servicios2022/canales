@@ -64,24 +64,23 @@
 
 
 {
-  "name": "Sky Liga MX",
+  "name": "Sky Liga M11111X",
   "url": "https://teledeportes.org/prv.php?id=skyliga",
   "referer": "https://teledeportes.org/",
   "logo": "https://i.imgur.com/skyliga.png"
 }, 
 {
-  "name": "Sky Liga MX",
+  "name": "Sky Liga M222222X",
   "url": "https://teledeportes.org/prv.php?id=skyliga",
   "referer": "https://teledeportes.org/",
   "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
   "origin": "https://teledeportes.org",
-  "logo": "https://i.imgur.com/skyliga.png",
-  "group": "DEPORTES MÉXICO"
+  "logo": "https://i.imgur.com/skyliga.png"
+
 }, 
 {
-  "name": "Sky Liga MX HD",
+  "name": "Sky Liga MX333333 HD",
   "url": "https://teledeportes.org/prv.php?id=skyliga",
-  "headers": {
     "Referer": "https://teledeportes.org/",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "Origin": "https://teledeportes.org",
@@ -90,9 +89,8 @@
     "Connection": "keep-alive"
   },
  {
-  "name": "Sky Liga MX",
+  "name": "Sky Liga4444444MX",
   "url": "https://teledeportes.org/prv.php?id=skyliga",
-  "headers": {
     "Referer": "https://teledeportes.org/",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
     "Cookie": "session=active; token=abc123",
@@ -100,12 +98,11 @@
     "X-Requested-With": "XMLHttpRequest"
   },
 {
-  "name": "Sky Liga MX",
+  "name": "Sky55555MX",
   "url": "https://teledeportes.org/prv.php?id=skyliga",
   "referer": "https://teledeportes.org/",
   "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
   "origin": "https://teledeportes.org",
-  "headers": {
     "Accept": "application/vnd.apple.mpegurl, application/x-mpegurl, */*",
     "Accept-Encoding": "gzip, deflate, br",
     "Accept-Language": "es-419,es;q=0.9",
@@ -114,7 +111,7 @@
     "Sec-Fetch-Site": "cross-site"
   },
 {
-  "name": "Sky Liga MX",
+  "name": "Sky L6666666a MX",
   "url": "https://teledeportes.org/prv.php?id=skyliga",
   "type": "iframe",
   "referer": "https://teledeportes.org/",
@@ -123,7 +120,7 @@
   "allowfullscreen": true
 }, 
   {
-    "name": "Sky Liga MX",
+    "name": "Sky777777a MX",
     "url": "https://teledeportes.org/prv.php?id=skyliga",
     "referer": "https://teledeportes.org/",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
