@@ -73,6 +73,26 @@
   "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
 {
+  "name": "Tespn pre (ccanaldepo)",
+  "url": "https://elcanaldeportivo.com/ver/espnpremium.php",
+  "type": "web",
+  "referer": "https://elcanaldeportivo.com/",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+  "name": "Tudn (ccanaldepo)",
+  "url": "https://elcanaldeportivo.com/ver/tudn.php",
+  "type": "web",
+  "referer": "https://elcanaldeportivo.com/",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+
+
+
+
+
+
+{
   "name": "TNT Sports Chile (lollo)",
   "url": "https://bolaloca.my/player/3/83",
   "type": "web",
