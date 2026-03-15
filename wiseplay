@@ -63,75 +63,6 @@
 
 
 
-
-
-{
-  "name": "TNT Sports Chile (ccanaldepo)",
-  "url": "https://elcanaldeportivo.com/ver/cdfpremium.php",
-  "type": "web",
-  "referer": "https://elcanaldeportivo.com/",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-  "name": "Tespn pre (ccanaldepo)",
-  "url": "https://elcanaldeportivo.com/ver/espnpremium.php",
-  "type": "web",
-  "referer": "https://elcanaldeportivo.com/",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-  "name": "Tudn (ccanaldepo)",
-  "url": "https://elcanaldeportivo.com/ver/tudn.php",
-  "type": "web",
-  "referer": "https://elcanaldeportivo.com/",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-
-
-
-
-
-
-{
-  "name": "TNT Sports Chile (lollo)",
-  "url": "https://bolaloca.my/player/3/83",
-  "type": "web",
-  "referer": "https://bolaloca.my",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-  "name": "Tespnl",
-  "url": "https://bolaloca.my/player/3/76",
-  "type": "web",
-  "referer": "https://bolaloca.my",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-  "name": "Tetudnl",
-  "url": "https://bolaloca.my/player/3/68",
-  "type": "web",
-  "referer": "https://bolaloca.my",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-  "name": "tntl",
-  "url": "https://bolaloca.my/player/3/75",
-  "type": "web",
-  "referer": "https://bolaloca.my",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-
-
-
-
-
-
-
-
-
-
-
-
 ]},
 {"name": "DEPORTES",
 "image": "https://static.wixstatic.com/media/603da4_cff0a56da59a43ba88f862dbee0ae230~mv2.gif",
@@ -139,7 +70,7 @@
 
 
 {
-"name": "TNT Sports Premium Chile | 🇨🇱",
+"name": "TNT Sports Premium Chile 1080 | 🇨🇱",
 "info": "[TutvHD]",
 "online": "true",
 "image": "https://i.imgur.com/YTaeyss.png",
@@ -148,13 +79,33 @@
 "isHost": "true"
 },
 {
-"name": "TNT Sports Premium Chile | 🇨🇱",
+"name": "TNT Sports Premium Chile 1080 | 🇨🇱",
 "info": "[La14HD]",
 "online": "true",
 "image": "https://i.imgur.com/YTaeyss.png",
 "url": "https://la14hd.com/vivo/canales.php?stream=tntsportschile",
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
+},
+{
+"name": "TNT Sports Premium Chile | 🇨🇱",
+"info": "[ElCanal]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+  "url": "https://elcanaldeportivo.com/ver/cdfpremium.php",
+  "type": "web",
+  "referer": "https://elcanaldeportivo.com/",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "TNT Sports Premium Chile | 🇨🇱",
+"info": "[Bola]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+  "url": "https://bolaloca.my/player/3/83",
+  "type": "web",
+  "referer": "https://bolaloca.my",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
 {
 "name": "TNT Sports Premium Chile | 🇨🇱",
@@ -225,7 +176,26 @@
 
 
 
-
+{
+"name": "ESPN Premium Argentina | 🇦🇷",
+"info":"[ElCanal]",
+"online":"true",
+"image": "https://i.imgur.com/5qTHLGy.png",
+  "url": "https://elcanaldeportivo.com/ver/espnpremium.php",
+  "type": "web",
+  "referer": "https://elcanaldeportivo.com/",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "ESPN Premium Argentina | 🇦🇷",
+"info":"[Bola]",
+"online":"true",
+"image": "https://i.imgur.com/5qTHLGy.png",
+  "url": "https://bolaloca.my/player/3/76",
+  "type": "web",
+  "referer": "https://bolaloca.my",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
 {
 "name": "ESPN Premium Argentina | 🇦🇷",
 "info":"[Tele]",
@@ -255,6 +225,17 @@
 "isHost": "true"
 },
 
+
+{
+"name": "TNT Sports Argentina | 🇦🇷",
+"info": "[Bola]",
+"online": "true",
+"image": "https://i.imgur.com/ItEH0oC.png",
+  "url": "https://bolaloca.my/player/3/75",
+  "type": "web",
+  "referer": "https://bolaloca.my",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
 {
 "name": "TNT Sports Argentina | 🇦🇷",
 "info": "[Dish]",
@@ -645,6 +626,26 @@
 "isHost": "true"
 },
 
+{
+"name": "TUDN USA | 🇺🇸",
+"info": "[ElCanal]",
+"online": "true",
+"image": "https://i.imgur.com/U6DKWV0.png",
+  "url": "https://elcanaldeportivo.com/ver/tudn.php",
+  "type": "web",
+  "referer": "https://elcanaldeportivo.com/",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "TUDN USA | 🇺🇸",
+"info": "[Bola]",
+"online": "true",
+"image": "https://i.imgur.com/U6DKWV0.png",
+  "url": "https://bolaloca.my/player/3/68",
+  "type": "web",
+  "referer": "https://bolaloca.my",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
 {
 "name": "TUDN USA | 🇺🇸",
 "info": "[Dish]",
