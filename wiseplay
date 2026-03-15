@@ -70,9 +70,104 @@
         "Referer": "https://teledeportes.org/"
       },
 
-
-
-
+{
+  "name": "Fox Sports Argentina HD",
+  "url": "https://cors-proxy.wangzhishi.net/https://cdn02.gigared.com.ar/live/eds/Fox_Sports/sa_live_dash/Fox_Sports.mpd",
+  "type": "dash",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+    "Accept": "*/*",
+    "Accept-Language": "es-AR,es;q=0.9",
+    "Cache-Control": "no-cache",
+    "Connection": "keep-alive",
+  "referrer_policy": "no-referrer",
+  "logo": "https://i.imgur.com/foxsports.png",
+  "group": "DEPORTES ARGENTINA"
+}, 
+{
+  "name": "Fox Sports Argentina HD",
+  "url": "https://cors-proxy.wangzhishi.net/https://cdn02.gigared.com.ar/live/eds/Fox_Sports/sa_live_dash/Fox_Sports.mpd",
+  "type": "dash",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+    "Accept": "*/*",
+    "Accept-Encoding": "gzip, deflate, br, zstd",
+    "Accept-Language": "es-AR,es;q=0.9,en;q=0.8",
+    "Cache-Control": "no-cache",
+    "Connection": "keep-alive",
+    "Pragma": "no-cache",
+  "logo": "https://i.imgur.com/foxsports.png"
+},
+{
+  "name": "Fox Sports Argentina HD",
+  "url": "https://cdn02.gigared.com.ar/live/eds/Fox_Sports/sa_live_dash/Fox_Sports.mpd",
+  "type": "dash",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+  "headers": {
+    "Accept": "*/*",
+    "Accept-Language": "es-AR,es;q=0.9",
+    "Cache-Control": "no-cache",
+  "logo": "https://i.imgur.com/foxsports.png"
+},
+{
+  "name": "Fox Sports Argentina HD",
+  "url": "https://cors-proxy.wangzhishi.net/https://cdn02.gigared.com.ar/live/eds/Fox_Sports/sa_live_hls_fta/Fox_Sports.m3u8",
+  "type": "hls",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+  "headers": {
+    "Accept": "application/vnd.apple.mpegurl,application/x-mpegurl,*/*",
+    "Accept-Language": "es-AR,es;q=0.9",
+    "Cache-Control": "no-cache",
+  "logo": "https://i.imgur.com/foxsports.png"
+},
+{
+  "name": "Fox Sports Argentina HD",
+  "url": "https://cors-proxy.wangzhishi.net/https://cdn02.gigared.com.ar/live/eds/Fox_Sports/sa_live_dash/Fox_Sports.mpd",
+  "type": "application/dash+xml",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+    "Accept": "*/*",
+    "Accept-Encoding": "gzip, deflate, br, zstd",
+    "Accept-Language": "es-AR,es;q=0.9,en;q=0.8",
+    "Cache-Control": "no-cache",
+    "Connection": "keep-alive",
+    "DNT": "1",
+    "Pragma": "no-cache",
+    "Sec-Ch-Ua": "\"Chromium\";v=\"146\", \"Not.A/Brand\";v=\"24\", \"Google Chrome\";v=\"146\"",
+    "Sec-Ch-Ua-Mobile": "?0",
+    "Sec-Ch-Ua-Platform": "\"Windows\"",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "cross-site",
+    "http-reconnect": true,
+    "network-caching": 3000,
+    "live-caching": 1500
+  },
+{
+  "name": "Fox Sports Argentina HD",
+  "url": "https://cdn02.gigared.com.ar/live/eds/Fox_Sports/sa_live_dash/Fox_Sports.mpd",
+  "type": "dash",
+  "proxy": "https://cors-proxy.wangzhishi.net/",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+  "headers": {
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+  "logo": "https://i.imgur.com/foxsports.png"
+},
+{
+  "name": "Fox Sports Argentina HD",
+  "stream": {
+    "url": "https://cors-proxy.wangzhishi.net/https://cdn02.gigared.com.ar/live/eds/Fox_Sports/sa_live_dash/Fox_Sports.mpd",
+    "type": "dash",
+    "protocol": "https",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Cache-Control": "no-cache",
+      "Connection": "keep-alive",
+    "referrer_policy": "no-referrer",
+    "logo": "https://i.imgur.com/foxsports.png",
+    "group": "DEPORTES ARGENTINA",
+    "country": "AR",
+    "language": "es"
+  }
 
 
 
