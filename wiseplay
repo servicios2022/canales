@@ -272,6 +272,17 @@
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
+
+{
+"name": "ESPN Argentina | 🇦🇷",
+"info": "[Bola]",
+"online": "true",
+"image": "https://i.imgur.com/MFhpD4D.png",
+  "url": "https://bolaloca.my/player/3/87",
+  "type": "web",
+  "referer": "https://bolaloca.my",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
 {
 "name": "ESPN Argentina | 🇦🇷",
 "info": "[Dish]",
@@ -313,6 +324,16 @@
 
 {
 "name": "ESPN 2 | 🇦🇷",
+"info": "[Bola]",
+"online": "true",
+"image": "https://i.imgur.com/jq1s4to.png",
+  "url": "https://bolaloca.my/player/3/88",
+  "type": "web",
+  "referer": "https://bolaloca.my",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "ESPN 2 | 🇦🇷",
 "info": "[Dish]",
 "online": "true",
 "image": "https://i.imgur.com/jq1s4to.png",
@@ -339,6 +360,16 @@
 "isHost": "true"
 },
 
+{
+"name": "ESPN 3 1080 | 🇦🇷",
+"info": "[Bola]",
+"online": "true",
+"image": "https://i.imgur.com/y3VGGV0.png",
+  "url": "https://bolaloca.my/player/3/89",
+  "type": "web",
+  "referer": "https://bolaloca.my",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
 {
 "name": "ESPN 3 1080 | 🇦🇷",
 "info": "[Dish]",
