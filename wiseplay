@@ -61,55 +61,6 @@
 },
 
 
-{
-      "name": "Fox Sports (DASH)",
-      "url": "https://cdn02.gigared.com.ar/live/eds/Fox_Sports/sa_live_dash/Fox_Sports.mpd",
-      "isDASH": "true",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-        "Origin": "https://teledeportes.org",
-        "Referer": "https://teledeportes.org/"
-      },
-{
-      "name": "Fox Sports (DASH)",
-      "url": "https://cors-proxy.wangzhishi.net/https://cdn02.gigared.com.ar/live/eds/Fox_Sports/sa_live_dash/Fox_Sports.mpd",
-      "isDASH": "true",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-        "Origin": "https://teledeportes.org"
-      },
-{
-  "name": "Fox Sports Argentina HD (DASH)",
-  "url": "https://cdn02.gigared.com.ar/live/eds/Fox_Sports/sa_live_dash/Fox_Sports.mpd",
-  "isDASH": true,
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-  "origin": "https://teledeportes.org",
-  "referer": "https://teledeportes.org/"
-},
-{
-  "name": "Fox Sports Argentina HD (DASH Proxy)",
-  "url": "https://cors-proxy.wangzhishi.net/https://cdn02.gigared.com.ar/live/eds/Fox_Sports/sa_live_dash/Fox_Sports.mpd",
-  "isDASH": true,
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-  "origin": "https://teledeportes.org"
-},{
-  "name": "Fox Sports Argentina HD",
-  "url": "https://cdn02.gigared.com.ar/live/eds/Fox_Sports/sa_live_hls_fta/Fox_Sports.m3u8",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-  "referer": "https://www.gigared.com.ar/",
-  "origin": "https://www.gigared.com.ar"
-}, {
-  "name": "Fox Sports Argentina HD",
-  "url": "https://cors-proxy.wangzhishi.net/https://cdn02.gigared.com.ar/live/eds/Fox_Sports/sa_live_hls_fta/Fox_Sports.m3u8",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
-}, {
-  "name": "Fox Sports Argentina HD",
-  "url": "https://cdn02.gigared.com.ar/live/eds/Fox_Sports/sa_live_hls_fta/Fox_Sports.m3u8",
-  "type": "hls",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-  "referer": "https://www.gigared.com.ar/",
-  "origin": "https://www.gigared.com.ar",
-  "logo": "https://i.imgur.com/foxsports.png",
-  "group": "DEPORTES ARGENTINA"
-}, 
 
 
 
