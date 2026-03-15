@@ -1450,6 +1450,16 @@
 "playOnLoad": "true"
 },
 {
+"name": "CHV prueba | 🇨🇱",
+"info": "[Online]",
+"online": "true",
+"image": "https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png",
+  "url": "https://www.chilevision.cl/senal-online",
+  "type": "web",
+  "referer": "https://www.chilevision.cl/",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
 "name": "CHV | 🇨🇱",
 "info": "[DPS]",
 "online": "true",
