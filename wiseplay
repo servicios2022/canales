@@ -106,7 +106,44 @@
 },
 
 
+{
+"name": "TNT Sports Premium Chile | 🇨🇱",
+"info": "[Bola]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+  "url": "https://teledeportes.org/eventos/?r=L3Bydi5waHA/aWQ9c2t5bGlnYQ==",
+  "type": "web",
+  "referer": "https://teledeportes.org",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "Az 7 | 🇲🇽",
+"info": "[Tele]",
+"online": "true",
+"image": "https://i.imgur.com/vcv8H63.png",
+"url": "https://teledeportes.org/eventos/?r=L3Bydi5waHA/aWQ9c2t5bGlnYQ==",
+"isHost": "true"
+},
 
+{
+"name": "Az 7 | 🇲🇽",
+"info": "[Tele]",
+"online": "true",
+  "type": "web",
+"image": "https://i.imgur.com/vcv8H63.png",
+"url": "https://teledeportes.org/eventos/?r=L3Bydi5waHA/aWQ9c2t5bGlnYQ==",
+"isHost": "true"
+},
+{
+"name": "Az 7 | 🇲🇽",
+"info": "[Tele]",
+"online": "true",
+  "type": "web",
+"image": "https://i.imgur.com/vcv8H63.png",
+  "referer": "https://teledeportes.org",
+"url": "https://teledeportes.org/eventos/?r=L3Bydi5waHA/aWQ9c2t5bGlnYQ==",
+"isHost": "true"
+},
 
 
 
