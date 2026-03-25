@@ -99,7 +99,15 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
     "group": "DEPORTES"
   },
-
+{
+  "name": "Stream 642 (Directo)",
+  "image": "https://img.freepik.com/vector-premium/balon-futbol-aislado_24911-39655.jpg",
+  "url": "https://soccermlbstreams.shop/tv/stream-642.php",
+  "referer": "https://soccermlbstreams.shop/",
+  "isWeb": true,
+  "embed": true,
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+}
 
 
 
