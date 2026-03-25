@@ -62,6 +62,43 @@
 
 
 
+[
+  {
+    "name": "Canal 642 - Directo (Embed)",
+    "image": "https://i.imgur.com/7bKQZ3X.png",
+    "url": "https://1ststreams.shop/stream/stream-642.php",
+    "embed": true
+  },
+  {
+    "name": "Canal 642 - Web + Referer",
+    "image": "https://i.imgur.com/7bKQZ3X.png",
+    "url": "https://1ststreams.shop/stream/stream-642.php",
+    "referer": "https://1ststreams.shop/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0 Safari/537.36"
+  },
+  {
+    "name": "Canal 642 - Mobile UA",
+    "image": "https://i.imgur.com/7bKQZ3X.png",
+    "url": "https://1ststreams.shop/stream/stream-642.php",
+    "embed": true,
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 Chrome/120.0 Mobile Safari/537.36"
+  },
+  {
+    "name": "Canal 642 - Host Mode",
+    "image": "https://i.imgur.com/7bKQZ3X.png",
+    "url": "https://1ststreams.shop/stream/stream-642.php",
+    "isHost": true
+  },
+  {
+    "name": "Canal 642 - Referer Alternativo",
+    "image": "https://i.imgur.com/7bKQZ3X.png",
+    "url": "https://1ststreams.shop/stream/stream-642.php",
+    "referer": "https://google.com/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/118.0 Safari/537.36"
+  },
+
+
+
 
 
 ]},
