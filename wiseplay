@@ -64,47 +64,41 @@
 
 
 
-
-
-
-{
-"name": "TNT Sports Premium Chile | 🇨🇱",
-"info": "[ElCanal]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://soccermlbstreams.shop/tv/stream-642.php",
-"type": "web",
-"referer": "https://soccermlbstreams.shop",
-"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-"name": "TNT Sports Premium Chile | 🇨🇱",
-"info": "[ElCanal]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://elcanaldeportivo.com/ver/cdfpremium.php",
-"type": "web",
-"referer": "https://elcanaldeportivo.com/",
-"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-"name": "TNT Sports Max 3 | 🇨🇱",
-"info": "[Streamtp]",
-"online": "true",
-"image": "https://i.imgur.com/4kmBG7Z.png",
-"url": "https://markystreams.site/roja54/642.php",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "TNT Sports Max 3 | 🇨🇱",
-"info": "[Streamtp]",
-"online": "true",
-"image": "https://i.imgur.com/4kmBG7Z.png",
-"url": "https://soccermlbstreams.shop/tv/stream-642.php",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
+  {
+    "name": "Soccer MLB Streams 641",
+    "url": "https://soccermlbstreams.shop/tv/stream-641.php",
+    "referer": "https://soccermlbstreams.shop/",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+    "group": "DEPORTES"
+  },
+  {
+    "name": "Soccer MLB Streams 642",
+    "url": "https://soccermlbstreams.shop/tv/stream-642.php",
+    "referer": "https://soccermlbstreams.shop/",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+    "group": "DEPORTES"
+  },
+  {
+    "name": "Soccer MLB Streams 643",
+    "url": "https://soccermlbstreams.shop/tv/stream-643.php",
+    "referer": "https://soccermlbstreams.shop/",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+    "group": "DEPORTES"
+  },
+  {
+    "name": "Soccer MLB Streams 644",
+    "url": "https://soccermlbstreams.shop/tv/stream-644.php",
+    "referer": "https://soccermlbstreams.shop/",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+    "group": "DEPORTES"
+  },
+  {
+    "name": "Soccer MLB Streams 645",
+    "url": "https://soccermlbstreams.shop/tv/stream-645.php",
+    "referer": "https://soccermlbstreams.shop/",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+    "group": "DEPORTES"
+  },
 
 
 
