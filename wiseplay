@@ -65,14 +65,14 @@
 
 
   {
-    "name": "Stream 642 [Directo PHP]",
+    "name": "Stream 642 [Directo PHP",
     "image": "https://1ststreams.shop/favicon.ico",
     "url": "https://1ststreams.shop/stream/stream-642.php",
       "Referer": "https://1ststreams.shop/",
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122.0.0.0 Safari/537.36"
   },
   {
-    "name": "Stream 642 [M3U8 directo]",
+    "name": "Stream 642 [M3U8 directo",
     "image": "https://1ststreams.shop/favicon.ico",
     "url": "https://1ststreams.shop/stream/stream-642.php",
       "Referer": "https://1ststreams.shop/stream/stream-642.php",
@@ -80,7 +80,7 @@
       "Origin": "https://1ststreams.shop"
   },
   {
-    "name": "Stream 642 [M3U8 sin extensión]",
+    "name": "Stream 642 [M3U8 sin extensión",
     "image": "https://1ststreams.shop/favicon.ico",
     "url": "https://1ststreams.shop/stream/stream-642.php",
       "Referer": "https://1ststreams.shop/",
@@ -88,21 +88,21 @@
       "Origin": "https://1ststreams.shop"
   },
   {
-    "name": "Stream 642 [HLS con índice]",
+    "name": "Stream 642 [HLS con índice",
     "image": "https://1ststreams.shop/favicon.ico",
     "url": "https://1ststreams.shop/stream/stream-642.php",
       "Referer": "https://1ststreams.shop/stream/stream-642.php",
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122.0.0.0 Safari/537.36"
   },
   {
-    "name": "Stream 642 [PHP + Referer externo]",
+    "name": "Stream 642 [PHP + Referer externo",
     "image": "https://1ststreams.shop/favicon.ico",
     "url": "https://1ststreams.shop/stream/stream-642.php",
       "Referer": "https://www.google.com/",
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122.0.0.0 Safari/537.36"
   },
   {
-    "name": "Stream 642 [WebView sin headers]",
+    "name": "Stream 642 [WebView sin headers",
     "image": "https://1ststreams.shop/favicon.ico",
     "url": "https://1ststreams.shop/stream/stream-642.php"
   },
