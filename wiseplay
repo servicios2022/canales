@@ -63,6 +63,54 @@
 
 
 
+
+
+
+
+{
+"name": "TNT Sports Premium Chile | 🇨🇱",
+"info": "[ElCanal]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "https://soccermlbstreams.shop/tv/stream-642.php",
+"type": "web",
+"referer": "https://soccermlbstreams.shop",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "TNT Sports Premium Chile | 🇨🇱",
+"info": "[ElCanal]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "https://elcanaldeportivo.com/ver/cdfpremium.php",
+"type": "web",
+"referer": "https://elcanaldeportivo.com/",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "TNT Sports Max 3 | 🇨🇱",
+"info": "[Streamtp]",
+"online": "true",
+"image": "https://i.imgur.com/4kmBG7Z.png",
+"url": "https://markystreams.site/roja54/642.php",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "TNT Sports Max 3 | 🇨🇱",
+"info": "[Streamtp]",
+"online": "true",
+"image": "https://i.imgur.com/4kmBG7Z.png",
+"url": "https://soccermlbstreams.shop/tv/stream-642.php",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+
+
+
+
+
+
 ]},
 {"name": "DEPORTES",
 "image": "https://static.wixstatic.com/media/603da4_cff0a56da59a43ba88f862dbee0ae230~mv2.gif",
