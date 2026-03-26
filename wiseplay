@@ -65,37 +65,18 @@
 
 
 
-{
-                                "name": "33333333333333333333333",
-                    "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
-                                  "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-               			"url" :  "https://dlstreams.top/watch.php?id=642",
-		                  "referer" : "https://dlstreams.top/",
-			 "isHost":"true"
-                               },
-{
-"name": "TNT Sports Premium Chile | 🇨🇱",
-"info": "[ElCanal]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://dlstreams.top/watch.php?id=642",
-"type": "web",
-"referer": "https://dlstreams.top/",
-"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
+
+
+
+
 
 {
-"name": "CANAL 13 | 🇨🇱",
-"info": "[Online]",
+"name": "Az 7 | 🇲🇽",
+"info": "[Tele]",
 "online": "true",
-"image": "https://i.imgur.com/RazPUFz.png",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "https://dlstreams.top/",
+"image": "https://i.imgur.com/vcv8H63.png",
 "url": "https://dlstreams.top/watch.php?id=642",
-"isHost": "true",
-"autoplay": "true",
-"autoStart": "true",
-"playOnLoad": "true"
+"embed": "true"
 },
 
 
