@@ -65,79 +65,22 @@
 
 
 
-  {
-    "name": "Soccer MLB 642 - Default",
-    "image": "https://soccermlbstreams.shop/favicon.ico",
-    "url": "https://soccermlbstreams.shop/tv/stream-642.php",
-    "referer": "https://soccermlbstreams.shop/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/146.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "Soccer MLB 642 - Con Origin",
-    "image": "https://soccermlbstreams.shop/favicon.ico",
-    "url": "https://soccermlbstreams.shop/tv/stream-642.php",
-    "referer": "https://soccermlbstreams.shop/",
-    "origin": "https://soccermlbstreams.shop",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/146.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "Soccer MLB 642 - Referer TV",
-    "image": "https://soccermlbstreams.shop/favicon.ico",
-    "url": "https://soccermlbstreams.shop/tv/stream-642.php",
-    "referer": "https://soccermlbstreams.shop/tv/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/146.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "Soccer MLB 642 - Web",
-    "image": "https://soccermlbstreams.shop/favicon.ico",
-    "url": "https://soccermlbstreams.shop/tv/stream-642.php",
-    "type": "web",
-    "referer": "https://soccermlbstreams.shop/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/146.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "Soccer MLB 642 - Iframe",
-    "image": "https://soccermlbstreams.shop/favicon.ico",
-    "url": "https://soccermlbstreams.shop/tv/stream-642.php",
-    "type": "iframe",
-    "referer": "https://soccermlbstreams.shop/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/146.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "Soccer MLB 642 - Mobile UA",
-    "image": "https://soccermlbstreams.shop/favicon.ico",
-    "url": "https://soccermlbstreams.shop/tv/stream-642.php",
-    "referer": "https://soccermlbstreams.shop/",
-    "user_agent": "Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 Chrome/146.0.0.0 Mobile Safari/537.36"
-  },
-  {
-    "name": "Soccer MLB 642 - iPhone UA",
-    "image": "https://soccermlbstreams.shop/favicon.ico",
-    "url": "https://soccermlbstreams.shop/tv/stream-642.php",
-    "referer": "https://soccermlbstreams.shop/",
-    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 Version/17.0 Mobile Safari/604.1"
-  },
-  {
-    "name": "Soccer MLB 642 - Sin Referer",
-    "image": "https://soccermlbstreams.shop/favicon.ico",
-    "url": "https://soccermlbstreams.shop/tv/stream-642.php",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/146.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "Soccer MLB 642 - Con WWW",
-    "image": "https://soccermlbstreams.shop/favicon.ico",
-    "url": "https://www.soccermlbstreams.shop/tv/stream-642.php",
-    "referer": "https://www.soccermlbstreams.shop/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/146.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "Soccer MLB 642 - HTTP",
-    "image": "https://soccermlbstreams.shop/favicon.ico",
-    "url": "http://soccermlbstreams.shop/tv/stream-642.php",
-    "referer": "http://soccermlbstreams.shop/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/146.0.0.0 Safari/537.36"
-  },
-
+{
+                                "name": "Opción 2",
+                    "image": "https://png.pngtree.com/thumb_back/fw800/background/20230220/pngtree-tennis-ball-and-racket-in-fire-image_1625673.jpg",
+                                  "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+               			"url" :  "https://adffdafdsafds.sbs/premiumtv/cyclinsport.php?id=642",
+		                  "referer" : "https://1ststreams.shop/",
+			 "isHost":"true"
+                               },
+{
+			"name": "La Liga (sportzonline)",
+			"name": "Manchester City vs Real Madrid",
+			"image": "https://f.rpp-noticias.io/2026/03/15/215821_1848503.jpg?width=1200&quality=80",
+			  "url" :  "https://adffdafdsafds.sbs/premiumtv/cyclinsport.php?id=642",
+			   "referer" : "https://1ststreams.shop/",
+            "isHost": "true"
+                     },
 
 
 
