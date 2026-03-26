@@ -169,7 +169,6 @@
   {
     "name": "Soccer MLB 642 - Versión 15 XHR Request",
     "url": "https://soccermlbstreams.shop/tv/stream-642.php",
-    "headers": {
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
       "Referer": "https://soccermlbstreams.shop/",
       "X-Requested-With": "XMLHttpRequest"
