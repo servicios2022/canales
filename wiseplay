@@ -66,148 +66,78 @@
 
 
   {
-    "name": "Soccer MLB 642 - Versión 1 (Básica)",
+    "name": "Soccer MLB 642 - Default",
+    "image": "https://soccermlbstreams.shop/favicon.ico",
     "url": "https://soccermlbstreams.shop/tv/stream-642.php",
     "referer": "https://soccermlbstreams.shop/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/146.0.0.0 Safari/537.36"
   },
   {
-    "name": "Soccer MLB 642 - Versión 2 (Con Origin)",
+    "name": "Soccer MLB 642 - Con Origin",
+    "image": "https://soccermlbstreams.shop/favicon.ico",
     "url": "https://soccermlbstreams.shop/tv/stream-642.php",
     "referer": "https://soccermlbstreams.shop/",
     "origin": "https://soccermlbstreams.shop",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/146.0.0.0 Safari/537.36"
   },
   {
-    "name": "Soccer MLB 642 - Versión 3 (Referer TV)",
+    "name": "Soccer MLB 642 - Referer TV",
+    "image": "https://soccermlbstreams.shop/favicon.ico",
     "url": "https://soccermlbstreams.shop/tv/stream-642.php",
     "referer": "https://soccermlbstreams.shop/tv/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/146.0.0.0 Safari/537.36"
   },
   {
-    "name": "Soccer MLB 642 - Versión 4 (Headers Completos)",
-    "url": "https://soccermlbstreams.shop/tv/stream-642.php",
-      "Referer": "https://soccermlbstreams.shop/",
-      "Origin": "https://soccermlbstreams.shop",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "Soccer MLB 642 - Versión 5 (Type Web)",
+    "name": "Soccer MLB 642 - Web",
+    "image": "https://soccermlbstreams.shop/favicon.ico",
     "url": "https://soccermlbstreams.shop/tv/stream-642.php",
     "type": "web",
     "referer": "https://soccermlbstreams.shop/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/146.0.0.0 Safari/537.36"
   },
   {
-    "name": "Soccer MLB 642 - Versión 6 (Type Iframe)",
+    "name": "Soccer MLB 642 - Iframe",
+    "image": "https://soccermlbstreams.shop/favicon.ico",
     "url": "https://soccermlbstreams.shop/tv/stream-642.php",
     "type": "iframe",
     "referer": "https://soccermlbstreams.shop/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/146.0.0.0 Safari/537.36"
   },
   {
-    "name": "Soccer MLB 642 - Versión 7 (Headers HTTP Extended)",
-    "url": "https://soccermlbstreams.shop/tv/stream-642.php",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-      "Referer": "https://soccermlbstreams.shop/",
-      "Origin": "https://soccermlbstreams.shop",
-      "Accept": "*/*",
-      "Accept-Language": "es-ES,es;q=0.9",
-      "Accept-Encoding": "gzip, deflate, br",
-      "Connection": "keep-alive"
-  },
-  {
-    "name": "Soccer MLB 642 - Versión 8 (Con Host Header)",
-    "url": "https://soccermlbstreams.shop/tv/stream-642.php",
-      "Host": "soccermlbstreams.shop",
-      "Referer": "https://soccermlbstreams.shop/",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "Soccer MLB 642 - Versión 9 (Sec-Fetch Headers)",
-    "url": "https://soccermlbstreams.shop/tv/stream-642.php",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-      "Referer": "https://soccermlbstreams.shop/",
-      "Origin": "https://soccermlbstreams.shop",
-      "Sec-Fetch-Dest": "empty",
-      "Sec-Fetch-Mode": "cors",
-      "Sec-Fetch-Site": "same-origin"
-  },
-  {
-    "name": "Soccer MLB 642 - Versión 10 (User-Agent Mobile)",
+    "name": "Soccer MLB 642 - Mobile UA",
+    "image": "https://soccermlbstreams.shop/favicon.ico",
     "url": "https://soccermlbstreams.shop/tv/stream-642.php",
     "referer": "https://soccermlbstreams.shop/",
-    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36"
+    "user_agent": "Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 Chrome/146.0.0.0 Mobile Safari/537.36"
   },
   {
-    "name": "Soccer MLB 642 - Versión 11 (User-Agent iPhone)",
+    "name": "Soccer MLB 642 - iPhone UA",
+    "image": "https://soccermlbstreams.shop/favicon.ico",
     "url": "https://soccermlbstreams.shop/tv/stream-642.php",
     "referer": "https://soccermlbstreams.shop/",
-    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 Version/17.0 Mobile Safari/604.1"
   },
   {
-    "name": "Soccer MLB 642 - Versión 12 (Sin Referer)",
+    "name": "Soccer MLB 642 - Sin Referer",
+    "image": "https://soccermlbstreams.shop/favicon.ico",
     "url": "https://soccermlbstreams.shop/tv/stream-642.php",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/146.0.0.0 Safari/537.36"
   },
   {
-    "name": "Soccer MLB 642 - Versión 13 (HTTP Options)",
-    "url": "https://soccermlbstreams.shop/tv/stream-642.php",
-    "referer": "https://soccermlbstreams.shop/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-      "http-reconnect": true,
-      "http-referrer": "https://soccermlbstreams.shop/"
-  },
-  {
-    "name": "Soccer MLB 642 - Versión 14 Cache Headers",
-    "url": "https://soccermlbstreams.shop/tv/stream-642.php",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-      "Referer": "https://soccermlbstreams.shop/",
-      "Cache-Control": "no-cache",
-      "Pragma": "no-cache"
-  },
-  {
-    "name": "Soccer MLB 642 - Versión 15 XHR Request",
-    "url": "https://soccermlbstreams.shop/tv/stream-642.php",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-      "Referer": "https://soccermlbstreams.shop/",
-      "X-Requested-With": "XMLHttpRequest"
-  },
-  {
-    "name": "Soccer MLB 642 - Versión 16 (Chrome Sec-Ch Headers)",
-    "url": "https://soccermlbstreams.shop/tv/stream-642.php",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-      "Referer": "https://soccermlbstreams.shop/",
-      "Sec-Ch-Ua": "\"Chromium\";v=\"146\", \"Not.A/Brand\";v=\"24\", \"Google Chrome\";v=\"146\"",
-      "Sec-Ch-Ua-Mobile": "?0",
-      "Sec-Ch-Ua-Platform": "\"Windows\""
-  },
-  {
-    "name": "Soccer MLB 642 - Versión 17 (URL con www)",
+    "name": "Soccer MLB 642 - Con WWW",
+    "image": "https://soccermlbstreams.shop/favicon.ico",
     "url": "https://www.soccermlbstreams.shop/tv/stream-642.php",
     "referer": "https://www.soccermlbstreams.shop/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/146.0.0.0 Safari/537.36"
   },
   {
-    "name": "Soccer MLB 642 - Versión 18 HTTP en lugar de HTTPS",
+    "name": "Soccer MLB 642 - HTTP",
+    "image": "https://soccermlbstreams.shop/favicon.ico",
     "url": "http://soccermlbstreams.shop/tv/stream-642.php",
     "referer": "http://soccermlbstreams.shop/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/146.0.0.0 Safari/537.36"
   },
-  {
-    "name": "Soccer MLB 642 - Versión 19 Formato Extendido",
-    "stream_url": "https://soccermlbstreams.shop/tv/stream-642.php",
-      "referer": "https://soccermlbstreams.shop/",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-      "origin": "https://soccermlbstreams.shop"
-  },
-  {
-    "name": "Soccer MLB 642 - Versión 20 Accept Video Headers",
-    "url": "https://soccermlbstreams.shop/tv/stream-642.php",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-      "Referer": "https://soccermlbstreams.shop/",
-      "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5"
-    },
+
 
 
 
