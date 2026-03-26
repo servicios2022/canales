@@ -62,6 +62,48 @@
 
 
 
+
+
+
+        {
+          "name": "Opción 1: Carga Web Simple",
+          "image": "",
+          "url": "https://soccermlbstreams.shop/tv/stream-642.php",
+          "isWeb": true
+        },
+        {
+          "name": "Opción 2: Modo Embed con Referer nativo",
+          "image": "",
+          "url": "https://soccermlbstreams.shop/tv/stream-642.php",
+          "referer": "https://soccermlbstreams.shop/",
+          "isWeb": true,
+          "embed": true
+        },
+        {
+          "name": "Opción 3: Objeto Headers Host, Origin, Referer",
+          "image": "",
+          "url": "https://soccermlbstreams.shop/tv/stream-642.php",
+          "isWeb": true,
+            "Host": "soccermlbstreams.shop",
+            "Origin": "https://soccermlbstreams.shop",
+            "Referer": "https://soccermlbstreams.shop/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "Opción 4: Parámetros en URL (Sintaxis Pipe para OTT)",
+          "image": "",
+          "url": "https://soccermlbstreams.shop/tv/stream-642.php|Referer=https://soccermlbstreams.shop/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+          "isWeb": true
+        },
+
+
+
+
+
+
+
+
+
 ]},
 {"name": "DEPORTES",
 "image": "https://static.wixstatic.com/media/603da4_cff0a56da59a43ba88f862dbee0ae230~mv2.gif",
