@@ -64,7 +64,7 @@
 
 
 {
-    "name": "555555555555",
+    "name": "77777777777777777",
     "image": "https://i.imgur.com/7bKQX8G.png",
     "url": "https://dlstreams.top/watch.php?id=642"
   },
@@ -99,7 +99,32 @@
     "isHost": false
   },
 
-
+ {
+    "name": "Liveon3 Embed",
+    "image": "https://i.imgur.com/7bKQX8G.png",
+    "url": "https://dlstreams.top/watch.php?id=642",
+    "embed": true
+  },
+  {
+    "name": "Xuperlive Embed",
+    "image": "https://i.imgur.com/7bKQX8G.png",
+    "url": "https://dlstreams.top/watch.php?id=642",
+    "embed": true
+  }, 
+ {
+    "name": "Liveon3 Pro",
+    "image": "https://i.imgur.com/7bKQX8G.png",
+    "url": "https://dlstreams.top/watch.php?id=642",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36",
+    "referer": "https://dlstreams.top/",
+    "embed": true
+  },
+  {
+    "name": "Liveon3 Web",
+    "image": "https://i.imgur.com/7bKQX8G.png",
+    "url": "https://dlstreams.top/watch.php?id=642",
+    "isHost": true
+  },
 
 
 
