@@ -63,68 +63,28 @@
 
 
 
-{
-    "name": "77777777777777777",
-    "image": "https://i.imgur.com/7bKQX8G.png",
-    "url": "https://dlstreams.top/watch.php?id=642"
-  },
   {
-    "name": "tnt ok",
-    "image": "https://i.imgur.com/7bKQX8G.png",
-    "url": "https://xuperlive.com/player.php?id=cd8aa32487e383e7086f3eadd71efe7c"
-  }, {
-    "name": "Liveon3 Embed",
+    "name": "Canal HD Full",
     "image": "https://i.imgur.com/7bKQX8G.png",
     "url": "https://dlstreams.top/watch.php?id=642",
-    "embed": false
-  },
-  {
-    "name": "Xuperlive Embed",
-    "image": "https://i.imgur.com/7bKQX8G.png",
-    "url": "https://dlstreams.top/watch.php?id=642",
-    "embed": false
-  }, 
- {
-    "name": "Liveon3 Pro",
-    "image": "https://i.imgur.com/7bKQX8G.png",
-    "url": "https://dlstreams.top/watch.php?id=642",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
     "referer": "https://dlstreams.top/",
-    "embed": false
-  },
+    "headers": {
+      "Origin": "https://dlstreams.top/",
+      "Connection": "keep-alive"
+    }, 
   {
-    "name": "Liveon3 Web",
+    "name": "Canal HD Full",
     "image": "https://i.imgur.com/7bKQX8G.png",
-    "url": "https://dlstreams.top/watch.php?id=642",
-    "isHost": false
-  },
+    "url": "https://xuperlive.com/player.php?id=cd8aa32487e383e7086f3eadd71efe7c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "referer": "https://xuperlive.com/",
+    "headers": {
+      "Origin": "https://xuperlive.com/",
+      "Connection": "keep-alive"
+    }, 
 
- {
-    "name": "Liveon3 Embed",
-    "image": "https://i.imgur.com/7bKQX8G.png",
-    "url": "https://dlstreams.top/watch.php?id=642",
-    "embed": true
-  },
-  {
-    "name": "Xuperlive Embed",
-    "image": "https://i.imgur.com/7bKQX8G.png",
-    "url": "https://dlstreams.top/watch.php?id=642",
-    "embed": true
-  }, 
- {
-    "name": "Liveon3 Pro",
-    "image": "https://i.imgur.com/7bKQX8G.png",
-    "url": "https://dlstreams.top/watch.php?id=642",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36",
-    "referer": "https://dlstreams.top/",
-    "embed": true
-  },
-  {
-    "name": "Liveon3 Web",
-    "image": "https://i.imgur.com/7bKQX8G.png",
-    "url": "https://dlstreams.top/watch.php?id=642",
-    "isHost": true
-  },
+
 
 
 
