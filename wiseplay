@@ -64,53 +64,41 @@
 
 
 {
-    "name": "Cfffffffffffffff",
+    "name": "555555555555",
     "image": "https://i.imgur.com/7bKQX8G.png",
-    "url": "https://liveon3.zip/black.php?id=13"
+    "url": "https://dlstreams.top/watch.php?id=642"
   },
   {
-    "name": "Canal Xuperlive",
+    "name": "tnt ok",
     "image": "https://i.imgur.com/7bKQX8G.png",
     "url": "https://xuperlive.com/player.php?id=cd8aa32487e383e7086f3eadd71efe7c"
   }, {
     "name": "Liveon3 Embed",
     "image": "https://i.imgur.com/7bKQX8G.png",
-    "url": "https://liveon3.zip/black.php?id=13",
+    "url": "https://dlstreams.top/watch.php?id=642",
     "embed": false
   },
   {
     "name": "Xuperlive Embed",
     "image": "https://i.imgur.com/7bKQX8G.png",
-    "url": "https://xuperlive.com/player.php?id=cd8aa32487e383e7086f3eadd71efe7c",
+    "url": "https://dlstreams.top/watch.php?id=642",
     "embed": false
   }, 
  {
     "name": "Liveon3 Pro",
     "image": "https://i.imgur.com/7bKQX8G.png",
-    "url": "https://liveon3.zip/black.php?id=13",
+    "url": "https://dlstreams.top/watch.php?id=642",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36",
-    "referer": "https://liveon3.zip/",
+    "referer": "https://dlstreams.top/",
     "embed": false
   },
   {
-    "name": "Xuperlive Pro",
-    "image": "https://i.imgur.com/7bKQX8G.png",
-    "url": "https://xuperlive.com/player.php?id=cd8aa32487e383e7086f3eadd71efe7c",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36",
-    "referer": "https://xuperlive.com/",
-    "embed": false
-  },  {
     "name": "Liveon3 Web",
     "image": "https://i.imgur.com/7bKQX8G.png",
-    "url": "https://liveon3.zip/black.php?id=13",
+    "url": "https://dlstreams.top/watch.php?id=642",
     "isHost": false
   },
-  {
-    "name": "Xuperlive Web",
-    "image": "https://i.imgur.com/7bKQX8G.png",
-    "url": "https://xuperlive.com/player.php?id=cd8aa32487e383e7086f3eadd71efe7c",
-    "isHost": false
-  }, 
+
 
 
 
