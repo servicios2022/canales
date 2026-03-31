@@ -63,6 +63,25 @@
 
 
 
+{
+"name": "TNT Sports Premium Chile | 🇨🇱",
+"info": "[ElCanal]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "https://xuperlive.com/player.php?id=cd8aa32487e383e7086f3eadd71efe7c",
+"type": "web",
+"referer": "https://xuperlive.com/",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "TNT Sports Max 1 | 🇨🇱",
+"info": "[Streamtp]",
+"online": "true",
+"image": "https://i.imgur.com/4kmBG7Z.png",
+"url": "https://xuperlive.com/player.php?id=cd8aa32487e383e7086f3eadd71efe7c",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
 
 
 
