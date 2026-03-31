@@ -64,25 +64,53 @@
 
 
 {
-"name": "TNT Sports Premium Chile | 🇨🇱",
-"info": "[ElCanal]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://xuperlive.com/player.php?id=cd8aa32487e383e7086f3eadd71efe7c",
-"type": "web",
-"referer": "https://xuperlive.com/",
-"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-"name": "TNT Sports Max 1 | 🇨🇱",
-"info": "[Streamtp]",
-"online": "true",
-"image": "https://i.imgur.com/4kmBG7Z.png",
-"url": "https://xuperlive.com/player.php?id=cd8aa32487e383e7086f3eadd71efe7c",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-
+    "name": "Canal Liveon3",
+    "image": "https://i.imgur.com/7bKQX8G.png",
+    "url": "https://liveon3.zip/black.php?id=13"
+  },
+  {
+    "name": "Canal Xuperlive",
+    "image": "https://i.imgur.com/7bKQX8G.png",
+    "url": "https://xuperlive.com/player.php?id=cd8aa32487e383e7086f3eadd71efe7c"
+  }, {
+    "name": "Liveon3 Embed",
+    "image": "https://i.imgur.com/7bKQX8G.png",
+    "url": "https://liveon3.zip/black.php?id=13",
+    "embed": true
+  },
+  {
+    "name": "Xuperlive Embed",
+    "image": "https://i.imgur.com/7bKQX8G.png",
+    "url": "https://xuperlive.com/player.php?id=cd8aa32487e383e7086f3eadd71efe7c",
+    "embed": true
+  }, 
+ {
+    "name": "Liveon3 Pro",
+    "image": "https://i.imgur.com/7bKQX8G.png",
+    "url": "https://liveon3.zip/black.php?id=13",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36",
+    "referer": "https://liveon3.zip/",
+    "embed": true
+  },
+  {
+    "name": "Xuperlive Pro",
+    "image": "https://i.imgur.com/7bKQX8G.png",
+    "url": "https://xuperlive.com/player.php?id=cd8aa32487e383e7086f3eadd71efe7c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36",
+    "referer": "https://xuperlive.com/",
+    "embed": true
+  },  {
+    "name": "Liveon3 Web",
+    "image": "https://i.imgur.com/7bKQX8G.png",
+    "url": "https://liveon3.zip/black.php?id=13",
+    "isHost": true
+  },
+  {
+    "name": "Xuperlive Web",
+    "image": "https://i.imgur.com/7bKQX8G.png",
+    "url": "https://xuperlive.com/player.php?id=cd8aa32487e383e7086f3eadd71efe7c",
+    "isHost": true
+  }, 
 
 
 
