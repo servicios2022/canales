@@ -69,7 +69,6 @@
     "url": "https://dlstreams.top/watch.php?id=642",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
     "referer": "https://dlstreams.top/",
-    "headers": {
       "Origin": "https://dlstreams.top/",
       "Connection": "keep-alive"
     }, 
@@ -79,7 +78,6 @@
     "url": "https://xuperlive.com/player.php?id=cd8aa32487e383e7086f3eadd71efe7c",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
     "referer": "https://xuperlive.com/",
-    "headers": {
       "Origin": "https://xuperlive.com/",
       "Connection": "keep-alive"
     }, 
