@@ -80,7 +80,25 @@
     "referer": "https://xuperlive.com/",
       "Origin": "https://xuperlive.com/",
       "Connection": "keep-alive"
-    }, 
+    }, {
+  "name": "Canal HD Full",
+  "image": "https://i.imgur.com/7bKQX8G.png",
+  "url": "https://dlstreams.top/watch.php?id=642",
+  "isHost": true,
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+  "referer": "https://dlstreams.top/"
+}, {
+  "name": "Canal HD Full",
+  "image": "https://i.imgur.com/7bKQX8G.png",
+  "url": "https://dlstreams.top/watch.php?id=642",
+  "isHost": true
+},  {
+    "name": "Canal HD Full",
+    "image": "https://i.imgur.com/7bKQX8G.png",
+    "url": "https://dlstreams.top/watch.php?id=642",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "referer": "https://dlstreams.top/"
+  }, 
 
 
 
