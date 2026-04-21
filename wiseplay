@@ -62,62 +62,6 @@
 
 
 
-{
-"name": "TNT Sports Premium Chile | 🇨🇱",
-"info": "[ElCanal]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://capo7play.com/capo.php?player=desktop&live=captntchil",
-"type": "web",
-"referer": "https://ejuacikpcxjyk.online/",
-"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-"name": "TNT Sports Premium Chile | 🇨🇱",
-"info": "[ElCanal]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://www.capoplay.net/tntchile.php",
-"type": "web",
-"referer": "https://www.capoplay.net/",
-"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-"name": "TNT Sports Premium Chile | 🇨🇱",
-"info": "[ElCanal]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://pelotalibretv2.pl/en-vivo/tnt-sports-chile.php",
-"type": "web",
-"referer": "https://pelotalibretv2.pl",
-"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-
-
-
-
-
-{
-"name": "TNT Sports Premium Chile | 🇨🇱",
-"info": "[Zonalive]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://zonalive.click/player/capo/83",
-"type": "web",
-"referer": "https://zonalive.click/",
-"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-
-
-
-
-
-
-
-
-
-
-
 
 
 ]},
@@ -164,6 +108,18 @@
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
+
+{
+"name": "TNT Sports Premium Chile | 🇨🇱",
+"info": "[Zonalive]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "https://zonalive.click/player/capo/83",
+"type": "web",
+"referer": "https://zonalive.click/",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+
 {
 "name": "TNT Sports Premium Chile | 🇨🇱",
 "info": "[La14HD]",
@@ -191,6 +147,9 @@
 "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
 "isHost": "true"
 },
+
+
+
 
 {
 "name": "TNT Sports Max 1 | 🇨🇱",
