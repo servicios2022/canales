@@ -71,13 +71,30 @@
 
 {
 "name": "TNT Sports Premium Chile | 🇨🇱",
-"info": "[ElCanal]",
+"info": "[TutvHD]",
 "online": "true",
 "image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://elcanaldeportivo.com/ver/cdfpremium.php",
-"type": "web",
-"referer": "https://elcanaldeportivo.com/",
-"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+"url": "https://tvtvhd.com/canales.php?stream=tntsportschile",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "TNT Sports Premium Chile | 🇨🇱",
+"info": "[La14HD]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=tntsportschile",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
+},
+{
+"name": "TNT Sports Premium Chile | 🇨🇱",
+"info": "[Streamtp]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "https://streamtpnew.com/global1.php?stream=tntsportschile",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+"isHost": "true"
 },
 {
 "name": "TNT Sports Premium Chile | 🇨🇱",
@@ -87,6 +104,16 @@
 "url": "https://bolaloca.my/player/3/83",
 "type": "web",
 "referer": "https://bolaloca.my",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "TNT Sports Premium Chile | 🇨🇱",
+"info": "[Zonalive]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "https://zonalive.click/player/capo/83",
+"type": "web",
+"referer": "https://zonalive.click/",
 "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
 {
@@ -101,36 +128,6 @@
 },
 {
 "name": "TNT Sports Premium Chile | 🇨🇱",
-"info": "[TutvHD]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://tvtvhd.com/canales.php?stream=tntsportschile",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-
-{
-"name": "TNT Sports Premium Chile | 🇨🇱",
-"info": "[Zonalive]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://zonalive.click/player/capo/83",
-"type": "web",
-"referer": "https://zonalive.click/",
-"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-
-{
-"name": "TNT Sports Premium Chile | 🇨🇱",
-"info": "[La14HD]",
-"online": "true",
-"image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://la14hd.com/vivo/canales.php?stream=tntsportschile",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
-},
-{
-"name": "TNT Sports Premium Chile | 🇨🇱",
 "info": "[Tvplus]",
 "online": "true",
 "image": "https://i.imgur.com/YTaeyss.png",
@@ -140,15 +137,14 @@
 },
 {
 "name": "TNT Sports Premium Chile | 🇨🇱",
-"info": "[Streamtp]",
+"info": "[ElCanal]",
 "online": "true",
 "image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://streamtp10.com/global2.php?stream=tntsportschile",
-"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-"isHost": "true"
+"url": "https://elcanaldeportivo.com/ver/cdfpremium.php",
+"type": "web",
+"referer": "https://elcanaldeportivo.com/",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
-
-
 
 
 {
