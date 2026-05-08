@@ -75,28 +75,37 @@
 },
 
 {
-"name": "extra ñ | 🇨🇱",
+"name": "fox one mx | 🇨🇱",
 "info": "[Bola]",
 "online": "true",
 "image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://teledeportes.top/?p=canal&id=66",
+"url": "https://teledeportes.top/?p=canal&id=77",
 "type": "web",
 "referer": "https://teledeportes.top/",
 "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
 
 {
-"name": "extra ñ | 🇨🇱",
+"name": "espn 5 | 🇨🇱",
 "info": "[Bola]",
 "online": "true",
 "image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://telegratuita.net/en-vivo/chilevision.php",
+"url": "https://teledeportes.top/?p=canal&id=104",
 "type": "web",
-"referer": "https://telegratuita.net/",
+"referer": "https://teledeportes.top/",
 "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
 
-
+{
+"name": "sky spots la liga | 🇨🇱",
+"info": "[Bola]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "https://teledeportes.top/?p=canal&id=42",
+"type": "web",
+"referer": "https://teledeportes.top/",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
 
 
 ]},
