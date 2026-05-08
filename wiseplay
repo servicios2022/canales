@@ -64,7 +64,7 @@
 
 
 {
-"name": "TNT Sports Premium Chile | 🇨🇱",
+"name": "extra ñ | 🇨🇱",
 "info": "[Bola]",
 "online": "true",
 "image": "https://i.imgur.com/YTaeyss.png",
@@ -74,21 +74,27 @@
 "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
 
-
 {
-"name": "MEGA | 🇨🇱",
-"info": "[Online]",
+"name": "extra ñ | 🇨🇱",
+"info": "[Bola]",
 "online": "true",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
-"referer": "https://teledeportes.top/",
+"image": "https://i.imgur.com/YTaeyss.png",
 "url": "https://teledeportes.top/?p=canal&id=66",
-"isHost": "true",
-"autoplay": "true",
-"autoStart": "true",
-"playOnLoad": "true"
+"type": "web",
+"referer": "https://teledeportes.top/",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
 
-
+{
+"name": "extra ñ | 🇨🇱",
+"info": "[Bola]",
+"online": "true",
+"image": "https://i.imgur.com/YTaeyss.png",
+"url": "https://telegratuita.net/en-vivo/chilevision.php",
+"type": "web",
+"referer": "https://telegratuita.net/",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
 
 
 
