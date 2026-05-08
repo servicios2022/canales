@@ -107,6 +107,54 @@
 "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
 
+{
+"name": "MEGA | 🇨🇱",
+"info": "[Online]",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
+"referer": "https://teledeportes.top/",
+"url": "https://teledeportes.top/?p=canal&id=42",
+"isHost": "true",
+"autoplay": "true",
+"autoStart": "true",
+"playOnLoad": "true"
+},
+
+
+{
+"name": "MEGA | 🇨🇱",
+"info": "[Online]",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
+"referer": "https://teledeportes.top/",
+"url": "https://teledeportes.top/?p=canal&id=104",
+"isHost": "true",
+"autoplay": "true",
+"autoStart": "true",
+"playOnLoad": "true"
+},
+
+{
+"name": "MEGA | 🇨🇱",
+"info": "[Online]",
+"online": "true",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png",
+"referer": "https://teledeportes.top/",
+"url": "https://teledeportes.top/?p=canal&id=77",
+"isHost": "true",
+"autoplay": "true",
+"autoStart": "true",
+"playOnLoad": "true"
+},
+
+
+
+
+
+
+
+
+
 
 ]},
 {"name": "DEPORTES",
