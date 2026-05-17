@@ -157,12 +157,12 @@
 },
 {
 "name": "TNT Sports Premium Chile | 🇨🇱",
-"info": "[ElCanal]",
+"info": "[Canales]",
 "online": "true",
 "image": "https://i.imgur.com/YTaeyss.png",
-"url": "https://elcanaldeportivo.com/ver/cdfpremium.php",
+"url": "https://canalesdeportivos.net/ver/tntsportspremium.php",
 "type": "web",
-"referer": "https://elcanaldeportivo.com/",
+"referer": "https://canalesdeportivos.net",
 "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
 
