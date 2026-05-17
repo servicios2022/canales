@@ -85,7 +85,7 @@
   "name": "TNT Sports Premium [HLS con headers]",
   "image": "https://i.imgur.com/YTaeyss.png",
   "url": "https://elcanaldeportivo.com/ver/cdfpremium.php",
-  "referer": "https://canalesdeportivos.net/",
+  "referer": "https://canalesdeportivos.com/",
   "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
  {
@@ -93,7 +93,7 @@
     "image": "https://i.imgur.com/YTaeyss.png",
     "url": "https://canalesdeportivos.net/cdf.php",
     "type": "web",
-    "referer": "https://elcanaldeportivo.com/"
+    "referer": "https://elcanaldeportivo.net/"
   },
 {
   "name": "TNT Sports Premium [HLS con headers]",
@@ -102,8 +102,34 @@
   "referer": "https://canalesdeportivos.net/",
   "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
-
-
+ {
+    "name": "TNT Sports Premium Chile [ElCanal]",
+    "image": "https://i.imgur.com/YTaeyss.png",
+    "url": "https://canalesdeportivos.net/cdf.php",
+    "type": "web",
+    "referer": "https://elcanaldeportivo.net/"
+  },
+{
+  "name": "TNT Sports Premium [HLS con headers]",
+  "image": "https://i.imgur.com/YTaeyss.png",
+  "url": "https://canalesdeportivos.net/cdf.php",
+  "referer": "https://canalesdeportivos.com/",
+  "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+ {
+    "name": "TNT Sports Premium Chile [ElCanal]",
+    "image": "https://i.imgur.com/YTaeyss.png",
+    "url": "https://canalesdeportivos.com/cdf.php",
+    "type": "web",
+    "referer": "https://elcanaldeportivo.net/"
+  },
+{
+  "name": "TNT Sports Premium [HLS con headers]",
+  "image": "https://i.imgur.com/YTaeyss.png",
+  "url": "https://canalesdeportivos.net/cdf.php",
+  "referer": "https://canalesdeportivos.net/",
+  "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
 
 
 
