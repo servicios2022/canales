@@ -88,7 +88,20 @@
   "referer": "https://canalesdeportivos.net/",
   "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
-
+ {
+    "name": "TNT Sports Premium Chile [ElCanal]",
+    "image": "https://i.imgur.com/YTaeyss.png",
+    "url": "https://canalesdeportivos.net/cdf.php",
+    "type": "web",
+    "referer": "https://elcanaldeportivo.com/"
+  },
+{
+  "name": "TNT Sports Premium [HLS con headers]",
+  "image": "https://i.imgur.com/YTaeyss.png",
+  "url": "https://canalesdeportivos.net/cdf.php",
+  "referer": "https://canalesdeportivos.net/",
+  "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
 
 
 
